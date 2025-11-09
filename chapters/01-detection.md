@@ -26,7 +26,7 @@ This would be nothing. Always was.
 
 She pulled up the data.
 
-**Object: 2025-AZ1**  
+**Object: 3025-AZ1**  
 **Mass: ~1.5 × 10^15 kg**  
 **Estimated diameter: 10-15 km**  
 **Velocity: 28.3 km/s**  
@@ -137,7 +137,11 @@ Her comm system lit up. Incoming calls. Fifteen. Twenty. Thirty. Everyone with c
 
 She answered the first call. UN Emergency Coordinator, face grainy on the small screen. "Dr. Okafor, we've received your alert. Please confirm the data."
 
-"Confirmed," Amara said. Her voice sounded strange to her own ears. Flat. Clinical. Professional. "Object designated 2025-AZ1. Mass one point five times ten to the fifteenth kilograms. Diameter ten to fifteen kilometers. Impact probability ninety-nine point nine seven percent. Time to impact fifteen years, two months, fourteen days."
+"The chair of the IAU Working Group for Small Body Nomenclature cleared his throat from the screen. "Dr. Okonkwo, for the record, please provide the formal designation and classification."
+
+"Confirmed," Amara said. Her voice sounded strange to her own ears. Flat. Clinical. Professional. "Object designated 3025-AZ1. Mass one point five times ten to the fifteenth kilograms. Diameter ten to fifteen kilometers. Impact probability ninety-nine point nine seven percent. Time to impact fifteen years, two months, fourteen days."
+
+Someone was crying. She couldn't tell who."
 
 "Are you certain?" The coordinator's face was pale.
 

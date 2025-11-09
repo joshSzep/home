@@ -10,7 +10,11 @@ This was Amara's forty-seventh presentation in six weeks.
 
 She stood at the podium, the same data displayed behind her that she'd shown forty-six times before. The asteroid's orbital path. Mass estimates. Velocity vectors. Impact probability. The elegant mathematics of extinction.
 
-"Object 2025-AZ1," she began. Her voice was flat now, clinical. All emotion extracted over dozens of repetitions. "Fifteen-kilometer diameter. Mass one point five times ten to the fifteenth kilograms. Velocity twenty-eight point three kilometers per second. Impact probability ninety-nine point nine seven percent."
+"The presentation room in Geneva held three hundred people—UN representatives, space agency directors, corporate executives, military brass. She'd given this briefing forty-seven times now. Forty-seven times explaining the mathematics of their extinction.
+
+"Object 3025-AZ1," she began. Her voice was flat now, clinical. All emotion extracted over dozens of repetitions. "Fifteen-kilometer diameter. Mass one point five times ten to the fifteenth kilograms. Velocity twenty-eight point three kilometers per second. Impact probability ninety-nine point nine seven percent."
+
+The slides changed automatically. Orbital mechanics. Deflection scenarios. Energy calculations."
 
 She clicked through the presentation. Parallax measurements from seven independent observatories. Spectral analysis confirming composition. Rotation period. Albedo. Every detail verified and reverified. The asteroid was real. The mathematics was perfect. The outcome was certain.
 

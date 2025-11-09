@@ -121,7 +121,7 @@ The world learns. The world reacts. The world fractures.
 ## Chapter 6: Life Choices
 **POV: Amara Okafor (52) | Year 1, Day 45 | ~5,000 words**
 
-**UN Summit**: Six weeks after detection. Geneva-Antarctica conference. Every space-capable nation, corporations, universities desperate for solutions. Amara's presented 47 times—always same data, same conclusion. Asteroid 2025-AZ1: 15km diameter, 28.3 km/s velocity, 99.97% impact probability. Full presentation: orbital mechanics, impact energy (400 million megatons), deflection scenarios (all failed), extinction timeline (12-18 months post-impact).
+**UN Summit**: Six weeks after detection. Geneva-Antarctica conference. Every space-capable nation, corporations, universities desperate for solutions. Amara's presented 47 times—always same data, same conclusion. Asteroid 3025-AZ1: 15km diameter, 28.3 km/s velocity, 99.97% impact probability. Full presentation: orbital mechanics, impact energy (400 million megatons), deflection scenarios (all failed), extinction timeline (12-18 months post-impact).
 
 **The Question**: "Are you absolutely certain?" "Yes." "Could calculations be wrong?" "No. Seven independent verifications." "Is there ANY chance?" "Below 0.1%. Effectively zero." "That's not zero." "Close enough that pursuing it wastes time we have." Room erupts: shouting, accusations, denial. Russian representative walks out. "We should try anyway." "Try what? Build spacecraft we can't build? Detonate weapons we don't have? Pray?"
 
