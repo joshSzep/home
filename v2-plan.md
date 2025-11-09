@@ -43,8 +43,8 @@ Reducing the novel from ~93,000 words / 42 chapters to ~50,000-55,000 words / 21
 - Both grapple with Maya's future (17 years) and marriage distance
 
 **Chapter 3: Crisis of Faith** (merge ch 5-6: Kenji + Ibrahim)
-- Kenji in lab with Dr. Okafor when detection happens
-- Goes to comfort his mother Elena
+- Kenji in lab when detection happens, processes the science
+- Goes to comfort his mother Elena, sees her burden
 - Ibrahim at militia camp during evening prayers
 - Commander interrupts, imam tries to explain it as Allah's will
 - Both young men questioning meaning and purpose
@@ -77,7 +77,7 @@ Reducing the novel from ~93,000 words / 42 chapters to ~50,000-55,000 words / 21
 - Zara pregnant with Kofi, preparing Maya for sibling
 - Both choosing to continue despite meaninglessness
 
-**Chapter 8: Searching** (merge ch 14-15: Ibrahim + Kenji)
+**Chapter 8: Wandering** (merge ch 14-15: Ibrahim + Kenji)
 - Ibrahim's faith eroding, fighting feels hollow
 - Questions what holy war means when everyone dies
 - Kenji traveling, seeking answers in different places
@@ -133,14 +133,16 @@ Reducing the novel from ~93,000 words / 42 chapters to ~50,000-55,000 words / 21
 - Zara with children, Kenji with community
 - Legacy living through them
 
-**Chapter 17: Migrations** (merge ch 32-33-34: Zara + Ibrahim + Elena) *[Extended length chapter]*
-- Year 11-12, infrastructure collapsing
-- Zara's family decides to move to Antarctica
-- Ibrahim finding new purpose in community service
-- Elena managing final years as mayor
-- Year 13-14, the long journey to Antarctica
-- Travel, displacement, saying goodbye to Lagos
-- Convergence beginning
+**Chapter 17: Migrations** (merge ch 32-33-34: Zara + Ibrahim + Elena) *[Extended length: 4,000-5,000 words]*
+- **Year 11-12**: Infrastructure collapsing globally
+  - Zara's family decides to move to Antarctica
+  - Ibrahim finding new purpose in community service
+  - Elena managing final years as mayor
+- **Years 13-14**: The long journey from Lagos to Antarctica
+  - Travel logistics, displacement, refugees
+  - Saying goodbye to Lagos, the city that became home
+  - Physical and emotional journey
+  - Convergence beginning as survivors gather
 
 ### PART IV: CONVERGENCE (Year 15) — 8 chapters → 4 chapters
 
@@ -202,10 +204,11 @@ Critical facts that must remain consistent throughout the rewrite:
 - **Forever Earth doctrine**: 1000 years of acceptance that humanity is earthbound
 
 ### Key Locations
-- **Platform 73**: Solar array maintenance platform, 200 meters above Antarctica (Amara & David's final location)
+- **Platform 73**: Solar array maintenance platform, 200 meters above Antarctica ice surface (Amara & David's final location)
 - **Nature preserve**: Antarctic wildlife preserve with last 3 penguins (Zara's family final location)
 - **Community center**: Where circles meet, Elena and Kenji's teaching space (final location for many)
-- **Professor Wei's garden**: Lagos, small 10m × 10m space with flowers and lemon tree
+- **Professor Wei's garden**: Lagos District (Antarctica), small 10m × 10m indoor space with flowers and lemon tree
+  - *Note: Lagos District is a section of Antarctic settlement named after historic Lagos, Nigeria—not the original city. Most humanity now lives in Antarctica due to climate optimization.*
 
 ### Character Ages at Detection (Year 1)
 - **Amara Okafor**: 52
@@ -331,17 +334,24 @@ Work through chapters 1-21 in order:
 ## Technical Notes
 
 ### Merging Techniques
-1. **Alternating scenes**: Switch POV between characters within chapter
-2. **Parallel structure**: Similar moments for different characters
-3. **Dialogue integration**: Characters interact directly when possible
-4. **Time compression**: Condense repeated emotional beats
-5. **Transitional threads**: Use shared themes to link perspectives
+1. **Alternating scenes**: Switch POV between characters within chapter using section breaks (###)
+2. **Parallel structure**: Similar moments for different characters shown in sequence
+3. **Dialogue integration**: Characters interact directly when possible to eliminate redundant exposition
+4. **Time compression**: Condense repeated emotional beats across merged chapters
+5. **Transitional threads**: Use shared themes/images to link perspectives smoothly
+
+### POV Transition Markers
+- **Section breaks**: ### between POV switches within same chapter
+- **Location/time headers**: "Antarctica — McMurdo District — Morning" or "Lagos — Year 11"
+- **Character name anchors**: Open each new section with character's name in first sentence
+- **Avoid**: Head-hopping within scenes; maintain one POV per section
 
 ### Word Count Targets
-- Original: ~2,200 words/chapter average (93,000 total)
-- Target: ~2,400-2,600 words/chapter average (50,000-55,000 total)
-- Acceptable range: 2,000 - 3,000 words/chapter
-- Chapter 17 (Migrations): 3,000 - 4,000 words (extended length for 3-way merge + timeline gap)
+- **Original**: ~2,200 words/chapter average (93,000 total / 42 chapters)
+- **Target**: ~2,400-2,600 words/chapter average (50,000-55,000 total / 21 chapters)
+- **Acceptable range**: 2,000 - 3,000 words/chapter (most chapters)
+- **Chapter 17 (Migrations)**: 4,000-5,000 words (extended length for 3-way merge + 2-year timeline gap)
+- **Total reduction**: ~40,000 words cut (~43% reduction from original)
 
 ### Preservation Priorities
 1. All major plot events
@@ -351,6 +361,15 @@ Work through chapters 1-21 in order:
 5. Emotional turning points
 6. Wei's teaching moments
 7. Family connections (Amara-Zara, Elena-Kenji)
+
+### Content to Reduce/Cut (~40,000 words)
+1. **Redundant emotional beats**: Characters processing same emotions multiple times
+2. **Repetitive internal monologue**: Consolidate similar thought patterns
+3. **Extended descriptive passages**: Trim while keeping atmosphere
+4. **Secondary interactions**: Remove tangential conversations that don't advance plot/character
+5. **Duplicate exposition**: Asteroid facts, world details mentioned once clearly instead of repeatedly
+6. **Transition scenes**: Compress travel, daily routine, setup scenes
+7. **Parallel processing**: When two characters experience similar realizations, merge perspectives
 
 ---
 
