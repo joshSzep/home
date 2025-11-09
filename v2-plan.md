@@ -1,7 +1,7 @@
 # Book Consolidation Plan: 42 Chapters → 21 Chapters
 
 ## Overview
-Reducing the novel from ~93,000 words / 42 chapters to ~46,500 words / 22 chapters by merging complementary perspectives and tightening narrative pacing while preserving all major plot points and character arcs.
+Reducing the novel from ~93,000 words / 42 chapters to ~50,000-55,000 words / 21 chapters by merging complementary perspectives and tightening narrative pacing while preserving all major plot points and character arcs.
 
 ## Current Structure Analysis
 
@@ -133,11 +133,13 @@ Reducing the novel from ~93,000 words / 42 chapters to ~46,500 words / 22 chapte
 - Zara with children, Kenji with community
 - Legacy living through them
 
-**Chapter 17: Migrations** (merge ch 32-33-34: Zara + Ibrahim + Elena)
+**Chapter 17: Migrations** (merge ch 32-33-34: Zara + Ibrahim + Elena) *[Extended length chapter]*
 - Year 11-12, infrastructure collapsing
 - Zara's family decides to move to Antarctica
 - Ibrahim finding new purpose in community service
 - Elena managing final years as mayor
+- Year 13-14, the long journey to Antarctica
+- Travel, displacement, saying goodbye to Lagos
 - Convergence beginning
 
 ### PART IV: CONVERGENCE (Year 15) — 8 chapters → 4 chapters
@@ -252,7 +254,7 @@ Critical facts that must remain consistent throughout the rewrite:
 - **Year 10**: Amara realizes 10 years wasted; Kenji returns to Antarctica
 - **Year 11**: Wei dies at 125; infrastructure collapsing
 - **Year 12**: Zara's family prepares to migrate
-- **Year 13**: Travel to Antarctica
+- **Years 13-14**: Journey from Lagos to Antarctica (covered in Chapter 17)
 - **Year 15**: Final convergence and impact
 
 ---
@@ -337,8 +339,9 @@ Work through chapters 1-21 in order:
 
 ### Word Count Targets
 - Original: ~2,200 words/chapter average (93,000 total)
-- Target: ~4,400 words/chapter average (92,400 total)
-- Acceptable range: 3,500-5,500 words/chapter
+- Target: ~2,400-2,600 words/chapter average (50,000-55,000 total)
+- Acceptable range: 2,000 - 3,000 words/chapter
+- Chapter 17 (Migrations): 3,000 - 4,000 words (extended length for 3-way merge + timeline gap)
 
 ### Preservation Priorities
 1. All major plot events
