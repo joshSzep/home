@@ -1,7 +1,7 @@
-# Book Consolidation Plan: 42 Chapters → 21 Chapters
+# Book Consolidation Plan: 42 Chapters → 24 Chapters
 
 ## Overview
-Reducing the novel from ~93,000 words / 42 chapters to ~50,000-55,000 words / 21 chapters by merging complementary perspectives and tightening narrative pacing while preserving all major plot points and character arcs.
+Reducing the novel from ~93,000 words / 42 chapters to ~50,000-55,000 words / 24 chapters by merging complementary perspectives and tightening narrative pacing while preserving all major plot points and character arcs.
 
 ## Current Structure Analysis
 
@@ -23,7 +23,7 @@ Reducing the novel from ~93,000 words / 42 chapters to ~50,000-55,000 words / 21
 
 ---
 
-## New 21-Chapter Structure
+## New 24-Chapter Structure
 
 ### PART I: DETECTION (Year 1) — 7 chapters → 4 chapters
 
@@ -121,55 +121,72 @@ Reducing the novel from ~93,000 words / 42 chapters to ~50,000-55,000 words / 21
 - Elena sees her son transformed
 - Mother and son reconnect
 
-**Chapter 15: Endings** (merge ch 28-29: Zara + Wei)
+**Chapter 15: Wei's Passing** (keep ch 29: Wei SOLO) *[Extended length: 3,000-3,500 words]*
 - Year 11, Wei dying at 125
-- Passes peacefully, teachings complete
-- Zara witnesses death with acceptance
-- Loss and continuation intertwined
+- Final teachings to Zara and the children
+- Meditation on impermanence, acceptance, completion
+- Passes peacefully in her garden
+- The teacher's death as final lesson
 
-**Chapter 16: Aftermath** (merge ch 30-31: Zara + Kenji)
-- Processing Wei's death
+**Chapter 16: Aftermath** (merge ch 28+30-31: Zara + Kenji)
+- Zara's grief chapter (ch 28) merged with processing Wei's death
 - Both carrying her teaching forward
 - Zara with children, Kenji with community
 - Legacy living through them
 
-**Chapter 17: Migrations** (merge ch 32-33-34: Zara + Ibrahim + Elena) *[Extended length: 4,000-5,000 words]*
-- **Year 11-12**: Infrastructure collapsing globally
-  - Zara's family decides to move to Antarctica
-  - Ibrahim finding new purpose in community service
-  - Elena managing final years as mayor
-- **Years 13-14**: The long journey from Lagos to Antarctica
-  - Travel logistics, displacement, refugees
-  - Saying goodbye to Lagos, the city that became home
-  - Physical and emotional journey
-  - Convergence beginning as survivors gather
+**Chapter 17: Collapse** (merge ch 32-33: Zara + Ibrahim)
+- Year 11-12: Infrastructure collapsing globally
+- Zara's family decides to move to Antarctica
+- Ibrahim finding new purpose in community service
+- Preparations for final migration
 
-### PART IV: CONVERGENCE (Year 15) — 8 chapters → 4 chapters
+**Chapter 18: Journey** (merge ch 34 + Elena material: Zara's migration + Elena context)
+- Years 13-14: The long journey from Lagos to Antarctica
+- Travel logistics, displacement, refugees
+- Saying goodbye to Lagos, the city that became home
+- Physical and emotional journey
+- Elena managing the final years, receiving the refugees
 
-**Chapter 18: Arrivals** (merge ch 35-36: Zara + Amara)
+### PART IV: CONVERGENCE (Year 15) — 8 chapters → 6 chapters
+
+**Chapter 19: Arrivals** (merge ch 35-36: Zara + Amara)
 - Zara's family arrives in Antarctica
 - Amara and Zara reunite after years apart
 - Maya (17) and Kofi (13) meet aunt and uncle
 - Family healing in final months
 
-**Chapter 19: Final Weeks** (merge ch 37-38: Kenji + David)
+**Chapter 20: Teaching** (merge ch 37-38: Kenji + David)
 - Kenji teaching Wei's practice to Maya and others
 - David still maintaining Platform 73 with robots
 - Both finding meaning in continuation
 - Presence without future
 
-**Chapter 20: Final Days** (merge ch 39-40: Ibrahim + Elena)
+**Chapter 21: Community** (merge ch 39-40: Ibrahim + Elena)
 - Ibrahim in community circles, faith transformed
 - Elena's final acts as mayor
 - Both releasing leadership, embracing community
 - Preparation without panic
 
-**Chapter 21: Final Hours & Light** (merge ch 41-42: Multi-POV finale)
-- Final six hours, multiple perspectives
+**Chapter 22: Final Days** (new chapter: Multi-POV) *[Extended length: 3,000-3,500 words]*
+- Days before impact
+- All characters in their chosen places
+- Final preparations, final conversations
+- Maya and Kofi with Kenji and Ibrahim
+- Amara and David on Platform 73
+- Convergence complete
+
+**Chapter 23: Final Hours** (ch 41: Multi-POV)
+- Final six hours
+- Multiple perspectives alternating
 - Amara & David on Platform 73
 - Zara's family in nature preserve
 - Elena, Kenji, Ibrahim in community center
 - Countdown to impact
+
+**Chapter 24: Light** (ch 42: Multi-POV finale)
+- Final minutes
+- Each perspective's last moments
+- The asteroid arrives
 - Light
 
 ---
@@ -267,8 +284,8 @@ Critical facts that must remain consistent throughout the rewrite:
 ### Structural Balance
 - Part I: 4 chapters (Year 1 - Detection)
 - Part II: 7 chapters (Years 2-7 - Fracture)
-- Part III: 6 chapters (Years 8-12 - Searching)
-- Part IV: 4 chapters (Year 15 - Convergence)
+- Part III: 7 chapters (Years 8-14 - Searching)
+- Part IV: 6 chapters (Year 15 - Convergence)
 
 ### Character Equity
 Each major character maintains substantial POV time:
@@ -348,10 +365,13 @@ Work through chapters 1-21 in order:
 
 ### Word Count Targets
 - **Original**: ~2,200 words/chapter average (93,000 total / 42 chapters)
-- **Target**: ~2,400-2,600 words/chapter average (50,000-55,000 total / 21 chapters)
-- **Acceptable range**: 2,000 - 3,000 words/chapter (most chapters)
-- **Chapter 17 (Migrations)**: 4,000-5,000 words (extended length for 3-way merge + 2-year timeline gap)
-- **Total reduction**: ~40,000 words cut (~43% reduction from original)
+- **Target**: ~2,200-2,400 words/chapter average (50,000-55,000 total / 24 chapters)
+- **Acceptable range**: 2,000 - 2,800 words/chapter (most chapters)
+- **Extended chapters** (3):
+  - Chapter 15 (Wei's Passing): 3,000-3,500 words (solo death chapter, philosophical weight)
+  - Chapter 22 (Final Days): 3,000-3,500 words (all 7 POVs converging)
+  - Chapter 24 (Light): 3,000-3,500 words (finale, multiple POVs)
+- **Total reduction**: ~38,000-43,000 words cut (~41-46% reduction from original)
 
 ### Preservation Priorities
 1. All major plot events
@@ -376,32 +396,39 @@ Work through chapters 1-21 in order:
 ## Status Tracking
 
 ### Completed Chapters
-- [ ] Chapter 1: Detection
-- [ ] Chapter 2: Reactions
-- [ ] Chapter 3: Crisis of Faith
-- [ ] Chapter 4: Wisdom
-- [ ] Chapter 5: Life Choices
-- [ ] Chapter 6: Leadership Burden
-- [ ] Chapter 7: Maintenance & Defiance
-- [ ] Chapter 8: Searching
-- [ ] Chapter 9: Teaching
-- [ ] Chapter 10: Isolation
-- [ ] Chapter 11: Students
-- [ ] Chapter 12: Ibrahim's Breaking
-- [ ] Chapter 13: Marriage Crisis
-- [ ] Chapter 14: Returns
-- [ ] Chapter 15: Endings
-- [ ] Chapter 16: Aftermath
-- [ ] Chapter 17: Migrations
-- [ ] Chapter 18: Arrivals
-- [ ] Chapter 19: Final Weeks
-- [ ] Chapter 20: Final Days
-- [ ] Chapter 21: Final Hours & Light
+
+**Part I: Detection (Year 1)**
+- [ ] Chapter 1: Detection (Amara + Elena)
+- [ ] Chapter 2: Reactions (Zara + David)
+- [ ] Chapter 3: Crisis of Faith (Kenji + Ibrahim)
+- [ ] Chapter 4: Wisdom (Wei solo)
+
+**Part II: Fracture (Years 2-7)**
+- [ ] Chapter 5: Life Choices (Amara + Zara)
+- [ ] Chapter 6: Leadership Burden (Kenji + Elena)
+- [ ] Chapter 7: Maintenance & Defiance (David + Zara)
+- [ ] Chapter 8: Wandering (Ibrahim + Kenji)
+- [ ] Chapter 9: Teaching (Wei + Elena)
+- [ ] Chapter 10: Isolation (Amara + David)
+- [ ] Chapter 11: Students (Kenji + Zara)
+
+**Part III: Searching (Years 8-14)**
+- [ ] Chapter 12: Ibrahim's Breaking (Ibrahim 2-way merge)
+- [ ] Chapter 13: Marriage Crisis (David + Amara)
+- [ ] Chapter 14: Returns (Kenji + Elena)
+- [ ] Chapter 15: Wei's Passing (Wei solo) *[Extended]*
+- [ ] Chapter 16: Aftermath (Zara + Kenji)
+- [ ] Chapter 17: Collapse (Zara + Ibrahim)
+- [ ] Chapter 18: Journey (Zara migration + Elena context)
+
+**Part IV: Convergence (Year 15)**
+- [ ] Chapter 19: Arrivals (Zara + Amara)
+- [ ] Chapter 20: Teaching (Kenji + David)
+- [ ] Chapter 21: Community (Ibrahim + Elena)
+- [ ] Chapter 22: Final Days (Multi-POV) *[Extended]*
+- [ ] Chapter 23: Final Hours (Multi-POV)
+- [ ] Chapter 24: Light (Multi-POV finale) *[Extended]*
 
 ---
 
 ## Notes & Decisions
-
-*Track important choices and changes here as work progresses*
-
-- 
