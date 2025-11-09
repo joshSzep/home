@@ -1,106 +1,110 @@
 # Chapter 4: Crisis of Purpose
 
-**POV: Kenji Torres | Year 1, Day 1-2 | Antarctic Research Station**
+**POV: Kenji Torres | Year 1, Day 1 | McMurdo District**
 
 ---
 
-The lab was quiet at 1:47 AM. Just the hum of equipment and the occasional click of keys. Kenji preferred these hours—no distractions, no interruptions, just him and the work. His dissertation was spread across three screens: "Theoretical Deflection Scenarios for Near-Earth Objects." Four years of research. Two hundred and seventy-three pages. Defense scheduled for next month.
+The notification woke Kenji at 4:47 AM.
 
-Dr. Amara Okafor was working at her station across the lab, reviewing observation data. She'd been his mentor since he started the PhD program. Brilliant, exacting, occasionally warm in unexpected moments. They worked well in silence—both comfortable with long stretches of concentration punctuated by brief technical exchanges.
+Not his alarm—that wouldn't sound until 7:00. This was his mother's priority signal, the emergency override that bypassed all sleep settings. He'd only heard it three times before: infrastructure failures, civil emergencies, situations where the mayor needed her son immediately.
 
-Kenji was modeling gravitational perturbations for objects in the 5-10 kilometer range. Theoretical exercises, mostly. Humanity had detected plenty of Near-Earth Objects, but nothing immediately threatening. The models were academic—establishing frameworks for hypothetical scenarios. Building tools they hoped never to use.
+He sat up in the dark apartment, heart already racing before his brain fully engaged. The message was text only: *"Come now. Official residence. Don't comm. Just come. -Mom"*
 
-His coffee had gone cold. He drank it anyway. Four more hours until sleep, maybe. He'd gotten used to running on minimal rest. The work was engaging enough to compensate. And there was something satisfying about working while the world slept—productive solitude.
+No explanation. No context. Just urgency compressed into thirteen words.
 
-Dr. Okafor made a sharp sound. Not quite a gasp. Just: sudden intake of breath. Kenji looked up. She was staring at her screen, face draining of color, hands frozen mid-gesture.
+Kenji dressed quickly—discarding his usual deliberation over clothes. Whatever this was, it didn't matter what he wore. Five minutes later he was in the transit system, mostly empty at this hour. A handful of night shift workers heading home. A couple maintenance techs. No one looking at him, no one aware that the mayor's son was racing through the pre-dawn darkness toward crisis.
 
-"Dr. Okafor?"
+His mind cycled through possibilities. Economic collapse? Another district threatening war? Environmental catastrophe? His mother didn't panic. Twenty years in politics had given her ice in her veins. For her to use the emergency signal meant something unprecedented.
 
-She didn't respond. Didn't move. Just: staring.
+The government district was quiet. Security recognized him at the entrance to his mother's building—they always did, though he visited less frequently than he should. Too busy with the dissertation. Too absorbed in academic work. Too comfortable keeping family at arm's length while he built his career.
 
-Kenji stood, crossed the lab. "Dr. Okafor, what's wrong?"
+Elevator to the forty-seventh floor. The hallway was empty except for two security officers flanking his mother's door. They nodded, stepped aside. One said quietly: "She's expecting you."
 
-She gestured at the screen without speaking. Kenji leaned in, read the data. Mass estimate. Velocity. Impact probability climbing in real-time. His brain processed the numbers automatically—four years studying this exact subject made the comprehension instant.
+The door opened before he could knock.
 
-Extinction-level object. Direct intercept trajectory. Time to impact: fifteen years.
+Elena Torres stood in her robe, hair loose, face carrying an expression Kenji had never seen before. Not quite devastation. Not quite shock. Something between those states—a kind of hollowed-out comprehension.
 
-"Is this real?" His voice sounded strange. Too calm.
+"Mom?"
 
-"Running verification now." Her hands were moving again, pulling up diagnostic protocols. "System nominal. Data from three independent stations. All confirming."
+"Come in, mijo. Sit."
 
-Kenji watched the impact probability stabilize at 99.97%. His mind was still processing, calculating, running through every scenario he'd modeled in his dissertation. "Deflection options?"
+Her apartment was dark except for one lamp. His mother guided him to the couch with a hand on his shoulder. She sat beside him, close, and took both his hands in hers. The gesture alone was alarming—his mother wasn't physically demonstrative, had learned to maintain professional distance even at home.
 
-"Checking." Dr. Okafor pulled up the deflection calculator—the same tool Kenji had used in his research. They both knew the parameters. Fifteen years wasn't enough time. The object was too massive. Every scenario would fail.
+"There's no easy way to say this." Her voice was steady but wrong somehow. Too controlled. "An hour ago, Dr. Okafor at the monitoring station detected an asteroid. Large. Fast. Direct trajectory toward Earth."
 
-The calculator confirmed it. Every option: INSUFFICIENT.
+Kenji's brain started processing immediately—four years studying asteroid deflection made the analysis automatic. "How large? How much time do we have for deflection?"
 
-They stood in silence, staring at the screen. The asteroid's trajectory was elegant—a perfect Keplerian ellipse intersecting Earth's orbit. Beautiful mathematics describing the end of everything.
+"Fifteen kilometers diameter. Fifteen years to impact." She squeezed his hands. "And no, mijo. We can't deflect it. Dr. Okafor ran every scenario. The emergency coordinator consulted with the International Space Agency. I've spent the last forty-five minutes on calls with every space program director on Earth." She paused. "The object is too massive, moving too fast, and we have insufficient time. Every deflection option fails."
 
-"Can we stop it?" Kenji asked, even though he already knew.
+The words landed but didn't fully connect. Like information in a language he was learning but hadn't mastered. Asteroid. Fifteen years. Can't deflect. The phrases made sense individually but their combination seemed impossible.
 
-"No."
+"That's..." He stopped. What was it? Impossible? His mother wouldn't summon him at 4:47 AM for a mistake. Wrong? She'd just told him every expert on Earth had confirmed it. "That's everyone."
 
-The word hung in the quiet lab. Absolute. Final. Four years of research into deflection scenarios, and the answer was: no. All the theory, all the models, all the careful calculations—useless. The object was too big, too fast, arriving too soon. Physics was unambiguous.
+"Yes."
 
-"I need to activate emergency protocols," Dr. Okafor said. Her voice was clinical now, professional mask settling into place. "Your mother needs to know. The mayor always gets early notification."
+"Four million people here. Eight billion total."
 
-His mother. Kenji hadn't thought that far yet. Elena Torres, Mayor of McMurdo District. Most powerful human on Earth. His mother, who'd governed four million people with competence and care.
+"Yes."
 
-Who would learn in about five minutes that she couldn't save any of them.
+"In fifteen years."
 
-"I'll go to her," Kenji said. "I'll tell her in person."
+"Yes." His mother's eyes were wet now, reflecting the single lamp. "I'm sorry, Kenji. I'm so sorry. I wanted—" Her voice cracked. "I wanted grandchildren. I wanted to see you settled and happy. I wanted to be old. I wanted you to be old." She pulled him close, held him like she hadn't since he was a child. "Your father died at sixty-two and I thought it was too young. You'll be thirty-nine. That's not fair. That's not right."
 
-Dr. Okafor nodded, already reaching for her comm system. "Emergency protocols activating. Go."
+Kenji sat in his mother's embrace, his mind still processing. The dissertation. "Theoretical Deflection Scenarios for Near-Earth Objects." Four years of research. Two hundred seventy-three pages. Defense scheduled for next month. Every scenario modeled with the assumption that early detection plus appropriate technology equals survival.
 
-Kenji grabbed his jacket and left. The research station corridors were empty—just automated systems and night shift workers he didn't see. Outside, the Antarctic night was clear and cold. McMurdo District sprawled below, millions of lights marking humanity's greatest concentration of population. Four million people sleeping, working, living. None of them knowing yet that they had fifteen years left.
+But there were limits. Mass limits. Velocity limits. Time limits. He'd written entire chapters on scenarios where deflection became impossible. Academic exercises. Hypothetical edge cases. Never expecting...
 
-The transit system was nearly empty. A handful of late-night travelers, most looking at their personal screens, unaware. Kenji sat by the window and watched the city pass. He'd lived here his whole life. Born in McMurdo, educated in McMurdo, planned to work and die in McMurdo. But "die in McMurdo" had meant eventually, distantly, in old age. Not at thirty-nine. Not with the entire planet.
+"I need to see the data," he said.
 
-His father had died at sixty-two. Transit accident when Kenji was five. One moment alive, next moment gone. His mother had been devastated. Kenji remembered her saying: "It's not fair. He was too young. He should have had more time." She'd grieved for years.
+"Dr. Okafor is sending it to all relevant personnel. You should have access."
 
-Now: she'd lose her son too. And herself. And everyone. The unfairness was absolute.
+Kenji pulled up his personal screen. The file was there, marked with the highest security classification. He opened it.
 
-His mother's building was in the government district—high-rise, well-maintained, the kind of housing reserved for senior officials. The doorway recognized him, granted access. Elevator to the forty-seventh floor. His mother's apartment.
+**Object: 3025-AZ1**  
+**Mass: ~1.5 × 10^15 kg**  
+**Estimated diameter: 10-15 km**  
+**Velocity: 28.3 km/s**  
+**Distance: 2.4 AU**  
+**Impact probability: 99.97%**  
+**Time to impact: 15 years, 2 months, 14 days**
 
-He knocked quietly. 2:23 AM. She'd be asleep. He knocked again, harder.
+Below that: the deflection analysis. Kinetic impactor—insufficient by factor of 240. Nuclear deflection—inadequate yield, high fragmentation risk. Gravity tractor—requires 50+ years. Mass driver—installation time exceeds available window.
 
-The door opened. Elena Torres in her robe, hair loose, eyes immediately alert. Twenty years as mayor had trained her to wake ready for crisis. She saw his face and her expression shifted.
+Every option: INSUFFICIENT.
 
-"Come in, mijo."
+His dissertation had a section on exactly this scenario: "Terminal Cases: When Deflection Becomes Physically Impossible." He'd written it academically, dispassionately. Mass too large. Velocity too high. Time too short. The mathematics was elegant—clear boundaries where physics became absolute and human capability irrelevant.
 
-Her apartment was comfortable but not lavish—she'd always rejected the more ostentatious perks of office. Books everywhere. Plants by the windows. Photos of Kenji at various ages covering one wall. Home.
+He'd never imagined reading those same conclusions about a real object.
 
-"Sit," she said, guiding him to the couch. "Tell me."
+"You understand?" his mother asked.
 
-Kenji told her everything. The detection. The mass. The velocity. The trajectory. The impact probability. The deflection scenarios that all failed. His mother listened without interrupting, hands folded in her lap, face increasingly still.
+"Yes." The word came out flat. Clinical. Four years of technical training overriding emotion. "The numbers are correct. Given the parameters, deflection is impossible with current technology."
 
-When he finished, she was quiet for a long time. Staring at her hands. Then: "So my power means nothing. I govern four million people and I can't save any of them."
+"I don't need the analysis, mijo. I need to know if my son understands that he's going to die."
 
-"No one can save anyone, Mom."
+The bluntness cracked something in his chest. "I understand."
 
-"No one can save anyone," she repeated softly. Then: "I wanted grandchildren." Her voice was small, vulnerable in a way he rarely heard. "I wanted to see you settled, happy, raising a family. I wanted to be a grandmother."
+They sat in silence. Through the windows, McMurdo District sprawled—four million lights representing four million lives, all temporary now. All counting down. His mother had governed these people for eight years. Maintained order, planned futures, built infrastructure designed to last centuries. All of it ending in fifteen years.
 
-Kenji felt his throat tighten. "I'm sorry."
+"What do you need from me?" Elena asked. "As your mother. Not as mayor. What do you need?"
 
-"Not your fault, mijo. Not anyone's fault. Just... physics." She looked up at him, eyes wet. "Fifteen years. You'll be thirty-nine. I'll be seventy-eight. Your father died at sixty-two and I thought it was too young. Now I'd give anything for him to have had sixty-two years."
+Kenji didn't know. The question was too large. What do you need when your future disappears? When all the plans crumble? When every assumption about life span and career and meaning evaporates?
 
-They sat together in silence. Through the windows, McMurdo District glowed—millions of lights representing millions of lives, all temporary now. All counting down.
+"I don't know," he said.
 
-Elena stood, moved to the kitchen, started making tea. The automatic ritual of a crisis. Kenji watched her move through familiar motions—filling the kettle, selecting tea, retrieving cups. She'd done this a thousand times. The routine was comfort when nothing else was.
+"That's okay. You don't have to know." She stood, moved to the kitchen, started making tea. The automatic ritual of crisis. "I don't know what I need either. I just know I need to do something. Maintain routines. Keep moving. Because if I stop..." She trailed off.
 
-"The briefings don't matter anymore," she said, back to him. "Everything I've built, every policy, every long-term plan. It all ends in fifteen years."
+Kenji watched her work through familiar motions. His mother, the most powerful human on Earth, reduced to making tea because that was something concrete, something controllable, something that made sense when nothing else did.
 
-"You could stop," Kenji said. "Resign. Spend the time differently."
+"The briefings don't matter anymore," she said, back to him. "Everything I've built. Every policy. Every long-term plan. It all ends in fifteen years."
 
-"I could." She poured the tea, handed him a cup. "But I won't. Someone has to maintain order. Someone has to bear witness. Someone has to say: we tried. We cared. We didn't give up." She sipped her tea. "Even if it doesn't matter, I'll do it anyway."
+"You could resign. Spend the time differently."
 
-"Why?"
-
-"Because what else is there?" She smiled sadly. "I've been mayor for eight years. It's who I am. Take that away and I don't know what remains."
+"I could." She poured the tea, handed him a cup. "But I won't. Someone has to maintain order. Someone has to say: we tried, we cared, we didn't give up." She sipped her tea. "Even if it doesn't matter, I'll do it anyway. Because what else is there?"
 
 Kenji understood. His dissertation had been who he was. Four years of work, identity built around research and academic future. Now: meaningless. Defense scheduled for next month. He'd never be Dr. Torres. Never have the career he'd imagined. Never contribute to humanity's long-term survival because there was no long-term anymore.
 
-"I should go back to the lab," he said.
+"I should go," he said.
 
 "Stay a while longer." His mother's voice was gentle. "Please. I don't want to be alone right now."
 
@@ -116,9 +120,9 @@ So he stayed. They sat together on the couch, drinking tea, not talking much. Hi
 
 It should have been a joke. Neither of them laughed.
 
-Eventually, Kenji left. Walked back through the quiet pre-dawn streets. The transit system was starting to fill with early shift workers. Still unaware. Still living in the world before detection. He watched their faces—tired, routine, ordinary. Tomorrow they'd look different. Tomorrow everyone would carry the weight he was carrying now.
+Eventually, Kenji left. The transit system was starting to fill with early shift workers—still unaware, still living in the world before detection. He watched their faces: tired, routine, ordinary. By evening they'd look different. By evening everyone would carry the weight he was carrying now.
 
-He returned to the research station. The lab was empty—Dr. Okafor must have left to handle coordination. His dissertation was still open on his screens: Chapter 3, "Long-Term Deflection Strategies."
+He returned to his apartment in the research housing complex. His dissertation was still open on his terminal: Chapter 3, "Long-Term Deflection Strategies."
 
 Long-term. Fifty-year missions. Century-spanning infrastructure. Assuming humanity had time.
 
@@ -136,13 +140,15 @@ The question sat in his chest, heavy and unanswerable. Twenty-four years old. Ph
 
 All of it: gone. Fifteen years left. He'd be thirty-nine when the asteroid hit. Never forty. Never middle-aged. Never old. Thirty-nine years of life, then: nothing.
 
-His father had died at sixty-two. Kenji used to think that was young. Now it seemed like a luxury. His father had sixty-two years. Kenji would get thirty-nine. Maya—his aunt's daughter, whom he barely knew—would get seventeen.
+His father had died at sixty-two. Kenji used to think that was young. Now it seemed like a luxury. His father had sixty-two years. Kenji would get thirty-nine. Maya—a cousin's daughter he'd met twice—would get seventeen.
 
 The unfairness was incomprehensible.
 
-He left the lab. Walked through the station corridors. Research staff were arriving for morning shift, most still unaware. Some were checking their screens, faces changing as news reached them. Emergency alerts propagating through networks. The world learning. The reactions beginning.
+By 7:00 AM, his screen showed emergency broadcasts. News spreading through every channel. His personal messages were accumulating: colleagues, classmates, his dissertation advisor Dr. Okafor. Everyone reaching out, everyone needing connection.
 
-Outside, the Antarctic dawn was approaching—pale twilight that passed for sunrise this time of year. Kenji stood in the cold and watched the sky lighten. Somewhere up there, an asteroid was falling. Had been falling for millions of years. Would continue falling for fifteen more.
+He didn't answer. Didn't know what to say.
+
+Outside his window, the Antarctic dawn was approaching—pale twilight that passed for sunrise this time of year. Kenji stood at the glass and watched the sky lighten. Somewhere up there, an asteroid was falling. Had been falling for millions of years. Would continue falling for fifteen more.
 
 Then: impact.
 
@@ -163,10 +169,6 @@ He didn't know.
 Didn't know who he was without the dissertation. Without the career ahead. Without the assumption of future.
 
 Twenty-four years old. Fifteen years left. And absolutely no idea what to do with them.
-
-The morning staff were gathering, talking urgently, processing the news. Kenji walked past them, anonymous in his isolation. Went to his small apartment in the research housing complex. Sat on his bed. Stared at the wall.
-
-His personal screen showed messages accumulating. Friends. Colleagues. Everyone reaching out, everyone needing connection. He didn't answer. Didn't know what to say.
 
 His mother had purpose still—governance, maintaining order, bearing witness. Dr. Okafor had purpose—tracking the object, providing data, serving her function. Everyone would find their role, their way of spending fifteen years.
 
