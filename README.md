@@ -83,11 +83,7 @@ Seven perspectives. One countdown. No escape.
 ## Project Organization
 
 ```
-/chapters/          Novel text (when written)
-/appendix/
-  /characters/      Detailed character documents
-  /world/           Worldbuilding documents
-  *.md              Story structure, themes, timelines
+/chapters/          Novel text
 README.md           This file
 ```
 
