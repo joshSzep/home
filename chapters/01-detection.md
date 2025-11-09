@@ -1,287 +1,242 @@
-# PART I: DETECTION
+# Chapter 1: Detection
 
-# Chapter 1 - Detection
+**POV: Dr. Amara Okafor | Year 1, Day 1 | Antarctic Monitoring Station**
 
-The alert sounded at 3:47 AM.
+---
 
-Dr. Amara Okafor had been working the graveyard shift for twenty years—preferred it, actually. The Antarctic Monitoring Station was quiet at night, just her and the automated systems humming their patient watch over the sky. No colleagues stopping by to chat, no meetings, no ceremonial bullshit. Just data, tea, and the clean satisfaction of verification protocols completed.
+3:47 AM.
 
-She was reviewing asteroid 2024-KJ9's updated trajectory—a near-Earth object they'd been tracking for months, safely predictable—when the AI system chirped. Not the routine ping of an orbital correction, but the high-priority alert she'd heard maybe three times in her entire career.
+The Antarctic Monitoring Station hummed its familiar lullaby—cooling systems, data processors, the distant creak of ice beneath titanium foundations. Amara Okafor sat alone at her workstation, the only occupied seat among sixty, the only human presence in a facility designed for constant surveillance. Graveyard shift. Her preference after twenty years of this work. No interruptions. No small talk. Just her, the screens, and the infinite silence of space.
 
-New detection. Unusual signature. High-priority classification pending.
+Her tea had gone cold again. She took a sip anyway, grimacing at the bitter metallic taste. The cheap tea never got better, but after two decades, she'd stopped caring. Her fingers moved across the haptic interface with practiced efficiency, reviewing the overnight data stream from the Near-Earth Object Survey Network. Routine work. Comfortable work. The kind that let her mind drift while her hands maintained their expertise.
 
-Amara set down her tea and pulled up the data feed.
+Asteroid 2024-KJ9 drifted across her primary screen—a small rock, maybe thirty meters across, passing safely at 0.15 AU. Nothing threatening. Nothing interesting. She logged the observation, added it to the archive, moved to the next object. The system had flagged it green: no impact probability, no follow-up required. Standard. Predictable. Safe.
 
-For a moment, she didn't understand what she was looking at. The numbers were wrong—had to be. Size estimate in the catastrophic range. Velocity vector pointing directly at Earth's orbital path. Impact probability climbing as the AI refined its calculations: 94.3%... 96.1%... 98.7%...
+Through the reinforced windows, the Antarctic night pressed dark and absolute. No stars visible through the glare of McMurdo District—four million souls living at the bottom of the world, their lights bright enough to drown out the cosmos. Somewhere out there, her husband David was working the solar arrays, maintaining the massive panels that fed power to humanity's greatest concentration of civilization. They'd barely spoken in three months. When had that started? She couldn't remember. Couldn't quite bring herself to care.
 
-She ran the verification protocols. They confirmed.
+The station was so quiet she could hear her own breathing. Quiet enough to think. Too quiet, sometimes. Especially at 3:47 AM, when the night stretched longest and thoughts turned unwelcome directions.
 
-She checked for system errors. None detected.
+She pulled up the next data set.
 
-She pulled the raw telescope data and analyzed it manually, her hands moving across the holographic display with the automatic precision of two decades' practice. Parallax measurements from three different monitoring stations. Spectral analysis. Brightness curve. Orbital mechanics.
+And the universe ended.
 
-The asteroid was real.
+Not with drama. Not with warning. Just: a priority alert, cutting through the gentle monotony. A red border materializing around a new observation. High-priority detection. Amara's hands paused mid-gesture, hovering above the haptic field. High-priority was rare. She'd seen it three times in twenty years—once for a close approach that turned out to be a sensor error, twice for objects that required immediate trajectory analysis but passed safely.
 
-Mass: approximately 1.5 × 10^15 kg. Somewhere between ten and fifteen kilometers across. Civilization-killer scale. Coming at them at 28.3 km/s relative to Earth, at an angle that made gravitational assist from any inner planet impossible.
+This would be nothing. Always was.
+
+She pulled up the data.
+
+**Object: 2025-AZ1**  
+**Mass: ~1.5 × 10^15 kg**  
+**Estimated diameter: 10-15 km**  
+**Velocity: 28.3 km/s**  
+**Distance: 2.4 AU**  
+**Impact probability: 94.3%... 96.1%... 98.7%...**
+
+The number climbed as she watched, the system integrating new data from the global telescope network, refining its calculations with each passing second. Amara stared at the screen, her mind still processing, not yet comprehending. Big. Fast. Close. Probability climbing.
+
+This was nothing. Always nothing.
+
+The number continued rising: 98.9%... 99.3%... 99.5%...
+
+Her tea fell from her hand. The cup hit the desk with a dull thud, lukewarm liquid spreading across the polymer surface. She didn't notice. Her eyes locked on the screen, watching the impact probability converge toward certainty with the mathematical inevitability of gravity itself.
+
+99.7%... 99.9%... 99.97%.
+
+The number stabilized.
+
+Amara's hands were shaking. She pulled them into her lap, pressed them together, willed them still. Not yet. Not yet. Protocol first. Verification first. This was nothing. System error. Bad data. Calculation mistake. Twenty years of experience, twenty years of false alarms and near-misses and errors that looked catastrophic until they weren't.
+
+This was nothing.
+
+Her fingers returned to the interface, trembling but functional. System diagnostics first. She ran a full check: sensor calibration, data integrity, processing accuracy. Every subsystem reported nominal. No errors. No anomalies. Clean data from three independent telescope stations—Atacama, Mauna Kea, and the lunar observatory. All confirming.
+
+She pulled up the parallax measurements. Perfect triangulation. The object was exactly where the system said it was, moving exactly as calculated. She ran spectral analysis: carbonaceous chondrite, consistent with the mass estimate. Brightness curve confirmed the diameter. Rotation period: seven hours, typical for objects this size.
+
+Everything checked out.
+
+Amara's breath caught. She forced herself to breathe—in through nose, out through mouth, like she'd learned in the meditation class David had convinced her to take eight years ago, back when they still talked about things other than logistics. The breathing exercise didn't help. Her chest felt tight, her vision narrowing to the single point of data on her screen.
+
+Manual calculation. She had to do the math herself, verify the AI's work with her own expertise. Her fingers flew across the interface, pulling up the orbital mechanics software she'd written her dissertation on thirty years ago. Input the position vectors. Input the velocity components. Account for gravitational perturbations from Jupiter, Saturn, Earth-Luna. Calculate the trajectory.
+
+The math was elegant. Beautiful, even. Orbital mechanics always was—pure physics, no ambiguity, no interpretation. Just Newton and Kepler and Einstein, working in perfect harmony to describe how objects moved through space.
+
+The object would intercept Earth's orbit in exactly 15 years, 2 months, and 14 days.
+
+Cross-section analysis: direct impact. Not a near-miss. Not a close approach. Direct.
 
 Impact probability: 99.97%.
 
-Estimated time to impact: 15 years, 2 months, 14 days.
+The tea was soaking into her papers. Amara watched the brown stain spread, slow and inevitable, consuming the notes she'd been making about asteroid 2024-KJ9. That object didn't matter now. Nothing she'd been working on mattered. The calculation she'd just completed rendered twenty years of work irrelevant.
 
-The station was very quiet. The automated systems hummed. Her tea was getting cold.
+She pulled up the deflection calculator.
 
-Amara's hands were shaking.
+This was why they maintained the monitoring network. This was why humanity had spent a trillion dollars over a century building the detection and response infrastructure. For this exact scenario. Detect early. Calculate trajectory. Deflect. Survive.
 
-*Can we deflect it?* That was the question. That was always the question. The UN Monitoring Program existed not just to detect but to coordinate response. They had contingency plans. Deflection scenarios. Nuclear options, kinetic impactors, gravity tractors—
+She input the parameters: mass 1.5 × 10^15 kg, velocity 28.3 km/s, time to impact 15.2 years.
 
-She opened the deflection calculator and started entering parameters.
+**Deflection Option: Kinetic Impactor**  
+*Status: INSUFFICIENT*  
+*Analysis: Object mass exceeds kinetic impactor capacity by factor of 240. Multiple missions required. Insufficient time for development and deployment.*
 
-Required delta-v for minimal deflection to miss Earth: 0.3 cm/s, but needed years earlier in trajectory.
+**Deflection Option: Nuclear Deflection**  
+*Status: INSUFFICIENT*  
+*Analysis: Required yield: ~800 megatons for significant trajectory alteration. Largest available warhead: 50 megatons. Multiple warheads required. Delivery system inadequate. Probability of fragmentation: 87%. Result: multiple impacts. Outcome: worse.*
 
-She ran the scenarios one by one, methodically, the way she'd been trained. Nuclear deflection: would require coordinated detonation of Earth's entire arsenal, and even then—she checked the numbers again—insufficient yield. Kinetic impactor: would need to launch within six months, required spacecraft ten times more massive than anything humanity had ever built. Gravity tractor: too slow, would need fifty years minimum.
+**Deflection Option: Gravity Tractor**  
+*Status: INSUFFICIENT*  
+*Analysis: Continuous thrust requirement over 50+ years for measurable effect. Available timeline: 15.2 years. Insufficient for meaningful deflection.*
 
-She ran them again, adjusting parameters, trying to find a way.
+**Deflection Option: Mass Driver**  
+*Status: INSUFFICIENT*  
+*Analysis: Landing and installation timeline: 8-12 years. Operational duration required: 40+ years. Insufficient time.*
 
-The numbers didn't change.
+Every option failed. Every scenario returned the same result: INSUFFICIENT.
 
-She tried different approach vectors, different deflection timings, different thrust profiles. Worked through the equations with the cold precision of someone who had spent her entire adult life studying orbital mechanics.
+The physics was absolute. The object was too massive, moving too fast, arriving too soon. Humanity had built impressive technology over a thousand years of spaceflight—fusion drives, orbital construction, deep space mining. But physics didn't care about impressiveness. It cared about mass and velocity and time, and the math was unambiguous.
 
-Every scenario ended the same way.
+This object could not be stopped.
 
-*Not possible.*
+Amara sat in the silent station, staring at the screen full of failures, and understood: everyone was going to die.
 
-Thirty-two minutes had passed since the alert.
+Not eventually. Not in the abstract, distant future. In fifteen years. Everyone she knew. Everyone she'd ever met. The four million people in McMurdo. The eight billion scattered across Earth's remaining habitable zones. Her colleagues. Her husband. Her sister.
 
-Amara Okafor sat alone in the monitoring station, surrounded by screens full of data, and understood: Earth had fifteen years left. Everyone on it—all eight billion people—was going to die. Including her. Including David. Including her sister Zara and little Maya.
+Maya.
 
-And there was nothing she could do about it.
+The thought of her niece hit like a physical blow. Maya was two years old. She'd be seventeen when the asteroid hit. Never turn eighteen. Never fall in love. Never have children of her own. Seventeen years of life, then: nothing.
 
-She picked up her comm and called Director Mbasa.
+Amara had only met Maya twice. Once at birth, once at her first birthday. Work kept getting in the way. Antarctica kept getting in the way. The distance between her and Zara—six months since they'd last talked, the conversation ending in silence and unspoken resentment—kept getting in the way. She'd promised herself she'd visit more. Next year, maybe. When the monitoring season calmed down.
 
-He answered after five rings, groggy. "Okafor? It's four in the morning—"
+There was no next year anymore.
 
-"We have an extinction-level asteroid," she said. Her voice sounded strange in her own ears. Calm. Clinical. Like she was reporting routine data. "Impact in fifteen years. I've run the deflection scenarios. None of them work."
+Her sister's contact information glowed on her wrist display. Zara Okafor-Mensah, Lagos District. Last contact: 187 days ago. Last message from Zara: 43 days ago. *"Maya took her first steps! Wish you could have seen it."*
 
-Silence on the other end.
+Amara hadn't responded. Too busy. Too distracted. Too comfortable in her isolation.
 
-"I need you to verify my calculations," she continued. "But they're right. I've checked them six times. It's too big, too fast, too close. We can't stop it."
+Now she stared at her sister's name, finger hovering over the call button. What would she say? *Hello, Zara. I just calculated your daughter's death. She has fifteen years. Make them count.*
 
-"Send me everything." His voice had changed—professional now, alert. "I'm coming in. Don't call anyone else until I verify."
+Her finger didn't press the button.
 
-"The AI has already distributed the data to the global monitoring network. It's flagged as extinction-level. The other stations will be seeing it now."
+The priority alert was still active on her screen, waiting for acknowledgment. Waiting for her to follow protocol. Waiting for her to inform the world that the world was ending.
 
-Another silence, longer this time.
+She pulled up the emergency notification system. This was the procedure she'd trained for, drilled for, prepared for over twenty years. Detect the threat. Verify the data. Initiate the alert cascade. UN Security Council first, then space agencies, then national governments, then the civil defense network. The system would handle the distribution automatically once she authenticated the alert.
 
-"Christ," Mbasa said quietly. "Okay. I'm on my way. Okafor—are you certain?"
+Her hands moved through the verification sequence with muscle memory. Biometric scan. Voice authentication. Authorization code. Final confirmation.
+
+The system asked: *Are you certain you wish to proceed? This alert will initiate global emergency protocols.*
+
+Was she certain? She looked at the data again. Checked the calculations again. Ran the verification sequence again. Every analysis returned the same result. The math was clean. The physics was clear. The object was real, massive, fast, and unavoidable.
+
+She selected: *CONFIRMED. PROCEED WITH ALERT.*
+
+The system activated. Alert cascade initiating. Emergency protocols engaging. Somewhere in Geneva, alarms were sounding. Somewhere in Washington, Beijing, Mumbai, Lagos, someone's terminal was lighting up with the worst news in human history.
+
+Her screen populated with acknowledgments: UN Security Council alerted. International Space Agency alerted. All member nations alerted. Emergency response protocols initiated.
+
+Her comm system lit up. Incoming calls. Fifteen. Twenty. Thirty. Everyone with clearance wanting to know if this was real, if the data was good, if she was absolutely certain.
+
+She answered the first call. UN Emergency Coordinator, face grainy on the small screen. "Dr. Okafor, we've received your alert. Please confirm the data."
+
+"Confirmed," Amara said. Her voice sounded strange to her own ears. Flat. Clinical. Professional. "Object designated 2025-AZ1. Mass one point five times ten to the fifteenth kilograms. Diameter ten to fifteen kilometers. Impact probability ninety-nine point nine seven percent. Time to impact fifteen years, two months, fourteen days."
+
+"Are you certain?" The coordinator's face was pale.
 
 "Yes."
 
-She ended the call and sat looking at the screens. The asteroid was designated 2025-AZ1 now, the AI having catalogued it properly. Just a string of numbers and letters. It didn't look like much on the display—a point of light following a plotted trajectory, one red line intersecting another.
+"Could the calculations be wrong?"
 
-In fifteen years, that point of light would strike Earth's atmosphere at over 100,000 kilometers per hour. The impact would release energy equivalent to several billion nuclear weapons. The shockwave would circle the planet. The debris cloud would blot out the sun for years. Nothing larger than a rat would survive.
+"No. Seven independent verifications. Manual confirmation completed. The data is accurate."
 
-Her comm lit up again. Mayor Torres.
+"Is deflection possible?"
 
-###
+Amara looked at the list of failed scenarios on her screen. "No. The object is too massive, too fast, and we have insufficient time. Every deflection scenario fails."
 
-Elena Torres had been awake since three AM, reviewing budget allocations for the McMurdo District water reclamation system—the kind of tedious, essential work that actually kept a city of four billion people alive. When the emergency line lit up on her desk comm with that priority tone that meant crisis, she'd known immediately something was very wrong.
+The coordinator's face seemed to age a decade in real-time. "I see. Thank you, Dr. Okafor. Stand by for further instructions."
 
-She accepted the call. Dr. Okafor's face appeared, and Elena saw in an instant what this was about. Amara's composure was legendary—Elena had seen her brief the council on everything from solar flare impacts to facility accidents without a flicker of emotion. But now there was something in her eyes. A terrible clarity.
+The call ended.
 
-"Dr. Okafor," Elena said carefully. "I've received an alert from the monitoring network. Please tell me this is a false positive."
+The next call was identical. And the next. And the next. Director of the International Space Agency: "Are you certain?" Yes. Chinese Space Administration: "Could it be wrong?" No. Russian Space Agency: "Any possibility of deflection?" No. African Union Space Council: "Time to impact?" Fifteen years.
 
-The pause before Amara answered told Elena everything.
+Every call was a variation of the same desperate hope that she was wrong, that the data was flawed, that there was some solution she'd missed. Every call ended with her delivering the same truth: the asteroid was real, the calculations were correct, and there was nothing anyone could do to stop it.
 
-"It's not."
+After the fortieth call, she stopped answering. The calls kept coming—sixty, seventy, eighty—but she let them queue. She'd said everything there was to say. The data spoke for itself. No amount of repetition would change the physics.
 
-Elena looked at the data Amara transmitted. Impact probability: 99.97%. Estimated time to impact: 15 years, 2 months, 14 days. Classification: Extinction-level event.
+She sat in the silent station, surrounded by the blinking lights of unanswered calls, and stared at the asteroid's projected trajectory. The elegant arc that would intersect Earth's orbit. The beautiful mathematics that described the end of everything.
 
-She'd been mayor of Antarctica for twelve years. Managed cyclone season crises, infrastructure collapses, diplomatic incidents with other regional governments, even the Great Power Failure of 3023 that had left half the city dark for three days. She'd learned to stay calm in crisis. To project certainty even when uncertain. To make decisions with incomplete information.
+4:37 AM. An hour since detection. An hour since the universe ended.
 
-But she'd never had to manage the end of the world.
+Outside, McMurdo District was waking up. Early shift workers heading to their jobs. Transit systems cycling through morning routes. Four million people beginning another ordinary day, not yet knowing this was the day everything changed. Soon, the alerts would cascade through civil defense networks. Soon, the screens would light up with emergency broadcasts. Soon, everyone would know.
 
-"Can we deflect it?" Elena asked, already knowing the answer from Amara's expression.
+But for now, for this brief moment, Amara was the only person on Earth who fully understood that humanity had fifteen years left.
 
-"No."
+She pulled up Zara's contact again. Stared at her sister's name. Six months of silence. Six months of emails and messages and photos ignored because work always came first, because Antarctica was home now, because family was a distant abstraction that could wait for next year.
 
-"You're certain?"
+There was no next year.
 
-"I've run every scenario. The mass, velocity, and time frame make deflection impossible with current technology. Even if we launched every spacecraft on Earth, even if we detonated our entire nuclear arsenal in a coordinated strike—it's not enough. We'd need at least thirty years and technology we don't have. We have fifteen."
+Her finger hovered over the call button.
 
-Elena set down her stylus with careful precision. Her hands wanted to shake. She didn't let them.
+She couldn't do it. Couldn't find the words. Couldn't transform the clinical calculations into the human reality of telling her sister that Maya would die at seventeen. Couldn't bridge the gap of six months—six months that suddenly felt like an unbridgeable chasm of wasted time.
 
-"When will this become public knowledge?"
+She closed the contact window.
 
-"The monitoring network has already flagged it as extinction-level. The AI systems are following protocol—verification from multiple stations, then global alert. I'd estimate within the next hour."
+Returned to the data.
 
-One hour. To prepare for the collapse of civilization. To figure out what she could possibly say to four billion people in Antarctica alone, eight billion worldwide. To find some way to maintain order when order had just become meaningless.
+The asteroid was still there, still approaching, still real. The trajectory unchanged by her observation of it. The physics indifferent to her inability to act. The mathematics perfect and terrible and absolute.
 
-"I need to convene the emergency council. I need to prepare a statement." Elena's mind was already moving through protocols, procedures, chains of command. Then she stopped. For just a moment, the professional distance she'd cultivated for decades slipped, and she felt the raw enormity of it.
+5:14 AM. The sun would rise soon, if you could call the pale Antarctic twilight sunrise. David would finish his shift on the solar arrays. Would come home to their shared apartment. Would they talk? Would she tell him? Would he understand?
 
-Everyone she knew was going to die. Everyone she was responsible for. Her son.
+She didn't know. Couldn't think about it. Could only stare at the screen full of data that described the end of everything she knew.
 
-Kenji would die at thirty-nine years old.
+The tea stain had spread across her entire notebook. Brown and wet and ruined. Like everything else now. Like the future. Like the fifteen years that remained—a brief, inadequate span between now and nothing.
 
-Hiroshi had died five years ago at sixty-two. She'd felt the unfairness of it—they should have had more time. Now she thought: *You were lucky. You died not knowing.*
+Her hands had stopped shaking. That was something. Professional competence reasserting itself. She could work. Could maintain her expertise. Could update the calculations daily, track the object's approach, refine the trajectory predictions. Could do the job she'd trained for, even if the job no longer mattered.
 
-"Mayor Torres—Elena—" Amara's voice pulled her back.
+The calls had stopped coming. Ninety-three unread. She deleted them all. They didn't matter anymore.
 
-"Yes?"
+Nothing mattered anymore.
 
-"Your son is in my lab. Kenji. He was working late on his dissertation analysis. He'll have seen the alert by now."
+Everything mattered now.
 
-Kenji. Her brilliant, restless son who'd been studying astrophysics under Amara's mentorship. Who'd been asking questions about meaning and purpose for months, unsettled in ways she didn't fully understand. Who was about to learn that his future had just been reduced to fifteen years.
+She didn't know which was true. Maybe both. Maybe neither. The asteroid didn't care about her philosophical confusion. It would arrive in fifteen years, two months, and fourteen days regardless of what she thought or felt or understood.
 
-"Is he—" Elena's voice cracked slightly.
+6:03 AM. Shift change in thirty minutes. Dr. Park would arrive to take over the station. She'd have to brief him. Have to explain. Have to watch his face as comprehension dawned. Have to see in his eyes the same thing she felt in her chest—the weight of knowing everyone was dying.
 
-"I'll tell him to call you."
+She pulled up the countdown timer. Created a new display element on her screen: 
 
-"Thank you." Elena ended the call and sat for a moment in the silence of her study. The mayor's seal on the wall behind her. Certificates and awards. Photos with world leaders and dignitaries. All of it meaningless now.
+**TIME REMAINING: 15 years, 2 months, 14 days**
 
-Her comm lit up again immediately. Emergency council requesting secure conference. She accepted, and her screen filled with faces—district leaders, security chiefs, heads of food production, energy, water, medical services. All the people who kept Antarctica functioning.
+The numbers would decrement. Each second bringing the object closer. Each day reducing the time humanity had left. She would watch this countdown for fifteen years, updating it daily, tracking their march toward extinction with the same professional competence she'd brought to every other aspect of her work.
 
-All of them looking at her for answers she didn't have.
+Because what else was there to do?
 
-"I assume you've all seen the alert," Elena said.
+What else could she do?
 
-Chen Wei, head of East Antarctica District, spoke first. "Is this confirmed? Extinction-level?"
+The station hummed its familiar lullaby. The screens glowed their familiar glow. Everything looked the same as it had an hour ago, as it had every morning for twenty years. But everything had changed. The universe had ended, quietly, at 3:47 AM, in the form of a simple data alert that nobody else had noticed yet.
 
-"Yes. I've spoken with Dr. Okafor directly. The asteroid is real, the trajectory is certain, and deflection is not possible with current technology."
+Dr. Amara Okafor, astrophysicist, expert in Near-Earth Object detection and tracking, sat alone in the Antarctic Monitoring Station and watched the countdown begin.
 
-Silence. Elena watched them process it. Some had been woken by the alert, were still in sleeping clothes. Others, like her, had been working through the night. All of them looked stunned.
+First to know.
 
-"How long?" asked Sarah Kimathi, West District.
+First to calculate.
 
-"Fifteen years."
+First to understand that everyone she loved was going to die.
 
-"What are our options?" Marcus DaSilva, Security.
+And she still couldn't call her sister.
 
-Elena wanted to laugh. It came out as a sharp exhale. "We have no options. That's the point. An asteroid the size of a mountain is going to hit Earth in fifteen years and we can't stop it."
+The tea stain had reached the edge of her desk. A few drops fell to the floor, dark spots on white tile. She watched them fall. Watched them spread. Watched physics work the same way it always did—indifferent, inexorable, absolute.
 
-"There must be something—" DaSilva started.
+Fifteen years, two months, fourteen days.
 
-"There isn't." Elena kept her voice level, authoritative. They needed her to be certain, even about this. "I will coordinate with the UN to verify independently, but Dr. Okafor is the leading expert in orbital mechanics. If she says we can't deflect it, we can't deflect it."
+Then: nothing.
 
-"Then what do we do?" Kimathi asked quietly.
+She returned to her calculations. Because that's what she did. That's all she knew how to do. The numbers didn't judge. The data didn't ask for comfort. The mathematics was clean and pure and true, even when the truth was the end of everything.
 
-That was the question, wasn't it? What did you do when you couldn't do anything?
+Outside, the Antarctic dawn approached. Inside, Dr. Amara Okafor updated her trajectory calculations and counted down the days until impact.
 
-"We maintain order," Elena said. "We keep the city functioning. We keep people fed, housed, safe. We have fifteen years to figure out how to face this with some measure of dignity."
+The universe had ended at 3:47 AM.
 
-Even as she said it, she knew how hollow it sounded. The global alert would go out any minute. Eight billion people learning they were going to die. How did you maintain order through that?
+Nobody else knew yet.
 
-"The birth centers," Chen said suddenly. "The genetic design programs. We have thousands of pregnancies in progress, applications pending—"
+But they would soon.
 
-"I know." Elena felt something twist in her chest. All those parents planning for their children's futures. Selecting genes for longevity, health, intelligence. Hoping to give their children the best chance at life in humanity's permanent home on Earth.
-
-What was the point of designing a child to live to 150 when the world ended in fifteen years?
-
-"We need to address the public immediately," Kimathi said. "Before panic spreads. If we don't provide clear information, clear leadership—"
-
-"I'll prepare a statement. City-wide broadcast at dawn. Six AM."
-
-"That's less than two hours—"
-
-"Then I'd better start writing."
-
-The meeting continued—logistics, contingencies, emergency protocols. Elena participated, made decisions, projected calm authority. Inside, she felt like she was standing at the edge of an abyss.
-
-When the meeting finally ended, she had forty-five minutes to write a speech that would broadcast to four billion people in Antarctica and be rebroadcast globally.
-
-*Good morning. Everyone's going to die. Please remain calm.*
-
-Her comm chimed. Private line. Kenji.
-
-She accepted immediately. Her son's face appeared—young, frightened in a way she hadn't seen since he was a child waking from nightmares.
-
-"Mom."
-
-"Kenji. Where are you?"
-
-"Still at the lab. I saw the data. I thought—I thought there had to be a mistake, but Dr. Okafor says—" His voice broke.
-
-"Come home. Right now. Come home."
-
-"I'm on my way."
-
-He arrived eighteen minutes later. Elena met him in the hallway and pulled him into an embrace. He was taller than her—had been for years—but in that moment he felt small and terrifyingly mortal.
-
-"I don't know what to do," she whispered into his shoulder.
-
-Kenji pulled back to look at her. "You don't have to know. You just have to—"
-
-"Be the mayor? Project certainty? Give people hope?" Elena laughed bitterly. "There is no hope, Kenji. In fifteen years we're all going to be dead. You're going to be dead at thirty-nine."
-
-"Then what?" Kenji asked. "We just give up?"
-
-"I don't know." Elena stepped back, straightening her jacket. Professional distance reasserting itself. "I have to address the city in twelve minutes. I need to figure out what to say."
-
-"Tell them the truth."
-
-"The truth is we're all going to die."
-
-"Then tell them that. You can't fix this, Mom. Nobody can. So just... be honest. Tell them what's happening. Don't pretend you have answers you don't have."
-
-Elena looked at her son—her brilliant, searching son who'd been asking questions about meaning for months, as if he'd sensed something was coming.
-
-"Stay," she said. "Stay while I do this."
-
-"Okay."
-
-###
-
-The broadcast went live at 6:00 AM precisely.
-
-Elena stood in the council chamber, alone except for the cameras and Kenji in the back of the room. Around Antarctica, screens activated in every home, every public space. Four billion people, most just waking to the worst news in human history.
-
-Elena looked into the camera and spoke.
-
-"Good morning. By now, many of you have seen the emergency alert from the UN Monitoring Network. I'm here to confirm that the alert is accurate and to tell you what we know.
-
-"At 3:47 AM, our monitoring station detected an asteroid on a collision course with Earth. The asteroid is approximately fifteen kilometers in diameter. Impact probability is 99.97%—effectively certain. Time to impact is fifteen years, two months, and fourteen days.
-
-"Our best scientists have analyzed every possible deflection scenario. I wish I could tell you that we have a solution. I wish I could tell you that we're going to stop this. But I won't lie to you. The truth is we can't. The asteroid cannot be deflected with any technology we currently possess or could develop in the time available. When it strikes, it will cause an extinction-level event. Nothing will survive."
-
-She paused. Across Antarctica, across the world, billions of people were processing these words. Children were being held by parents. Partners were reaching for each other. Some were crying. Some were in shock. Some were already preparing to riot.
-
-"I don't have easy answers for you. I don't have a plan that will save us. What I can tell you is this: we have fifteen years. Fifteen years to decide how we want to spend the time we have left. Fifteen years to choose who we want to be in the face of this.
-
-"The government will continue to function. We will maintain essential services as long as possible. Food distribution, power, water, medical care—we will keep our city running. We will keep people safe. We will maintain order.
-
-"But I can't tell you what to do with your fifteen years. That's a choice only you can make. 
-
-"I know many of you are afraid. I'm afraid too. I know many of you are angry. That's justified. I know some of you want answers I cannot give. I'm sorry.
-
-"What I can promise is that we will face this together. That we will take care of each other. That we will find whatever meaning and dignity we can in the time we have.
-
-"The asteroid is coming. We cannot stop it. But we can choose how we meet it.
-
-"More information will be distributed throughout the day. Emergency services remain operational. If you need help, reach out. We're all in this together.
-
-"Thank you."
-
-The broadcast ended.
-
-Elena stood in the empty council chamber, feeling the weight of four billion people watching, waiting, looking to her for guidance she couldn't provide.
-
-Kenji came forward and took her hand.
-
-"You did good, Mom."
-
-"I told four billion people they're going to die."
-
-"You told them the truth. That's all you could do."
-
-Outside, through the windows, Elena could see the city waking to its new reality. Lights coming on in residential towers. People emerging onto streets and balconies. Some running. Some standing still. Some embracing.
-
-The sun was rising over Antarctica. First light on the first day of humanity's final countdown.
-
-Elena Torres, Mayor of the most populous district on Earth, utterly powerless to save anyone, watched dawn break on a world that had fifteen years left.
-
-She squeezed her son's hand and wondered how they would possibly survive this.
-
-Not the asteroid. That would kill them.
-
-But the waiting. The knowing. The fifteen years of counting down to extinction.
-
-How did anyone survive that?
+Everyone would.
