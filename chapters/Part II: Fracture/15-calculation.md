@@ -68,7 +68,7 @@ Her fingers hovered over the reply button. Had hovered there for four years. Sti
 
 What would she say? *Sorry I calculated your children's deaths and then vanished into data*? *Sorry I can't access emotions anymore*? *Sorry I chose numbness over connection*?
 
-The truth was simpler and worse: she didn't want to respond. Didn't want to see her niece and nephew. Didn't want to watch them grow and laugh and live knowing exactly when they'd die. Maya would be sixteen when the asteroid hit. Kofi would be thirteen. Neither would reach adulthood. Neither would have children. Neither would matter beyond their brief existence.
+The truth was simpler and worse: she didn't want to respond. Didn't want to see her niece and nephew. Didn't want to watch them grow and laugh and live knowing exactly when they'd die. Maya would be seventeen when the asteroid hit. Kofi would be fourteen. Neither would reach adulthood. Neither would have children. Neither would matter beyond their brief existence.
 
 No. That was wrong thinking. They mattered now. Brief didn't mean meaningless. She'd heard that argument, read it in papers, seen philosophers discuss it. Intellectually, she understood.
 
