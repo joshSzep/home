@@ -38,7 +38,7 @@ Two hundred thousand. Elena felt the number settle. Four years ago it would have
 
 "Orders, Mayor?" Marcus Rivera asked gently.
 
-Elena looked at her deputy mayor. Thirty-four years old, brilliant, pragmatic, committed. Three years ago he'd run against her, calling her governance "empty symbolism." Two years ago he'd conceded gracefully and offered to serve. Now he sat beside her every morning, helping bear a burden he'd once dismissed as theater.
+Elena looked at her deputy mayor. Thirty-five years old, brilliant, pragmatic, committed. Three years ago he'd run against her, calling her governance "empty symbolism." Two years ago he'd conceded gracefully and offered to serve. Now he sat beside her every morning, helping bear a burden he'd once dismissed as theater.
 
 "Same as yesterday," Elena said. Her voice was steady, practiced. "Maintain what we can. Document what we can't. Prioritize life-sustaining systems. Continue essential services as long as staffing allows. We keep showing up. That's the goal."
 
@@ -220,7 +220,7 @@ At 6 PM, Marcus stopped by her office. "Go home."
 
 "You always have more work. The work is infinite. Your capacity isn't. Go home."
 
-Elena looked at her deputy mayor. Thirty-four years old, carrying weight he didn't have to carry, staying when he could leave. "Why are you doing this, Marcus? Really?"
+Elena looked at her deputy mayor. Thirty-five years old, carrying weight he didn't have to carry, staying when he could leave. "Why are you doing this, Marcus? Really?"
 
 "I told you. I want to help bear the burden."
 
