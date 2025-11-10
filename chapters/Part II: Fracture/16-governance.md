@@ -56,7 +56,7 @@ They sat in the too-large room, two people governing a dying city, and didn't ta
 
 Marcus pulled up his tablet. "I've been thinking about Year 6."
 
-Year 6. The election. Elena's second term ended in eleven months. Democratic protocol required elections every four years. She'd insisted on it Year 2—"If we abandon democracy, we abandon everything that made us human." Voters had agreed, barely. 61-39. Legitimate mandate. Hollow victory. Democratic extinction.
+Year 6. The election. Elena's second term ended in just over two years—Year 6, Month 9 if they followed the same schedule as last time. Democratic protocol required elections every four years. She'd insisted on it Year 2—"If we abandon democracy, we abandon everything that made us human." Voters had agreed, barely. 61-39. Legitimate mandate. Hollow victory. Democratic extinction.
 
 "Will anyone run against you?" Marcus asked.
 
