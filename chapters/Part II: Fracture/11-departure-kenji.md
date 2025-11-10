@@ -253,9 +253,3 @@ The transport flew toward sunrise. Kenji flew with it. Leaving home. Seeking hom
 In the meantime: questions. Motion. Practice.
 
 That would have to be enough.
-
----
-
-**End of Chapter 11**
-
-*Next: Chapter 12 - Election (Elena POV)*

@@ -339,9 +339,3 @@ Now: dinner cooking. Children playing. Family together.
 Now: garden tomorrow. Teaching continuing. Flowers blooming.
 
 Now: enough.
-
----
-
-**End Chapter 10**
-
-*Thirteen years remaining.*
