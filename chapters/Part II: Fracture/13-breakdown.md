@@ -1,6 +1,6 @@
 # Chapter 13: Breakdown
 
-**POV: Ibrahim al-Rashid | Year 3, Month 2 | Jerusalem / Antarctica**
+**POV: Ibrahim al-Rashid | Year 2, Month 2 | Jerusalem / Antarctica**
 
 ---
 

@@ -1,6 +1,6 @@
 # Chapter 10: Life Choices
 
-**POV: Zara Okafor-Mensah | Year 1, Month 10 | Lagos District**
+**POV: Zara Okafor-Mensah | Year 0, Month 10 | Lagos District**
 
 ---
 

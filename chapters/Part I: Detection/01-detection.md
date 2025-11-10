@@ -1,6 +1,6 @@
 # Chapter 1: Detection
 
-**POV: Dr. Amara Okafor | Year 1, Day 1 | Antarctic Monitoring Station**
+**POV: Dr. Amara Okafor | Year 0, Day 1 | Antarctic Monitoring Station**
 
 ---
 

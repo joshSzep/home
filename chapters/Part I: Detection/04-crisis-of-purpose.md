@@ -1,6 +1,6 @@
 # Chapter 4: Crisis of Purpose
 
-**POV: Kenji Torres | Year 1, Day 1 | Antarctic Megacity, McMurdo District**
+**POV: Kenji Torres | Year 0, Day 1 | Antarctic Megacity, McMurdo District**
 
 ---
 

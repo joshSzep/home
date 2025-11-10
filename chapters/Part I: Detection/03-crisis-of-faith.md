@@ -1,6 +1,6 @@
 # Chapter 3: Crisis of Faith
 
-**POV: Ibrahim al-Rashid | Year 1, Day 1 | Jerusalem**
+**POV: Ibrahim al-Rashid | Year 0, Day 1 | Jerusalem**
 
 ---
 
