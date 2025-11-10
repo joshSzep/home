@@ -6,13 +6,13 @@
 
 ## I. The Last Battle
 
-The rubble was sharp against Ibrahim's shoulder. Twenty-one years old. Three years since detection. Still fighting. Still here. Still defending holy ground that wouldn't exist in twelve more years.
+The rubble was sharp against Ibrahim's shoulder. Twenty-one years old. Two years since detection. Still fighting. Still here. Still defending holy ground that wouldn't exist in thirteen more years.
 
 He'd stopped asking why months ago.
 
 The night was cool—Jerusalem winter, brief respite from desert heat. Ibrahim crouched behind what used to be someone's kitchen wall. Ceramic tiles still visible, blue and white geometric patterns. Traditional. Beautiful. Belonging to a family that had fled or died or simply stopped caring about their home because what was the point?
 
-His squad was positioned across the contested zone. Fifteen fighters. Down from forty three years ago. Some had left. Some had died. Some had simply walked away mid-patrol, dropped their weapons, and disappeared into the city. The commanders didn't chase them anymore.
+His squad was positioned across the contested zone. Fifteen fighters. Down from forty two years ago. Some had left. Some had died. Some had simply walked away mid-patrol, dropped their weapons, and disappeared into the city. The commanders didn't chase them anymore.
 
 Commander Hassan's voice crackled in Ibrahim's earpiece. "Movement. Northeast corner. Wait for my signal."
 
@@ -88,11 +88,11 @@ The doctor's expression was carefully neutral. "That's your choice. Medically, y
 
 Ibrahim said nothing. The doctor continued: "You have options. Your militia will take you back in support role. Or you can discharge honorably. We have refugee placement services. Many fighters are choosing to relocate—Antarctica has housing, services, infrastructure. You could start over."
 
-"Start over?" The phrase felt absurd. "For twelve years?"
+"Start over?" The phrase felt absurd. "For thirteen years?"
 
-"Twelve years is still twelve years. That's the position we're all in." The doctor's face showed the same weariness everyone wore now. "Think about it. You have time."
+"Thirteen years is still thirteen years. That's the position we're all in." The doctor's face showed the same weariness everyone wore now. "Think about it. You have time."
 
-Time. Twelve years. 4,380 days. Then extinction. Whether he died here in Jerusalem or elsewhere made no difference to the asteroid. Made no difference to Allah, if Allah existed. Made no difference to anyone except himself.
+Time. Thirteen years. 4,745 days. Then extinction. Whether he died here in Jerusalem or elsewhere made no difference to the asteroid. Made no difference to Allah, if Allah existed. Made no difference to anyone except himself.
 
 And he didn't know if he cared enough about himself to matter.
 
@@ -170,7 +170,7 @@ Now: all ground was temporary. All territories would end. Going to Antarctica me
 
 The transport left two weeks later. UN evacuation flight—refugees, wounded fighters, support staff rotating out. A hundred people who'd given up on wherever they'd been. Heading to the Antarctic megacity because what else?
 
-Ibrahim sat by window. Watched Jerusalem recede. The holy city, contested for three thousand years, shrinking to toy-size below. All that blood. All that prayer. All that history. Twelve years left before vaporization.
+Ibrahim sat by window. Watched Jerusalem recede. The holy city, contested for three thousand years, shrinking to toy-size below. All that blood. All that prayer. All that history. Thirteen years left before vaporization.
 
 He tried to feel something. Sadness, anger, relief. Anything.
 
@@ -192,7 +192,7 @@ The flight took eight hours. Ibrahim dozed, woke, stared at clouds, dozed again.
 
 Antarctica appeared below—massive city sprawling across ice. Infrastructure everywhere. Domes, towers, transit systems, residential blocks stretching to horizon. Four billion people. More than any city in history. All here because everywhere else had become unlivable during climate shift.
 
-And in twelve years—empty. Frozen again. Pristine. Like none of this had ever existed.
+And in thirteen years—empty. Frozen again. Pristine. Like none of this had ever existed.
 
 The landing was smooth. Immigration was perfunctory—scan ID, confirm refugee status, assign housing. "Block 47, Building 12, Unit 403. Rent subsidized for six months. Medical support available. Transit pass issued. Welcome to Antarctica."
 
@@ -258,7 +258,7 @@ His leg throbbed. The medication was wearing off. He should take more. Should ea
 
 Instead he sat on the bed in the strange apartment in the city he didn't know, feeling nothing, being nothing, having nothing.
 
-Twenty-one years old. Twelve years left. No faith. No identity. No purpose.
+Twenty-one years old. Thirteen years left. No faith. No identity. No purpose.
 
 Just: alive. Broken. Empty.
 
@@ -266,7 +266,7 @@ The window showed the Antarctic city stretching to darkness. Millions of lights.
 
 Ibrahim lay down. Stared at ceiling. Counted the cracks in the plaster because what else? Fourteen cracks. Specific number. Concrete fact. Something real in the emptiness.
 
-Fifty-three steps to get here. Fourteen cracks above him. Twelve years remaining. Numbers instead of meaning. Counting instead of believing.
+Fifty-three steps to get here. Fourteen cracks above him. Thirteen years remaining. Numbers instead of meaning. Counting instead of believing.
 
 This was his life now. This apartment. This brokenness. This nothing.
 
@@ -276,7 +276,7 @@ No plan. No hope. No faith.
 
 Just: existing.
 
-And twelve years stretching ahead like fifty-three steps he'd have to climb every day until climbing stopped mattering.
+And thirteen years stretching ahead like fifty-three steps he'd have to climb every day until climbing stopped mattering.
 
 He closed his eyes.
 
