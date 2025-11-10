@@ -93,7 +93,7 @@ She input the parameters: mass 1.5 × 10^15 kg, velocity 28.3 km/s, time to impa
 
 Every option failed. Every scenario returned the same result: INSUFFICIENT.
 
-The physics was absolute. The object was too massive, moving too fast, arriving too soon. Humanity had built impressive technology over a thousand years of spaceflight—fusion drives, orbital construction, deep space mining. But physics didn't care about impressiveness. It cared about mass and velocity and time, and the math was unambiguous.
+The physics was absolute. The object was too massive, moving too fast, arriving too soon. Humanity had built impressive technology over a thousand years of spaceflight—solar-electric propulsion, orbital construction, deep space mining. But physics didn't care about impressiveness. It cared about mass and velocity and time, and the math was unambiguous.
 
 This object could not be stopped.
 
