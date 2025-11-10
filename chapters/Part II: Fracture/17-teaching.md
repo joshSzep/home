@@ -261,7 +261,7 @@ Voices at the door. Zara arriving with Maya and Kofi. Punctual. Present. Practic
 
 They settled into the garden. The teaching continued. Simple lessons about blooming and dying. About caterpillars transforming. About being present to what is. The same teaching Wei had offered for forty years, now compressed into final years, final months, final lessons.
 
-She was 118 years old. Her body was failing. Her death approached naturally. And she was teaching children who would die at seven and four, teaching a mother who would die at forty, teaching seekers who would die young, teaching a mayor who would die governing, teaching a wanderer who would die seeking, teaching a builder who would die maintaining.
+She was 118 years old. Her body was failing. Her death approached naturally. And she was teaching children who would die at seventeen and fourteen, teaching a mother who would die at forty-seven, teaching seekers who would die young, teaching a mayor who would die governing.
 
 All of them temporary. All of them practicing. All of them perfect exactly as they were.
 
