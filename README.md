@@ -67,19 +67,6 @@ This is Buddhist philosophy meets hard science fiction. Humanist values confront
 
 ---
 
-## Structure
-
-**~160,000 words | 42 chapters | 4 parts**
-
-- **Part I: Detection (Year 1)** — The world learns, reacts, fractures
-- **Part II: Fracture (Years 2-7)** — Divergent paths, searching, separation
-- **Part III: Searching (Years 8-12)** — Reconnections, transformations, loss
-- **Part IV: Convergence (Year 15)** — Together in Antarctica for the end
-
-Seven perspectives. One countdown. No escape.
-
----
-
 ## Project Organization
 
 ```
