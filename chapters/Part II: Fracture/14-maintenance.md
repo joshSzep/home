@@ -160,7 +160,7 @@ Probably not. Probably should talk to her. Probably should acknowledge the truth
 
 Tomorrow. He'd think about it tomorrow.
 
-But tomorrow he'd wake at 6:30 AM. Eat breakfast. Take the transport to the solar arrays. Clip his harness to platform seventy-three. Greet 47B. Start the day's repairs. Work until shift end. Go to the break room. Read manuals. Come home late. Eat alone. Sleep alone.
+But tomorrow he'd wake at 5:00 AM. Shower. Eat breakfast. Take the transport to the solar arrays. Clip his harness to platform seventy-three at 6:47 AM. Greet 47B. Start the day's repairs. Work until shift end. Go to the break room. Read manuals. Come home late. Eat alone. Sleep alone.
 
 Same as today. Same as yesterday. Same as every day for three years.
 
@@ -174,7 +174,7 @@ He closed his eyes. Sleep came slowly, but it came.
 
 ---
 
-The next morning: 6:30 AM. Alarm. Shower. Breakfast. Transport to the arrays.
+The next morning: 5:00 AM. Alarm. Shower. Breakfast. Transport to the arrays.
 
 Platform seventy-three. 6:47 AM. Three minutes early.
 
