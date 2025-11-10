@@ -114,7 +114,7 @@ Afternoon brought visitors. Three young people—early twenties, seekers from Mu
 
 "Come in."
 
-They entered hesitantly—the young woman (who introduced herself as Priya), a pale young man (Marcus from Australia), and a South African woman (Thandiwe). All seeking. All desperate. All carrying the same question: *How do we live ten years knowing we'll die?*
+They entered hesitantly—the young woman (who introduced herself as Priya), a pale young man (Liam from Australia), and a South African woman (Thandiwe). All seeking. All desperate. All carrying the same question: *How do we live ten years knowing we'll die?*
 
 Wei made tea. The ritual was automatic, despite her shaking hands. Water heated. Leaves steeped. Cups filled. The simplest ceremony. The most necessary.
 
@@ -128,7 +128,7 @@ Priya looked confused. "What?"
 
 "Why should fear go away? You're dying. Fear is appropriate response. The question isn't how to eliminate fear. The question is how to live alongside it."
 
-Marcus leaned forward. "But the meditation teachers say—"
+Liam leaned forward. "But the meditation teachers say—"
 
 "What do they say?"
 
@@ -146,13 +146,13 @@ She set down her cup, gestured to the garden. "Look at these plants. I've tended
 
 "You're doing it right now. Sitting here. Drinking tea. Being present to your fear instead of running from it. That's practice."
 
-"That's all?" Marcus sounded skeptical. "Just... sitting?"
+"That's all?" Liam sounded skeptical. "Just... sitting?"
 
 "Just sitting. Just breathing. Just tending gardens. Just drinking tea. Yes. That's all. People want dramatic answers. Want special techniques. Want secret wisdom. But the wisdom is simple: be here now. That's everything."
 
 They sat quietly, drinking tea, watching the garden. Kofi's earlier energy still hung in the air somehow—laughter echoing. Maya's serious questions. Zara's steady presence. The garden held all of it. Brief moments layering over each other, composting into meaning.
 
-"I don't understand," Marcus admitted finally. "Intellectually, yes. I understand impermanence. I understand presence. But emotionally—" He touched his chest. "Here. I can't feel it. Can't live it."
+"I don't understand," Liam admitted finally. "Intellectually, yes. I understand impermanence. I understand presence. But emotionally—" He touched his chest. "Here. I can't feel it. Can't live it."
 
 "Yes," Wei said. "Intellectual understanding is easy. Emotional integration is practice of lifetime. You're twenty-two?"
 
@@ -171,7 +171,7 @@ Wei considered. "Sometimes. My body is failing. That's uncomfortable. I don't fe
 
 She looked at the three young seekers. "You want wisdom that will make this easy. There is no such wisdom. This is hard. Dying is hard. Living knowing you'll die is hard. The practice doesn't make it easy. Makes it bearable. Makes it meaningful. Makes it rich. Ten years of presence is worth more than eighty years of distraction."
 
-"How do we start?" Marcus asked.
+"How do we start?" Liam asked.
 
 "You've already started. You're here. Asking questions. Sitting in this garden. Drinking tea. This is practice. Tomorrow, do it again. Next day, again. Every day until you die. That's all. Simple and impossibly difficult."
 
