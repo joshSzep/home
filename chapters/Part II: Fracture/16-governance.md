@@ -208,7 +208,7 @@ They finished lunch in silence. Then Marcus returned to his office and Elena ret
 
 Afternoon brought the usual chaos. Security incident in District 7—riot over food distribution, twelve injured, no deaths. Elena authorized emergency rations and additional medical support. Knew it wouldn't prevent the next riot. Didn't matter. You handled today's crisis today.
 
-Power outage in Sector 12. Chen reported repair crews responding but undermanned. Elena authorized overtime pay from reserves that wouldn't last but didn't need to last forever. Ten years of reserves was plenty.
+Power outage in Sector 12. Chen reported repair crews responding but undermanned. Elena authorized overtime pay from reserves that wouldn't last but didn't need to last forever. Eleven years of reserves was plenty.
 
 Health services requesting additional mental health staff. Dr. Ade's voice tight with exhaustion: "We're losing people daily to suicide. Not enough therapists. Not enough beds. Not enough anything." Elena approved the hire authorization. Knew they wouldn't find enough people. Approved it anyway.
 
