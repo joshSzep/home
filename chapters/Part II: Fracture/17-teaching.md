@@ -100,17 +100,17 @@ The letter continued:
 
 *— Wei*
 
-She sealed the letter, addressed it carefully. Kenji would forward it. He served as her messenger without knowing it, connecting her to people she'd never meet. The teaching spreading like seeds—wind-carried, finding soil in unexpected places.
+She sealed the letter, addressed it carefully. Would send it through the postal network—old-fashioned, but reliable. Elena would receive it in a few days. Would read it, perhaps, between briefings. Would continue her practice of governance. The teaching spreading like seeds—wind-carried, finding soil in unexpected places.
 
-Three more letters waited. One to a seeker in Tokyo who'd written asking about meaning. One to a community organizer in Mumbai. One to Father Tomás—Brazilian priest Kenji had mentioned, faith shattered, seeking replacement.
+Three more letters waited. One to a seeker in Tokyo who'd written asking about meaning. One to a community organizer in Mumbai. One to Father Tomás—Brazilian priest she'd been corresponding with, faith shattered, seeking replacement.
 
 Wei wrote to them all. Same message, different words. Impermanence is truth. Presence is practice. Meaning exists in the moment, not the outcome. Simple philosophy. Ancient philosophy. Philosophy humanity kept forgetting and relearning.
 
 ---
 
-Afternoon brought visitors. Three young people—early twenties, seekers Kenji had sent from Mumbai. Wei heard them at her door, wheeled herself to answer.
+Afternoon brought visitors. Three young people—early twenties, seekers from Mumbai. Wei heard them at her door, wheeled herself to answer.
 
-"Professor Wei?" The young woman in front looked nervous. Indian, maybe twenty-three, wearing the simple clothes of ashram life. "Kenji Torres sent us. Said you might speak with us."
+"Professor Wei?" The young woman in front looked nervous. Indian, maybe twenty-three, wearing the simple clothes of ashram life. "We heard about your teaching. Hoped you might speak with us."
 
 "Come in."
 
@@ -120,7 +120,7 @@ Wei made tea. The ritual was automatic, despite her shaking hands. Water heated.
 
 They sat on her balcony among the plants. The garden had become her classroom. Better than any lecture hall. Life demonstrating impermanence in real time. Better teaching than words could provide.
 
-"Kenji said you understand," Priya began. "How to live the ending. We're at the ashram trying to learn. Meditating. Studying. But—" Her voice cracked. "Nothing helps. The fear doesn't go away."
+"We heard you understand," Priya began. "How to live the ending. We're at the ashram trying to learn. Meditating. Studying. But—" Her voice cracked. "Nothing helps. The fear doesn't go away."
 
 "Why should it?" Wei asked.
 
@@ -229,7 +229,7 @@ Zara smiled. "See you tomorrow, Professor."
 
 Alone in darkness, Wei lay in bed not sleeping. Her body was tired. Her mind was active. Ten years until the asteroid. Two years, maybe less, until her natural death. The math was simple.
 
-She thought about the teaching spreading. Letters finding seekers. Kenji carrying messages. Elena governing with dignity. Zara raising children with defiance. David (whom she'd never met) maintaining with purpose. All connected through her philosophy, though most didn't know it.
+She thought about the teaching spreading. Letters finding readers. Word passing between seekers. Elena governing with dignity in Antarctica. Zara raising children with defiance here in Lagos. People she'd never meet maintaining purpose—builders, teachers, parents, workers. All connected through simple philosophy, though most didn't know the source.
 
 Seeds scattered. Some taking root. The gardenia that had bloomed and died—its seeds would sprout next season. Briefly. Before everything ended. But the blooming mattered. Not because it lasted. Because it happened.
 
