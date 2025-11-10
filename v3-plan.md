@@ -737,8 +737,8 @@ The ending works emotionally but could use:
 **Arc**: Powerful leader → Dignified witness
 
 **Year 1**: Leadership burden
-- Mayor of McMurdo District
-- 4 million people
+- Mayor of Antarctica (continent-spanning megacity)
+- 4 billion people
 - No solutions, only presence
 - Son Kenji spiraling
 - Governance as ritual
@@ -815,12 +815,13 @@ From README but never in text. These need to appear naturally:
 
 ### Antarctica Mega-City
 
-**Population**: 3-4 billion (Year 1) → 1-2 million (Year 15)
+**Population**: 4 billion (Year 1) → under 2 million (Year 15)
 
 **Structure**:
-- McMurdo District (Elena governs this)
-- Lagos District (where Zara lives years 1-13)
-- Other districts mentioned
+- Continent-spanning megacity with multiple districts
+- McMurdo District (one district among dozens)
+- Elena governs the entire Antarctic megacity as Mayor
+- Lagos District exists separately (West African coast, where Zara lives)
 - Layered city: underground, surface, elevated
 - Engineered climate: livable but still cold
 - Mass transit, vertical farming, solar arrays

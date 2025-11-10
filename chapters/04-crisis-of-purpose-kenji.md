@@ -1,6 +1,6 @@
 # Chapter 4: Crisis of Purpose
 
-**POV: Kenji Torres | Year 1, Day 1 | McMurdo District**
+**POV: Kenji Torres | Year 1, Day 1 | Antarctic Megacity, McMurdo District**
 
 ---
 
@@ -42,7 +42,7 @@ The words landed but didn't fully connect. Like information in a language he was
 
 "Yes."
 
-"Four million people here. Eight billion total."
+"Four billion people here in Antarctica. Eight billion total."
 
 "Yes."
 
@@ -84,7 +84,7 @@ He'd never imagined reading those same conclusions about a real object.
 
 The bluntness cracked something in his chest. "I understand."
 
-They sat in silence. Through the windows, McMurdo District sprawled—four million lights representing four million lives, all temporary now. All counting down. His mother had governed these people for eight years. Maintained order, planned futures, built infrastructure designed to last centuries. All of it ending in fifteen years.
+They sat in silence. Through the windows, McMurdo District sprawled—one district among dozens spanning the Antarctic continent, lights merging into an endless urban horizon. Four billion lives across the megacity, all temporary now. All counting down. His mother had governed Antarctica for eight years. Maintained order, planned futures, built infrastructure designed to last centuries. All of it ending in fifteen years.
 
 "What do you need from me?" Elena asked. "As your mother. Not as mayor. What do you need?"
 
@@ -95,6 +95,24 @@ Kenji didn't know. The question was too large. What do you need when your future
 "That's okay. You don't have to know." She stood, moved to the kitchen, started making tea. The automatic ritual of crisis. "I don't know what I need either. I just know I need to do something. Maintain routines. Keep moving. Because if I stop..." She trailed off.
 
 Kenji watched her work through familiar motions. His mother, the most powerful human on Earth, reduced to making tea because that was something concrete, something controllable, something that made sense when nothing else did.
+
+"I have eight more calls," she said, pouring the water. "Emergency coordinators, district governors, security council members. They're all asking the same question: what do we do? And I don't have an answer. How do you govern four billion people—" Her voice caught. "How do you govern when there's no future to govern for?"
+
+"You still govern," Kenji said quietly. He wasn't sure where the words came from. Shock, maybe. Or the clinical detachment that let him analyze problems without feeling them. "The future ended, but today's still happening. People still need... infrastructure. Order. Someone to—" He stopped. The words sounded hollow even as he said them.
+
+"Someone to lie to them that it'll be okay?" Elena brought the tea over. Set a cup in front of him. "Because that's what governance feels like right now. Organized lying."
+
+"Or organized presence," Kenji suggested. "You can't save anyone. But you can show up. Maintain order while order still matters. That's not lying. That's... something."
+
+His mother looked at him, really looked at him. "When did you get wise?"
+
+"I'm not wise. I'm in shock. Ask me again tomorrow and I'll probably be useless."
+
+She smiled slightly. Sad but real. "Tomorrow. That's still a thing, isn't it? Tomorrow. Next week. Fifteen years of tomorrows." She took a sip of tea. "I keep thinking: I won't see you grow old. Won't meet your children. Won't—" She stopped. Collected herself. "But you're here now. That's something."
+
+"That's something," Kenji agreed.
+
+So he stayed. They sat together on the couch, drinking tea, not talking much. His mother leaned against him eventually—seeking comfort, offering it. They watched the city lights through the window. Four billion people across the continent who would learn in the morning that everything had changed.
 
 "The briefings don't matter anymore," she said, back to him. "Everything I've built. Every policy. Every long-term plan. It all ends in fifteen years."
 

@@ -214,7 +214,7 @@ But: moving toward home instead of toward the next party. Small change. Barely n
 
 Maybe not.
 
-The transit system took him across the district. McMurdo-Lagos connection, thirty minutes. Kenji watched the city pass—five million lives, all temporary, all doomed. But all living anyway. Working. Building. Continuing. Like Michael said: filling time with something other than destruction.
+The transit system took him across districts. Lagos to Antarctic Central Hub, thirty minutes. Kenji watched the megacity pass—billions of lives, all temporary, all doomed. But all living anyway. Working. Building. Continuing. Like Michael said: filling time with something other than destruction.
 
 Could Kenji do that? Could he work again? Study again? Be human again? The dissertation was gone. That future was dead. But... fourteen years remained. That was time. What could he fill it with?
 
@@ -228,7 +228,7 @@ Or maybe he'd spiral again. Maybe the parties would reclaim him. Maybe the subst
 
 Today, that was enough.
 
-The transit stopped at McMurdo Central. Kenji disembarked. His mother's building was ten blocks. He walked slowly, exhausted, barely present. Counted the blocks. Focused on the counting. One step. Another step. Movement forward. Small. Barely.
+The transit stopped at Antarctic Central. Kenji disembarked. His mother's building was ten blocks. He walked slowly, exhausted, barely present. Counted the blocks. Focused on the counting. One step. Another step. Movement forward. Small. Barely.
 
 But forward.
 

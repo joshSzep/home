@@ -12,7 +12,7 @@ Her tea had gone cold again. She took a sip anyway, grimacing at the bitter meta
 
 Asteroid 2024-KJ9 drifted across her primary screen—a small rock, maybe thirty meters across, passing safely at 0.15 AU. Nothing threatening. Nothing interesting. She logged the observation, added it to the archive, moved to the next object. The system had flagged it green: no impact probability, no follow-up required. Standard. Predictable. Safe.
 
-Through the reinforced windows, the Antarctic night pressed dark and absolute. No stars visible through the glare of McMurdo District—four million souls living at the bottom of the world, their lights bright enough to drown out the cosmos. Somewhere out there, her husband David was working the solar arrays, maintaining the massive panels that fed power to humanity's greatest concentration of civilization. They'd barely spoken in three months. When had that started? She couldn't remember. Couldn't quite bring herself to care.
+Through the reinforced windows, the Antarctic night pressed dark and absolute. No stars visible through the glare of McMurdo District—one of dozens of urban zones spanning the continent, its lights merging with the glow of neighboring districts to create an unbroken luminous sprawl. Four billion souls living at the bottom of the world, their lights bright enough to drown out the cosmos. Somewhere out there, her husband David was working the solar arrays, maintaining the massive panels that fed power to humanity's greatest concentration of civilization. They'd barely spoken in three months. When had that started? She couldn't remember. Couldn't quite bring herself to care.
 
 The station was so quiet she could hear her own breathing. Quiet enough to think. Too quiet, sometimes. Especially at 3:47 AM, when the night stretched longest and thoughts turned unwelcome directions.
 
@@ -99,7 +99,11 @@ This object could not be stopped.
 
 Amara sat in the silent station, staring at the screen full of failures, and understood: everyone was going to die.
 
-Not eventually. Not in the abstract, distant future. In fifteen years. Everyone she knew. Everyone she'd ever met. The four million people in McMurdo. The eight billion scattered across Earth's remaining habitable zones. Her colleagues. Her husband. Her sister.
+Her colleagues. Her husband. Her sister.
+
+Not eventually. Not in the abstract, distant future. In fifteen years. Everyone she knew. Everyone she'd ever met. The four billion people across Antarctica's continent-spanning megacity. The eight billion scattered across Earth's remaining habitable zones. Her colleagues. Her husband. Her sister.
+
+Her parents, dead twenty years now. At least they wouldn't die again. Zara—her sister in Lagos. Zara's daughter Maya, two years old. David. Her few friends, scattered across research stations. All of them. Gone. Vaporized or frozen or starved in the aftermath.
 
 Maya.
 
@@ -169,7 +173,7 @@ She sat in the silent station, surrounded by the blinking lights of unanswered c
 
 4:37 AM. An hour since detection. An hour since the universe ended.
 
-Outside, McMurdo District was waking up. Early shift workers heading to their jobs. Transit systems cycling through morning routes. Four million people beginning another ordinary day, not yet knowing this was the day everything changed. Soon, the alerts would cascade through civil defense networks. Soon, the screens would light up with emergency broadcasts. Soon, everyone would know.
+Outside, McMurdo District was waking up. Early shift workers heading to their jobs. Transit systems cycling through morning routes. Hundreds of millions of people across the Antarctic megacity beginning another ordinary day, not yet knowing this was the day everything changed. Soon, the alerts would cascade through civil defense networks. Soon, the screens would light up with emergency broadcasts. Soon, everyone would know.
 
 But for now, for this brief moment, Amara was the only person on Earth who fully understood that humanity had fifteen years left.
 

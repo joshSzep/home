@@ -116,7 +116,7 @@ Divergent paths. Searching. Separation. The world fractures, and so do our chara
 
 **Guilt Without Feeling**: Knowing intellectually she should feel terrible. Should respond. Should be aunt, sister, human. But: can't access those emotions. They're buried under calculations. Safer this way.
 
-**Chen's Report**: Colleague Chen (infrastructure, not her David) submits data: power grid degrading. Water systems failing. Transport collapsing. Antarctica losing 15% population per year. Amara files the report. Updates her models. Predicts: Antarctica population Year 15: ~1 million (down from 4 million). She doesn't think about what this means for humans. Just: data.
+**Chen's Report**: Colleague Chen (infrastructure, not her David) submits data: power grid degrading. Water systems failing. Transport collapsing. Antarctica losing 15% population per year. Amara files the report. Updates her models. Predicts: Antarctica population Year 15: ~1 billion (down from 4 billion). She doesn't think about what this means for humans. Just: data.
 
 **The Station**: Walking through empty facility. Sixty workstations. Three occupied. Her footsteps echo. This building was full five years ago. Vibrant. Purposeful. Now: tomb. She's the last priestess, performing rituals for dead gods.
 
@@ -131,7 +131,7 @@ Divergent paths. Searching. Separation. The world fractures, and so do our chara
 
 **Opening**: Morning briefing. Council chamber designed for thirty department heads. Current attendance: five people. Elena, Marcus (assistant), Chen (infrastructure), Kowalski (security), Dr. Ade (health services). Everyone else: quit, fled, died.
 
-**Population Report**: Chen presents data. McMurdo District: 3.1 million (down from 4.2 million Year 1). Birth rate: effectively zero. Death rate: climbing. Infrastructure: failing. Power 68%, water 73%, transport 45%.
+**Population Report**: Chen presents data. Antarctic megacity: 3.1 billion (down from 4.2 billion Year 1). Birth rate: effectively zero. Death rate: climbing. Infrastructure: failing. Power 68%, water 73%, transport 45%.
 
 **Why Are We Here?**: Elena looks at her five remaining staff. Thinks: why do they stay? Why do I stay? We're governing collapse. Maintaining symbols of order while order dissolves.
 
@@ -145,9 +145,9 @@ Divergent paths. Searching. Separation. The world fractures, and so do our chara
 
 **The Philosophy**: Sitting alone in office after hours. Understanding forming: her job isn't to save anyone—can't save anyone. Her job is to show up. To maintain structure. To give people something to rely on. To witness collapse with dignity.
 
-**Daily Record**: Elena opens her journal. Updates the official record. Day 1,461. Population 3.1 million. Infrastructure declining. Governance continuing. She writes: "I govern because someone should. I bear witness because that's all that remains. Dignity persists when power doesn't."
+**Daily Record**: Elena opens her journal. Updates the official record. Day 1,461. Population 3.1 billion. Infrastructure declining. Governance continuing. She writes: "I govern because someone should. I bear witness because that's all that remains. Dignity persists when power doesn't."
 
-**End**: Walking home through McMurdo. City quieter than four years ago. But: lights still on (mostly). Water still flows (mostly). People still moving (fewer, but moving). Order maintained. Elena did that. Still doing that. Will do until she can't.
+**End**: Walking home through the megacity. Continental sprawl quieter than four years ago. But: lights still on (mostly). Water still flows (mostly). People still moving (fewer, but moving). Order maintained. Elena did that. Still doing that. Will do until she can't.
 
 **Key beats**: Skeleton staff • Population collapse • Why we stay • Marcus's understanding • Kenji's letters • Wei's teaching spreading • Governance as meaning-making • Witness as purpose
 

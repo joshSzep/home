@@ -92,9 +92,9 @@ Conference table for fifty. Present: five. Elena, Marcus, Chen, Kowalski, Dr. Ad
 
 "Population report," Elena said, starting the ritual.
 
-"Two point eight million," Chen reported. "Down from four point two million at detection. Thirty-three percent loss in one year."
+"Two point eight billion," Chen reported. "Down from four point two billion at detection. Thirty-three percent loss in one year."
 
-Two point eight million. Elena documented this. Who would read these notes? No one. But someone should record. Someone should say: we were here. We tried. We maintained dignity.
+Two point eight billion. Elena documented this. Who would read these notes? No one. But someone should record. Someone should say: we were here. We tried. We maintained dignity.
 
 "Infrastructure at fifty-five percent. Security adequate. Health services struggling." The reports continued. Everything declining. Everything failing slowly. Everything maintained as long as possible by skeleton crew.
 

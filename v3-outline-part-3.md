@@ -143,7 +143,7 @@ Reconnection. Teaching. Healing. The scattered begin to gather. The broken begin
 
 **Opening**: Mayor's office. Elena alone. Morning briefing ritual with zero attendees. She still shows up. Still maintains forms. Still bears witness. But burden is crushing. Five years left. Governing nothing.
 
-**Population Collapse**: McMurdo District: 1.2 million (down from 4 million at detection). Birth rate: effectively zero. Death rate: climbing. Infrastructure failing. Elena maintaining symbolic order for shrinking population. Why? No good answer anymore.
+**Population Collapse**: Antarctic megacity: 1.2 billion (down from 4 billion at detection). Birth rate: effectively zero. Death rate: climbing. Infrastructure failing. Elena maintaining symbolic order for shrinking population. Why? No good answer anymore.
 
 **The Visit**: Kenji arrives. Elena's son, returned after eight years. She hasn't seen him since Year 2. Didn't know if she'd ever see him again. Now: here. Older. Changed. Calm somehow.
 
@@ -413,15 +413,15 @@ Reconnection. Teaching. Healing. The scattered begin to gather. The broken begin
 
 **Opening**: Final day of Year 14. One year remains. Elena in mayor's office. Last time. Tomorrow: power shuts down completely. Office closes. Governance ends. Witness continues differently.
 
-**Fourteen Years**: Elena has been mayor through entire countdown. Year 1: 4 million people. Year 14: 1,847 people. She's documented everything. Maintained dignity. Borne witness. Now: role ends. Human continues.
+**Fourteen Years**: Elena has been mayor through entire countdown. Year 1: 4 billion people. Year 14: 1.8 million people remaining in Antarctica. She's documented everything. Maintained dignity. Borne witness. Now: role ends. Human continues.
 
-**The Final Report**: Elena writes by hand (power rationed). Summary of fourteen years. Population collapse. Infrastructure failure. Maintenance persisting. Community forming. Everything ending and everything continuing simultaneously. She writes for no one. Records for nothing. Does it anyway. That's witness.
+**The Final Report**: Elena at her desk. Writing final official document. Not for anyone—no one will read. For completion. For dignity. Because someone should document.
 
 **The Document**: *Year 14, Day 365. Final report. Population: 1,847. Systems: failing. Governance: symbolic. Community: forming. One year remains.* 
 
-*Fourteen years ago, I governed four million people. Believed I could lead through this. I couldn't. No one could. The asteroid doesn't care about leadership.*
+*Fourteen years ago, I governed four billion people. Believed I could lead through this. I couldn't. No one could. The asteroid doesn't care about leadership.*
 
-*But: I bore witness. I documented. I showed up daily. I maintained dignity when nothing else maintained. I watched collapse with clear eyes. That's enough.*
+*But: I showed up. Every day. Fourteen years of morning briefings. Fourteen years of impossible decisions. Fourteen years of bearing witness to collapse, to grief, to people trying to live anyway.*
 
 *Tomorrow this office closes. I cease being mayor. Become: Elena. Mother. Grandmother (no—Kenji no children). Community member. Human facing end with other humans.*
 
@@ -431,7 +431,7 @@ Reconnection. Teaching. Healing. The scattered begin to gather. The broken begin
 
 *That's everything.*
 
-*—Mayor Elena Torres, Final Report, McMurdo District, Antarctica, Year 14*
+*—Mayor Elena Torres, Final Report, Antarctica, Year 14*
 
 **Closing the Office**: Elena packs small box—personal items, journals, documents. Leaves official materials filed. Someone might want them (unlikely). But: proper form matters. She turns off lights. Locks door. Walks out final time.
 

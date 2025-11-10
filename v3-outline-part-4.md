@@ -27,7 +27,7 @@ Everyone gathers. Final moments. Presence until the end. Together into the light
 ## Chapter 38: Year 15, Month 1 — Final Migration
 **POV: Elena Torres (74) | Year 15, Month 1 | ~4,000 words**
 
-**Opening**: McMurdo District population: 1,847 people. Final census. No more leaving—everyone who's here chose to be here. Everyone who isn't already gone or dead.
+**Opening**: Antarctic population: 1.8 million people. Final census. No more leaving—everyone who's here chose to be here. Everyone who isn't already gone or dead.
 
 **The Patterns**: Elena observing how people gather. Not randomly. Choosing companions, choosing locations, choosing how to face the end. Some in families. Some in communities. Some alone but witnessed. Everyone making final choices about presence.
 
@@ -35,7 +35,7 @@ Everyone gathers. Final moments. Presence until the end. Together into the light
 
 **The Arrivals**: Last ships arriving. Zara's family (Amara's sister). Ibrahim's former imam (seeking reconciliation). Wei's former students (honoring dead teacher). Everyone converging. Everyone choosing Antarctica as final place.
 
-**Why Antarctica?**: Elena reflects: This is where humanity bet its future. This is Forever Earth's heart. Fitting that this is where it ends. Billions in Antarctica at peak. Now: thousands. But still: center. Still: home.
+**Why Antarctica?**: Elena reflects: This is where humanity bet its future. This is Forever Earth's heart. Fitting that this is where it ends. Four billion in Antarctica at peak. Now: under two million. But still: center. Still: home.
 
 **Infrastructure Failing**: Power intermittent. Water systems degrading. Food from stores. Everything maintained just barely. David Chen's solar arrays still functioning—testament to his persistence. Everything working just long enough.
 
@@ -45,7 +45,7 @@ Everyone gathers. Final moments. Presence until the end. Together into the light
 
 **Conversation with Kenji**: Her son asks, "Mom, are you satisfied?" "With what?" "With how you led. With fourteen years as mayor." Elena thinks. "I didn't save anyone. But I bore witness. I maintained dignity. I did the work until there was no work left. Yes. That's enough."
 
-**End**: Elena looking out over McMurdo. Lights flickering. People moving between buildings. Community persisting. Three months left. She's ready? No. Present? Yes. That's everyone's truth now.
+**End**: Elena looking out over the megacity. Lights flickering across the vast continental sprawl. People moving between buildings. Community persisting. Three months left. She's ready? No. Present? Yes. That's everyone's truth now.
 
 **Key beats**: Final census • Choosing companions • Government ended, witness continuing • Final arrivals • Why Antarctica • Infrastructure barely holding • Community centers as heart • Kenji's question • Elena satisfied • Three months
 
@@ -282,7 +282,7 @@ But tonight: breath. That's everything.
 
 **Opening**: Thirty days until impact. Elena's final month. She's documented everything. Borne witness for fifteen years. Now: final lessons. Final presence. Final dignity.
 
-**The Community**: McMurdo District reduced to essential—1,200 people remaining (600 left last month for chosen places). Those staying chose Antarctica as final witness. Chose this community. Chose together.
+**The Community**: Antarctica reduced to essential—1.2 million people remaining (600,000 left last month for chosen places). Those staying chose Antarctica as final witness. Chose this community. Chose together.
 
 **Daily Gathering**: Community center every morning. Kenji leading practice. Elena attending daily now—not as mayor, as person. Sitting with everyone. Breathing with everyone. Practicing presence with everyone.
 

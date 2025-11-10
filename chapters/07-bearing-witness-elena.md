@@ -1,6 +1,6 @@
 # Chapter 7: Bearing Witness
 
-**POV: Mayor Elena Torres | Year 1, Day 60 | McMurdo District**
+**POV: Mayor Elena Torres | Year 1, Day 60 | Antarctic Megacity**
 
 ---
 
@@ -12,13 +12,13 @@ Everyone else had quit, fled, or died.
 
 Elena sat at the head of the table—her seat, her position, her responsibility. The room felt cavernous now, voices echoing in the empty space. She'd asked facilities to set up a smaller room. Marcus had argued against it: "Shows defeat. We maintain appearances."
 
-So they gathered in this too-large room, five people attempting to govern 3.5 million, pretending normalcy.
+So they gathered in this too-large room, five people attempting to govern 3.5 billion, pretending normalcy.
 
 "Population report," Elena said, starting with infrastructure as always. Order. Process. The ritual that had structured eight years of governance.
 
-Chen pulled up his data. "Three point one million as of this morning. Down from four point two million at detection. Rate of departure slowing but still significant. Projecting two point eight million by end of year."
+Chen pulled up his data. "Three point one billion as of this morning. Down from four point two billion at detection. Rate of departure slowing but still significant. Projecting two point eight billion by end of year."
 
-Three point one million. One point one million gone in sixty days. Fled to family, to preferred locations, to anywhere but here. Elena didn't blame them. Why stay in Antarctica when you had fifteen years left? Why live at the bottom of the world when the world was ending?
+Three point one billion. One point one billion gone in sixty days. Fled to other continents, to preferred locations, to anywhere but the ice. Elena didn't blame them. Why stay in Antarctica when you had fifteen years left? Why live at the bottom of the world when the world was ending?
 
 But she stayed. Because someone had to govern. Someone had to maintain order. Someone had to say: we still function, we still care, we still try.
 
@@ -44,11 +44,11 @@ Elena wrote this down. Knew she had no solutions. Couldn't make people care abou
 
 Dr. Ade looked exhausted. "Suicides are our primary concern. Rate has plateaued at three hundred percent above baseline, but that's still... terrible. Medical staff down fifty percent. Hospitals barely functioning. We're triaging based on short-term survival—no long-term treatments, obviously. Birth rate down ninety-four percent. Death rate up six hundred percent. The population decline Chen mentioned? Two-thirds is people leaving. One-third is people dying."
 
-One-third dying. Elena felt that number settle like weight. Two hundred thousand deaths in McMurdo in sixty days. More than all the deaths in her eight years as mayor combined. And this was just beginning.
+One-third dying. Elena felt that number settle like weight. Three hundred and sixty million deaths across Antarctica in sixty days. More than all the deaths in her eight years as mayor combined. And this was just beginning.
 
 "Orders, Mayor?" Marcus asked gently, the question he asked every morning.
 
-Elena looked at her notes. Infrastructure failing. Crime rising. Deaths accelerating. People fleeing. Her power was supposed to fix these things. She was mayor. Most powerful human on Earth, technically. Four million people—three point one now—under her governance.
+Elena looked at her notes. Infrastructure failing. Crime rising. Deaths accelerating. People fleeing. Her power was supposed to fix these things. She was mayor. Most powerful human on Earth, governing the planet's largest population concentration. Four billion people—three point one now—under her governance.
 
 And she was completely powerless to help any of them.
 
@@ -76,7 +76,7 @@ Elena felt unexpected tears. Blinked them back. Professional mask. Can't cry in 
 
 "I don't know why I'm doing this," she said quietly. "Maintaining government when government ends in fourteen years. Holding briefings that don't matter. Documenting collapse for archives no one will read. It's theater. Meaningless theater."
 
-"Is it meaningless?" Marcus pulled up his tablet. "Look. Last week you redistributed power to hospitals. Saved forty lives—forty people who'd have died in darkness. Yesterday you authorized emergency housing for refugees. Gave twelve hundred people shelter. This morning you'll sign the food distribution update. Keeps three million people fed for another week. Meaningless?"
+"Is it meaningless?" Marcus pulled up his tablet. "Look. Last week you redistributed power to hospitals. Saved four thousand lives—four thousand people who'd have died in darkness. Yesterday you authorized emergency housing for climate refugees. Gave a hundred and twenty thousand people shelter. This morning you'll sign the food distribution update. Keeps three billion people fed for another week. Meaningless?"
 
 "They're all going to die anyway."
 
@@ -108,7 +108,9 @@ Elena considered this. Was it enough to govern knowing governance ended? To hold
 
 "I don't know yet," she admitted. "But it's what I have. So I continue."
 
-Her office was quiet after Marcus left. Elena sat at her desk, looking at the city through her window. McMurdo District sprawling below—millions of lives, millions of lights, all temporary now. She'd fought for this position. Three campaigns. Lost twice, won the third. Governed with competence. Built infrastructure, managed growth, maintained stability. Wanted to leave legacy.
+Her office was quiet after Marcus left. Elena sat at her desk, looking at the megacity through her window. The Antarctic sprawl extending to the horizon—billions of lives, endless lights, all temporary now. She'd fought for this position. Three campaigns. Lost twice, won the third. Governed with competence. Built infrastructure, managed growth, maintained stability across the world's largest city. Wanted to leave legacy.
+
+Now legacy was impossible. In fifteen years, everything—Antarctica, Earth—would be reduced to molten rock and ash. Her governance would vanish. Her policies would mean nothing. The infrastructure she'd built would vaporize.
 
 There would be no legacy. The asteroid would erase everything. Her governance, her efforts, her eight years of work—all rendered meaningless by physics.
 
@@ -166,11 +168,11 @@ Elena had responded to that letter. First time writing back. Brief message: *Pro
 
 Wei had responded within a day: *Mayor Torres, you understand more than you think. Keep showing up. Keep practicing. That's all any of us can do. Even me, old woman watering garden that will burn. We tend what's here. We're present to what is. Together, separately, we practice. That's enough. That's everything. With compassion, Wei.*
 
-Elena stood, moved to the window. McMurdo below. Three point one million people. Her responsibility. Her practice. Her purpose—not because she could save them, but because she could witness them. Could govern with dignity. Could show up daily and say: you matter. Today, you matter.
+Elena stood, moved to the window. The Antarctic megacity stretched below. Three point one billion people. Her responsibility. Her practice. Her purpose—not because she could save them, but because she could witness them. Could govern with dignity. Could show up daily and say: you matter. Today, you matter.
 
 Tomorrow: same choice. And the day after. Fourteen years of tomorrows, each one practiced with presence.
 
-She pulled up her schedule. Morning briefing complete. Next: budget review. Then: infrastructure meeting. Then: health crisis response. Then: evening address to the district. All of it theater, maybe. All of it meaningless, possibly. All of it practice, certainly.
+She pulled up her schedule. Morning briefing complete. Next: budget review. Then: infrastructure meeting. Then: health crisis response. Then: evening address to the continent. All of it theater, maybe. All of it meaningless, possibly. All of it practice, certainly.
 
 She'd keep doing it. Because what else was there? She was Mayor Elena Torres. This was her function. These were her people. Outcome was beyond her control. But action—action was hers. Today's action. This moment's governance.
 
@@ -186,4 +188,12 @@ Fourteen years of todays.
 
 That was governance now. That was power. That was purpose.
 
-Elena Torres, Mayor of McMurdo District, bearing witness to the end of the world, one briefing at a time.
+She authorized the hospital power allocation. Signed the housing permits. Approved the food distribution. Each document a small act of governance. Each signature saying: today matters. Today, I care. Today, I'm present.
+
+Marcus knocked, entered. "Next meeting in ten."
+
+"Thank you." Elena saved her work, stood, prepared. Another meeting. Another decision. Another moment of bearing witness.
+
+Elena Torres, Mayor of Antarctica, bearing witness to the end of the world, one briefing at a time.
+
+Fourteen years left. She'd spend them showing up.

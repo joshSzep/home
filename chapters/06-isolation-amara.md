@@ -86,7 +86,7 @@ Amara processed this as data. Made graphs. Noted trends. Projected future mortal
 
 She filed the report. Didn't let herself feel it. Couldn't. If she felt forty-three million deaths, she'd break. Better to maintain numbness. Better to stay in the data. Numbers didn't hurt. Statistics didn't demand response. The mathematics was clean even when describing horror.
 
-Two months after detection, Amara returned to McMurdo. The monitoring station felt emptier. Used to be sixty scientists. Now: fifteen. Some quit. Some fled to be with family. Some died—three suicides that Amara knew about. The station was becoming tomb, staffed by the isolated and the devoted in unequal measure.
+Two months after detection, Amara returned to Antarctica. The monitoring station felt emptier. Used to be sixty scientists. Now: fifteen. Some quit. Some fled to be with family. Some died—three suicides that Amara knew about. The station was becoming tomb, staffed by the isolated and the devoted in unequal measure.
 
 She settled back into her routine. Graveyard shift. Alone at her workstation. Updating calculations that didn't need updating. The asteroid was exactly where it should be. Every observation confirmed the trajectory. Her presence was unnecessary—automation handled everything. But she showed up anyway. Because what else would she do?
 
@@ -168,7 +168,15 @@ Fourteen years, five months, fourteen days.
 
 The isolation was complete. The numbness was protection. The work was everything. And Amara was alone in a tomb, calculating the end of the world, unable to connect with anyone who still lived in it.
 
-Outside, McMurdo District glowed. Four million people becoming three and a half million as the exodus continued. Inside, Amara sat at her workstation and counted down to extinction, one day at a time, alone.
+Four months after detection. Population in McMurdo District down from 420 million to 350 million. Elena's briefings detailed the exodus—people fleeing to other districts, to other continents, seeking preferred locations for their final years. Infrastructure struggling. Crime rising. Order fraying across the megacity.
+
+Elena still governed. Still showed up daily. Still maintained routines that felt increasingly futile.
+
+Kenji was spiraling. Elena mentioned it in their brief conversations—her son disappearing into parties and substances, seeking oblivion. Amara processed this information clinically. Didn't offer help. Didn't know how. Wasn't capable.
+
+David stopped trying to talk to her. They existed in parallel—same apartment, separate lives. He worked the arrays. She worked the calculations. They passed each other like ghosts, acknowledged but not seen.
+
+Outside, McMurdo District glowed—one among dozens of urban zones, lights merging with neighboring districts into continental sprawl. 420 million people becoming 350 million as the exodus continued. Inside, Amara sat at her workstation and counted down to extinction, one day at a time, alone.
 
 This was her choice. This was her survival. This was how she spent the time remaining: isolated, calculating, numb.
 

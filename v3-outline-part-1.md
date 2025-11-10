@@ -83,7 +83,7 @@ The world learns. The world reacts. The world fractures.
 
 **Going to Mom**: Dr. Okafor follows protocols, professional mask. "Your mother needs to know." "I'll go to her." Transit almost empty—late night travelers, some know, some don't. Kenji can tell from faces.
 
-**Elena**: Mayor of McMurdo District. Most powerful human on Earth. Mother of Kenji. Answers door in robe. Sees his face. "Come in, mijo." He tells everything. She listens without interrupting. Silence. "So my power means nothing. I govern four million and can't save any." "No one can save anyone." "I wanted grandchildren," voice small. They sit together. McMurdo visible through windows—millions of lights, all temporary. Elena makes tea. Don't talk much. "The briefings don't matter anymore." But she'll hold them anyway.
+**Elena**: Mayor of Antarctica. Most powerful human on Earth. Mother of Kenji. Answers door in robe. Sees his face. "Come in, mijo." He tells everything. She listens without interrupting. Silence. "So my power means nothing. I govern four billion and can't save any." "No one can save anyone." "I wanted grandchildren," voice small. They sit together. Antarctic megacity visible through windows—billions of lights spanning the continent, all temporary. Elena makes tea. Don't talk much. "The briefings don't matter anymore." But she'll hold them anyway.
 
 **Return**: Kenji walks back—4 AM, Antarctic twilight, streets empty, screens showing panic. Returns to lab. Okafor gone. Dissertation still open: Chapter 3, "Long-Term Deflection Strategies." He closes it. Never opens again.
 
@@ -150,7 +150,11 @@ The world learns. The world reacts. The world fractures.
 
 **Reports Before**: Zoning policy, infrastructure upgrades, budget allocations, ten-year projections. Building Forever Earth, building for millennia. The work meant something.
 
-**Reports After**: Power grid 89% (crews abandoning). Water stable (losing engineers). Transit 67% (drivers not showing). Food functional (six months reserves). Security up 180% crime (60% force strength). Population 3.7M (down from 4M). Where are they going? Why track this?
+**Reports After**: Power grid 89% (crews abandoning). Water stable (losing engineers). Transit 67% (drivers not showing). Food functional (six months reserves). Security up 180% crime (60% force strength). Population 3.7B (down from 4.2B). Where are they going? Why track this?
+
+**Why Am I Here?**: Marcus asks why she stays. "We can't save anyone." "No. But someone should document collapse. Someone should bear witness. Someone should say: dignity mattered until the end. That's governance now—not power, not solutions. Just: presence. Showing up. Recording." "Is that enough?" "It has to be."
+
+**Apartment**: Lives alone (divorced 20 years). Spacious (mayor's privilege). Continental views: the megacity sprawling endlessly, magnificent. Used to love it (sanctuary). Now: too quiet, empty, too much time to think. Works until midnight. Returns exhausted. Sleeps four hours. Repeats.
 
 **Marcus**: Assistant, 32, brilliant. Could've left, stays. "Mayor Torres, interviews at nine." "Tell them I'm busy." "They want to know how you're governing." "Governing? I'm witnessing collapse." Marcus: "I'll tell them you're managing transition." "To what?" "To whatever comes next." "Nothing comes next, Marcus." "Then maintaining dignity until end." "Why are you still here?" "Because someone should witness you witnessing. And you're my mayor."
 
@@ -158,11 +162,11 @@ The world learns. The world reacts. The world fractures.
 
 **Kenji**: Her son, 24, PhD candidate (was—abandoned). Used to visit weekly. Since detection: seen twice, distant, hollow, high. Rumors: parties, substances, destructive. Wants to help. Doesn't know how. Won't take calls. "How are you, mijo?" "Fine." But he's not. Neither is she.
 
-**Apartment**: Lives alone (divorced 20 years). Spacious (mayor's privilege). McMurdo views: sprawling, magnificent. Used to love it (sanctuary). Now: too quiet, empty, too much time to think. Works until midnight. Returns exhausted. Sleeps four hours. Repeats.
+**Apartment**: Lives alone (divorced 20 years). Spacious (mayor's privilege). Continental views: the megacity sprawling endlessly, magnificent. Used to love it (sanctuary). Now: too quiet, empty, too much time to think. Works until midnight. Returns exhausted. Sleeps four hours. Repeats.
 
 **Wei's Letters**: Started two weeks ago. Professor Mei-Lin Wei, Lagos District. Never met. Simple letters, philosophical observations. "Dear Mayor Torres, I understand burden of responsibility... What you're doing matters, not because it changes outcome... But because bearing witness is itself meaningful..." Doesn't respond. But: they help. Someone seeing her. Someone understanding.
 
-**Evening**: 11 PM, still in office. Marcus gone. Elena at window. 3.7M people. All her responsibility. All dying. Can't save them. Can barely help. But: she'll show up tomorrow. Hold briefing. Ask questions. Maintain structure. Theater of governance. Because what else?
+**Evening**: 11 PM, still in office. Marcus gone. Elena at window. 3.7 billion people. All her responsibility. All dying. Can't save them. Can barely help. But: she'll show up tomorrow. Hold briefing. Ask questions. Maintain structure. Theater of governance. Because what else?
 
 **Closing**: City glows below. Millions of lights. Each one life. Each one temporary. All her responsibility. All beyond her power to save. Tomorrow: another briefing. Another day governing nothing. Another day bearing witness. Because someone has to. Even when meaningless. Especially then.
 
