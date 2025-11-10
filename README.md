@@ -5,7 +5,8 @@
 > "A flower bloomed."  
 > — Professor Mei-Lin Wei
 
-![Cover Image](./cover.png)
+![Front Cover Image](./front-cover.png)
+![Back Cover Image](./back-cover.png)
 
 ---
 
