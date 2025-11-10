@@ -284,8 +284,3 @@ Felt nothing.
 
 That was the point.
 
----
-
-**End Chapter 13**
-
-*Next: Chapter 14 — Maintenance (David Chen, Year 3)*
