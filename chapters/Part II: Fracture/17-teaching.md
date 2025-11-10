@@ -18,7 +18,7 @@ The lemon tree needed water. Wei filled the can from the rain barrel—a system 
 
 She watered the tree carefully, watching the soil absorb. Fifty years old, this tree. Grown from seed in Beijing. Transported through three moves, four climate zones, one lifetime. In ten years it would burn. But today it needed water. So she watered it.
 
-Voices at her door. Wei turned, saw Zara entering with Maya and Kofi. Maya was seven now—tall for her age, serious-faced, carrying a picture book. Kofi was three—all energy and curiosity, already running toward the garden.
+Voices at her door. Wei turned, saw Zara entering with Maya and Kofi. Maya was seven now—tall for her age, serious-faced, carrying a picture book. Kofi was four—all energy and curiosity, already running toward the garden.
 
 "Professor Wei!" Kofi's voice was pure delight. "Garden! Flowers!"
 
@@ -26,7 +26,7 @@ Voices at her door. Wei turned, saw Zara entering with Maya and Kofi. Maya was s
 
 "Let him run," Wei said. "Gardens are for living in."
 
-Kofi explored with the focus only three-year-olds possessed—touching leaves, examining bugs, talking to butterflies. Maya approached Wei more deliberately, the book clutched carefully.
+Kofi explored with the focus only four-year-olds possessed—touching leaves, examining bugs, talking to butterflies. Maya approached Wei more deliberately, the book clutched carefully.
 
 "I brought the butterfly book," Maya announced. "Can I read to Kofi?"
 
@@ -261,7 +261,7 @@ Voices at the door. Zara arriving with Maya and Kofi. Punctual. Present. Practic
 
 They settled into the garden. The teaching continued. Simple lessons about blooming and dying. About caterpillars transforming. About being present to what is. The same teaching Wei had offered for forty years, now compressed into final years, final months, final lessons.
 
-She was 118 years old. Her body was failing. Her death approached naturally. And she was teaching children who would die at seven and three, teaching a mother who would die at forty, teaching seekers who would die young, teaching a mayor who would die governing, teaching a wanderer who would die seeking, teaching a builder who would die maintaining.
+She was 118 years old. Her body was failing. Her death approached naturally. And she was teaching children who would die at seven and four, teaching a mother who would die at forty, teaching seekers who would die young, teaching a mayor who would die governing, teaching a wanderer who would die seeking, teaching a builder who would die maintaining.
 
 All of them temporary. All of them practicing. All of them perfect exactly as they were.
 
