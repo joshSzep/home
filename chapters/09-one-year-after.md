@@ -52,7 +52,7 @@ Alone.
 
 Kofi was six months old now. Time blurred in the constant attention babies demanded—sometimes Zara still felt the phantom weight of pregnancy, the anticipation, the defiant choice to create life. But no: he was here. Real. Gurgling in her arms.
 
-Maya was three. Kofi was six months. Both healthy. Both doomed. Zara had chosen this—chosen life despite extinction. Everyone called her cruel. Cruel to give Maya a doomed sister. Cruel to bring Kofi into a dying world.
+Maya was three. Kofi was six months. Both healthy. Both doomed. Zara had chosen this—chosen life despite extinction. Everyone called her cruel. Cruel to give Maya a doomed brother. Cruel to bring Kofi into a dying world.
 
 She didn't care. Her children mattered. Brief didn't mean meaningless. Wei taught her that.
 
