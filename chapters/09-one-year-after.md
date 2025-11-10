@@ -12,9 +12,9 @@ Amara sat at her workstation, the only occupied seat among sixty. The station hu
 
 Different world.
 
-Her screen displayed the countdown: **14 years, 0 months, 0 days remaining.**
+Her screen displayed the countdown: **14 years, 2 months, 14 days remaining.**
 
-One year gone. Fourteen left. The asteroid approaching with perfect mathematical precision. She'd updated the trajectory 10,847 times. Every calculation confirmed the same result. Impact probability: 99.97%. Time remaining: precisely 5,113 days.
+One year gone. Fourteen left. The asteroid approaching with perfect mathematical precision. She'd updated the trajectory 10,847 times. Every calculation confirmed the same result. Impact probability: 99.97%. Time remaining: precisely 5,183 days.
 
 Fourteen years.
 
