@@ -78,7 +78,7 @@ The forum was held in the old city council chamber—space for three thousand pe
 
 People still cared. That surprised her.
 
-Marcus Rivera stood at the other podium, looking nervous but determined. Thirty-two years old. She'd been thirty-two once—young mayor, first campaign, so certain she could fix things. Now sixty-four, third campaign, certain she could fix nothing.
+Marcus Rivera stood at the other podium, looking nervous but determined. Thirty-two years old. She'd been thirty-two once—young mayor, first campaign, so certain she could fix things. Now sixty-four, fourth campaign, certain she could fix nothing.
 
 The moderator was Dr. Yuki Tanaka, former journalist, now volunteer coordinator. She'd drawn up the rules: thirty minutes each, alternating responses, one minute rebuttals, closing statements.
 
