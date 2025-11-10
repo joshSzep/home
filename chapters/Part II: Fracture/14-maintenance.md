@@ -18,7 +18,7 @@ David smiled despite himself. The robot had been programmed to use his title—C
 
 They moved together across the platform, David's boots finding purchase on the metal grating, 47B's treads humming softly. The solar array stretched in every direction—thousands of platforms, millions of panels, all tilting automatically to track the sun. In the distance, the Antarctic megacity sprawled across what used to be ice shelf, a continental hive of humanity trying to survive its countdown.
 
-Eleven years, four months remaining.
+Twelve years, four months remaining.
 
 David didn't think about it. Thinking didn't help.
 
@@ -54,7 +54,7 @@ But David showed up. Every day. 6:47 AM. Because what else would he do?
 
 By noon, they'd completed six repairs. David ate lunch on platform seventy-three—his platform, the one he'd claimed through repetition. Protein bar and thermos of tea. 47B entered low-power mode beside him, a companionable silence.
 
-The megacity spread below. From two hundred meters up, you could see the patterns—the residential districts, the industrial zones, the green spaces engineered to provide oxygen and sanity. Four billion people down there. Used to be 4.2 billion. Numbers declining every month. Suicides, violence, despair, and the quiet decisions to stop fighting.
+The megacity spread below. From two hundred meters up, you could see the patterns—the residential districts, the industrial zones, the green spaces engineered to provide oxygen and sanity. Two billion people down there. Maybe fewer. Used to be 4.2 billion at detection, 2.8 billion after the first year. Numbers declining every month. Suicides, violence, despair, and the quiet decisions to stop fighting.
 
 David didn't look at the numbers anymore. Numbers were Amara's domain.
 
@@ -120,7 +120,7 @@ When?
 
 David tried to remember. Traced back. Year three, definitely distant. Year two, getting worse. Year one, after detection—that's when it broke. Amara retreating into data. David retreating into maintenance. Both of them choosing work over connection, choosing numbness over feeling, choosing isolation over the vulnerability of being together when everything was ending.
 
-He should talk to her. Should say: this isn't working. Should say: I miss you. Should say: we have eleven years left, let's not spend them as strangers.
+He should talk to her. Should say: this isn't working. Should say: I miss you. Should say: we have twelve years left, let's not spend them as strangers.
 
 He didn't say anything.
 
@@ -152,7 +152,7 @@ The bed was made—housekeeping automation. Amara's side looked untouched. Proba
 
 David lay down on his side. Looked at the empty space beside him.
 
-Eleven years, four months left.
+Twelve years, four months left.
 
 Should he spend them like this? Married to someone who wasn't present? Maintaining a relationship that was already over?
 
@@ -210,7 +210,7 @@ Was it enough?
 
 He didn't ask.
 
-Eleven years, four months left.
+Twelve years, four months left.
 
 He'd spend them maintaining. Because that's what he did. Because work was better than feeling. Because routine was better than chaos. Because showing up was better than giving up.
 
