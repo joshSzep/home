@@ -269,7 +269,7 @@ Elena read the letter three times. Felt something loosen in her chest—not reli
 
 She opened her journal—official record, personal practice, document for archives that wouldn't survive but existed now. Wrote:
 
-*Year 4, Month 7, Day 1,577. Population 2.2 billion. Infrastructure failing. Systems collapsing. Governance continuing.*
+*Year 4, Month 7. Day 1,577. Population 2.2 billion. Infrastructure failing. Systems collapsing. Governance continuing.*
 
 *I govern because someone should. I bear witness because witness is purpose. I show up because showing up is everything when showing up is all we have.*
 
