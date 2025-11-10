@@ -102,7 +102,7 @@ She pulled up her personal messages. Kenji had written.
 
 *— Kenji*
 
-Elena read it twice. Her son was twenty-seven now. Four years into his wandering. Still lost. Still seeking. Still alive, which was something. The parties had stopped, or at least the desperate obliteration had slowed. Progress. Maybe.
+Elena read it twice. Her son was twenty-eight now. Nearly three years into his wandering. Still lost. Still seeking. Still alive, which was something. The parties had stopped, or at least the desperate obliteration had slowed. Progress. Maybe.
 
 She started a reply:
 
