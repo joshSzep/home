@@ -16,7 +16,7 @@ Everyone gathers. Final moments. Presence until the end. Together into the light
 
 **Opening**: Antarctica dock. Amara watching Zara's ship arrive. Fifteen years of distance ending. Three months until impact.
 
-**The Reunion**: Sisters embracing after years of estrangement. Amara sobbing—relief, regret, love. Meeting Maya (17) and Kofi (12) for first time really. Meeting Kwame properly. David witnessing with gentle support.
+**The Reunion**: Sisters embracing after years of estrangement. Amara sobbing—relief, regret, love. Meeting Maya (17) and Kofi (13) for first time really. Meeting Kwame properly. David witnessing with gentle support.
 
 **First Night**: Amara can't stop watching her family. Maya and Kofi exploring. Being teenagers. Being alive. Zara and Kwame exhausted but present. David creating space. Home becoming real.
 
@@ -60,13 +60,13 @@ Everyone gathers. Final moments. Presence until the end. Together into the light
 
 **Opening**: Maya's first night in Antarctica. Can't sleep. Too cold, too strange, too final. She walks outside—midnight, polar night, stars brilliant. Standing in the place where the world will end.
 
-**Seventeen Years**: Maya doing the math she's always done. Born Year 1, month 3. Impact Year 15, month 4. She'll be exactly seventeen years, one month old. Never eighteen. Never adult. Never anything but: temporary.
+**Seventeen Years**: Maya doing the math she's always done. Born Year -2, month 9. Impact Year 15, month 4. She'll be seventeen years, seven months old. Never eighteen. Never adult. Never anything but: temporary.
 
 **Growing Up Doomed**: Reflection on her childhood. Everyone knew she was temporary. Teachers awkward. Other parents pitying. Strangers accusatory (why did your mother have you?). But Mama fierce: "Your life matters. Brief doesn't mean meaningless."
 
 **Wei's Influence**: Grandmother Wei (honorary grandmother) taught her presence. From age two to Wei's death. The garden. The flowers. The impermanence made visible. Wei dying naturally before the asteroid—mercy and loss both.
 
-**Kofi**: Her brother. Twelve years old. Brilliant, curious, kind. She raised him almost as much as Mama did. Taught him reading. Taught him kindness. Taught him that brief life matters. He'll die at twelve. She'll die at seventeen. Both too young. Both exactly the age they'll be.
+**Kofi**: Her brother. Thirteen years old. Brilliant, curious, kind. She raised him almost as much as Mama did. Taught him reading. Taught him kindness. Taught him that brief life matters. He'll die at fourteen (in three months). She'll die at seventeen. Both too young. Both exactly the age they'll be.
 
 **What She Wants**: Maya standing under Antarctic stars, thinking: What do I want from three months? 
 
@@ -82,7 +82,7 @@ Just: presence. Knowing family. Especially Aunt Amara. Learning from Uncle David
 
 **Kenji**: Young uncle who teaches presence. Maya knows his story—dropout, wanderer, returned. Learned from Wei. Teaches what Wei taught. Maya wants to learn too. Wants three months of practice. Not to be ready (impossible). To be present (possible).
 
-**Kofi Sleeping**: Maya returns to apartment. Kofi asleep on couch, mouth open, looking twelve. She covers him with blanket. Watches him breathe. Three months. Then: no breath. No Kofi. No anything.
+**Kofi Sleeping**: Maya returns to apartment. Kofi asleep on couch, mouth open, looking thirteen. She covers him with blanket. Watches him breathe. Three months. Then: no breath. No Kofi. No anything.
 
 The grief wells up—anticipatory grief she's carried seventeen years. But also: love. He's here now. She's here now. That has to count.
 
@@ -101,7 +101,7 @@ The grief wells up—anticipatory grief she's carried seventeen years. But also:
 
 **The Practice**: Simple instructions. "Notice breath. Notice body. Notice thoughts without clinging. Notice feelings without drowning. This moment. This moment. This moment. Nothing more. Nothing less. This is enough."
 
-**The Students**: Sixty people ranging from children (Kofi, twelve) to elders (Elena, seventy-four). Everyone practicing together. Everyone learning presence. Not for enlightenment. Not for peace. Just: for being here clearly, fully, truly.
+**The Students**: Sixty people ranging from children (Kofi, thirteen) to elders (Elena, seventy-four). Everyone practicing together. Everyone learning presence. Not for enlightenment. Not for peace. Just: for being here clearly, fully, truly.
 
 **Maya**: Kenji watching his niece—seventeen, brilliant, Wei's spiritual granddaughter somehow. She practices with fierce concentration. Asks deep questions. Understands instinctively. Wei would have loved teaching her. But Wei died Year 11. Now: Kenji honors Wei by teaching Maya what Wei would have taught.
 
@@ -442,7 +442,7 @@ Maya cries. "I don't want to die."
 
 "Terrified. But we're together. That helps."
 
-**Day 4 — Kofi's Innocence**: Kofi less aware than Maya. He's twelve. Understands intellectually but not emotionally. Still plays. Still laughs. Still explores. Still alive in ways Maya can't be anymore.
+**Day 4 — Kofi's Innocence**: Kofi less aware than Maya. He's fourteen. Understands intellectually but not emotionally. Still plays. Still laughs. Still explores. Still alive in ways Maya can't be anymore.
 
 Zara watching him: this is grace. He won't suffer the anticipatory grief Maya carries. He'll die younger, but he'll die lighter. Both terrible. Both mercy. Both true.
 
@@ -518,7 +518,7 @@ Fifteen years. Final week. Tomorrow begins the end. But tonight: breathing. Toni
 
 **Ibrahim & Hassan**: Former fighter. Former imam. Both uncertain. Both present. Both together. Faith in people. Faith in presence. Faith in this moment.
 
-**Maya & Kofi**: Sister and brother. Seventeen and twelve. Brief lives. Real lives. Loved lives. Together until the end.
+**Maya & Kofi**: Sister and brother. Seventeen and fourteen. Brief lives. Real lives. Loved lives. Together until the end.
 
 **The Light**: Impact. Pacific Ocean. Energy released. Physics fulfilling itself. Light consuming everything. Heat. Blast. Ending.
 

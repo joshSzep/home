@@ -91,11 +91,11 @@ Reconnection. Teaching. Healing. The scattered begin to gather. The broken begin
 ## Chapter 27: Year 9 — Lagos Reunion
 **POV: Zara Okafor-Mensah (42) | Year 9, Month 3 | ~4,500 words**
 
-**Opening**: Lagos spaceport. Zara waiting with Maya (9) and Kofi (6). Nervous. Excited. Scared. Amara visiting for first time in nine years. Will it be awkward? Will the children like her? Will old wounds open?
+**Opening**: Lagos spaceport. Zara waiting with Maya (11) and Kofi (7). Nervous. Excited. Scared. Amara visiting for first time in nine years. Will it be awkward? Will the children like her? Will old wounds open?
 
 **The Arrival**: Amara and David disembark. Sisters see each other—nine years older, both changed. Long moment of uncertainty. Then: embrace. Not tentative. Full. Real. Zara crying: "You came." Amara: "I should have come sooner." "You're here now. That's enough."
 
-**Meeting the Children**: Maya (9) serious and curious: "Hello, Aunt Amara. I'm Maya. I'm very good at mathematics." Amara laughs: "I heard. Your mother says you're brilliant." Kofi (6) shy at first, then: "Are you from space?" "No, from Antarctica." "Is that the same?" "Almost."
+**Meeting the Children**: Maya (11) serious and curious: "Hello, Aunt Amara. I'm Maya. I'm very good at mathematics." Amara laughs: "I heard. Your mother says you're brilliant." Kofi (7) shy at first, then: "Are you from space?" "No, from Antarctica." "Is that the same?" "Almost."
 
 **David's Presence**: Kwame and David meet—two quiet men, both married to intense women. Instant understanding. Kwame: "Welcome. Tea?" David: "Please." They disappear into kitchen, leaving sisters alone.
 

@@ -9,22 +9,22 @@ Divergent paths. Searching. Separation. The world fractures, and so do our chara
 
 ---
 
-## Chapter 10: Year 2 — Life Choices
-**POV: Zara Okafor-Mensah (35) | Year 2, Month 3 | ~4,000 words**
+## Chapter 10: Year 1, Month 10 — Life Choices
+**POV: Zara Okafor-Mensah (34) | Year 1, Month 10 | ~4,000 words**
 
 **Opening**: Lagos District hospital. Zara in labor. Kwame beside her. Maya (3) with neighbor. The delivery ward half-empty—most maternity staff quit, automation handles basics.
 
 **Kofi's Birth**: Healthy boy. Perfect. Doomed. Nurse congratulates carefully, eyes sad. "He's beautiful." Zara holds him, feels fierce love and fierce defiance. You will matter. Your brief life will matter.
 
-**The Accusations**: First week home. Messages from strangers: "How could you?" "Bringing a child into this?" "Selfish." "Cruel." One message: "You gave him 13 years of fear instead of non-existence." Zara deletes, blocks, ignores.
+**The Accusations**: First week home. Messages from strangers: "How could you?" "Bringing a child into this?" "Selfish." "Cruel." One message: "You gave him 14 years of fear instead of non-existence." Zara deletes, blocks, ignores.
 
-**Maya Meets Brother**: Three years old, curious, gentle. "Baby Kofi!" Holds him carefully. Zara watching her daughter, thinking: nine years left for you. But right now—joy. Right now—sister.
+**Maya Meets Brother**: Three years old, curious, gentle. "Baby Kofi!" Holds him carefully. Zara watching her daughter, thinking: fourteen years left for you. But right now—joy. Right now—sister.
 
-**Defiant Philosophy Forming**: Conversation with Kwame late at night. Kofi sleeping between them. "Did we do the right thing?" "I don't know. But he's here. He's real. His life matters." "For thirteen years." "Thirteen years of consciousness is more than infinite non-existence. Ask any philosopher."
+**Defiant Philosophy Forming**: Conversation with Kwame late at night. Kofi sleeping between them. "Did we do the right thing?" "I don't know. But he's here. He's real. His life matters." "For fourteen years." "Fourteen years of consciousness is more than infinite non-existence. Ask any philosopher."
 
 **Reaching Out**: Zara calls Amara. Voicemail. Tries again next day. Text message with Kofi's photo. No response. Third attempt. Nothing. Her sister chose isolation. Fine. Zara has family here.
 
-**End**: Maya singing to Kofi. Kwame cooking. Zara in doorway watching them. Two years gone. Thirteen left. Life continuing because what else would it do?
+**End**: Maya singing to Kofi. Kwame cooking. Zara in doorway watching them. Less than one year gone. Fourteen left. Life continuing because what else would it do?
 
 **Key beats**: Birth as defiance • Accusations as background noise • Maya's gentleness • Sisterhood abandoned • Family as choice • Life continuing
 
@@ -163,7 +163,7 @@ Elena surprised, moved: "Yes. Thank you."
 
 **Numbness as Protection**: Realizes: she's not feeling it. 1.2 billion dead. Sister's messages ignored. Husband avoided. Life reduced to data. The numbness is protective. If she feels it, she'll break. So: don't feel.
 
-**Zara's Messages**: Scrolling through two years of ignored messages. Photos of Maya (5) and Kofi (1). Videos of first steps. Voice messages: "Amara, please respond." "Amara, I miss you." "Amara, Kofi was born. You have nephew." Later messages: "Fine. I understand. Take care of yourself."
+**Zara's Messages**: Scrolling through three years of ignored messages. Photos of Maya (6) and Kofi (2). Videos of first steps. Voice messages: "Amara, please respond." "Amara, I miss you." "Amara, Kofi was born. You have nephew." Later messages: "Fine. I understand. Take care of yourself."
 
 **Guilt Without Feeling**: Knowing intellectually she should feel terrible. Should respond. Should be aunt, sister, human. But: can't access those emotions. They're buried under calculations. Safer this way.
 
@@ -211,7 +211,7 @@ Marcus (34, pragmatic but committed): "I was wrong. Not about the pragmatism—w
 ## Chapter 17: Year 5 — Teaching
 **POV: Professor Mei-Lin Wei (118) | Year 5, Month 4 | ~4,500 words**
 
-**Opening**: Wei's garden. Morning. Maya (6) and Kofi (3) playing among flowers. Wei watching from her wheelchair—body failing, mind sharp. Zara tending lemon tree nearby.
+**Opening**: Wei's garden. Morning. Maya (7) and Kofi (3) playing among flowers. Wei watching from her wheelchair—body failing, mind sharp. Zara tending lemon tree nearby.
 
 **Garden Lessons**: Maya reading to Kofi from picture book about butterflies. Wei listening, occasionally correcting: "Not 'caterpillar becomes butterfly.' Caterpillar transforms. Becoming suggests something added. Transformation is change from within."
 
@@ -265,7 +265,7 @@ Marcus (34, pragmatic but committed): "I was wrong. Not about the pragmatism—w
 ## Chapter 19: Year 6 — Community
 **POV: Zara Okafor-Mensah (37) | Year 6, Month 3 | ~4,000 words**
 
-**Opening**: Zara's apartment compound. Morning. Maya (7) teaching Kofi (3) his letters. "That's K. K for Kofi!" Kwame making breakfast. Zara at table, engineering schematics displayed—she's designing greywater system for compound.
+**Opening**: Zara's apartment compound. Morning. Maya (8) teaching Kofi (4) his letters. "That's K. K for Kofi!" Kwame making breakfast. Zara at table, engineering schematics displayed—she's designing greywater system for compound.
 
 **The Compound Community**: Apartment building (50 units) has formed tight community. Shared resources. Shared childcare. Shared meals sometimes. Neighbors helping each other. Not commune—just: people supporting people.
 
@@ -415,7 +415,7 @@ Realizes: this is what she wanted at Year 4. Governance as witness, not power. B
 - Amara: "Because I can't do this anymore. Because seven years alone is enough. Because I want to meet my niblings. If you'll let me."
 - Zara: (Another silence. Then, softly:) "Of course. They want to meet you too."
 
-**The Crack Widens**: They talk for two hours. Awkward, halting, real. Zara updates her: Maya (8) brilliant and serious. Kofi (4) joyful and curious. Kwame steady. Lagos thriving despite everything. Community forming. Life continuing.
+**The Crack Widens**: They talk for two hours. Awkward, halting, real. Zara updates her: Maya (9) brilliant and serious. Kofi (5) joyful and curious. Kwame steady. Lagos thriving despite everything. Community forming. Life continuing.
 
 Amara shares nothing (what would she share? Seven years of calculations?). Just listens. Just reconnects. Just starts.
 
