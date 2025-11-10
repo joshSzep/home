@@ -74,13 +74,13 @@ After the family left—promising to return tomorrow, as always—Wei wheeled he
 
 The desk was covered with letters. Wei had been writing more in the past year, understanding her time was short. Natural death would claim her before the asteroid. Probably within two years, the doctors said. Her body was finishing its transformation.
 
-She picked up the latest letter to Elena Torres. Had never met the mayor. Knew her only through Kenji's descriptions, through the news reports, through intuition. But Wei understood Elena's work. Understood the burden of showing up when showing up accomplished nothing.
+She picked up the latest letter to Elena Torres. Had never met the mayor in person, but they'd been corresponding for five years now. Knew her through their letters, through the news reports, through the understanding that came from years of honest exchange. Wei understood Elena's work. Understood the burden of showing up when showing up accomplished nothing.
 
 The letter continued:
 
 *Mayor Torres—*
 
-*Your son writes to me sometimes. Describes your governance. Says you maintain order when order is impossible. Show up to briefings when no one shows up. Sign documents that won't matter. Lead when leadership can't save anyone.*
+*Five years of letters between us. I understand your work better now than when I first wrote. You maintain order when order is impossible. Show up to briefings when no one shows up. Sign documents that won't matter. Lead when leadership can't save anyone.*
 
 *This is wisdom. This is everything.*
 
