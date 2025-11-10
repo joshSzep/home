@@ -202,7 +202,7 @@ Wei's teaching, filtered through Marcus. Elena heard the echo—presence over pe
 
 "Because it's honest. Because it says: I see you, I'm here, I can't save you but I won't abandon you. That's governance. That's what you do every morning. That's what I help you do."
 
-They finished lunch in silence. Then Marcus returned to his office and Elena returned to her work—policy reviews, resource allocation, infrastructure planning for systems that would exist for ten more years then vanish.
+They finished lunch in silence. Then Marcus returned to his office and Elena returned to her work—policy reviews, resource allocation, infrastructure planning for systems that would exist for eleven more years then vanish.
 
 ---
 
