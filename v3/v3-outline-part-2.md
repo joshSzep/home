@@ -211,26 +211,26 @@ Marcus (34, pragmatic but committed): "I was wrong. Not about the pragmatism—w
 ## Chapter 17: Year 5 — Teaching
 **POV: Professor Mei-Lin Wei (118) | Year 5, Month 4 | ~4,500 words**
 
-**Opening**: Wei's garden. Morning. Maya (7) and Kofi (3) playing among flowers. Wei watching from her wheelchair—body failing, mind sharp. Zara tending lemon tree nearby.
+**Opening**: Wei's garden. Morning. Maya (7) and Kofi (4) playing among flowers. Wei watching from her wheelchair—body failing, mind sharp. Zara tending lemon tree nearby.
 
 **Garden Lessons**: Maya reading to Kofi from picture book about butterflies. Wei listening, occasionally correcting: "Not 'caterpillar becomes butterfly.' Caterpillar transforms. Becoming suggests something added. Transformation is change from within."
 
 **Her Body Failing**: Wei is 118. Needs wheelchair now. Hands shake. Vision blurs sometimes. But: mind clear. She's lived long enough to understand impermanence completely. Body's failure is just: truth made visible.
 
-**The Letters**: Wei writes letters. Many letters. To Elena Torres (through Kenji). To seekers worldwide. To students who visit. To anyone searching for how to live the end. Her philosophy spreading like seeds—wind-carried, taking root in unexpected places.
+**The Letters**: Wei writes letters. Many letters. To Elena Torres (direct correspondence for five years). To seekers worldwide. To students who visit. To Father Tomás (Brazilian priest). To anyone searching for how to live the end. Her philosophy spreading like seeds—wind-carried, taking root in unexpected places.
 
 **Core Teaching**: Letter to Elena, written this morning:
-*"You govern when governing is impossible. This is wisdom. Not achieving outcomes—being present in your role. The mayor who shows up when there's nothing to govern is more honest than the mayor who governed in better times. You witness collapse with dignity. This matters. This is everything."*
+*"Five years of letters between us. I understand your work better now than when I first wrote. You maintain order when order is impossible. Show up to briefings when no one shows up. Sign documents that won't matter. Lead when leadership can't save anyone. This is wisdom. This is everything."*
 
-**Students Visiting**: Afternoon. Three students arrive from Mumbai. Seekers Kenji sent. Young people (20s, 30s) desperately searching for meaning. Wei makes tea. Sits with them. One asks: "How do we live fifteen years knowing we'll die?" Wei: "Same way you'd live not knowing. Everyone dies. Asteroid just makes timeline visible."
+**Students Visiting**: Afternoon. Three students arrive from Mumbai—Priya (Indian, 23), Liam (Australian, 23), Thandiwe (South African). Seekers who heard about Wei's teaching. Young people desperately searching for meaning. Wei makes tea. Sits with them. One asks: "How do we live ten years knowing we'll die?" Wei: "Same way you'd live not knowing. Everyone dies. Asteroid just makes timeline visible."
 
 **Zara's Question**: Evening. Children playing. Zara asks: "Professor Wei, do you fear death?" Wei: "Fear? No. Death is transformation, like butterfly. Do I grieve this life ending? Sometimes. But grief and fear are different. I've practiced letting go for 118 years. Now: final practice."
 
-**Philosophy Spreading**: Wei understands her work now. Not grand theory. Not published books. Just: teaching presence through example. Letters. Conversations. Garden lessons. Seeds spreading. Kenji in Mumbai learning, then teaching others. Elena in Antarctica governing with dignity. Zara raising children with defiance. David maintaining with purpose. All connected through Wei's teaching, though most haven't met her.
+**Philosophy Spreading**: Wei understands her work now. Not grand theory. Not published books. Just: teaching presence through example. Letters. Conversations. Garden lessons. Seeds spreading through word of mouth. Elena in Antarctica governing with dignity. Zara raising children with defiance. People she's never met maintaining purpose. All connected through simple philosophy, though most don't know the source.
 
 **End**: Night. Wei alone in garden. 118 years old. Five years into apocalypse. Ten years until asteroid. Her death will come before—natural death, not collective. She welcomes this. Gets to die the old way, practicing what she taught. The flowers bloom around her. Tomorrow some will fade. That's truth. That's beauty.
 
-**Key beats**: Garden as classroom • Body failing, mind sharp • Letters spreading teaching • Core philosophy articulated • Students seeking • Zara's intimacy • Teaching through example • Seeds spreading • Natural death approaching
+**Key beats**: Garden as classroom • Body failing, mind sharp • Direct correspondence with Elena (5 years) • Letters spreading teaching • Core philosophy articulated • Students seek her by reputation • Zara's intimacy • Teaching through example • Seeds spreading organically • Natural death approaching
 
 ---
 
