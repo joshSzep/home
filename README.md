@@ -29,7 +29,7 @@ How do you spend it?
 
 **Earth 3025** is humanity's prison and paradise. Confined by physics itself—the Five Prisons that bound us to this world and mortality—we've built a civilization that works within constraints:
 
-- **Antarctica** is the megacity, home to 3-4 billion people after climate catastrophe
+- **Antarctica** is the megacity, home to over 4 billion people after climate catastrophe
 - **Temperate zones** (former deserts, Siberia) are habitable, vibrant
 - **Old cities** are underwater or abandoned
 - **Technology** is advanced but bounded—no AI singularity, no fusion, no FTL
