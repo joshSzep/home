@@ -50,9 +50,9 @@ Alone.
 
 ## Zara — Lagos Garden, Morning
 
-Kofi was six months old now. Time blurred in the constant attention babies demanded—sometimes Zara still felt the phantom weight of pregnancy, the anticipation, the defiant choice to create life. But no: he was here. Real. Gurgling in her arms.
+Kofi was two months old now. Time blurred in the constant attention babies demanded—sometimes Zara still felt the phantom weight of pregnancy, the anticipation, the defiant choice to create life. But no: he was here. Real. Gurgling in her arms.
 
-Maya was three. Kofi was six months. Both healthy. Both doomed. Zara had chosen this—chosen life despite extinction. Everyone called her cruel. Cruel to give Maya a doomed brother. Cruel to bring Kofi into a dying world.
+Maya was three. Kofi was two months. Both healthy. Both doomed. Zara had chosen this—chosen life despite extinction. Everyone called her cruel. Cruel to give Maya a doomed brother. Cruel to bring Kofi into a dying world.
 
 She didn't care. Her children mattered. Brief didn't mean meaningless. Wei taught her that.
 
@@ -64,7 +64,7 @@ Maya nodded seriously. "Flowers don't last. Nothing lasts. But they're still pre
 
 "Very good." Wei's approval warmed. "Your mother learned quickly. Now she teaches you."
 
-Zara held Kofi, who babbled happily. Six months old. Fourteen years left. He'd die at fourteen. Never reach fifteen. Never reach adulthood. But right now: alive, healthy, laughing.
+Zara held Kofi, who babbled happily. Two months old. Fourteen years left. He'd die at fourteen. Never reach fifteen. Never reach adulthood. But right now: alive, healthy, laughing.
 
 That had to count.
 

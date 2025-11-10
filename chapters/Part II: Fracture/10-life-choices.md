@@ -1,6 +1,6 @@
 # Chapter 10: Life Choices
 
-**POV: Zara Okafor-Mensah | Year 2, Month 3 | Lagos District**
+**POV: Zara Okafor-Mensah | Year 1, Month 10 | Lagos District**
 
 ---
 
@@ -32,7 +32,7 @@ But Wei's words kept returning to Zara: *Was Maya not always going to die? Was h
 
 Everything was temporary. That had always been true. The asteroid just made it visible.
 
-Thirteen years of consciousness was more than infinite non-existence. Thirteen years of love, of experience, of mattering. Brief didn't mean meaningless. Wei taught her that in the garden, watching flowers bloom and fall, watching the lemon tree fruit and rest. Impermanence and beauty weren't opposites. They were partners.
+Fourteen years of consciousness was more than infinite non-existence. Fourteen years of love, of experience, of mattering. Brief didn't mean meaningless. Wei taught her that in the garden, watching flowers bloom and fall, watching the lemon tree fruit and rest. Impermanence and beauty weren't opposites. They were partners.
 
 Another contraction. The worst yet. Zara cried out despite herself.
 
@@ -46,7 +46,7 @@ But ready or not, he was coming.
 
 "Next contraction, I want you to push," Dr. Okonkwo said. "Big push. Channel everything into it."
 
-The contraction built. Zara pushed. Pain and pressure and the overwhelming sensation of her body doing something enormous, something ancient, something that had been happening for millions of years and would stop happening in thirteen years.
+The contraction built. Zara pushed. Pain and pressure and the overwhelming sensation of her body doing something enormous, something ancient, something that had been happening for millions of years and would stop happening in fourteen years.
 
 "Good! Again!"
 
@@ -60,7 +60,7 @@ Zara pushed with everything she had. Felt something shift, release, complete. Th
 
 Perfect. Doomed. Both true.
 
-They placed him on her chest—wet, warm, squirming. Kofi Okafor-Mensah. Six pounds, four ounces. Thirteen years of life ahead of him. Right now: brand new. Right now: here.
+They placed him on her chest—wet, warm, squirming. Kofi Okafor-Mensah. Six pounds, four ounces. Fourteen years of life ahead of him. Right now: brand new. Right now: here.
 
 Zara looked at her son's face—eyes squeezed shut, mouth open in protest at being born. She felt the fierce love she'd felt with Maya, that overwhelming protective instinct that made everything else secondary. You will matter, she thought. Your brief life will matter. I promise.
 
@@ -86,7 +86,7 @@ Kofi's eyes found Maya's face. He didn't smile yet—too young—but he looked. 
 
 "He does," Zara confirmed. "You're his big sister. He'll know you his whole life."
 
-Eleven years, she didn't say. Maya would be fourteen when Kofi died. Would be seventeen when she died. Brief, precious time. All they'd get.
+Fourteen years, she didn't say. Kofi would be fourteen when he died. Maya would be seventeen when she died. Brief, precious time. All they'd get.
 
 The messages started that week too. Zara's public profile—an engineering forum where she'd been active for years—exploded with comments after she posted a simple photo: *"Welcome, Kofi."*
 
@@ -94,7 +94,7 @@ The messages started that week too. Zara's public profile—an engineering forum
 
 *"Selfish. Absolutely selfish. You brought him here for YOUR comfort."*
 
-*"You gave him thirteen years of suffering instead of infinite peace of non-existence."*
+*"You gave him fourteen years of suffering instead of infinite peace of non-existence."*
 
 *"What kind of mother does this?"*
 
@@ -106,13 +106,13 @@ Some defenders appeared too:
 
 *"She has the right to her choice."*
 
-*"Thirteen years of love is better than nothing."*
+*"Fourteen years of love is better than nothing."*
 
 But mostly: condemnation. Anger. Disgust. The judgment of strangers who'd decided that choosing life in the apocalypse was unforgivable.
 
 Zara read them all that first week. Let the words cut. Let the anger of others sink in. Then, methodically, she blocked the worst offenders and turned off public comments. She'd made her choice for her reasons. She didn't owe strangers an explanation.
 
-But the doubt crept in anyway. Late nights feeding Kofi, watching his small face in the dim light, Zara wondered: Did I do the right thing? Is this cruelty disguised as love? Will he thank me for his thirteen years, or curse me?
+But the doubt crept in anyway. Late nights feeding Kofi, watching his small face in the dim light, Zara wondered: Did I do the right thing? Is this cruelty disguised as love? Will he thank me for his fourteen years, or curse me?
 
 Kwame found her crying at three in the morning, Kofi asleep in her arms.
 
@@ -126,9 +126,9 @@ Kwame was quiet for a long moment. Then: "Everyone makes that choice for their c
 
 "No," he agreed. "It's not. But Zara—look at him. He's here. He's real. His consciousness exists. Would it be better if he'd never existed at all?"
 
-"I don't know," Zara said honestly. "Ask me again in thirteen years."
+"I don't know," Zara said honestly. "Ask me again in fourteen years."
 
-"We won't be here in thirteen years."
+"We won't be here in fourteen years."
 
 "Then I guess we'll never know."
 
@@ -136,7 +136,7 @@ They sat together in the darkness, their son sleeping between them. Outside, Lag
 
 "Do you regret it?" Kwame asked quietly.
 
-Zara looked at Kofi's face—peaceful in sleep, innocent of everything coming. Did she regret it? She didn't know. Maybe she never would. But regret or not, he was here. Born. Real. Hers to love and protect for eleven years.
+Zara looked at Kofi's face—peaceful in sleep, innocent of everything coming. Did she regret it? She didn't know. Maybe she never would. But regret or not, he was here. Born. Real. Hers to love and protect for fourteen years.
 
 "No," she said finally. "I don't regret it. I'm terrified. I'm heartbroken. But I don't regret him."
 
@@ -176,7 +176,7 @@ They sat in the living room—plants everywhere, morning light streaming through
 
 Aisha was quiet, processing. "Do you think they'll hate us? When they're older? When they understand?"
 
-"Maybe," Zara admitted. "I think about that. Maya will be fourteen when Kofi dies. Seventeen when she dies. Will she hate me for giving her a brother she'll lose? For bringing her into a world where she knows exactly when she'll die? I don't know. Maybe."
+"Maybe," Zara admitted. "I think about that. Kofi will be fourteen when he dies. Maya seventeen when she dies. Will she hate me for giving her a brother she'll lose? For bringing him into a world where he knows exactly when he'll die? I don't know. Maybe."
 
 "Then how do you justify it?"
 
@@ -200,13 +200,13 @@ After Aisha left, Zara stood at her window, holding Kofi, watching Lagos Distric
 
 Her tablet chimed—messages from the blocked accounts piling up, finding new ways to reach her. She ignored them. Their judgment didn't matter. Her doubt mattered. Her love mattered. Kofi's life mattered.
 
-Thirteen years. It wasn't enough. But it was something. It was real.
+Fourteen years. It wasn't enough. But it was something. It was real.
 
 ---
 
 Month three, and they established a routine. Morning garden visits to Wei—all four of them now, Kofi strapped to Zara's chest, Maya holding Wei's hand, learning about impermanence through flowers. Wei had declined significantly in two years—wheelchair most days, body failing visibly—but her mind remained sharp, her teaching clear.
 
-"See the lemon tree?" Wei pointed with her cane. "Fifty-two years old. Thirteen years left. Same as Kofi. Should I not have planted it fifty-two years ago because it will end in thirteen?"
+"See the lemon tree?" Wei pointed with her cane. "Fifty-two years old. Fourteen years left. Same as Kofi. Should I not have planted it fifty-two years ago because it will end in fourteen?"
 
 "No," Maya said seriously. She'd learned this lesson well. "It's still beautiful. Still makes lemons."
 
@@ -232,7 +232,7 @@ Kofi made a small sound—not quite crying, just announcing his presence. Zara a
 
 The messages still came. The judgment still existed. But here, in Wei's garden, surrounded by temporary beauty and ancient wisdom, it mattered less. Zara had made her choice. She would live with it. Would love her children completely for the time they had.
 
-Eleven years until Kofi died. Fifteen until Maya died. Fifteen until everyone died.
+Fourteen years until Kofi died. Fourteen until Maya died. Fourteen until everyone died.
 
 But today: garden. Flowers. Teaching. Presence.
 
@@ -246,7 +246,7 @@ The hardest moment came unexpectedly, month four. Zara was scrolling through her
 
 Zara hadn't spoken to her sister in over two years. Not since the argument before Maya's first birthday. Amara had been too busy with work to attend. Zara had been hurt, had said things. Amara had responded with cold logic. They'd stopped talking.
 
-Then: the detection. Amara's face on every screen, explaining the calculations, confirming the timeline. Zara had tried to call—sent voice messages, texts, photos. No response. Sent Kofi's birth announcement six months ago: *"You have a nephew. His name is Kofi. Please respond."*
+Then: the detection. Amara's face on every screen, explaining the calculations, confirming the timeline. Zara had tried to call—sent voice messages, texts, photos. No response. Sent Kofi's birth announcement four months ago: *"You have a nephew. His name is Kofi. Please respond."*
 
 Nothing.
 
@@ -256,7 +256,7 @@ She pressed call.
 
 It rang once. Twice. Three times. Voicemail.
 
-"Amara, it's Zara. Again. I don't know if you're getting these messages. I don't know if you care. But I'm your sister. Maya is four now. Kofi is four months. They're your family. I'm your family. We have eleven years left. Please. Just respond. Just once. Let me know you're alive."
+"Amara, it's Zara. Again. I don't know if you're getting these messages. I don't know if you care. But I'm your sister. Maya is three now. Kofi is four months. They're your family. I'm your family. We have fourteen years left. Please. Just respond. Just once. Let me know you're alive."
 
 She ended the call. Sat holding Kofi in the silence of her apartment. Kwame at work. Maya at daycare. Just her and her son and the absence of her sister.
 
@@ -264,7 +264,7 @@ The next day, she tried again. And the next. Each time: voicemail. Each time: th
 
 Week two: she sent photos. Kofi's first smile. Maya holding her brother. The four of them in Wei's garden.
 
-Week three: she sent a video. "Hi, Amara. This is Maya. I'm four. This is my brother Kofi. He's a baby. Mama says you're our aunt. Do you want to visit? We live in Lagos District. You can come anytime. Okay, bye!"
+Week three: she sent a video. "Hi, Amara. This is Maya. I'm three. This is my brother Kofi. He's a baby. Mama says you're our aunt. Do you want to visit? We live in Lagos District. You can come anytime. Okay, bye!"
 
 Nothing. Complete silence. Her sister had chosen isolation over family. Had chosen data over connection. Had chosen numbness over feeling.
 
@@ -290,7 +290,7 @@ Kofi slept through it, innocent of family drama and complicated grief. Maya clim
 
 "Sometimes sad is okay," Zara said, holding her daughter. "Sometimes you need to feel it."
 
-"Professor Wei says that too." Maya's wisdom at four years old. "She says feelings come and go. Like flowers."
+"Professor Wei says that too." Maya's wisdom at three years old. "She says feelings come and go. Like flowers."
 
 "Professor Wei is very wise."
 
@@ -310,13 +310,13 @@ Zara watched her family and felt the fierce love that had driven her choice. Thi
 
 Brief didn't mean meaningless. Wei taught her that. Impermanence didn't negate value. The garden taught her that. Love despite ending was still love. Her children taught her that.
 
-Eleven years until Kofi died. Thirteen until Maya died. Thirteen until everyone died.
+Thirteen years until Kofi died. Thirteen until Maya died. Thirteen until everyone died.
 
 But right now: Kofi lifting his head, proud of his strength. Maya building a tower, proud of her skill. Kwame humming while he cooked, content in his work. Family alive and together and here.
 
 The messages from strangers had stopped—either they'd given up or Zara's blocks were effective. The judgment persisted somewhere, she knew, but it didn't reach her anymore. She'd made her peace with her choice. Doubt would return—probably often—but peace would too.
 
-This was her practice: choosing life. Choosing presence. Choosing love despite certain ending. Not because it was right or wrong, wise or foolish, brave or selfish. Because it was hers. Her children. Her choice. Her eleven years with Kofi. Her thirteen years with Maya.
+This was her practice: choosing life. Choosing presence. Choosing love despite certain ending. Not because it was right or wrong, wise or foolish, brave or selfish. Because it was hers. Her children. Her choice. Her thirteen years with Kofi. Her thirteen years with Maya.
 
 That had to be enough.
 
