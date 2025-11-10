@@ -230,6 +230,3 @@ Good morning, 47B.
 
 Let's get to work.
 
----
-
-**End Chapter 14**
