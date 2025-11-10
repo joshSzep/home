@@ -4,7 +4,9 @@
 
 ---
 
-7:00 AM. Morning briefing. Elena's ritual for eight years as mayor.
+7:00 AM. Morning briefing. Elena's ritual since becoming mayor—elected Year -2 on an infrastructure platform that promised to expand Forever Earth's capacity, to build for millennia.
+
+Her first term ended in eighteen months. Election scheduled for Year 2.
 
 The conference room was designed for fifty department heads. Thirty had attended regularly before detection. Today: five people. Elena. Marcus, her assistant. Chen, infrastructure. Kowalski, security. Dr. Ade, health services.
 
@@ -14,7 +16,7 @@ Elena sat at the head of the table—her seat, her position, her responsibility.
 
 So they gathered in this too-large room, five people attempting to govern 3.5 billion, pretending normalcy.
 
-"Population report," Elena said, starting with infrastructure as always. Order. Process. The ritual that had structured eight years of governance.
+"Population report," Elena said, starting with infrastructure as always. Order. Process. The ritual that had structured her years of governance.
 
 Chen pulled up his data. "Three point one billion as of this morning. Down from four point two billion at detection. Rate of departure slowing but still significant. Projecting two point eight billion by end of year."
 
@@ -44,7 +46,7 @@ Elena wrote this down. Knew she had no solutions. Couldn't make people care abou
 
 Dr. Ade looked exhausted. "Suicides are our primary concern. Rate has plateaued at three hundred percent above baseline, but that's still... terrible. Medical staff down fifty percent. Hospitals barely functioning. We're triaging based on short-term survival—no long-term treatments, obviously. Birth rate down ninety-four percent. Death rate up six hundred percent. The population decline Chen mentioned? Two-thirds is people leaving. One-third is people dying."
 
-One-third dying. Elena felt that number settle like weight. Three hundred and sixty million deaths across Antarctica in sixty days. More than all the deaths in her eight years as mayor combined. And this was just beginning.
+One-third dying. Elena felt that number settle like weight. Three hundred and sixty million deaths across Antarctica in sixty days. More than all the deaths in her years as mayor combined. And this was just beginning.
 
 "Orders, Mayor?" Marcus asked gently, the question he asked every morning.
 
@@ -108,11 +110,11 @@ Elena considered this. Was it enough to govern knowing governance ended? To hold
 
 "I don't know yet," she admitted. "But it's what I have. So I continue."
 
-Her office was quiet after Marcus left. Elena sat at her desk, looking at the megacity through her window. The Antarctic sprawl extending to the horizon—billions of lives, endless lights, all temporary now. She'd fought for this position. Three campaigns. Lost twice, won the third. Governed with competence. Built infrastructure, managed growth, maintained stability across the world's largest city. Wanted to leave legacy.
+Her office was quiet after Marcus left. Elena sat at her desk, looking at the megacity through her window. The Antarctic sprawl extending to the horizon—billions of lives, endless lights, all temporary now. She'd fought for this position. Three campaigns. Lost twice, won the third two years ago. Governed with competence since then. Built infrastructure, managed growth, maintained stability across the world's largest city. Wanted to leave legacy.
 
 Now legacy was impossible. In fifteen years, everything—Antarctica, Earth—would be reduced to molten rock and ash. Her governance would vanish. Her policies would mean nothing. The infrastructure she'd built would vaporize.
 
-There would be no legacy. The asteroid would erase everything. Her governance, her efforts, her eight years of work—all rendered meaningless by physics.
+There would be no legacy. The asteroid would erase everything. Her governance, her efforts, her years of work—all rendered meaningless by physics.
 
 Unless... unless the work mattered for itself. Not for outcome. Not for legacy. Just: for the doing. She governed because governance was her practice. Because showing up mattered. Because maintaining dignity in collapse was its own purpose.
 
@@ -172,7 +174,13 @@ Elena stood, moved to the window. The Antarctic megacity stretched below. Three 
 
 Tomorrow: same choice. And the day after. Fourteen years of tomorrows, each one practiced with presence.
 
-She pulled up her schedule. Morning briefing complete. Next: budget review. Then: infrastructure meeting. Then: health crisis response. Then: evening address to the continent. All of it theater, maybe. All of it meaningless, possibly. All of it practice, certainly.
+She pulled up her schedule. Morning briefing complete. Next: budget review. Then: infrastructure meeting. Then: health crisis response. Then: evening address to the continent. And somewhere in the back of her mind: election planning. Eighteen months until voters decided whether a mayor mattered anymore. Whether governance itself had purpose.
+
+Political opposition was forming. She'd heard whispers—Marcus Rivera, an infrastructure specialist, pragmatist voices asking "what's the point?" Some calling for her resignation outright. Part of her wondered if they were right. What was the point of a mayor when everyone died anyway?
+
+But another part—the part that showed up every morning, that held briefings for five people, that signed housing permits and power allocations—that part understood. The point wasn't saving anyone. The point was bearing witness. Someone should say: dignity mattered until the end. That's what she'd defend in eighteen months. Not power. Not solutions. Just: presence. Just: showing up.
+
+All of it theater, maybe. All of it meaningless, possibly. All of it practice, certainly.
 
 She'd keep doing it. Because what else was there? She was Mayor Elena Torres. This was her function. These were her people. Outcome was beyond her control. But action—action was hers. Today's action. This moment's governance.
 

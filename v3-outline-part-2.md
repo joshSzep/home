@@ -1,9 +1,11 @@
 # HOME — Part II Outline
 
 ## PART II: FRACTURE
-**Chapters 9-20 | ~50,000 words | Years 2-7**
+**Chapters 9-22 | ~55,000 words | Years 2-7**
 
 Divergent paths. Searching. Separation. The world fractures, and so do our characters.
+
+**Key Political Arc**: Year 2 election (Elena wins narrowly, Marcus Rivera becomes deputy), Year 6 non-election (no opposition, legitimacy shifts from votes to presence)
 
 ---
 
@@ -33,7 +35,11 @@ Divergent paths. Searching. Separation. The world fractures, and so do our chara
 
 **Opening**: Kenji's apartment, Antarctica. Packing. Not much to pack—he's been living minimally since dropping out. Dissertation files deleted. Academic life abandoned. Now: leaving entirely.
 
-**Final Conversation with Elena**: His mother's office. Elena understanding but heartbroken. "Where will you go?" "Everywhere. Nowhere. I need to find how to live fifteen years." "You can do that here." "No. I can't. Antarctica feels like waiting for death." Elena doesn't argue. Hugs him. "Come home when you're ready. Or don't. Just... stay alive. Please."
+**Final Conversation with Elena**: His mother's office. Elena understanding but heartbroken. "Where will you go?" "Everywhere. Nowhere. I need to find how to live fifteen years." "You can do that here." "No. I can't. Antarctica feels like waiting for death." 
+
+**NEW**: Elena distracted—election in 3 months, political challenges forming. Kenji notices his mother's stress. Guilt about leaving during her crisis. Elena: "Go. This isn't your burden. I chose this role. You need to find your own path."
+
+Elena doesn't argue. Hugs him. "Come home when you're ready. Or don't. Just... stay alive. Please."
 
 **The Transport**: Leaving Antarctica for first time in years. The ice shelf receding. Sky opening. World expanding. Kenji feels: relief, terror, guilt, hope. All tangled together.
 
@@ -45,11 +51,54 @@ Divergent paths. Searching. Separation. The world fractures, and so do our chara
 
 **End**: Booking transport to Mumbai. Next destination. Always next destination. Running from or running toward? He doesn't know yet.
 
-**Key beats**: Leaving home • Mother's love • First city outside Antarctica • Other seekers • Intellectual vs. emotional understanding • Seeking as purpose itself
+**Key beats**: Leaving home • Mother's love • Elena's political stress • Kenji's guilt • First city outside Antarctica • Other seekers • Intellectual vs. emotional understanding • Seeking as purpose itself
 
 ---
 
-## Chapter 11: Year 3 — Breakdown
+## Chapter 11: Year 2 — Election (NEW CHAPTER)
+**POV: Elena Torres (64) | Year 2, Month 9 | ~4,500 words**
+
+**Opening**: Election season. Antarctica's first post-detection election. Elena's first term ends. Many assumed she'd step down or elections would be suspended. She insisted on democratic legitimacy: "If we abandon democracy, we abandon everything that made us human."
+
+**The Opponent**: Marcus Rivera (32, infrastructure specialist, pragmatist). Not villainous—earnest, competent, younger. His platform: "Stop pretending. Accept reality. Distribute resources fairly. Let people leave if they want. End symbolic governance."
+
+Elena's platform: "Maintain order. Preserve dignity. Bear witness. Govern until the end."
+
+**The Core Question**: Does governance matter if everyone dies? Marcus says no—just make people comfortable. Elena says yes—dignity matters, structure matters, witness matters. Different philosophies, both valid.
+
+**The Debate**: Public forum. Three thousand attending (down from projected ten thousand). Broadcast citywide. Raw, honest exchange:
+
+Marcus: "What are you governing for? What's the point?"
+
+Elena: "The point is: someone should show up. Someone should maintain dignity. Someone should say: we existed, we mattered, we tried. That's worth doing until the end."
+
+Marcus: "That's just performance. Empty symbolism."
+
+Elena: "All governance is performance. All leadership is symbolic. That doesn't make it meaningless. Especially now."
+
+**Elena's Crisis**: Private moment before results. Alone in office. Thinking: Am I clinging to power? Or to purpose? Is Marcus right? Should I step aside? What am I actually doing?
+
+Then: No. This work matters. Witness matters. Someone should do it. If voters disagree, they'll choose Marcus. That's democracy.
+
+**The Results**: Elena wins 61%-39%. Not overwhelming. Divided city. But: legitimate democratic mandate. She earned this.
+
+**Victory Speech**: "I don't promise to save you. I can't. But I promise to show up. To maintain dignity. To bear witness. To say: we lived, we mattered, we faced the end together. That's all I can offer. If that's enough, I'll serve."
+
+**Marcus's Concession**: Gracious. Offers to help: "Someone has to help you bear this burden. I disagreed with your philosophy. But the people chose you. I'll serve as your deputy if you'll have me."
+
+Elena surprised, moved: "Yes. Thank you."
+
+**The Partnership**: Marcus becomes deputy mayor. Former opponent, now ally. Their different philosophies complementing. Marcus handling practical distribution, Elena handling symbolic witness. Both necessary.
+
+**Private Moment**: Elena alone that night. Victory feels hollow: "I won the right to lead us into extinction." But also: real. Earned. Democratic. People chose this. Chose her. Chose witness over pragmatism. That means something.
+
+**Closing**: Four years until next election (Year 6). Will anyone care by then? Will she even survive that long? Will democracy persist? She doesn't know. But: for now, she's legitimate. Elected. Accountable. That matters.
+
+**Key beats**: Democratic legitimacy crucial • Marcus Rivera as honest opponent • Core question: does governance matter? • Public debate • Elena's self-doubt • 61%-39% victory (narrow but real) • Marcus becomes deputy • Former opponents now partners • Victory hollow but earned • Next election Year 6
+
+---
+
+## Chapter 12: Year 3 — Breakdown
 **POV: Ibrahim al-Rashid (21) | Year 3, Month 2 | ~4,500 words**
 
 **Opening**: Jerusalem contested zone. Night raid. Ibrahim crouched behind rubble that used to be someone's home. Three years into the apocalypse. Still fighting. Still defending holy ground that won't last.
@@ -76,8 +125,10 @@ Divergent paths. Searching. Separation. The world fractures, and so do our chara
 
 ---
 
-## Chapter 12: Year 3 — Maintenance
+## Chapter 13: Year 3 — Maintenance
 **POV: David Chen (51) | Year 3, Month 8 | ~4,000 words**
+
+**NOTE**: David Chen (maintenance engineer, married to Amara) is different from Marcus Rivera (Elena's deputy mayor)
 
 **Opening**: Platform 73. Morning routine. David alone. Rodriguez quit last week—went to travel, see world before end. Said: "Come with me. This work doesn't matter." David stayed.
 
@@ -101,7 +152,7 @@ Divergent paths. Searching. Separation. The world fractures, and so do our chara
 
 ---
 
-## Chapter 13: Year 4 — Calculation
+## Chapter 14: Year 4 — Calculation
 **POV: Amara Okafor (55) | Year 4, Month 1 | ~4,000 words**
 
 **Opening**: Monitoring station. Empty facility. 3 AM. Amara updating trajectory calculations. The asteroid approaches exactly as predicted. No surprises. Perfect physics.
@@ -126,18 +177,20 @@ Divergent paths. Searching. Separation. The world fractures, and so do our chara
 
 ---
 
-## Chapter 14: Year 4 — Governance
+## Chapter 15: Year 4 — Governance
 **POV: Elena Torres (66) | Year 4, Month 7 | ~4,500 words**
 
-**Opening**: Morning briefing. Council chamber designed for thirty department heads. Current attendance: five people. Elena, Marcus (assistant), Chen (infrastructure), Kowalski (security), Dr. Ade (health services). Everyone else: quit, fled, died.
+**Opening**: Morning briefing. Council chamber designed for thirty department heads. Current attendance: five people. Elena, Marcus Rivera (deputy mayor, former opponent), Chen (infrastructure), Kowalski (security), Dr. Ade (health services). Everyone else: quit, fled, died.
 
 **Population Report**: Chen presents data. Antarctic megacity: 3.1 billion (down from 4.2 billion Year 1). Birth rate: effectively zero. Death rate: climbing. Infrastructure: failing. Power 68%, water 73%, transport 45%.
 
 **Why Are We Here?**: Elena looks at her five remaining staff. Thinks: why do they stay? Why do I stay? We're governing collapse. Maintaining symbols of order while order dissolves.
 
-**Marcus**: After briefing, Elena asks her assistant privately: "Marcus, why do you stay? You could leave. Travel. Be with family." Marcus (32, quiet, competent): "Where would I go? Everyone's dying everywhere. At least here, I'm useful. At least here, showing up matters."
+**Marcus Rivera**: After briefing, Elena asks her deputy privately: "Marcus, why do you stay? You could leave. You opposed me two years ago. Called my governance 'empty symbolism.' Why serve now?"
 
-**Elena's Ritual**: Realizes: Marcus understands what she's been doing. Governance as meaning-making. Showing up as witness. Maintaining dignity when nothing else can be maintained.
+Marcus (34, pragmatic but committed): "I was wrong. Not about the pragmatism—we still need that. But about witness being empty. Watching you show up every day for two years... that matters. Someone should witness you witnessing. I want to help carry this burden."
+
+**Their Partnership**: Realizes: Marcus understands what she's been doing now. Former opponent became ally through watching her persist. Governance as meaning-making. Showing up as witness. Maintaining dignity when nothing else can be maintained. Their different philosophies—symbolic and pragmatic—both necessary.
 
 **Kenji's Letters**: Reading latest letter from her son. Year 4, he's in Mumbai. Seeking answers at ashram. Finding intellectual understanding, not emotional peace. Writes about meeting Professor Wei through correspondence. The old philosopher's words: "Governance without outcomes is still governance. Leading when powerless is still leading. Witness matters."
 
@@ -147,13 +200,15 @@ Divergent paths. Searching. Separation. The world fractures, and so do our chara
 
 **Daily Record**: Elena opens her journal. Updates the official record. Day 1,461. Population 3.1 billion. Infrastructure declining. Governance continuing. She writes: "I govern because someone should. I bear witness because that's all that remains. Dignity persists when power doesn't."
 
+**Year 6 Election Approaching**: Brief reflection: election scheduled in two years. Will anyone challenge her? Will anyone care? Does electoral legitimacy still matter? She doesn't know. But: she'll hold the election. Democracy matters until it doesn't.
+
 **End**: Walking home through the megacity. Continental sprawl quieter than four years ago. But: lights still on (mostly). Water still flows (mostly). People still moving (fewer, but moving). Order maintained. Elena did that. Still doing that. Will do until she can't.
 
-**Key beats**: Skeleton staff • Population collapse • Why we stay • Marcus's understanding • Kenji's letters • Wei's teaching spreading • Governance as meaning-making • Witness as purpose
+**Key beats**: Skeleton staff • Population collapse • Why we stay • Marcus Rivera's evolution from opponent to ally • Their partnership • Kenji's letters • Wei's teaching spreading • Governance as meaning-making • Witness as purpose • Year 6 election foreshadowed
 
 ---
 
-## Chapter 15: Year 5 — Teaching
+## Chapter 16: Year 5 — Teaching
 **POV: Professor Mei-Lin Wei (118) | Year 5, Month 4 | ~4,500 words**
 
 **Opening**: Wei's garden. Morning. Maya (6) and Kofi (3) playing among flowers. Wei watching from her wheelchair—body failing, mind sharp. Zara tending lemon tree nearby.
@@ -179,7 +234,7 @@ Divergent paths. Searching. Separation. The world fractures, and so do our chara
 
 ---
 
-## Chapter 16: Year 5 — Wandering
+## Chapter 17: Year 5 — Wandering
 **POV: Kenji Torres (27) | Year 5, Month 9 | ~4,500 words**
 
 **Opening**: Mumbai ashram. Dawn meditation. Kenji sitting zazen with forty others. Fifth month here. Seeking, always seeking.
@@ -232,8 +287,49 @@ Divergent paths. Searching. Separation. The world fractures, and so do our chara
 
 ---
 
-## Chapter 18: Year 6 — Drift
-**POV: Ibrahim al-Rashid (23) | Year 6, Month 8 | ~4,000 words**
+## Chapter 18: Year 6 — No Election (NEW CHAPTER)
+**POV: Elena Torres (68) | Year 6, Month 9 | ~4,000 words**
+
+**Opening**: Election scheduled. Year 6, Month 9. Elena's second term ending. Constitutional requirement: democratic elections every four years. Even now. Especially now.
+
+**The Silence**: Filing deadline passes. Zero opposition candidates. Zero. Marcus Rivera checks registrations three times. Nothing. No one wants the job.
+
+Elena in her office, staring at empty candidate list. Unprecedented. Democracy requires choice. This isn't choice. This is... what?
+
+**Conversation with Marcus**: Marcus enters. "No one filed." Elena: "I see that." Long silence. Marcus: "You could declare victory by default." "That's not democracy." "What is it, then?" "I don't know."
+
+**Public Statement Dilemma**: Elena must address this. Population: 2.1 billion (down from 4.2 billion). Most don't care about elections. Some want her to continue. Some think governance is pointless. All valid views.
+
+What to say? "Vote for me, I'm the only candidate?" That's mockery. "I'll step down?" But who governs then? Marcus? Without election?
+
+**Marcus's Truth**: "Mayor Torres—Elena—no one wants this job. Not because you're doing it wrong. Because it's impossible. You're governing collapse with dignity. Everyone sees that. No one thinks they could do better. So: no opposition."
+
+"That's not democracy."
+
+"No. It's... legitimacy by persistence. You've shown up for six years. You'll show up for nine more. People trust that. Not through votes. Through witness."
+
+**The Decision**: Elena cancels the election. Issues statement: "No opposition candidates filed. Rather than declare uncontested victory, I'm extending my term as interim mayor until Year 10, when another election will be held. Or until someone else wants this burden. My door is open. My accountability remains."
+
+**Public Response**: Mostly: relief. Some criticism ("autocracy!"). But most understand: this isn't power grab. This is Elena continuing to show up because no one else will.
+
+**Private Crisis**: That night, Elena alone. Not mayor by election anymore. Mayor by... default? Persistence? Necessity?
+
+Realizes: this is what she wanted at Year 4. Governance as witness, not power. But: she wanted democratic legitimacy. Now: has legitimacy without democracy. Feels wrong. Feels honest.
+
+**Philosophical Shift**: Writing in journal: "I was elected Year -2. Re-elected Year 2. Year 6: no election. What am I now? Not dictator—anyone could challenge me. Not elected leader—no vote happened. I'm... the person who stayed. The person who shows up. The witness who maintains structure. That's my authority now. Not votes. Presence. Is that enough? It has to be."
+
+**Marcus's Role Confirmed**: Marcus remains deputy. "For nine years, I'll help you bear this. Then: whoever wants it can have it. But until then: we show up. Together."
+
+**New Understanding**: Elena realizes: Year 2 election gave her democratic mandate. Year 6 non-election gives her something else—legitimacy through persistence. Both matter. Both real. Different authorities, both earned.
+
+**Closing**: Elena looking at empty election forms. Nine years left. No more elections (probably). No more votes. Just: showing up. Bearing witness. Maintaining dignity. She's made peace with it. Not satisfaction. Peace.
+
+**Key beats**: Scheduled election • Zero candidates file • Democracy requires choice • Marcus's truth: legitimacy by persistence • Canceling election feels wrong but honest • Interim status until Year 10 • Public mostly relieved • Private crisis: what is she now? • Philosophical shift from elected to witness • Authority through presence not votes • Marcus staying nine more years • New understanding: both types of legitimacy earned • Peace not satisfaction
+
+---
+
+## Chapter 19: Year 6 — Drift
+**POV: Ibrahim al-Rashid (23) | Year 6, Month 11 | ~4,000 words**
 
 **Opening**: Ibrahim's apartment. Morning. Sitting on floor. Prayer beads in hands—habit, not faith. Counting them. Ninety-nine beads. Ninety-nine names of God that mean nothing now.
 
@@ -262,8 +358,8 @@ Divergent paths. Searching. Separation. The world fractures, and so do our chara
 
 ---
 
-## Chapter 19: Year 7 — Arrays
-**POV: David Chen (53) | Year 7, Month 1 | ~4,000 words**
+## Chapter 20: Year 7 — Arrays
+**POV: David Chen (55) | Year 7, Month 2 | ~3,800 words**
 
 **Opening**: Platform 73. Dawn. David and Robot 47B beginning maintenance cycle. Perfect coordination. Two years working together now. Better than any human partnership David's had recently.
 
@@ -287,8 +383,8 @@ Divergent paths. Searching. Separation. The world fractures, and so do our chara
 
 ---
 
-## Chapter 20: Year 7 — Isolation
-**POV: Amara Okafor (57) | Year 7, Month 11 | ~5,000 words**
+## Chapter 21: Year 7 — Isolation
+**POV: Amara Okafor (57) | Year 7, Month 9 | ~4,000 words**
 
 **Opening**: Monitoring station. Midnight. Amara alone. Only person in entire facility. Updating calculations no one needs. Asteroid approaching precisely as predicted. Seven years of verification. Perfect physics. Perfect loneliness.
 

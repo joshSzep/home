@@ -1,13 +1,15 @@
 # HOME — Part IV Outline
 
 ## PART IV: CONVERGENCE
-**Chapters 37-48 | ~50,000 words | Year 15 (Final Year)**
+**Chapters 39-50 | ~50,000 words | Year 15 (Final Year)**
 
 Everyone gathers. Final moments. Presence until the end. Together into the light.
 
+**Note**: Elena's journey from elected official (Year -2, Year 2) → unopposed interim mayor (Year 6) → chosen witness (Year 10+) complete. Her authority now rests purely on presence and persistence.
+
 ---
 
-## Chapter 37: Year 15, Month 1 — Gathering (WRITTEN AS CHAPTER 19)
+## Chapter 39: Year 15, Month 1 — Gathering (WRITTEN AS CHAPTER 19)
 **POV: Amara Okafor (66) | Year 15, Month 1 | ~4,000 words**
 
 **STATUS: CHAPTER 19 ALREADY WRITTEN — USE AS FOUNDATION**
@@ -24,14 +26,14 @@ Everyone gathers. Final moments. Presence until the end. Together into the light
 
 ---
 
-## Chapter 38: Year 15, Month 1 — Final Migration
+## Chapter 40: Year 15, Month 1 — Final Migration
 **POV: Elena Torres (74) | Year 15, Month 1 | ~4,000 words**
 
 **Opening**: Antarctic population: 1.8 million people. Final census. No more leaving—everyone who's here chose to be here. Everyone who isn't already gone or dead.
 
 **The Patterns**: Elena observing how people gather. Not randomly. Choosing companions, choosing locations, choosing how to face the end. Some in families. Some in communities. Some alone but witnessed. Everyone making final choices about presence.
 
-**Her Family**: Kenji stayed. Teaching until the end. Marcus stayed—fourteen years as assistant, now friend and chosen family. Elena's government ended Year 14, but her witness continues. She's not mayor anymore. Just: Elena. Present with her people.
+**Her Family**: Kenji stayed. Teaching until the end. Marcus Rivera stayed—fourteen years, first as opponent (Year 2), then deputy (Year 2-14), now friend and chosen family. Elena's government ended Year 14, but her witness continues. She's not mayor anymore. Just: Elena. Present with her people. The electoral journey complete.
 
 **The Arrivals**: Last ships arriving. Zara's family (Amara's sister). Ibrahim's former imam (seeking reconciliation). Wei's former students (honoring dead teacher). Everyone converging. Everyone choosing Antarctica as final place.
 
@@ -43,7 +45,7 @@ Everyone gathers. Final moments. Presence until the end. Together into the light
 
 **Final Bureaucracy**: Elena filing final reports. Not for anyone. For completion. For dignity. Someone should document. Someone should say: we were here. Even if no one reads it.
 
-**Conversation with Kenji**: Her son asks, "Mom, are you satisfied?" "With what?" "With how you led. With fourteen years as mayor." Elena thinks. "I didn't save anyone. But I bore witness. I maintained dignity. I did the work until there was no work left. Yes. That's enough."
+**Conversation with Kenji**: Her son asks, "Mom, are you satisfied?" "With what?" "With how you led. With fourteen years as mayor." Elena thinks. "I was elected twice. Then no one opposed me. Then no one wanted the job. I went from wielding power to bearing witness. I didn't save anyone. But I showed up. I maintained dignity. I did the work until there was no work left. The transformation from mayor to witness—that was the real work. Yes. That's enough."
 
 **End**: Elena looking out over the megacity. Lights flickering across the vast continental sprawl. People moving between buildings. Community persisting. Three months left. She's ready? No. Present? Yes. That's everyone's truth now.
 
@@ -51,7 +53,7 @@ Everyone gathers. Final moments. Presence until the end. Together into the light
 
 ---
 
-## Chapter 39: Year 15, Month 1 — Maya's Understanding
+## Chapter 41: Year 15, Month 1 — Maya's Understanding
 **POV: Maya Okafor-Mensah (17) | Year 15, Month 1 | ~4,500 words**
 
 **NEW POV**: First chapter from Maya's perspective. Final generation. About to turn seventeen and die at seventeen. What does she understand? What does she want?
@@ -90,7 +92,7 @@ The grief wells up—anticipatory grief she's carried seventeen years. But also:
 
 ---
 
-## Chapter 40: Year 15, Month 1 — Teaching Until the End
+## Chapter 42: Year 15, Month 1 — Teaching Until the End
 **POV: Kenji Torres (39) | Year 15, Month 2 | ~4,000 words**
 
 **Opening**: Community center. Kenji teaching presence practice. Sixty people attending—largest gathering yet. Everyone wanting to learn. Everyone wanting tools for facing the end.
@@ -137,7 +139,7 @@ He's ready? No. Present? Yes. Teaching presence until he can't. That's complete.
 
 ---
 
-## Chapter 41: Year 15, Month 2 — Platform 73 (FOUNDATION IN CHAPTER 20)
+## Chapter 49: Year 15, Month 2 — Platform 73 (FOUNDATION IN CHAPTER 20)
 **POV: David Chen (62) & Maya Okafor-Mensah (17) | Year 15, Month 2 | ~5,000 words**
 
 **STATUS: CHAPTER 20 EXISTS AS FOUNDATION — EXPAND**
@@ -180,7 +182,7 @@ Three of them on platform. Family. Working together. Being together. Two months 
 
 ---
 
-## Chapter 42: Year 15, Month 2 — Ibrahim's Reconciliation
+## Chapter 50: Year 15, Month 2 — Ibrahim's Reconciliation
 **POV: Ibrahim al-Rashid (32) | Year 15, Month 2 | ~4,000 words**
 
 **Opening**: Knock on Ibrahim's door. He's meditating—morning practice, routine for seven years. Opens door to find: Imam Hassan. The man who tried to save his faith. Haven't seen each other in eight years.
@@ -275,7 +277,7 @@ But tonight: breath. That's everything.
 
 ---
 
-## Chapter 43: Year 15, Month 3 — Final Lessons (FOUNDATION IN CHAPTER 21)
+## Chapter 49: Year 15, Month 3 — Final Lessons (FOUNDATION IN CHAPTER 21)
 **POV: Elena Torres (74) | Year 15, Month 3 | ~4,500 words**
 
 **STATUS: CHAPTER 21 EXISTS AS FOUNDATION — EXPAND**
@@ -366,7 +368,7 @@ Elena's final journal entry for the chapter: *Day 335. Thirty days. I'm satisfie
 
 ---
 
-## Chapter 44: Year 15, Month 3 — Twenty-Six Days (WRITTEN AS CHAPTER 21)
+## Chapter 50: Year 15, Month 3 — Twenty-Six Days (WRITTEN AS CHAPTER 21)
 **POV: Multiple (Convergence Chapter) | Year 15, Month 3, Day 26 | ~5,000 words**
 
 **STATUS: CHAPTER 21 EXISTS — USE AS FOUNDATION, EXPAND SLIGHTLY**
@@ -395,7 +397,7 @@ Elena's final journal entry for the chapter: *Day 335. Thirty days. I'm satisfie
 
 ---
 
-## Chapter 45: Year 15, Month 4, Day 1-7 — Final Week
+## Chapter 49: Year 15, Month 4, Day 1-7 — Final Week
 **POV: Zara Okafor-Mensah (49) | Year 15, Month 4, Days 1-7 | ~5,000 words**
 
 **Opening**: Seven days remain. Zara wakes to this knowledge: one week. Seven days with her children. Seven days with Kwame. Seven days until everyone she loves dies.
@@ -472,7 +474,7 @@ Fifteen years. Final week. Tomorrow begins the end. But tonight: breathing. Toni
 
 ---
 
-## Chapter 46: Year 15, Month 4, Final Day — Countdown (WRITTEN AS CHAPTER 22)
+## Chapter 50: Year 15, Month 4, Final Day — Countdown (WRITTEN AS CHAPTER 22)
 **POV: Multiple (Convergence) | Year 15, Month 4, Final Day | ~6,000 words**
 
 **STATUS: CHAPTER 22 EXISTS AS FOUNDATION — EXPAND SLIGHTLY**
@@ -501,7 +503,7 @@ Fifteen years. Final week. Tomorrow begins the end. But tonight: breathing. Toni
 
 ---
 
-## Chapter 47: Year 15, Month 4, Final Day — Light (WRITTEN AS CHAPTER 23)
+## Chapter 49: Year 15, Month 4, Final Day — Light (WRITTEN AS CHAPTER 23)
 **POV: Multiple (Final Moments) | Year 15, Month 4, Final Hour | ~4,000 words**
 
 **STATUS: CHAPTER 23 EXISTS — USE AS FOUNDATION, SLIGHTLY EXPAND**
@@ -534,7 +536,7 @@ Fifteen years. Final week. Tomorrow begins the end. But tonight: breathing. Toni
 
 ---
 
-## Chapter 48: Year 15, Month 4, After — Home (WRITTEN AS CHAPTER 24)
+## Chapter 50: Year 15, Month 4, After — Home (WRITTEN AS CHAPTER 24)
 **POV: Omniscient (Post-Human) | Year 15, Month 4, After | ~3,500 words**
 
 **STATUS: CHAPTER 24 EXISTS — USE AS FOUNDATION, POSSIBLY EXPAND SLIGHTLY**
