@@ -138,7 +138,7 @@ They'd talked for four hours. Missed the rest of the conference. Got coffee the 
 
 She'd been brilliant and passionate and alive. He'd been steady and reliable and present. Good combination. They'd balanced each other. He grounded her flights of theory. She expanded his practical focus. It worked.
 
-Then Year zero. Detection. The asteroid. And Amara's brilliance turned to burden—she'd found it, calculated it, confirmed humanity's death. Her work became guilt and responsibility and numbness. She retreated into data because feeling was impossible.
+Then... Detection. The asteroid. And Amara's brilliance turned to burden—she'd found it, calculated it, confirmed humanity's death. Her work became guilt and responsibility and numbness. She retreated into data because feeling was impossible.
 
 David understood. Intellectually, he understood. Your work ending the world—how do you process that? How do you stay human?
 
