@@ -1,7 +1,7 @@
 # HOME — Part II Outline
 
 ## PART II: FRACTURE
-**Chapters 9-22 | ~55,000 words | Years 2-7**
+**Chapters 10-23 | ~55,000 words | Years 2-7**
 
 Divergent paths. Searching. Separation. The world fractures, and so do our characters.
 
@@ -9,7 +9,7 @@ Divergent paths. Searching. Separation. The world fractures, and so do our chara
 
 ---
 
-## Chapter 9: Year 2 — Life Choices
+## Chapter 10: Year 2 — Life Choices
 **POV: Zara Okafor-Mensah (35) | Year 2, Month 3 | ~4,000 words**
 
 **Opening**: Lagos District hospital. Zara in labor. Kwame beside her. Maya (3) with neighbor. The delivery ward half-empty—most maternity staff quit, automation handles basics.
@@ -30,7 +30,7 @@ Divergent paths. Searching. Separation. The world fractures, and so do our chara
 
 ---
 
-## Chapter 10: Year 2 — Departure  
+## Chapter 11: Year 2 — Departure  
 **POV: Kenji Torres (25) | Year 2, Month 6 | ~4,000 words**
 
 **Opening**: Kenji's apartment, Antarctica. Packing. Not much to pack—he's been living minimally since dropping out. Dissertation files deleted. Academic life abandoned. Now: leaving entirely.
@@ -55,7 +55,7 @@ Elena doesn't argue. Hugs him. "Come home when you're ready. Or don't. Just... s
 
 ---
 
-## Chapter 11: Year 2 — Election (NEW CHAPTER)
+## Chapter 12: Year 2 — Election (NEW CHAPTER)
 **POV: Elena Torres (64) | Year 2, Month 9 | ~4,500 words**
 
 **Opening**: Election season. Antarctica's first post-detection election. Elena's first term ends. Many assumed she'd step down or elections would be suspended. She insisted on democratic legitimacy: "If we abandon democracy, we abandon everything that made us human."
@@ -98,7 +98,7 @@ Elena surprised, moved: "Yes. Thank you."
 
 ---
 
-## Chapter 12: Year 3 — Breakdown
+## Chapter 13: Year 3 — Breakdown
 **POV: Ibrahim al-Rashid (21) | Year 3, Month 2 | ~4,500 words**
 
 **Opening**: Jerusalem contested zone. Night raid. Ibrahim crouched behind rubble that used to be someone's home. Three years into the apocalypse. Still fighting. Still defending holy ground that won't last.
@@ -125,7 +125,7 @@ Elena surprised, moved: "Yes. Thank you."
 
 ---
 
-## Chapter 13: Year 3 — Maintenance
+## Chapter 14: Year 3 — Maintenance
 **POV: David Chen (51) | Year 3, Month 8 | ~4,000 words**
 
 **NOTE**: David Chen (maintenance engineer, married to Amara) is different from Marcus Rivera (Elena's deputy mayor)
@@ -152,7 +152,7 @@ Elena surprised, moved: "Yes. Thank you."
 
 ---
 
-## Chapter 14: Year 4 — Calculation
+## Chapter 15: Year 4 — Calculation
 **POV: Amara Okafor (55) | Year 4, Month 1 | ~4,000 words**
 
 **Opening**: Monitoring station. Empty facility. 3 AM. Amara updating trajectory calculations. The asteroid approaches exactly as predicted. No surprises. Perfect physics.
@@ -177,7 +177,7 @@ Elena surprised, moved: "Yes. Thank you."
 
 ---
 
-## Chapter 15: Year 4 — Governance
+## Chapter 16: Year 4 — Governance
 **POV: Elena Torres (66) | Year 4, Month 7 | ~4,500 words**
 
 **Opening**: Morning briefing. Council chamber designed for thirty department heads. Current attendance: five people. Elena, Marcus Rivera (deputy mayor, former opponent), Chen (infrastructure), Kowalski (security), Dr. Ade (health services). Everyone else: quit, fled, died.
@@ -208,7 +208,7 @@ Marcus (34, pragmatic but committed): "I was wrong. Not about the pragmatism—w
 
 ---
 
-## Chapter 16: Year 5 — Teaching
+## Chapter 17: Year 5 — Teaching
 **POV: Professor Mei-Lin Wei (118) | Year 5, Month 4 | ~4,500 words**
 
 **Opening**: Wei's garden. Morning. Maya (6) and Kofi (3) playing among flowers. Wei watching from her wheelchair—body failing, mind sharp. Zara tending lemon tree nearby.
@@ -234,7 +234,7 @@ Marcus (34, pragmatic but committed): "I was wrong. Not about the pragmatism—w
 
 ---
 
-## Chapter 17: Year 5 — Wandering
+## Chapter 18: Year 5 — Wandering
 **POV: Kenji Torres (27) | Year 5, Month 9 | ~4,500 words**
 
 **Opening**: Mumbai ashram. Dawn meditation. Kenji sitting zazen with forty others. Fifth month here. Seeking, always seeking.
@@ -262,7 +262,7 @@ Marcus (34, pragmatic but committed): "I was wrong. Not about the pragmatism—w
 
 ---
 
-## Chapter 17: Year 6 — Community
+## Chapter 19: Year 6 — Community
 **POV: Zara Okafor-Mensah (37) | Year 6, Month 3 | ~4,000 words**
 
 **Opening**: Zara's apartment compound. Morning. Maya (7) teaching Kofi (3) his letters. "That's K. K for Kofi!" Kwame making breakfast. Zara at table, engineering schematics displayed—she's designing greywater system for compound.
@@ -287,7 +287,7 @@ Marcus (34, pragmatic but committed): "I was wrong. Not about the pragmatism—w
 
 ---
 
-## Chapter 18: Year 6 — No Election (NEW CHAPTER)
+## Chapter 20: Year 6 — No Election (NEW CHAPTER)
 **POV: Elena Torres (68) | Year 6, Month 9 | ~4,000 words**
 
 **Opening**: Election scheduled. Year 6, Month 9. Elena's second term ending. Constitutional requirement: democratic elections every four years. Even now. Especially now.
@@ -328,7 +328,7 @@ Realizes: this is what she wanted at Year 4. Governance as witness, not power. B
 
 ---
 
-## Chapter 19: Year 6 — Drift
+## Chapter 21: Year 6 — Drift
 **POV: Ibrahim al-Rashid (23) | Year 6, Month 11 | ~4,000 words**
 
 **Opening**: Ibrahim's apartment. Morning. Sitting on floor. Prayer beads in hands—habit, not faith. Counting them. Ninety-nine beads. Ninety-nine names of God that mean nothing now.
@@ -358,7 +358,7 @@ Realizes: this is what she wanted at Year 4. Governance as witness, not power. B
 
 ---
 
-## Chapter 20: Year 7 — Arrays
+## Chapter 22: Year 7 — Arrays
 **POV: David Chen (55) | Year 7, Month 2 | ~3,800 words**
 
 **Opening**: Platform 73. Dawn. David and Robot 47B beginning maintenance cycle. Perfect coordination. Two years working together now. Better than any human partnership David's had recently.
@@ -383,7 +383,7 @@ Realizes: this is what she wanted at Year 4. Governance as witness, not power. B
 
 ---
 
-## Chapter 21: Year 7 — Isolation
+## Chapter 23: Year 7 — Isolation
 **POV: Amara Okafor (57) | Year 7, Month 9 | ~4,000 words**
 
 **Opening**: Monitoring station. Midnight. Amara alone. Only person in entire facility. Updating calculations no one needs. Asteroid approaching precisely as predicted. Seven years of verification. Perfect physics. Perfect loneliness.
