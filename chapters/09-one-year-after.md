@@ -64,7 +64,7 @@ Maya nodded seriously. "Flowers don't last. Nothing lasts. But they're still pre
 
 "Very good." Wei's approval warmed. "Your mother learned quickly. Now she teaches you."
 
-Zara held Kofi, who babbled happily. Six months old. Thirteen years left. He'd die at thirteen. Never reach fourteen. Never reach adulthood. But right now: alive, healthy, laughing.
+Zara held Kofi, who babbled happily. Six months old. Fourteen years left. He'd die at fourteen. Never reach fifteen. Never reach adulthood. But right now: alive, healthy, laughing.
 
 That had to count.
 
