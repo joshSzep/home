@@ -2,7 +2,7 @@
 
 *A philosophical hard science fiction novel*
 
-> "Everything arises. Everything passes. Be present."  
+> "A flower bloomed."  
 > — Professor Mei-Lin Wei
 
 ---
@@ -43,14 +43,13 @@ Until it isn't.
 
 Seven points of view across fifteen years:
 
-- **Dr. Amara Okafor (52)** — The Detector: First to see the data, first to know we're doomed
-- **Mayor Elena Torres (63)** — The Leader: Most powerful human on Earth, utterly powerless
-- **Zara Okafor-Mensah (34)** — The Parent: Has a second child after detection—defiant, loving
-- **David Chen (49)** — The Builder: Maintains solar arrays that will end anyway
-- **Kenji Torres (24)** — The Seeker: Travels the world searching for how to live fifteen years
-- **Ibrahim al-Rashid (19)** — The Fighter: Muslim warrior whose holy war loses all meaning
-- **Professor Mei-Lin Wei (114)** — The Elder: Has practiced for death her entire life
-
+- **Dr. Amara Okafor** — The Detector: First to see the data, first to know we're doomed
+- **Mayor Elena Torres** — The Leader: Most powerful human on Earth, utterly powerless
+- **Zara Okafor-Mensah** — The Parent: Has a second child after detection—defiant, loving
+- **David Chen** — The Builder: Maintains solar arrays that will end anyway
+- **Kenji Torres** — The Seeker: Travels the world searching for how to live fifteen years
+- **Ibrahim al-Rashid** — The Fighter: Muslim warrior whose holy war loses all meaning
+- **Professor Mei-Lin Wei** — The Elder: Has practiced for death her entire life
 Connected by blood, work, chance, and choice—they converge in Antarctica for the end.
 
 ---
@@ -64,15 +63,6 @@ Connected by blood, work, chance, and choice—they converge in Antarctica for t
 **The human response to cosmic indifference** — Physics doesn't care, but we do
 
 This is Buddhist philosophy meets hard science fiction. Humanist values confronting absolute limits. A meditation on mortality made collective and certain.
-
----
-
-## Project Organization
-
-```
-/chapters/          Novel text
-README.md           This file
-```
 
 ---
 
