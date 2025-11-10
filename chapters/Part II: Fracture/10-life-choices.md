@@ -26,7 +26,7 @@ The messages had started the moment she announced the pregnancy six months ago. 
 
 Zara had thought about it. Had thought about nothing else for months before they'd made the decision. The question Kwame had asked that first night, sitting on their balcony while the world processed its extinction: *Should we have another child?*
 
-They'd talked for hours. Days. Weeks. The arguments against were obvious, numerous, compelling. Thirteen years of life instead of eighty. Thirteen years of knowing the end was coming. The cruelty of consciousness given and then taken. The selfishness of creating life for their own comfort. The burden on Maya of having a sibling in the apocalypse.
+They'd talked for hours. Days. Weeks. The arguments against were obvious, numerous, compelling. Fourteen years of life instead of eighty. Fourteen years of knowing the end was coming. The cruelty of consciousness given and then taken. The selfishness of creating life for their own comfort. The burden on Maya of having a sibling in the apocalypse.
 
 But Wei's words kept returning to Zara: *Was Maya not always going to die? Was her life not always temporary?*
 
