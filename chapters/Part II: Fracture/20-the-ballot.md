@@ -402,7 +402,7 @@ Her terminal chimed. Public comment from the morning's announcement. She opened 
 *Thank you for bearing this burden. Thank you for showing up. Thank you for nine more years of same.*
 
 *With respect,  
-Dr. Sarah Okonkwo*
+Dr. Sarah Kwan*
 
 Elena read it three times. Felt unexpected warmth. Not validation exactly. Recognition. The understanding that someone saw the work. Saw the daily practice. Saw the impossible endurance required to maintain governance in collapse.
 
