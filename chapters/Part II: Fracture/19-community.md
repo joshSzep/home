@@ -52,7 +52,7 @@ Year 0, it was just: fifty units of apartments, two hundred strangers sharing in
 
 Year 6: community. Actual community.
 
-It happened gradually. Someone organized shared meals after the first suicide wave—Month 6, Year 1, when the reality settled in. Someone else started collective childcare so parents could work or rest or grieve. Someone planted herbs on their balcony and offered cuttings to neighbors. Small gestures accumulating into structure.
+It happened gradually. Someone organized shared meals after the first suicide wave—Month 6, when the reality settled in. Someone else started collective childcare so parents could work or rest or grieve. Someone planted herbs on their balcony and offered cuttings to neighbors. Small gestures accumulating into structure.
 
 Now: the compound felt like a village transplanted into an apartment building. Twenty units participated actively. Thirty more occasionally. Shared resources—tools, skills, time, food. Shared grief. Shared presence. Not a commune. Not utopia. Just: people supporting people because the alternative was isolation.
 
