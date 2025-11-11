@@ -265,7 +265,7 @@ Marcus (34, pragmatic but committed): "I was wrong. Not about the pragmatism—w
 ## Chapter 19: Year 6 — Community
 **POV: Zara Okafor-Mensah (37) | Year 6, Month 3 | ~4,000 words**
 
-**Opening**: Zara's apartment compound. Morning. Maya (8) teaching Kofi (4) his letters. "That's K. K for Kofi!" Kwame making breakfast. Zara at table, engineering schematics displayed—she's designing greywater system for compound.
+**Opening**: Zara's apartment compound. Morning. Maya teaching Kofi his letters. "That's K. K for Kofi!" Kwame making breakfast. Zara at table, engineering schematics displayed—she's designing greywater system for compound.
 
 **The Compound Community**: Apartment building (50 units) has formed tight community. Shared resources. Shared childcare. Shared meals sometimes. Neighbors helping each other. Not commune—just: people supporting people.
 
