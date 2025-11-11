@@ -50,7 +50,7 @@ What was this?
 
 Marcus left to notify the electoral commission. Elena sat alone in the too-quiet office, staring at the ballot that mocked everything she'd tried to maintain.
 
-Six years ago, she'd insisted on democratic elections when most people said they were pointless. "If we abandon democracy, we abandon everything that made us human," she'd argued. The population had agreed—barely. Marcus Rivera had run against her. Lost 39-61. Legitimate contest. Real choice. Hollow victory but earned.
+Four years ago, she'd insisted on democratic elections when most people said they were pointless. "If we abandon democracy, we abandon everything that made us human," she'd argued. The population had agreed—barely. Marcus Rivera had run against her. Lost 39-61. Legitimate contest. Real choice. Hollow victory but earned.
 
 That election had given her democratic mandate. Authority through votes. The knowledge that people chose her philosophy over his, chose witness over pragmatism, chose presence over comfort.
 
