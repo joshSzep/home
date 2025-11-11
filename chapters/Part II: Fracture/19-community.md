@@ -244,7 +244,7 @@ That was enough. Had to be enough. Was enough.
 
 Kwame appeared beside her, wrapped his arm around her waist. They stood together, watching their sleeping children, saying nothing. What was there to say? Everything was understood. Everything was felt. Everything was present.
 
-Tomorrow: engineering work would continue. Wei's garden would be visited. Compound gardens would be planned. The countdown would advance one more day. Maya would teach Kofi more letters. The lemon tree would be watered. Robot maintenance would happen somewhere in Antarctica. Elena would govern. Amara would calculate. Kenji would wander. Ibrahim would count his steps. David would calibrate platforms. Everyone continuing their practice, their presence, their small defiances against ending.
+Tomorrow: engineering work would continue. Wei's garden would be visited. Compound gardens would be planned. The countdown would advance one more day. Maya would teach Kofi more words. The lemon tree would be watered. Robot maintenance would happen somewhere in Antarctica. Elena would govern. Amara would calculate. Kenji would wander. Ibrahim would count his steps. David would calibrate platforms. Everyone continuing their practice, their presence, their small defiances against ending.
 
 Life. Despite everything. Because of everything. Simple. Complex. Temporary. Eternal. Brief. Infinite.
 
