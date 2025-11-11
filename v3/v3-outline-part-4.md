@@ -9,14 +9,14 @@ Everyone gathers. Final moments. Presence until the end. Together into the light
 
 ---
 
-## Chapter 40: Year 15, Month 1 — Gathering (WRITTEN AS CHAPTER 19)
-**POV: Amara Okafor (66) | Year 15, Month 1 | ~4,000 words**
+## Chapter 40: Year 15, Month 1 — Gathering
+**POV: Amara Okafor (63) | Year 15, Month 1 | ~4,000 words**
 
-**STATUS: CHAPTER 19 ALREADY WRITTEN — USE AS FOUNDATION**
+**NOTE**: Chapter 19 was written as preview but timeline was off. This chapter occurs Year 15, Month 1 after family arrives from Lagos (Chapter 39).
 
-**Opening**: Antarctica dock. Amara watching Zara's ship arrive. Fifteen years of distance ending. Three months until impact.
+**Opening**: Antarctica. Amara's apartment. Family arrived yesterday from Lagos. Zara, Kwame, Maya (17 years, 3 months), Kofi (14 years, 2 months). All together for first time since they reconciled Year 7.
 
-**The Reunion**: Sisters embracing after years of estrangement. Amara sobbing—relief, regret, love. Meeting Maya (17) and Kofi (13) for first time really. Meeting Kwame properly. David witnessing with gentle support.
+**The Reunion**: Different from Year 7 call or Year 9 visit. This is permanent. Eight months until impact. Family choosing to face end together. Amara watching Kofi (last saw him at 6, now 14) and Maya (now nearly adult). Time passed. Time short.
 
 **First Night**: Amara can't stop watching her family. Maya and Kofi exploring. Being teenagers. Being alive. Zara and Kwame exhausted but present. David creating space. Home becoming real.
 
@@ -27,7 +27,7 @@ Everyone gathers. Final moments. Presence until the end. Together into the light
 ---
 
 ## Chapter 41: Year 15, Month 1 — Final Migration
-**POV: Elena Torres (74) | Year 15, Month 1 | ~4,000 words**
+**POV: Elena Torres (73) | Year 15, Month 1 | ~4,000 words**
 
 **Opening**: Antarctic population: 1.8 million people. Final census. No more leaving—everyone who's here chose to be here. Everyone who isn't already gone or dead.
 
@@ -45,7 +45,7 @@ Everyone gathers. Final moments. Presence until the end. Together into the light
 
 **Final Bureaucracy**: Elena filing final reports. Not for anyone. For completion. For dignity. Someone should document. Someone should say: we were here. Even if no one reads it.
 
-**Conversation with Kenji**: Her son asks, "Mom, are you satisfied?" "With what?" "With how you led. With fourteen years as mayor." Elena thinks. "I was elected twice. Then no one opposed me. Then no one wanted the job. I went from wielding power to bearing witness. I didn't save anyone. But I showed up. I maintained dignity. I did the work until there was no work left. The transformation from mayor to witness—that was the real work. Yes. That's enough."
+**Conversation with Kenji**: Her son asks, "Mom, are you satisfied?" "With what?" "With how you led. With fifteen years as mayor." Elena thinks. "I was elected twice (Year -2 and Year 2). Then no one opposed me (Year 6). Then no one wanted the job (Year 10+). I went from wielding power to bearing witness. I didn't save anyone. But I showed up. I maintained dignity. I did the work until there was no work left. The transformation from mayor to witness—that was the real work. Yes. That's enough."
 
 **End**: Elena looking out over the megacity. Lights flickering across the vast continental sprawl. People moving between buildings. Community persisting. Three months left. She's ready? No. Present? Yes. That's everyone's truth now.
 
@@ -54,9 +54,9 @@ Everyone gathers. Final moments. Presence until the end. Together into the light
 ---
 
 ## Chapter 42: Year 15, Month 1 — Maya's Understanding
-**POV: Maya Okafor-Mensah (17) | Year 15, Month 1 | ~4,500 words**
+**POV: Maya Okafor-Mensah (17 years, 3 months) | Year 15, Month 1 | ~4,500 words**
 
-**NEW POV**: First chapter from Maya's perspective. Final generation. About to turn seventeen and die at seventeen. What does she understand? What does she want?
+**NEW POV**: First chapter from Maya's perspective. Final generation. Seventeen years old and will die at seventeen years, seven months. What does she understand? What does she want?
 
 **Opening**: Maya's first night in Antarctica. Can't sleep. Too cold, too strange, too final. She walks outside—midnight, polar night, stars brilliant. Standing in the place where the world will end.
 
@@ -66,7 +66,7 @@ Everyone gathers. Final moments. Presence until the end. Together into the light
 
 **Wei's Influence**: Grandmother Wei (honorary grandmother) taught her presence. From age two to Wei's death. The garden. The flowers. The impermanence made visible. Wei dying naturally before the asteroid—mercy and loss both.
 
-**Kofi**: Her brother. Thirteen years old. Brilliant, curious, kind. She raised him almost as much as Mama did. Taught him reading. Taught him kindness. Taught him that brief life matters. He'll die at fourteen (in three months). She'll die at seventeen. Both too young. Both exactly the age they'll be.
+**Kofi**: Her brother. Fourteen years, two months old. Brilliant, curious, kind. She raised him almost as much as Mama did. Taught him reading. Taught him kindness. Taught him that brief life matters. He'll die at fourteen years, six months (in eight months). She'll die at seventeen years, seven months. Both too young. Both exactly the age they'll be.
 
 **What She Wants**: Maya standing under Antarctic stars, thinking: What do I want from three months? 
 
@@ -82,7 +82,7 @@ Just: presence. Knowing family. Especially Aunt Amara. Learning from Uncle David
 
 **Kenji**: Young uncle who teaches presence. Maya knows his story—dropout, wanderer, returned. Learned from Wei. Teaches what Wei taught. Maya wants to learn too. Wants three months of practice. Not to be ready (impossible). To be present (possible).
 
-**Kofi Sleeping**: Maya returns to apartment. Kofi asleep on couch, mouth open, looking thirteen. She covers him with blanket. Watches him breathe. Three months. Then: no breath. No Kofi. No anything.
+**Kofi Sleeping**: Maya returns to apartment. Kofi asleep on couch, mouth open, looking fourteen. She covers him with blanket. Watches him breathe. Eight months. Then: no breath. No Kofi. No anything.
 
 The grief wells up—anticipatory grief she's carried seventeen years. But also: love. He's here now. She's here now. That has to count.
 
@@ -93,11 +93,13 @@ The grief wells up—anticipatory grief she's carried seventeen years. But also:
 ---
 
 ## Chapter 43: Year 15, Month 1 — Teaching Until the End
-**POV: Kenji Torres (39) | Year 15, Month 2 | ~4,000 words**
+**POV: Kenji Torres (37) | Year 15, Month 2 | ~4,000 words**
+
+**NOTE**: Kenji born Year -22, age 37 at Year 15.
 
 **Opening**: Community center. Kenji teaching presence practice. Sixty people attending—largest gathering yet. Everyone wanting to learn. Everyone wanting tools for facing the end.
 
-**Eight Years Teaching**: Reflection on journey from seeker to teacher. Studied with Wei five years. Wandered three years. Returned Year 10. Started teaching Year 11. Now: Year 15. Final teachings. Everything Wei gave him, passed forward.
+**Journey Reflected**: Reflection on path from seeker to teacher. Left for Lagos Year 1, age 23. Studied with Wei three years (Year 1-4). Continued after her death (Year 11). Returned to Antarctica Year 12, age 34. Teaching three years now (Year 12-15). Final teachings. Everything Wei gave him, passed forward.
 
 **The Practice**: Simple instructions. "Notice breath. Notice body. Notice thoughts without clinging. Notice feelings without drowning. This moment. This moment. This moment. Nothing more. Nothing less. This is enough."
 
@@ -140,7 +142,9 @@ He's ready? No. Present? Yes. Teaching presence until he can't. That's complete.
 ---
 
 ## Chapter 44: Year 15, Month 2 — Platform 73 (FOUNDATION IN CHAPTER 20)
-**POV: David Chen (62) & Maya Okafor-Mensah (17) | Year 15, Month 2 | ~5,000 words**
+**POV: David Chen (63) & Maya Okafor-Mensah (17 years, 4 months) | Year 15, Month 2 | ~5,000 words**
+
+**NOTE**: David born Year -48, age 63 at Year 15. Chapter 20 exists as foundation from earlier draft.
 
 **STATUS: CHAPTER 20 EXISTS AS FOUNDATION — EXPAND**
 
@@ -182,8 +186,8 @@ Three of them on platform. Family. Working together. Being together. Two months 
 
 ---
 
-## Chapter 45: Year 15, Month 2 — Ibrahim's Reconciliation
-**POV: Ibrahim al-Rashid (32) | Year 15, Month 2 | ~4,000 words**
+## Chapter 45: Year 15, Month 2 — Ibrahim's Offering
+**POV: Ibrahim al-Rashid (34) | Year 15, Month 2 | ~4,000 words**
 
 **Opening**: Knock on Ibrahim's door. He's meditating—morning practice, routine for seven years. Opens door to find: Imam Hassan. The man who tried to save his faith. Haven't seen each other in eight years.
 
@@ -278,7 +282,9 @@ But tonight: breath. That's everything.
 ---
 
 ## Chapter 46: Year 15, Month 3 — Final Lessons (FOUNDATION IN CHAPTER 21)
-**POV: Elena Torres (74) | Year 15, Month 3 | ~4,500 words**
+**POV: Elena Torres (73) | Year 15, Month 3 | ~4,500 words**
+
+**NOTE**: Elena born Year -58, age 73 at Year 15. Chapter 21 exists as foundation from earlier draft.
 
 **STATUS: CHAPTER 21 EXISTS AS FOUNDATION — EXPAND**
 
@@ -402,9 +408,9 @@ Elena's final journal entry for the chapter: *Day 335. Thirty days. I'm satisfie
 
 **Opening**: Seven days remain. Zara wakes to this knowledge: one week. Seven days with her children. Seven days with Kwame. Seven days until everyone she loves dies.
 
-**Fifteen Years Reflected**: Zara spent fifteen years living deliberately. Had Kofi Year 2. Raised both children with fierce love. Defied the void. Chose life. Now: final week. Was it worth it?
+**Fifteen Years Reflected**: Zara spent fifteen years living deliberately. Had Kofi Year 0. Raised both children with fierce love. Defied the void. Chose life. Now: final week. Was it worth it?
 
-She looks at Maya (17) and Kofi (12) sleeping. Yes. Every moment worth it. Every choice right. They got to live. Brief lives but real lives. That matters.
+She looks at Maya (17 years, 6 months) and Kofi (14 years, 5 months) sleeping. Yes. Every moment worth it. Every choice right. They got to live. Brief lives but real lives. That matters.
 
 **Day 1 — Normal Day**: Zara makes decision: spend final week normally. Not dramatizing. Not creating fake meaning. Just: living. Being family. Presence as usual. That's the point.
 
