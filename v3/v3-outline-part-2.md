@@ -265,19 +265,19 @@ Marcus (34, pragmatic but committed): "I was wrong. Not about the pragmatism—w
 ## Chapter 19: Year 6 — Community
 **POV: Zara Okafor-Mensah (37) | Year 6, Month 3 | ~4,000 words**
 
-**Opening**: Zara's apartment compound. Morning. Maya teaching Kofi his letters. "That's K. K for Kofi!" Kwame making breakfast. Zara at table, engineering schematics displayed—she's designing greywater system for compound.
+**Opening**: Zara's apartment compound. Morning. Maya teaching Kofi to read compound words. "But-ter-fly! Three parts." Kwame making breakfast. Zara at table, engineering schematics displayed—she's designing greywater system for compound.
 
 **The Compound Community**: Apartment building (50 units) has formed tight community. Shared resources. Shared childcare. Shared meals sometimes. Neighbors helping each other. Not commune—just: people supporting people.
 
 **Engineering Work Continuing**: Zara still works. Designs water reclamation systems for Lagos District. Knows the systems will last maybe ten years, not forever. Does the work anyway. Why? Because people need water now. Because engineering is gift. Because doing nothing is worse than doing temporary things.
 
-**Maya at Seven**: Tall for her age. Serious. Smart. Reads voraciously. Teaches Kofi patiently. Has conversations beyond her years. Knows about the asteroid—explained it Year 4. Understands she'll die at seventeen. Handles it with strange calm. Zara doesn't know if this is wisdom or trauma.
+**Maya at Eight**: Tall for her age. Serious. Smart. Reads voraciously. Teaches Kofi patiently. Has conversations beyond her years. Knows about the asteroid—explained it Year 4. Understands she'll die at seventeen. Handles it with strange calm. Zara doesn't know if this is wisdom or trauma.
 
 **Regular Visits to Wei**: Twice weekly, Zara brings children to Wei's garden. The old professor teaches without teaching. Just: presence. Observations about flowers, butterflies, seasons. Maya absorbs everything. Kofi plays happily. Zara learns alongside her children.
 
 **Kwame's Quiet Strength**: Evening scene. Kwame and Zara alone after children sleep. Kwame asks: "Do you regret it? Having Kofi?" Zara: "Never. You?" Kwame: "Never. But I fear for them." Zara: "So do I. Every day. But they're here. They're real. Their lives matter."
 
-**The Math Always There**: Zara can't escape the countdown. Nine years left. Maya will be sixteen. Kofi will be twelve. Not enough time. Never enough time. But: right now they're seven and three. Right now they're alive.
+**The Math Always There**: Zara can't escape the countdown. Nine years left. Maya will be seventeen. Kofi will be fourteen. Not enough time. Never enough time. But: right now they're eight and five. Right now they're alive.
 
 **Compound Meeting**: Evening gathering. Twenty neighbors. Discussing collective gardening project—expand rooftop gardens, grow more food. One neighbor (Mr. Chen, elderly): "Why bother? Nine years left." Young mother (Adanna): "Because my son needs food now. Because growing things matters now." Vote: unanimous yes. The compound commits to life.
 
