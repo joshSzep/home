@@ -224,7 +224,7 @@ Night. Children sleeping.
 
 Zara did her ritual—checking on them before bed. Maya's room first. Eight years old, tall for her age, curled around her favorite book. *The Butterfly Life Cycle.* Gift from Wei. Maya had read it dozens of times, absorbing the lesson about transformation, impermanence, change from within.
 
-Nine years from now: Maya would be seventeen. Just reaching adulthood, then nothing. Never would finish university. Never would start a career. Never would have children of her own. Just: childhood, adolescence, one year of being an adult. Then nothing.
+Nine years from now: Maya would be seventeen. Just reaching adulthood, then nothing. Never would finish university. Never would start a career. Never would have children of her own. Just: childhood, adolescence, one year of nearly being an adult. Then nothing.
 
 But right now: sleeping peacefully, clutching her book, dreaming about butterflies or words or whatever eight-year-olds dreamed about.
 
