@@ -64,7 +64,7 @@ She scrolled through the timestamps. Year 1: daily messages. Year 2: weekly. Yea
 
 Amara opened the most recent message. From three weeks ago.
 
-A video. Zara in a garden in Lagos, afternoon sunlight streaming through the lemon tree that had been growing for years. Two children visible—Maya (9 years old now, tall and serious, reading a book in the shade) and Kofi (6 years old, laughing at something off-camera, chasing a butterfly through the flowers).
+A video. Zara in Wei's garden in Lagos, afternoon sunlight streaming through the lemon tree that Wei had been growing for years. Two children visible—Maya (9 years old now, tall and serious, reading a book in the shade) and Kofi (6 years old, laughing at something off-camera, chasing a butterfly through the flowers).
 
 Zara looked directly into the camera. Older than Amara remembered. Gray threading through her hair. Lines around her eyes. But present. Alive. Real.
 
