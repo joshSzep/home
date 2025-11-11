@@ -390,6 +390,3 @@ Yes.
 
 Peace.
 
----
-
-**End Chapter 21**
