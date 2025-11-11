@@ -304,7 +304,7 @@ Or maybe that was just: rationalization for failure.
 
 ---
 
-Month 10 arrived. Kenji decided: time to leave. Five months was long enough. He'd learned what the ashram could teach him—which was mostly: he couldn't learn what the ashram was teaching. Gap too wide. Mind too analytical. Something broken in him that prevented embodiment.
+Year 5, Month 10 arrived. Kenji decided: time to leave. Five months was long enough. He'd learned what the ashram could teach him—which was mostly: he couldn't learn what the ashram was teaching. Gap too wide. Mind too analytical. Something broken in him that prevented embodiment.
 
 He told the senior teacher his plans.
 
