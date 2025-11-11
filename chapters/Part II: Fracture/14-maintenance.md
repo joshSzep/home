@@ -130,11 +130,11 @@ Easier not to talk about it. Easier to let it continue. Easier to maintain the f
 
 David drank his tea. Looked at the dark apartment. Listened to the silence.
 
-A memory surfaced, unbidden: Year minus seven. Solar energy conference in Singapore. He'd been presenting on tracker optimization algorithms—dry technical stuff, audience of twelve. Amara was there for the astrophysics panel. They'd ended up at the same networking reception, same table, same bottle of wine.
+A memory surfaced, unbidden: Year minus fourteen. Solar energy conference in Singapore. He'd been presenting on tracker optimization algorithms—dry technical stuff, audience of twelve. Amara was there for the astrophysics panel. They'd ended up at the same networking reception, same table, same bottle of wine.
 
 She'd asked about his work. Actually interested, not just polite. He'd asked about hers. Black holes, stellar formation, the physics of the impossible. Her eyes had lit up talking about it. He'd loved that—her brilliance made visible, her passion tangible.
 
-They'd talked for four hours. Missed the rest of the conference. Got coffee the next morning. Exchanged contact information. Started messaging. Six months later: dating. Year minus five: married.
+They'd talked for four hours. Missed the rest of the conference. Got coffee the next morning. Exchanged contact information. Started messaging. Six months later: dating. Year minus twelve: married.
 
 She'd been brilliant and passionate and alive. He'd been steady and reliable and present. Good combination. They'd balanced each other. He grounded her flights of theory. She expanded his practical focus. It worked.
 

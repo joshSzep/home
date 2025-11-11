@@ -158,7 +158,7 @@ She didn't want to. Looking at him meant seeing his concern, his love, his pain.
 
 "Please," he said quietly.
 
-She looked. His face was open. Vulnerable. Hurt. This man she'd married thirteen years ago. This man who'd loved her through twenty years of work obsession and emotional distance. This man who deserved better than a wife who'd chosen numbness over connection.
+She looked. His face was open. Vulnerable. Hurt. This man she'd married sixteen years ago. This man who'd loved her through twenty years of work obsession and emotional distance. This man who deserved better than a wife who'd chosen numbness over connection.
 
 "I'm leaving," he said.
 
