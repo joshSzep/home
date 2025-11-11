@@ -16,7 +16,9 @@ She updated the trajectory. Observation 127,394. The asteroid was precisely wher
 
 Her tea had gone cold again. She couldn't remember making it. An hour ago? Three? Time was still elastic at midnight in an empty building, stretching and compressing in ways that mocked the precision of her calculations.
 
-The station lights were motion-activated now—power conservation protocols. They flickered on as she walked the corridors, checking systems that checked themselves. Then darkness followed her, lights dying in her wake. Sixty workstations silent. Three hundred dormitory rooms empty. A facility built for bustling scientific inquiry now housing one woman who'd forgotten how to be human.
+The station lights were motion-activated now—power conservation protocols. They flickered on as she walked the corridors, checking systems that checked themselves. Then darkness followed her, lights dying in her wake. They'd moved to this smaller facility Year 3—twenty workstations instead of sixty, fifty dormitory rooms instead of three hundred. More efficient, they said. More appropriate for diminished staff.
+
+Now even this smaller building was too large. All twenty workstations silent. All fifty dormitory rooms empty except one. A facility built for essential operations now housing one woman who'd forgotten how to be human.
 
 She was the last. Dr. Kim quit Year 5—went to Tokyo to spend time with grandchildren. Dr. Patel transferred Year 6, citing "personal reasons" that everyone understood. The younger researchers had fled earlier. Now: just Amara and the machines and the infinite silence of space.
 
@@ -108,7 +110,7 @@ She stared at them, trembling over the haptic interface. When had that started? 
 
 Her body protesting what her mind refused to acknowledge.
 
-Amara pushed back from her workstation. Stood. Walked the empty corridors, lights flickering on and off in her wake. Sixty workstations. Three hundred dormitories. All designed for community, for collaboration, for human connection.
+Amara pushed back from her workstation. Stood. Walked the empty corridors, lights flickering on and off in her wake. Twenty workstations. Fifty dormitories. Even this reduced facility designed for essential staff, for minimal community, for some human connection.
 
 All empty except for her.
 
@@ -158,7 +160,7 @@ Eight years until the asteroid.
 
 But she wouldn't last eight years. Not like this.
 
-Amara stood. Walked back to her workstation. Lights flickering on, following her through the tomb she'd made of her life.
+Amara stood. Walked back to her workstation. Lights flickering on, following her through the tomb she'd made of her life. Even the smaller facility felt too large when you were the only person left.
 
 She sat down. Stared at her monitors. The asteroid approaching. The countdown ticking. The data streaming in perfect, pointless precision.
 
