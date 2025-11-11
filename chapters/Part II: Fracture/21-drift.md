@@ -216,7 +216,7 @@ Ninety-nine beads. Ninety-nine names of God that meant nothing now. He held them
 
 The practice was empty of faith. But not empty of ritual. Not empty of presence. He was here, now, holding beads, counting, breathing. That was all. That was everything. That was enough for tonight.
 
-Tomorrow he'd walk fifty-three steps down. Walk his route. Maybe visit Yuki. Maybe not. Count his steps. Notice things. Exist without purpose or identity or belief.
+Tomorrow he'd walk fifty-three steps down. Walk his route. Maybe visit Min-seo. Maybe not. Count his steps. Notice things. Exist without purpose or identity or belief.
 
 Was that enough?
 
@@ -296,7 +296,7 @@ And maybe that was enough.
 
 ## Year 6, Month 11 — Final Week
 
-Ibrahim stood on his tiny balcony—same size as Yuki's, fourth floor instead of second. The Antarctic darkness was complete now. Winter solstice approaching. The stars were incredible—no light pollution reaching this far from city center, the cold air crystalline and clear.
+Ibrahim stood on his tiny balcony—same size as Min-seo's, fourth floor instead of second. The Antarctic darkness was complete now. Winter solstice approaching. The stars were incredible—no light pollution reaching this far from city center, the cold air crystalline and clear.
 
 He'd never paid attention to stars before. As a child in Syria, they'd been background. During militia years, they'd been navigation tools. Now: just stars. Beautiful. Distant. Indifferent.
 
