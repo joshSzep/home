@@ -355,7 +355,33 @@ The two Marcuses had laughed about it that morning. "This is going to be confusi
 
 "Or I'll go by Reyes—my middle name," assistant Marcus suggested.
 
-They'd settled on: Rivera for the deputy mayor, Marcus for the assistant. Simple. Clear. Necessary.
+But before they could settle on names, assistant Marcus—Reyes—set down his tablet. "Actually, Mayor. I need to tell you something. I'm resigning."
+
+Elena looked at him, startled. "What?"
+
+"I've been your assistant for eight years. Since before detection. Before everything changed." He smiled slightly. "You don't need an assistant anymore. You need a deputy mayor. Someone to share the burden. That's Rivera. My role is... redundant now."
+
+"You're not redundant," Elena protested.
+
+"Not redundant. Complete." Reyes met her eyes. "I helped you through two years of apocalypse. Watched you become the mayor who bears witness. Now you have someone who can actually help govern. I can leave knowing you're not alone."
+
+"Where will you go?"
+
+"Home. Mumbai. See my family for the first time in six years. Spend thirteen years with them instead of in conference rooms." He picked up his tablet again. "But first: one last briefing. I want to see Rivera in action. Make sure he's worthy of you."
+
+Rivera raised an eyebrow. "No pressure."
+
+"All the pressure," Reyes said cheerfully. "Prove you deserve this job."
+
+Elena felt tears threaten. Eight years. Reyes had been there for her first campaign, her first term, detection, collapse, re-election. Constant presence. Reliable support. Now: leaving. She'd lose him too.
+
+But: he was right. She had Rivera now. Partnership instead of assistance. Shared burden instead of supported solo. Reyes had earned his freedom.
+
+"Thank you," she said quietly. "For everything. For eight years. For showing up when I needed someone. For staying when everyone else left."
+
+"Thank you for letting me serve." Reyes smiled. "Now. Let's do this briefing. Rivera—take notes. That's your job now."
+
+They'd settled on: Rivera for the deputy mayor. No assistant anymore. Just partners in governance.
 
 Elena called the briefing to order. "Population report."
 
@@ -401,7 +427,31 @@ Rivera nodded. "Thank you, Mayor."
 
 The briefing continued. Practical governance alongside symbolic governance. Presence plus care. Both necessary. Both valuable.
 
-After, Rivera stayed. "Thank you for trusting me."
+After, both Marcuses stayed.
+
+Reyes packed his belongings carefully—tablet, stylus, eight years of notes backed up to the archive. "That's it, then. My last briefing."
+
+"You could stay," Elena offered. "Different role. Still part of the team."
+
+"I could. But I shouldn't." He looked at Rivera. "Take care of her. This work destroys people. She's survived two years because she's impossibly strong. But she needs someone to share the weight. Do that."
+
+"I will," Rivera promised.
+
+Reyes turned to Elena. "You're going to be fine. Better than fine. You have real help now. Partnership instead of assistance. That's what you've needed all along."
+
+"I'll miss you."
+
+"I'll miss this. But I'll be alive. In Mumbai. With my family. That matters more." He smiled. "Show up every day. Bear witness. Keep governing. You're doing something important even when it feels impossible."
+
+"Practice as purpose."
+
+"Exactly." Reyes picked up his bag. "Goodbye, Mayor. Thank you for eight years of meaning."
+
+He left. Elena watched him go—one more person departing, one more loss in years of losses. But: he was going toward something. Family. Home. Life. That mattered.
+
+She turned to Rivera. "Just us now."
+
+"Just us," he confirmed. "Thank you for trusting me."
 
 "Thank you for serving."
 
@@ -411,9 +461,13 @@ After, Rivera stayed. "Thank you for trusting me."
 
 "Exactly."
 
-Rivera left. Elena sat alone in the too-large conference room. Six people now instead of five. Former opponent now ally. Four more years of governance ahead.
+Rivera left. Elena sat alone in the too-large conference room. Five people now. Reyes gone. Rivera present. Former opponent now partner. Four more years of governance ahead.
 
 She'd won. Sixty-one percent. Democratic mandate. Legitimate authority. The people chose witness. Chose presence. Chose her.
+
+Reyes was gone—home to Mumbai, to family, to life. Eight years of service complete.
+
+Rivera was here—former opponent, current partner. Four years of collaboration beginning.
 
 The victory still felt hollow—governing extinction didn't become meaningful just because people voted for it. But: it became legitimate. Accountable. Democratic.
 
@@ -487,7 +541,7 @@ Small team. Impossible task. Meaningful practice.
 
 Enough.
 
-Elena turned off her office lights. Went home. Tomorrow: another briefing. Another day of governance. Another day of showing up.
+Elena turned off her office lights. Went home. Tomorrow: another briefing. Another day of governance. Another day of showing up. Without Reyes. With Rivera instead. Different partnership. Same purpose.
 
 Four more years of that ahead.
 
@@ -505,7 +559,7 @@ The practice was the point.
 
 **Closing**
 
-Two point four billion people. One elected mayor. One deputy mayor who'd opposed her, now served her. Six people in a conference room for fifty. Democracy maintained. Witness continued. Governance practiced.
+Two point four billion people. One elected mayor. One deputy mayor who'd opposed her, now served her. Five people in a conference room for fifty. Reyes gone home. Democracy maintained. Witness continued. Governance practiced.
 
 Four more years ahead. Then: another election. Or not. Uncertainty remained.
 
