@@ -271,7 +271,7 @@ Late evening. Marcus gone. Elena alone in the apartment that was simultaneously 
 
 *Now Year 6. No election. No opposition. No vote. But: six years of daily practice. Six years of showing up at 7 AM. Six years of bearing witness. Six years of maintaining dignity in collapse.*
 
-*That's legitimate too. Has to be. Population of two billion people could have challenged me. Anyone could have filed. They watched and said: no, she's doing it right. Let her continue.*
+*That's legitimate too. Has to be. Eight hundred million people could have challenged me. Anyone could have filed. They watched and said: no, she's doing it right. Let her continue.*
 
 *That's authority. Different authority. Earned through practice not promises.*
 
