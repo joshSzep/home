@@ -302,7 +302,7 @@ He'd never paid attention to stars before. As a child in Syria, they'd been back
 
 Everything was indifferent. The universe didn't care about Ibrahim. Didn't care about faith or loss or broken legs or prayer beads. The asteroid was falling because physics, not punishment. People suffered because matter and biology, not divine plan.
 
-This realization had broken him four years ago. Shattered his entire worldview. Left him empty and faithless and lost.
+This realization had broken him six years ago. Shattered his entire worldview. Left him empty and faithless and lost.
 
 Now, standing in the cold, watching stars, he found he didn't mind so much.
 
@@ -374,7 +374,7 @@ Breathed.
 
 Noticed the breathing.
 
-And for the first time in four years, felt something like peace. Not happiness. Not faith. Not certainty.
+And for the first time in six years, felt something like peace. Not happiness. Not faith. Not certainty.
 
 Just: peace with the uncertainty. Peace with the emptiness. Peace with the not-knowing.
 
