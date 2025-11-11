@@ -178,11 +178,11 @@ Twenty neighbors gathered in the shared workspace—converted storage room on th
 
 Zara had helped establish these meetings Year 2. Monthly gatherings to discuss collective issues, plan projects, maintain connection. Attendance fluctuated—twenty tonight, sometimes fifteen, once as many as thirty-five. But consistent enough to matter.
 
-Mr. Chen (elderly, skeptical, reliable) called the meeting to order. "Rooftop garden expansion. Zara, you want to present?"
+Mr. Okonkwo (elderly, skeptical, reliable) called the meeting to order. "Rooftop garden expansion. Zara, you want to present?"
 
 Zara pulled up the plans—engineering drawings showing the expanded garden layout, water system integration, structural load calculations. "Current rooftop: forty square meters of growing space. Produces maybe thirty percent of our compound's vegetables. Proposed expansion: one hundred twenty square meters. Gets us to eighty percent self-sufficiency."
 
-"For nine years," Mr. Chen said.
+"For nine years," Mr. Okonkwo said.
 
 "For nine years," Zara agreed. "For however long we have. For now."
 
@@ -200,7 +200,7 @@ More silence. The psychological cost—committing to a project that wouldn't out
 
 Others nodded. The sentiment spreading. Yes. Why not? What else were they doing with their time besides counting down?
 
-Mr. Chen cleared his throat. "I'm old. Seventy-three. Probably dead before the asteroid anyway. But: I grew up farming. Before the climate shifts. Before the mega-cities. I know how to grow food." He paused. "I vote yes. I'll help design the planting layout."
+Mr. Okonkwo cleared his throat. "I'm old. Seventy-three. Probably dead before the asteroid anyway. But: I grew up farming. Before the climate shifts. Before the mega-cities. I know how to grow food." He paused. "I vote yes. I'll help design the planting layout."
 
 Zara felt something shift in the room. Permission, maybe. Permission to commit. Permission to care about temporary things. Permission to choose life.
 
