@@ -96,7 +96,7 @@ Gift work, Wei called it. Labor without expectation of permanence. Zara had lear
 
 Lunchtime: visit to Wei's apartment.
 
-Zara brought the children twice weekly—Tuesdays and Fridays, regular as clockwork. The old professor was 119 now, body failing visibly. Needed full-time care that a young nurse (Amara, no relation to Zara's sister) provided. Wei's mind remained sharp, but her body was finishing its transformation.
+Zara brought the children twice weekly—Tuesdays and Fridays, regular as clockwork. The old professor was 119 now, body failing visibly. Needed full-time care that a young nurse named Ling provided. Wei's mind remained sharp, but her body was finishing its transformation.
 
 Natural death would claim Wei before the asteroid. Maybe months. Maybe a year. Zara grieved this already, the way you grieve something inevitable while it's still present.
 
@@ -118,7 +118,7 @@ Wei took the picture with shaking hands. Studied it seriously. "You remembered t
 
 Zara settled on the bench while Kofi explored and Maya showed Wei her latest school work. This was the rhythm they'd established over six years—visiting, tending, being present. Wei teaching without teaching. Just: observations about flowers, butterflies, the way light shifted through leaves. Philosophy made practical.
 
-Amara (the nurse) brought tea. Zara helped Wei hold the cup—hands too shaky now to manage alone. The intimacy of this—helping someone drink—felt profound. Physical care as teaching. Vulnerability as wisdom.
+Ling brought tea. Zara helped Wei hold the cup—hands too shaky now to manage alone. The intimacy of this—helping someone drink—felt profound. Physical care as teaching. Vulnerability as wisdom.
 
 "Maya understands about the asteroid," Wei said quietly, watching the girl examine a beetle. "You told her Year 4?"
 
