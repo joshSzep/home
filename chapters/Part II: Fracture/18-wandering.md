@@ -230,7 +230,7 @@ He pulled up his wrist display. Message from Elena, sent yesterday:
 
 *Mijo—*
 
-*Year 5, Month 8 from Antarctica. Population at 2.4 billion now. Down from 4.2 billion at detection. Infrastructure holding at minimal levels. I govern meetings attended by five people in rooms designed for thirty. Democratic legitimacy becomes question mark—Year 6 election approaching, unclear if anyone will oppose me. Marcus Rivera says people trust my witness more than my power. Strange shift: authority through presence rather than votes.*
+*Year 5, Month 8 from Antarctica. Population at 1.9 billion now. Down from 4.2 billion at detection. Infrastructure holding at minimal levels. I govern meetings attended by five people in rooms designed for thirty. Democratic legitimacy becomes question mark—Year 6 election approaching, unclear if anyone will oppose me. Marcus Rivera says people trust my witness more than my power. Strange shift: authority through presence rather than votes.*
 
 *Professor Wei writes to me regularly now. Her letters are brief, clear, profound. She says governance without outcomes is still governance. That showing up when powerless is the whole work. I'm beginning to understand that. Not accept—understanding and acceptance are different. But: understand.*
 
