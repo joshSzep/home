@@ -26,7 +26,7 @@ Platform twelve waited for them. David pulled his diagnostic tablet without cons
 
 "I know." David was already positioning the extraction tool. "Hand me the housing spanner."
 
-The tool appeared in 47B's manipulator exactly when David's hand reached for it. Perfect timing. They'd developed this synchronization over two years—David anticipating 47B's movements, 47B anticipating David's needs. Better coordination than he'd had with most humans. Better than he had with Amara, certainly.
+The tool appeared in 47B's manipulator exactly when David's hand reached for it. Perfect timing. They'd developed this synchronization over the years—David anticipating 47B's movements, 47B anticipating David's needs. Better coordination than he'd had with most humans. Better than he had with Amara, certainly.
 
 He pushed the thought away. Focus on work.
 
