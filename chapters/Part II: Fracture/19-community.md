@@ -200,7 +200,7 @@ More silence. The psychological cost—committing to a project that wouldn't out
 
 Others nodded. The sentiment spreading. Yes. Why not? What else were they doing with their time besides counting down?
 
-Mr. Okonkwo cleared his throat. "I'm old. Seventy-three. Probably dead before the asteroid anyway. But: I grew up farming. Before the climate shifts. Before the mega-cities. I know how to grow food." He paused. "I vote yes. I'll help design the planting layout."
+Mr. Okonkwo cleared his throat. "I grew up farming. Before the climate shifts. Before the mega-cities. Real soil farming, not hydroponics. I know how to grow food." He paused. "I vote yes. I'll help design the planting layout."
 
 Zara felt something shift in the room. Permission, maybe. Permission to commit. Permission to care about temporary things. Permission to choose life.
 
