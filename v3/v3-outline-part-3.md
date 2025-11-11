@@ -12,21 +12,25 @@ Reconnection. Teaching. Healing. The scattered begin to gather. The broken begin
 ## Chapter 24: Year 8 — Reconciliation Begins
 **POV: Amara Okafor (58) & David Chen (56) | Year 8, Month 2 | ~4,000 words**
 
-**Opening**: Amara and David's apartment. First honest conversation in eight years. Both sitting awkwardly. Don't know how to start. Eight years of avoidance between them.
+**Opening**: David's apartment (his since the divorce). Amara arrives—first time in four years. Both nervous. Divorced Year 4. Haven't spoken in months. But: both ready to try.
 
-**The Conversation**: David starts: "I've been hiding in work." Amara: "So have I." David: "I didn't know how to reach you." Amara: "I didn't know how to let you." Long silence. Then: "We have seven years left. Do we spend them like this? Separate together?" "No. I don't want that." "Neither do I." "So what do we do?" "We start. Right now. Today."
+**Why Now**: Amara: "I called Zara. Year 7. First real conversation in years. Made me realize: I've been hiding from everyone. Including you." David: "I've been thinking about you. About us. About whether we threw away something salvageable." Amara: "Did we?" "I don't know. But we have seven years left. I don't want to spend them wondering."
 
-**Beginning Again**: Not dramatic reconciliation. Quiet recommitment. They start small: eating breakfast together. David talks about 47B. Amara talks about trajectory updates (boring David, but he listens). Both trying. Both present. Both scared but willing.
+**The Conversation**: David starts: "I've been hiding in work." Amara: "So have I." David: "When I left, I thought... I thought you didn't care. That numbness was all that was left." Amara: "I didn't care. Then. The numbness was complete. But it's cracking now. And I realize: I miss you. I missed you even when I couldn't feel it."
 
-**Amara's Plan**: "I want to visit Zara. In Lagos. Meet Maya and Kofi. Before it's too late." David: "When?" "Month 4. Will you come?" David hesitates—Lagos is far, crowded, overwhelming. But: "Yes. I'll come."
+**Acknowledging the Divorce**: "We can't just pretend the last four years didn't happen." "I know." "You left because I'd disappeared into data." "You had disappeared. You chose calculations over me." "I know. I'm sorry. Truly sorry." Long silence. "I'm sorry too. I should have fought harder. Should have refused to let you go." "You tried. I didn't let you." "We both failed." "Yes. We did."
 
-**David's Plan**: "I want to teach you the arrays. Show you what I do." Amara surprised: "Why?" "Because you've never seen. Because it matters to me. Because I want to share it." They schedule visit: next week, platform 73, sunrise.
+**Beginning Again**: Not remarriage talk. Not moving back together. Just: dating. Reconnecting. Starting over as two people who used to love each other, divorced badly, and want to try again. Small steps. Breakfast together once a week. Communicating daily. Seeing where it goes.
 
-**First Date in Eight Years**: They go to community center for dinner. Awkward. Like strangers. But: trying. Amara asks about his day. David asks about her work. Both listening. Both present. Small steps. Real steps.
+**Amara's Plan**: "I want to visit Zara. In Lagos. Meet Maya and Kofi properly. Before it's too late." David: "When?" "Month 4. Will you come? As... friend? Ex-husband? I don't know what to call us yet." David: "As someone who cares. Yes. I'll come."
 
-**End**: That night, they sleep in same bed for first time in years. No intimacy yet. Just: proximity. Not separate. Small healing beginning.
+**David's Plan**: "I want to show you the arrays. What I do every day. You've never seen." Amara: "I'd like that. I want to understand what matters to you." They schedule visit: next week, platform 73, sunrise.
 
-**Key beats**: First honest conversation • Acknowledging isolation • Choosing reconnection • Planning Lagos visit • Sharing work • Awkward date • Sleeping beside each other • Small steps
+**First Date in Four Years**: They go to community center for dinner. Extremely awkward. Like strangers who share history. But: trying. Amara asks about his day. David asks about her work. Both listening. Both present. Both scared but willing.
+
+**End**: Saying goodnight at David's door. No kiss. No intimacy. Just: "Thank you for coming." "Thank you for asking." "Same time next week?" "Yes." Amara walks home (to the monitoring station dormitory). Looks back once. David's watching. Both smiling slightly. Beginning.
+
+**Key beats**: First meeting in months • Divorced but wanting reconnection • Acknowledging failures • Starting over • Not remarrying yet, just dating • Planning Lagos visit together • Sharing work life • Extremely awkward first date • Saying goodnight separately • Small beginning
 
 ---
 
@@ -452,5 +456,7 @@ Reconnection. Teaching. Healing. The scattered begin to gather. The broken begin
 **End**: Elena home. Marcus making tea (he lives nearby, visits daily—closest friend besides Kenji). They sit quietly. Fourteen years of governance ended. One year of presence remains. Then: together into ending. Not afraid. Not hopeful. Just: here. That's enough.
 
 **END PART III**: Reconnection complete. Community formed. Wisdom shared. Presence practiced. Maya fourteen, will be fifteen at impact. Kofi eleven, will be twelve. Everyone gathered or gathering. One year remains. Part IV will show: the final year. The final days. The final moments. The presence until end. The dignity together. The light.
+
+**NOTE ON AMARA/DAVID**: They divorced Year 4, reconnected Year 8, and have been together (unmarried) for six years by end of Part III. If remarriage is desired, suggest adding chapter in Year 12-13 showing small ceremony - not grand wedding but simple recommitment. Otherwise, they remain loving partners without formal remarriage, which may be more authentic to their journey. Part IV currently refers to them as partners, not spouses.
 
 **Key beats**: Final day in office • Fourteen years summarized • Final report written • Closing office • Going to community center • Practicing with everyone • Marcus staying • Kenji's pride • Elena's tears • One year remains • Ready: no. Present: yes. Enough.

@@ -128,7 +128,7 @@ Elena surprised, moved: "Yes. Thank you."
 ## Chapter 14: Year 3 — Maintenance
 **POV: David Chen (51) | Year 3, Month 8 | ~4,000 words**
 
-**NOTE**: David Chen (maintenance engineer, married to Amara) is different from Marcus Rivera (Elena's deputy mayor)
+**NOTE**: David Chen (maintenance engineer, estranged from Amara—they divorce in Ch 15) is different from Marcus Rivera (Elena's deputy mayor)
 
 **Opening**: Platform 73. Morning routine. David alone. Rodriguez quit last week—went to travel, see world before end. Said: "Come with me. This work doesn't matter." David stayed.
 
@@ -144,9 +144,9 @@ Elena surprised, moved: "Yes. Thank you."
 
 **Flashback**: Brief memory. Year -7. Meeting Amara at conference. Her brilliant mind. His steady presence. Connection immediate. Marriage Year -5. Happy. Partners. Loved.
 
-**Present**: Now—strangers. Amara works constantly. David maintains constantly. They speak logistics: "Low on tea." "I'll order more." "Thanks." Nothing real. Nothing intimate. Marriage dead, neither admits it.
+**Present**: Now—strangers. Amara works constantly. David maintains constantly. They speak logistics: "Low on tea." "I'll order more." "Thanks." Nothing real. Nothing intimate. Marriage dead, neither admits it. Tension building toward separation.
 
-**End**: David in bed. Amara not home yet. Thinking: twelve years left. Spending them like this? But changing feels impossible. Staying feels impossible. Everything feels impossible. Sleep takes him.
+**End**: David in bed. Amara not home yet. Thinking: twelve years left. Spending them like this? But changing feels impossible. Staying feels impossible. Everything feels impossible. Sleep takes him. (Note: They divorce 5 months later in Ch 15)
 
 **Key beats**: Crew abandonment • Robot as better colleague • Perfect work routine • Home avoidance • Marriage realization • Past love remembered • Present estrangement • Paralysis
 
@@ -161,19 +161,21 @@ Elena surprised, moved: "Yes. Thank you."
 
 **Global Death Statistics**: New data stream: aggregate mortality. Suicides up 340%. Violence up 280%. "Natural causes" down—people not dying of old age because they're dying of despair first. Total deaths Year 1-4: 1.2 billion. Amara processes this scientifically. Makes graphs. Notes trends.
 
-**Numbness as Protection**: Realizes: she's not feeling it. 1.2 billion dead. Sister's messages ignored. Husband avoided. Life reduced to data. The numbness is protective. If she feels it, she'll break. So: don't feel.
+**Numbness as Protection**: Realizes: she's not feeling it. 1.2 billion dead. Sister's messages ignored. Husband—ex-husband now. David left her three months ago. The divorce finalized. She signed the papers without reading. Life reduced to data. The numbness is protective. If she feels it, she'll break. So: don't feel.
 
 **Zara's Messages**: Scrolling through three years of ignored messages. Photos of Maya (6) and Kofi (2). Videos of first steps. Voice messages: "Amara, please respond." "Amara, I miss you." "Amara, Kofi was born. You have nephew." Later messages: "Fine. I understand. Take care of yourself."
 
 **Guilt Without Feeling**: Knowing intellectually she should feel terrible. Should respond. Should be aunt, sister, human. But: can't access those emotions. They're buried under calculations. Safer this way.
 
-**Chen's Report**: Colleague Chen (infrastructure, not her David) submits data: power grid degrading. Water systems failing. Transport collapsing. Antarctica losing 15% population per year. Amara files the report. Updates her models. Predicts: Antarctica population Year 15: ~1 billion (down from 4 billion). She doesn't think about what this means for humans. Just: data.
+**David Leaving Her**: Brief scene. Year 4, Month 1. David comes to station. Says: "I'm leaving. Can't watch you disappear into data." Amara feels nothing. Says: "Okay." David devastated by her numbness. Leaves. Separation papers arrive weeks later. She signs without reading. The divorce makes official what was already true.
 
-**The Station**: Walking through empty facility. Sixty workstations. Three occupied. Her footsteps echo. This building was full five years ago. Vibrant. Purposeful. Now: tomb. She's the last priestess, performing rituals for dead gods.
+**Chen's Report**: Colleague Chen (infrastructure, no relation to her ex-husband David) submits data: power grid degrading. Water systems failing. Transport collapsing. Antarctica losing 15% population per year. Amara files the report. Updates her models. Predicts: Antarctica population Year 15: ~1 billion (down from 4 billion). She doesn't think about what this means for humans. Just: data.
 
-**End**: Returning to calculations. Updating countdown. Year 4 complete. Eleven years remain. Asteroid approaching at perfect velocity. Everything on track. Amara feels: nothing. That's the goal.
+**The Station**: Walking through empty facility. Sixty workstations. Three occupied. Her footsteps echo. This building was full five years ago. Vibrant. Purposeful. Now: tomb. She's the last priestess, performing rituals for dead gods. She lives here now. Permanently. Moved in after the divorce. Has a small dormitory room. Never leaves.
 
-**Key beats**: Automated systems • Presence unnecessary but maintained • Death statistics as data • Numbness as protection • Sister ignored • Guilt without feeling • Empty facility • Calculation as armor
+**End**: Returning to calculations. Updating countdown. Year 4 complete. Eleven years remain. Asteroid approaching at perfect velocity. Everything on track. Amara feels: nothing. That's the goal. Divorced. Isolated. Numb. Safe.
+
+**Key beats**: Automated systems • David leaves her • Divorce finalized • Moves into station permanently • Death statistics as data • Numbness as protection • Sister ignored • Guilt without feeling • Empty facility • Calculation as armor
 
 ---
 
@@ -375,9 +377,11 @@ Realizes: this is what she wanted at Year 4. Governance as witness, not power. B
 
 **Robot 47B Conversation**: Midday break. David drinking tea. 47B charging beside him. David speaks aloud: "We've been partners two years now. You're reliable. Constant. Honest. Better colleague than most humans." Robot: *Beep beep.* "Colleague Chen efficiency rating: optimal." David laughs—first laugh in months. "Thanks, 47B."
 
-**Still Avoiding Home**: Shift ends. David stays late. Checks systems twice. Updates logs. Anything to delay returning to apartment where Amara isn't. (She's at monitoring station. Always there.) Eight years living separately together. Neither knows how to change it.
+**Thinking About Amara**: Brief thought about his ex-wife. Divorced three years now (Year 4). She calculates because what else would she do? He maintains because what else would he do? They're parallel—both choosing work over connection. Should he reach out? Try reconnecting? They still have eight years. But: connection is hard. Work is easier.
 
-**End**: Finally going home. 9 PM. Apartment dark and empty. David makes tea. Sits alone. Thinks about 47B—simple, present, functional. Thinks about himself—complicated, avoidant, functional. Thinks: eight years left. Spending them like this? But change requires courage he doesn't have yet.
+**Going Home Alone**: Shift ends. David goes to his apartment—sole occupant since the divorce. No messages. No contact. Three years divorced, barely communicating. He could message her. Could try. But: courage lacking. Change requiring vulnerability he doesn't have yet.
+
+**End**: Finally home. 9 PM. Apartment dark and empty—officially empty now, not just functionally. David makes tea. Sits alone. Thinks about 47B—simple, present, functional. Thinks about himself—complicated, avoidant, functional. Thinks: eight years left. Spending them divorced and isolated? But change requires courage he doesn't have yet.
 
 **Key beats**: Perfect routine • Robot as ideal colleague • Crew optional • Choosing maintenance as meaning • Almost understanding • Comparison to Amara • First laugh in months • Still avoiding intimacy
 
@@ -421,8 +425,8 @@ Amara shares nothing (what would she share? Seven years of calculations?). Just 
 
 **End**: Call ends. 3 AM. Amara sits in empty station. Seven years of hiding. Eight years until asteroid. Not too late? Maybe too late. But: Zara answered. That's something. That's start.
 
-Next day: Amara does something unprecedented. She goes home early. David is there (rare occurrence). They look at each other—two strangers sharing space. Amara says: "We need to talk." David nods: "Yes."
+**Thinking About David**: After hanging up with Zara, Amara thinks about her ex-husband. Divorced three years. Haven't spoken in months. He's still in Antarctica, still maintaining arrays. She could reach out. Could try reconnecting. But: not yet. One step at a time. Sister first. Then: maybe.
 
-**END PART II**: Seven years gone. Eight years remain. Fracture at its worst. But: first movements toward reconnection. Amara calling Zara. David recognizing isolation. Elena understanding witness. Kenji still seeking but hearing about Wei. Ibrahim noticing small things. Everyone scattered, broken, alone—but: seeds of reconnection planted. Part III will see them bloom.
+**END PART II**: Seven years gone. Eight years remain. Fracture at its worst. But: first movements toward reconnection. Amara calling Zara. David recognizing isolation in his work. Elena understanding witness. Kenji still seeking but hearing about Wei. Ibrahim noticing small things. Everyone scattered, broken, divorced, alone—but: seeds of reconnection planted. Part III will see them bloom. (Note: Amara/David reconciliation happens in Part III)
 
 **Key beats**: Extreme isolation • Empty facility • Zara's messages revealed • Physical breakdown • Emotional crack • First call to sister • Two-hour conversation • Reconnection beginning • Confronting David • Seeds planted

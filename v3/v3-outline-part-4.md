@@ -166,15 +166,15 @@ David pauses. Considers. "The point is: they need maintaining. Someone should do
 
 **Working Together**: They spend hours maintaining. Maya learning. David teaching. Both present. Both knowing this is temporary. Both doing it anyway. That's defiance. That's love. That's meaning.
 
-**Lunch on Platform**: David brings meal. They eat two hundred meters up. Talk about everything. Maya asking about David's life. Thirty years of maintenance. Twenty-two years married. Ten years broken. Seven years healed. "Was it worth it? The healing?" "Yes. Every moment of the seven years mattered more than the ten years broken." "Even knowing it ends?" "Especially knowing it ends."
+**Lunch on Platform**: David brings meal. They eat two hundred meters up. Talk about everything. Maya asking about David's life. Thirty years of maintenance. Married Year -5. Divorced Year 4 after fourteen years. Seven years healing, together again. "Was it worth it? The healing?" "Yes. Every moment of the seven years mattered more than the ten years broken." "Even knowing it ends?" "Especially knowing it ends." "Did you remarry?" "No. But we're together. That's what matters."
 
-**Amara Arriving**: Surprise—Amara climbs up. First time ever visiting platform during David's work. She wanted to see. Wanted to witness. Wanted to be present with husband and niece doing meaningful work.
+**Amara Arriving**: Surprise—Amara climbs up. First time ever visiting platform during David's work. She wanted to see. Wanted to witness. Wanted to be present with her partner and niece doing meaningful work.
 
 Three of them on platform. Family. Working together. Being together. Two months left. This moment mattering.
 
 **Amara and Maya**: Aunt and niece connecting. Maya: "Why did you wait fifteen years?" Amara: "I was scared. Of feeling. Of loss. Of knowing you and losing you." "You're losing me anyway." "I know. But at least I know you now. At least I'm here now." "Is now enough?" "It has to be."
 
-**End of Day**: Climbing down together. Systems maintained. Work done. Family time spent. David watching Amara and Maya talking—his wife and his niece, finally connected. Worth the wait? No. But: better than never. That's something.
+**End of Day**: Climbing down together. Systems maintained. Work done. Family time spent. David watching Amara and Maya talking—his partner and his niece, finally connected. Worth the wait? No. But: better than never. That's something.
 
 **End**: Evening. David and Amara in bed. Maya with her family. Two months left. Work continues. Presence continues. Love continues. Until it doesn't. But today: it did. That's enough.
 

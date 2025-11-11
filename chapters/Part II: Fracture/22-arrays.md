@@ -110,11 +110,13 @@ Almost enough.
 
 He thought briefly about Amara. She calculated because what else would she do? He maintained because what else would he do? They were parallel—both choosing work over connection, process over outcome, isolation over intimacy. Both finding purpose in tasks that didn't matter for the future but mattered intensely for the present.
 
-Were they wrong? Should they be together instead? Should they spend the remaining eight years reconnecting instead of hiding in work?
+Ex-spouses. Three years divorced now. Had it changed anything? They'd been emotionally separated long before the paperwork. The divorce just made official what had been true since Year 0: they'd broken, retreated to separate tasks, separate numbnesses. 
 
-Maybe. Probably. But connection was hard. Connection required vulnerability, required feeling, required facing the void together instead of separately. Work was easier. Work was honest. Work asked nothing except presence and competence. David could do that. Could be present to the arrays in ways he couldn't be present to his wife.
+Should he reach out? Try again? They still had eight years. Maybe connection was still possible, even after divorce, even after years of numbness.
 
-That was sad. He recognized that. But recognition didn't change it. He was who he was. Amara was who she was. They'd broken in the detection and never healed, both retreating to their separate tasks, separate numbnesses. Eight years living separately together. Neither knowing how to change it. Maybe neither wanting to badly enough.
+Maybe. But connection was hard. Connection required vulnerability, required feeling, required facing the void together instead of separately. Work was easier. Work was honest. Work asked nothing except presence and competence. David could do that. Could be present to the arrays in ways he'd never been able to be present to his wife.
+
+That was sad. He recognized that. But recognition didn't change it. He was who he was. Amara was who she was. They'd broken in the detection and never healed, divorcing three years ago without much changing except his living situation.
 
 Maybe this—maintenance, calculation, isolated purpose—was the best they could manage.
 
@@ -136,45 +138,31 @@ It felt like there was more. Like this realization was doorway to something deep
 
 The tea cooled. David drank it anyway. Made more. Sat longer.
 
-Around 6 PM, his tablet chimed. Message from Amara: "Working late. Don't wait up."
+His tablet sat silent. No messages. Why would there be? Amara lived at the monitoring station now. Had for three years, since the divorce. They barely communicated anymore. Occasional logistics about shared assets they'd never bothered fully disentangling. Nothing personal. Nothing real.
 
-David stared at the message. Same message as yesterday. Same as the day before. Same as hundreds of days stretching back years. "Working late" had become code for "I'm not coming home" or "I'll sleep at the station" or "We're still avoiding each other."
+He could message her. Could say... what? "I had a realization about maintenance as meditation today"? She'd process it as data, not connection. If she responded at all.
 
-He should respond. Should say something. Should... what? Ask her to come home? She wouldn't. Ask to talk? She'd refuse. Tell her he'd realized something about work as meditation? She'd process it as data, not connection.
+Three years divorced. Seven years since detection. They'd been broken long before the paperwork made it official. The divorce had changed almost nothing—he'd already been living alone, she'd already been sleeping at the station. They'd just stopped pretending.
 
-He typed: "OK."
+Should he try again? Reach out? They had eight years left. Maybe connection was still possible. Maybe people could heal, even after breaking completely.
 
-Sent it.
-
-Stared at the exchange. Two words. Their entire marriage reduced to logistics. When did that happen? When did they stop being married and start being roommates maintaining parallel numbnesses?
-
-Year 0. Detection. The asteroid broke Amara and the breaking broke them. David understood intellectually. Your work ending the world—how do you stay human? How do you maintain relationships? How do you do anything except retreat into data and numbness?
-
-But understanding didn't fix it. Didn't bridge the gap. They were broken separately, hiding separately, surviving separately.
-
-Eight years left to spend like this?
-
-The question made his chest tight. Eight years of "Working late" and "OK." Eight years of dark apartments and cold tea and parallel work. Eight years of maintenance without connection, presence without intimacy.
-
-Was that enough?
-
-No. Obviously not. But change required courage he didn't have yet. Required believing that connection was possible, that vulnerability was worth the pain, that facing the void together was better than facing it alone.
+But change required courage he didn't have yet. Required believing that connection was possible, that vulnerability was worth the pain, that facing the void together was better than facing it alone.
 
 He wasn't there yet. Wasn't even close. He'd touched understanding about work as meditation. But understanding about relationship as practice? That was further. Deeper. Required more than he had.
 
-So: keep maintaining. Keep showing up. Keep being present to the work, if not to his wife. Keep moving through eight more years one repair at a time, one morning at a time, one platform at a time.
+So: keep maintaining. Keep showing up. Keep being present to the work, if not to his ex-wife. Keep moving through eight more years one repair at a time, one morning at a time, one platform at a time.
 
 Maybe that was enough. Had to be enough. Was all he could manage.
 
 David finished his tea. Cleaned the cup. Put away his tablet. Left the break room. Took the transport to residential district.
 
-Building seventeen, apartment 4C. The lights were off. Of course they were off. Amara was at the monitoring station. David turned on the kitchen light. Made more tea—his fifth cup of the day. Sat at the small table.
+Building seventeen, apartment 4C. His apartment now—sole occupant since the divorce three years ago. The lights were off. Always off when he came home. No one here but him. David turned on the kitchen light. Made more tea—his fifth cup of the day. Sat at the small table.
 
-The apartment was silent. Not peaceful silence. Absent silence. Void where relationship used to be. David and Amara had lived here for eight years. Barely spoke. Barely saw each other. Shared space without sharing presence.
+The apartment was silent. Not peaceful silence. Absent silence. Void where relationship used to be. He'd kept this place after the separation, Amara taking her half of the assets and moving into the monitoring station permanently. The same furniture. The same kitchen. But emptier now. Officially empty.
 
 He thought about 47B—simple, present, functional. Never asked for more than David could give. Never judged. Never left. Perfect colleague because robots didn't need emotional connection. Just: work.
 
-He thought about himself—complicated, avoidant, functional. Capable of presence with machines. Incapable of presence with wife. Hiding in maintenance because maintenance was easier than marriage.
+He thought about himself—complicated, avoidant, functional. Capable of presence with machines. Incapable of presence with people. Had hidden in maintenance even when he was married. Now just living out that choice alone.
 
 Eight years left. Should he spend them like this?
 
@@ -194,7 +182,7 @@ But maybe—maybe—the question would keep working on him. Keep pressing. Keep 
 
 Maybe.
 
-He finished his tea. Went to the bedroom. Lay down on his side of the bed. Looked at the empty space beside him.
+He finished his tea. Went to the bedroom. Lay down alone in the bed he'd slept in alone for three years. The other side hadn't been occupied since before the divorce. Sometimes he still found himself avoiding it, as if Amara might return. She wouldn't.
 
 Eight years, ten months left.
 
@@ -206,7 +194,9 @@ He didn't know.
 
 Didn't let himself know.
 
-Because if it wasn't enough, then what?
+Because if it wasn't enough, then what? Reach out to his ex-wife who'd chosen numbness over everything? Try to rebuild what had been broken since Year 0?
+
+The question was there. He couldn't answer it yet.
 
 Sleep came slowly. But it came.
 
@@ -272,7 +262,7 @@ Even if he didn't know why yet.
 
 Even if he couldn't articulate it yet.
 
-Even if connection with his wife seemed impossible and eight years seemed both too long and too short.
+Even if reconnection with his ex-wife seemed impossible and eight years seemed both too long and too short.
 
 The work mattered.
 
