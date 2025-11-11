@@ -387,7 +387,7 @@ Realizes: this is what she wanted at Year 4. Governance as witness, not power. B
 
 ---
 
-## Chapter 23: Year 7 — Isolation
+## Chapter 23: Year 7 — The Call
 **POV: Amara Okafor (57) | Year 7, Month 9 | ~4,000 words**
 
 **Opening**: Monitoring station. Midnight. Amara alone. Only person in entire facility. Updating calculations no one needs. Asteroid approaching precisely as predicted. Seven years of verification. Perfect physics. Perfect loneliness.
@@ -419,7 +419,7 @@ Realizes: this is what she wanted at Year 4. Governance as witness, not power. B
 - Amara: "Because I can't do this anymore. Because seven years alone is enough. Because I want to meet my niblings. If you'll let me."
 - Zara: (Another silence. Then, softly:) "Of course. They want to meet you too."
 
-**The Crack Widens**: They talk for two hours. Awkward, halting, real. Zara updates her: Maya (9) brilliant and serious. Kofi (5) joyful and curious. Kwame steady. Lagos thriving despite everything. Community forming. Life continuing.
+**The Crack Widens**: They talk for two hours. Awkward, halting, real. Zara updates her: Maya (9) brilliant and serious. Kofi (6) joyful and curious. Kwame steady. Lagos thriving despite everything. Community forming. Life continuing.
 
 Amara shares nothing (what would she share? Seven years of calculations?). Just listens. Just reconnects. Just starts.
 
