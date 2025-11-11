@@ -234,7 +234,7 @@ He pulled up his wrist display. Message from Elena, sent yesterday:
 
 *Professor Wei writes to me regularly now. Her letters are brief, clear, profound. She says governance without outcomes is still governance. That showing up when powerless is the whole work. I'm beginning to understand that. Not accept—understanding and acceptance are different. But: understand.*
 
-*Zara sent photos of Maya and Kofi. Your cousin's children are beautiful. Maya is six now—serious, brilliant. Kofi is three—joyful, innocent. Zara is defiant mother, raising children she knows will die young. That defiance is everything. That choice to love what will end—maybe that's the teaching.*
+*Zara sent photos of Maya and Kofi. Your cousin's children are beautiful. Maya is nearly eight now—serious, brilliant. Kofi is almost five—joyful, innocent. Zara is defiant mother, raising children she knows will die young. That defiance is everything. That choice to love what will end—maybe that's the teaching.*
 
 *Come home when you're ready. Or stay abroad. Or keep wandering. Whatever you need. Ten years left—spend them searching if searching helps. Just: stay alive. Stay connected. Let me know you're okay sometimes.*
 
