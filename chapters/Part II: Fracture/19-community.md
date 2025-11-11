@@ -208,9 +208,9 @@ The vote was unanimous. Twenty people choosing gardens over despair. Choosing to
 
 After, Adanna approached Zara. "Your kids are beautiful. Maya teaches the other children, you know. Shares her books. Explains hard things simply. She's special."
 
-"She's nine," Zara said. "She's just... being nine."
+"She's eight," Zara said. "She's just... being eight."
 
-"She's being nine during the apocalypse. That's different. That's harder. She's doing it with grace." Adanna's hand went to her own son, sleeping in a carrier. "Thank you for having Kofi. For showing us that life is still worth choosing. People judged you. But you were right."
+"She's being eight during the apocalypse. That's different. That's harder. She's doing it with grace." Adanna's hand went to her own son, sleeping in a carrier. "Thank you for having Kofi. For showing us that life is still worth choosing. People judged you. But you were right."
 
 Zara felt the tears threatening again. "I don't know if I was right. I just know he's here. He's real. He matters."
 
