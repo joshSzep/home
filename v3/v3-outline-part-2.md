@@ -163,7 +163,7 @@ Elena surprised, moved: "Yes. Thank you."
 
 **Numbness as Protection**: Realizes: she's not feeling it. 1.2 billion dead. Sister's messages ignored. Husband—ex-husband now. David left her three months ago. The divorce finalized. She signed the papers without reading. Life reduced to data. The numbness is protective. If she feels it, she'll break. So: don't feel.
 
-**Zara's Messages**: Scrolling through three years of ignored messages. Photos of Maya (6) and Kofi (2). Videos of first steps. Voice messages: "Amara, please respond." "Amara, I miss you." "Amara, Kofi was born. You have nephew." Later messages: "Fine. I understand. Take care of yourself."
+**Zara's Messages**: Scrolling through seven years of ignored messages. Photos of Maya (9) and Kofi (6). Videos of first steps, birthdays, life continuing. Voice messages: "Amara, please respond." "Amara, I miss you." "Amara, Kofi was born. You have nephew." Later messages: "Fine. I understand. Take care of yourself." Most recent (three weeks ago): final video message saying this is the last attempt.
 
 **Guilt Without Feeling**: Knowing intellectually she should feel terrible. Should respond. Should be aunt, sister, human. But: can't access those emotions. They're buried under calculations. Safer this way.
 
@@ -410,16 +410,18 @@ Realizes: this is what she wanted at Year 4. Governance as witness, not power. B
 
 **First Call**: Hour later. Amara wipes face. Opens comm. Stares at Zara's contact. Seven years of avoidance. Can she call? Should she? What would she say? Finally: presses dial. It rings. Rings. Zara answers.
 
+**Zara's Final Video Message**: Amara watches recent video from Zara. Garden in Lagos. Maya (9) reading, Kofi (6) chasing butterflies. Zara's message: "This is my last message. Not angry anymore. But Professor Wei (their neighbor, 122 years old, still teaching) says you're hiding from life by burying yourself in death. She's right. You have family who loves you. But I'm done reaching out. I have eight years left with my children. I'm spending them present, not chasing a ghost."
+
 **The Conversation**: 
 - Zara: "Amara?" (Shock, guardedness)
 - Amara: "Hi. I... I'm sorry. For everything. For seven years."
 - Zara: (Long silence) "Are you okay?"
-- Amara: "No. I'm not. I've been hiding. You were right. Wei was right. I've been choosing data over life."
+- Amara: "No. I'm not. I've been hiding. You were right. Professor Wei was right. I've been choosing data over life."
 - Zara: "Why are you calling now?"
 - Amara: "Because I can't do this anymore. Because seven years alone is enough. Because I want to meet my niblings. If you'll let me."
 - Zara: (Another silence. Then, softly:) "Of course. They want to meet you too."
 
-**The Crack Widens**: They talk for two hours. Awkward, halting, real. Zara updates her: Maya (9) brilliant and serious. Kofi (6) joyful and curious. Kwame steady. Lagos thriving despite everything. Community forming. Life continuing.
+**The Crack Widens**: They talk for two hours. Awkward, halting, real. Zara updates her: Maya (9) brilliant and serious. Kofi (6) joyful and curious. Kwame steady. Lagos thriving despite everything. Community forming. Life continuing. Professor Wei (122, body failing but mind sharp) still teaching from her garden—wisest person Zara's ever met.
 
 Amara shares nothing (what would she share? Seven years of calculations?). Just listens. Just reconnects. Just starts.
 

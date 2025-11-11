@@ -103,7 +103,7 @@ Reconnection. Teaching. Healing. The scattered begin to gather. The broken begin
 
 **David's Presence**: Kwame and David meet—two quiet men, both married to intense women. Instant understanding. Kwame: "Welcome. Tea?" David: "Please." They disappear into kitchen, leaving sisters alone.
 
-**The Apartment Tour**: Zara shows Amara their home. Engineering schematics. Children's art. Wei's garden (maintained after her death Year 6—wait, need to reconsider Wei's timeline). Photos. Life evidence. Amara seeing: her sister built something real. While Amara calculated, Zara lived.
+**The Apartment Tour**: Zara shows Amara their home. Engineering schematics. Children's art. Wei's garden next door (124 years old now, still teaching). Photos. Life evidence. Amara seeing: her sister built something real. While Amara calculated, Zara lived.
 
 **Difficult Conversation**: After children sleep. Sisters on balcony. Zara: "Why did you wait so long?" Amara: "Fear. Shame. Not knowing how." "How what?" "How to be human instead of scientist. How to care about things that end. How to love when love means loss."
 
