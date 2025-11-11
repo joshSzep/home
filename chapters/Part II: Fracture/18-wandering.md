@@ -392,6 +392,3 @@ The transport hummed. Kenji breathed. Year 5 continued. The seeking continued.
 
 Everything continued because what else would it do?
 
----
-
-**END CHAPTER 18**
