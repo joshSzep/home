@@ -1,6 +1,6 @@
 # Chapter 17: Teaching
 
-**POV: Professor Mei-Lin Wei (118) | Year 5, Month 4 | Lagos District**
+**POV: Professor Mei-Lin Wei | Year 5, Month 4 | Lagos District**
 
 ---
 
