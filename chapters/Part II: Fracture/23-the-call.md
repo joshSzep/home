@@ -232,7 +232,7 @@ Something in Amara's chest cracked. Not broke—cracked. Like ice under pressure
 
 "Don't be. It was my fault. I disappeared from him too. Disappeared from everyone."
 
-"So come here," Zara said. "Come to Lagos. Stay with us. Meet your niblings. See the garden. Meet the community. Be present for whatever time we have left."
+"So come here," Zara said. "Come to Lagos. Stay with us. Meet your nephew. See the garden. Meet the community. Be present for whatever time we have left."
 
 The invitation hung in the air. Amara tried to imagine it: leaving the station, leaving Antarctica, leaving the calculations and the isolation and the safety of emptiness. Tried to imagine meeting Maya and Kofi. Seeing them laugh and play and be alive despite being doomed.
 
