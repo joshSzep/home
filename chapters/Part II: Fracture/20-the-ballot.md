@@ -428,6 +428,3 @@ That's all she had. That's everything she had.
 
 It was enough.
 
----
-
-**END OF CHAPTER 20**
