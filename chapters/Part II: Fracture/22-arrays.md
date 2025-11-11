@@ -16,7 +16,7 @@ David smiled. Two years working with 47B now. The robot had learned to include t
 
 They moved together across the platform with the coordination of longtime partners. David's boots finding their rhythm on the metal grating, 47B's treads humming in counterpoint. The solar array stretched endlessly in every direction—thousands of platforms forming a geometric garden above the ice. In the distance, the megacity rose like a monument to humanity's persistence. Or its stubbornness. David wasn't sure which.
 
-Eight years, ten months remaining.
+Eight years remaining.
 
 He used to avoid thinking about it. Now the countdown was just background noise, like the wind or the hum of the arrays. Present but not pressing. The end would come. Until then: work.
 
