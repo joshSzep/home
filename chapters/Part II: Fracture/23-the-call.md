@@ -212,7 +212,7 @@ Silence again. Amara could hear something in the background. Voices? Children? L
 
 "Why are you calling now?" Zara asked finally. Not accusatory. Just: asking. Trying to understand.
 
-"Because I can't do this anymore." Simple truth. "Because seven years alone is enough. Because I'm dying, Zara. Not from the asteroid. From isolation. From numbness. From choosing safety over everything else. And I—" The words came hard, scraped from somewhere deep. "—I want to meet my niblings. If you'll let me. I want to know Maya and Kofi before it's too late. I want to be your sister again. If that's possible. If I haven't—"
+"Because I can't do this anymore." Simple truth. "Because seven years alone is enough. Because I'm dying, Zara. Not from the asteroid. From isolation. From numbness. From choosing safety over everything else. And I—" The words came hard, scraped from somewhere deep. "—I want to meet my nephew. If you'll let me. I want to know Maya and Kofi before it's too late. I want to be your sister again. If that's possible. If I haven't—"
 
 "Of course." Zara's voice was soft now. Careful. "Of course you can meet them. They want to meet you too."
 
