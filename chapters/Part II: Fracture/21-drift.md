@@ -118,7 +118,7 @@ Ibrahim stepped closer. The balcony was tiny—maybe two meters square. But she'
 
 "It's beautiful," he said, surprising himself.
 
-"Thank you. I'm Yuki." She stood slowly—older than him, maybe mid-sixties, but moving with care that suggested her own injuries.
+"Thank you. I'm Min-seo." She stood slowly—older than him, maybe mid-sixties, but moving with care that suggested her own injuries.
 
 "Ibrahim."
 
@@ -132,7 +132,7 @@ He flushed slightly. Embarrassed to be noticed. "I need to count."
 
 She cut a small handful with scissors, wrapped it in cloth. "Use fresh. Much better than dried."
 
-Ibrahim took it carefully. "Thank you, Yuki."
+Ibrahim took it carefully. "Thank you, Min-seo."
 
 "Come by again. I'm usually here mornings. Sitting helps the pain."
 
@@ -156,7 +156,7 @@ But somehow, right now, they felt like everything.
 
 The next evening, Ibrahim stood outside the community room. Sounds of gathering inside—voices, laughter, the clatter of dishes. He'd spent all day deciding whether to come. Part of him wanted to go back upstairs. Return to his empty apartment. His quiet isolation. His nothing.
 
-But Yuki's mint was still on his windowsill. Still green. Still alive. And something about that aliveness made him open the door.
+But Min-seo's mint was still on his windowsill. Still green. Still alive. And something about that aliveness made him open the door.
 
 The community room held maybe forty people. Tables arranged in rows, food spread everywhere—traditional dishes from a dozen countries. The diversity of refugees made visible in cuisine. Jordanian *mansaf*. Syrian *kibbeh*. Kurdish rice. Yemeni stew.
 
@@ -210,7 +210,7 @@ It was okay. Not good. Not meaningful. Not replacing what he'd lost. Just: okay.
 
 Walking back to his apartment, Ibrahim felt something unfamiliar. Not happiness. Not peace. Just: less alone. Slightly. Temporarily. But real.
 
-Unit 403. He made tea with Yuki's mint. Sat at his table. Pulled out his prayer beads.
+Unit 403. He made tea with Min-seo's mint. Sat at his table. Pulled out his prayer beads.
 
 Ninety-nine beads. Ninety-nine names of God that meant nothing now. He held them. Moved through them without speaking. One bead. Another. Another. No names. No prayers. Just: touch. Count. Present.
 
@@ -234,11 +234,11 @@ Ibrahim's routine continued. Fifty-three steps down every morning. Walk the same
 
 But small things were changing.
 
-He stopped at Yuki's apartment twice more. Brief visits. She'd offer tea. They'd sit on her tiny balcony—freezing cold but real. She told him about Seoul. The coastal flooding that destroyed her neighborhood. Her children dead in the evacuation chaos. Her arrival in Antarctica alone.
+He stopped at Min-seo's apartment twice more. Brief visits. She'd offer tea. They'd sit on her tiny balcony—freezing cold but real. She told him about Seoul. The coastal flooding that destroyed her neighborhood. Her children dead in the evacuation chaos. Her arrival in Antarctica alone.
 
 "Do you regret surviving?" Ibrahim asked one morning.
 
-Yuki considered. "Sometimes. Most times. But then the mint grows. Or the sun breaks through for five minutes. Or someone like you visits for tea. And I think: okay. Today is okay."
+Min-seo considered. "Sometimes. Most times. But then the mint grows. Or the sun breaks through for five minutes. Or someone like you visits for tea. And I think: okay. Today is okay."
 
 "That's not much."
 
@@ -284,7 +284,7 @@ The count was everything. The count was enough.
 
 He didn't know he was practicing a philosophy. Didn't know a 118-year-old woman in Lagos was teaching the same presence. Didn't know her students were spreading the practice like seeds—landing in unexpected places, growing in unlikely soil.
 
-He just knew: counting helped. Noticing helped. Being present with the mint and the tea and Yuki's garden and Marcus's silence and Fatima's kindness—all of it helped.
+He just knew: counting helped. Noticing helped. Being present with the mint and the tea and Min-seo's garden and Derek's silence and Fatima's kindness—all of it helped.
 
 Not healed. Not fixed. Not restored.
 
@@ -306,7 +306,7 @@ This realization had broken him four years ago. Shattered his entire worldview. 
 
 Now, standing in the cold, watching stars, he found he didn't mind so much.
 
-The universe was indifferent. But Yuki's mint grew anyway. But Derek walked past and nodded anyway. But Fatima invited him to dinner anyway. But the tea tasted good anyway. But fifty-three steps were fifty-three steps anyway.
+The universe was indifferent. But Min-seo's mint grew anyway. But Derek walked past and nodded anyway. But Fatima invited him to dinner anyway. But the tea tasted good anyway. But fifty-three steps were fifty-three steps anyway.
 
 None of it meant anything cosmic. None of it stopped the asteroid. None of it restored faith or purpose or identity.
 
@@ -334,11 +334,11 @@ But right now: alive. Here. Existing.
 
 Ibrahim finished the beads. Ninety-nine. Same number as always. Same weight. Different meaning. Or no meaning. Or meaning he couldn't articulate yet.
 
-He went inside. Made tea with Yuki's mint. Sat at his table. Drank slowly, tasting it. Really tasting it.
+He went inside. Made tea with Min-seo's mint. Sat at his table. Drank slowly, tasting it. Really tasting it.
 
 Tomorrow: fifty-three steps down. His walk. Fifty-three steps up. Same count. Same routine.
 
-Nine years left until the asteroid. Nine years of counting steps and noticing mint and drinking tea and maybe accepting Fatima's next invitation and maybe visiting Yuki and maybe walking with Derek.
+Nine years left until the asteroid. Nine years of counting steps and noticing mint and drinking tea and maybe accepting Fatima's next invitation and maybe visiting Min-seo and maybe walking with Derek.
 
 Nine years of being present without faith. Without purpose. Without identity.
 

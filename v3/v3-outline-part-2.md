@@ -338,13 +338,13 @@ Realizes: this is what she wanted at Year 4. Governance as witness, not power. B
 **Refugee Housing Complex**: Building holds 200 refugees. War survivors, climate migrants, people fleeing elsewhere. Everyone escaping something. Everyone waiting for same ending. Diverse community—former fighters, farmers, teachers, criminals. All equal now.
 
 **Other Refugees**: Portraits of neighbors:
-- **Yuki** (Korean, 67): Lost family in coastal flooding. Grows herbs in tiny balcony garden. Shares with Ibrahim sometimes.
+- **Min-seo** (Korean, 67): Lost family in coastal flooding. Grows herbs in tiny balcony garden. Shares with Ibrahim sometimes.
 - **Derek** (American, 41): Former soldier. Also lost faith. They nod at each other—recognition, not friendship.
 - **Fatima** (Jordanian, 29): Devout Muslim. Prays five times daily. Ibrahim avoids her.
 
 **No Faith, No Purpose**: Ibrahim's days: wake, walk, eat, sit, sleep. No structure. No meaning. No identity. He's not fighter—that ended. He's not believer—faith gone. He's not anything. Just: existing. Is that enough? He can't answer.
 
-**Starting to Notice**: Week 3 of Year 6. Ibrahim walks past Yuki's herb garden. Notices the mint growing. Smell sharp and clean. Pauses. Really notices for first time in years. Yuki: "You want some? For tea?" Ibrahim: "Thank you." First real exchange in months.
+**Starting to Notice**: Week 3 of Year 6. Ibrahim walks past Min-seo's herb garden. Notices the mint growing. Smell sharp and clean. Pauses. Really notices for first time in years. Min-seo: "You want some? For tea?" Ibrahim: "Thank you." First real exchange in months.
 
 **The 53 Steps**: Become meditation without knowing. Every day. Counting. One, two, three... fifty-three. Leg aching. Body protesting. But: present with each step. Not thinking about past battles. Not thinking about future asteroid. Just: this step, this moment, this breath.
 
