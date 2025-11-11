@@ -287,7 +287,7 @@ Marcus (34, pragmatic but committed): "I was wrong. Not about the pragmatism—w
 
 ---
 
-## Chapter 20: Year 6 — No Election (NEW CHAPTER)
+## Chapter 20: Year 6 — The Ballot (NEW CHAPTER)
 **POV: Elena Torres (68) | Year 6, Month 9 | ~4,000 words**
 
 **Opening**: Election scheduled. Year 6, Month 9. Elena's second term ending. Constitutional requirement: democratic elections every four years. Even now. Especially now.
