@@ -310,7 +310,7 @@ She could reach out. Could call him. Could try reconnecting.
 
 The thought terrified her.
 
-One step at a time, she told herself. Sister first. Niblings. Family she'd abandoned. Then—maybe—ex-husband. If she had courage left. If reconnecting with Zara didn't break her completely.
+One step at a time, she told herself. Sister first. Niece. Nephew. Family she'd abandoned. Then—maybe—ex-husband. If she had courage left. If reconnecting with Zara didn't break her completely.
 
 Amara returned to her preparations. One month. Then Lagos. Then whatever came after.
 
