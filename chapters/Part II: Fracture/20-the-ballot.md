@@ -1,6 +1,6 @@
 # Chapter 20: The Ballot
 
-**POV: Elena Torres | Year 6, Month 6 | Antarctic Megacity**
+**Elena Torres | Year 6, Month 6 | Antarctic Megacity**
 
 ---
 

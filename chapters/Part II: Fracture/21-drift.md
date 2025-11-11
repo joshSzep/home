@@ -1,6 +1,6 @@
 # Chapter 21: Drift
 
-**POV: Ibrahim al-Rashid | Year 6, Month 11 | Antarctica**
+**Ibrahim al-Rashid | Year 6, Month 11 | Antarctica**
 
 ---
 

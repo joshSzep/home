@@ -1,6 +1,6 @@
 # Chapter 6: Isolation
 
-**POV: Dr. Amara Okafor | Year 0, Day 45 | Antarctic Monitoring Station & Geneva**
+**Dr. Amara Okafor | Year 0, Day 45 | Antarctic Monitoring Station & Geneva**
 
 ---
 

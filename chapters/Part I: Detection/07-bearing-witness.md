@@ -1,6 +1,6 @@
 # Chapter 7: Bearing Witness
 
-**POV: Mayor Elena Torres | Year 0, Day 60 | Antarctic Megacity**
+**Mayor Elena Torres | Year 0, Day 60 | Antarctic Megacity**
 
 ---
 

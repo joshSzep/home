@@ -1,6 +1,6 @@
 # Chapter 16: Governance
 
-**POV: Elena Torres | Year 4, Month 7 | Antarctic Megacity**
+**Elena Torres | Year 4, Month 7 | Antarctic Megacity**
 
 ---
 

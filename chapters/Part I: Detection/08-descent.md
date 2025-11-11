@@ -1,6 +1,6 @@
 # Chapter 8: Descent
 
-**POV: Kenji Torres | Year 0, Days 60-75 | Lagos District**
+**Kenji Torres | Year 0, Days 60-75 | Lagos District**
 
 ---
 

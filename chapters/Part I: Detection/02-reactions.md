@@ -1,6 +1,6 @@
 # Chapter 2: Reactions
 
-**POV: Zara Okafor-Mensah | Year 0, Day 1 | Lagos District**
+**Zara Okafor-Mensah | Year 0, Day 1 | Lagos District**
 
 ---
 

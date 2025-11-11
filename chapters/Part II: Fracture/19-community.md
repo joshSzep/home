@@ -1,6 +1,6 @@
 # Chapter 19: Community
 
-**POV: Zara Okafor-Mensah | Year 6, Month 3 | Lagos District**
+**Zara Okafor-Mensah | Year 6, Month 3 | Lagos District**
 
 ---
 

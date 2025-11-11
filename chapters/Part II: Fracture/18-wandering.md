@@ -1,6 +1,6 @@
 # Chapter 18: Wandering
 
-**POV: Kenji Torres | Year 5, Month 9 | Mumbai**
+**Kenji Torres | Year 5, Month 9 | Mumbai**
 
 ---
 

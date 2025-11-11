@@ -1,6 +1,6 @@
 # Chapter 15: Calculation
 
-**POV: Dr. Amara Okafor | Year 4, Month 1 | Antarctic Monitoring Station**
+**Dr. Amara Okafor | Year 4, Month 1 | Antarctic Monitoring Station**
 
 ---
 

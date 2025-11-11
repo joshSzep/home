@@ -1,6 +1,6 @@
 # Chapter 5: Wisdom
 
-**POV: Professor Mei-Lin Wei | Year 0, Day 1 | Lagos District**
+**Professor Mei-Lin Wei | Year 0, Day 1 | Lagos District**
 
 ---
 

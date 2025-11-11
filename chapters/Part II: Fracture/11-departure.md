@@ -1,6 +1,6 @@
 # Chapter 11: Departure
 
-**POV: Kenji Torres | Year 1, Month 6 | Antarctic Megacity**
+**Kenji Torres | Year 1, Month 6 | Antarctic Megacity**
 
 ---
 

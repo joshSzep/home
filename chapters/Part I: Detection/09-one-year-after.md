@@ -1,6 +1,6 @@
 # Chapter 9: One Year After
 
-**POV: Seven Voices | Year 0, Day 365**
+**Seven Voices | Year 0, Day 365 | Multiple Locations**
 
 ---
 

@@ -1,6 +1,6 @@
 # Chapter 12: Election
 
-**POV: Elena Torres | Year 1, Month 9 | Antarctic Megacity**
+**Elena Torres | Year 1, Month 9 | Antarctic Megacity**
 
 ---
 

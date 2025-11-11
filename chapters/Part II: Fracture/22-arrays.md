@@ -1,6 +1,6 @@
 # Chapter 22: Arrays
 
-**POV: David Chen | Year 7, Month 2**
+**David Chen | Year 7, Month 2 | Antarctic Solar Arrays**
 
 ---
 

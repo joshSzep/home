@@ -1,6 +1,6 @@
 # Chapter 14: Maintenance
 
-**POV: David Chen | Year 2, Month 8**
+**David Chen | Year 2, Month 8 | Antarctic Solar Arrays**
 
 ---
 
