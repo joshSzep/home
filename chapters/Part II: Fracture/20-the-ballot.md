@@ -1,12 +1,12 @@
 # Chapter 20: The Ballot
 
-**POV: Elena Torres | Year 6, Month 9 | Antarctic Megacity**
+**POV: Elena Torres | Year 6, Month 6 | Antarctic Megacity**
 
 ---
 
 The filing deadline passed at midnight.
 
-Elena sat in her office, watching the clock tick past 12:00 AM. Year 6, Month 9, Day 1. Election filing period closed. Candidate registration system locked. In sixty seconds, the electoral commission would generate the official ballot for Antarctica's mayoral election.
+Elena sat in her office, watching the clock tick past 12:00 AM. Year 6, Month 6, Day 1. Election filing period closed. Candidate registration system locked. In sixty seconds, the electoral commission would generate the official ballot for Antarctica's mayoral election.
 
 Marcus Rivera stood beside her desk, tablet in hand. Her deputy mayor for four years now. Former opponent. Current partner in the daily work of governing collapse.
 
@@ -36,11 +36,11 @@ Just: her name. Alone.
 
 "Check the registrations again," Elena said. Her voice was steady. Professional. Inside: screaming.
 
-Marcus pulled up the full registration database. Scrolled through the filing period—all ninety days. Zero submissions. He checked eligibility requirements. Three thousand people qualified to run. None had.
+Marcus pulled up the full registration database. Scrolled through the filing period—all ninety days. Zero submissions. He checked eligibility requirements. Eight hundred million people qualified to run—citizenship, age, residency. Nearly forty percent of the population. None had filed.
 
 "There's no one," Marcus confirmed. "You're the only candidate."
 
-Elena sat down heavily. Sixty-eight years old. Six years as mayor of the apocalypse. Her second term ended in nine days. Constitutional requirement: democratic elections every four years. Even now. Especially now.
+Elena sat down heavily. Sixty-eight years old. Six years as mayor of the apocalypse. Her second term would end in three months—Year 6, Month 9, same as when she'd been elected. Campaign season. Election in ninety days. Constitutional requirement: democratic elections every four years. Even now. Especially now.
 
 But democracy required choice. This wasn't choice. This was...
 
@@ -89,7 +89,7 @@ Silence. Then Chen spoke. "What's to discuss? No one else wants the job. You've 
 
 "Democracy requires alternatives."
 
-"And you provided them. Open filing. Public process. Three months to register. Anyone qualified could run." Kowalski's gruff voice was surprisingly gentle. "They looked at what you do every day and said: no thanks. That's not your fault."
+"And you provided them. Open filing. Public process. Three months to register. Eight hundred million qualified people could run." Kowalski's gruff voice was surprisingly gentle. "They looked at what you do every day and said: no thanks. That's not your fault."
 
 Marcus had been quiet. Now he spoke. "Elena, four years ago I ran against you. Called your governance 'empty symbolism.' Lost. Learned I was wrong. You taught me that witness matters. That showing up is everything. Now I sit beside you every morning and help you bear this burden."
 
@@ -109,7 +109,7 @@ Elena had drafted it carefully. Read it to Marcus. Revised it three times. Final
 
 **OFFICIAL STATEMENT FROM THE MAYOR'S OFFICE**
 
-**Year 6, Month 9, Day 1**
+**Year 6, Month 6, Day 1**
 
 The filing deadline for Antarctic Megacity mayoral election has passed. One candidate registered: Mayor Elena Torres. No opposition candidates filed.
 
@@ -213,7 +213,7 @@ Elena shook her head.
 
 Marcus leaned forward. "That changed me. Not your arguments. Your practice. Daily demonstration that governance without outcome was still governance. That witness was purpose. That presence was enough."
 
-"Now Year 6. Filing period opens. I could run again. Others could run. Three thousand qualified people. Any of us could challenge you."
+"Now Year 6. Filing period opens. I could run again. Others could run. Eight hundred million qualified people. Any of us could challenge you."
 
 "And we looked at what you do. What you've done for six years. And every single one of us said: no. Not because you're unchallengeable. Because you've demonstrated something we're not capable of. The endurance to keep showing up. The dignity to maintain order knowing order ends. The consistency to practice presence even when presence seems meaningless."
 
@@ -245,7 +245,7 @@ Elena laughed quietly. "You're very certain about hypothetical futures."
 
 Late evening. Marcus gone. Elena alone in the apartment that was simultaneously too small and too large. She pulled out her journal—physical notebook, old-fashioned. Pen and paper. Something about writing by hand made thoughts more real.
 
-**Year 6, Month 9, Day 1**
+**Year 6, Month 6, Day 1**
 
 *Election day that wasn't.*
 
@@ -305,7 +305,7 @@ The person who showed up.
 
 ---
 
-**Year 6, Month 9, Day 2**
+**Year 6, Month 6, Day 2**
 
 The morning briefing felt different. Same people—Chen, Kowalski, Dr. Ade, Marcus. Same room. Same time. But something had shifted. Elena felt it in the way they looked at her. Not with deference exactly. With something else. Recognition maybe. Or respect earned rather than assumed.
 
@@ -367,7 +367,7 @@ Was.
 
 ---
 
-Elena's office. Quiet afternoon. She pulled up the electoral database one more time. Reviewed the filing period. Ninety days. Three thousand qualified candidates. Zero submissions except her own.
+Elena's office. Quiet afternoon. She pulled up the electoral database one more time. Reviewed the filing period. Ninety days. Eight hundred million qualified candidates. Zero submissions except her own.
 
 The absence spoke louder than opposition ever could.
 
