@@ -348,7 +348,7 @@ It was enough.
 
 For now, it was enough.
 
-She closed her eyes and slept—not well, not deeply, but better than she had in seven years. And dreamed of butterflies in a garden she'd never seen, chased by a nephew she'd never met, while a niece she barely remembered read quietly in the shade.
+She closed her eyes and slept—not well, not deeply, but better than she had in seven years. And dreamed of butterflies in a garden she'd never been, chased by a nephew she'd never met, while a niece she barely remembered read quietly in the shade.
 
 Present. Alive. Real.
 
