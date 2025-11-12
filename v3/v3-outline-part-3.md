@@ -124,19 +124,45 @@ Reconnection. Teaching. Healing. The scattered begin to gather. The broken begin
 
 **The Students**: Others visit Wei—neighbors seeking wisdom, young people needing guidance, elders wanting conversation. Kenji watches her with each: never preaching, always present. Meeting people where they are. Reflecting truth back.
 
-**Zara's Family**: Kenji meets them Year 9, Month 6—Amara visiting, Zara hosting dinner. Wei invites her household. Seven people around small table: Wei, Kenji, Amara, David, Zara, Kwame, Maya, Kofi. Conversation flows. Stories shared. Laughter genuine.
+**The Moment**: A young mother arrives—similar situation to Zara Year 0. Her daughter is six years old. The asteroid means she'll die at twenty-one. Never have full adult life. The mother is terrified, seeking wisdom, comfort, anything.
 
-**Recognition**: Kenji watches this family—chosen and blood, broken and healing, living fully despite doom. Sees Amara slowly reconnecting. Sees Zara's fierce joy. Sees David's quiet presence. Sees the children's aliveness. Something shifts in him.
+Wei is resting inside (body failing, age 118). Kenji greets the woman. Intends to wait for Wei. But the woman's grief is immediate: "How do I watch my child grow knowing she'll never finish growing?"
 
-**The Lesson Lands**: After dinner, Wei and Kenji in garden. Wei: "You see now?" Kenji: "See what?" "That presence is enough. That family—broken, temporary, imperfect. But: real. Living fully. Not seeking answers. Just: being together." Kenji quiet, then: "Yes. I see."
+**Kenji Responds**: Without thinking, words come: "You don't watch her grow toward death. You witness her grow, period. Every moment complete in itself. Your daughter has fifteen years. Not enough. But also—not nothing. If you're present for those fifteen years, really present, you'll know her fully. That matters more than duration."
 
-**Kenji's Realization**: He's been seeking solution to mortality. But: no solution exists. Never did. Seeking was avoidance. Real question isn't "how to live fifteen years?" Real question is: "how to live THIS moment?" And answer isn't philosophical. It's practical. Be here. Notice. Care. Connect.
+The woman listening. Kenji continues: "I spent six years seeking answers about mortality. Found none. But I found this: presence isn't solution. It's practice. Being here completely, loving completely, witnessing completely. Your daughter will die young. But she can live fully. You can help her do that. Not by pretending it's okay. By being present to what is."
 
-**The Proposal**: Wei, casually: "Next year I'm too old for teaching. Maybe dead. You should teach." Kenji: "I'm not qualified." "Perfect. Qualified teachers teach knowledge. Unqualified teachers teach presence. You'd be excellent."
+**The Woman's Relief**: Not healed. Not fixed. But: seen. Heard. Given permission to grieve and love simultaneously. She thanks Kenji. Leaves lighter.
 
-**End**: Kenji considers. He came seeking answers. Found something else—practice. Presence. Community. Maybe that's what he should share. Not as expert. As fellow traveler. Saying: "I don't have answers. But: we can be present together. Learn together. Face this together." That might be enough.
+**Wei Watching**: Kenji turns—Wei has been observing from doorway. How long? He doesn't know.
 
-**Key beats**: Thirteen months with Wei • Practice not philosophy • Watching Wei with others • Dinner with combined family • Witnessing real presence • Lesson landing • Realization about seeking • Wei's proposal • Considering teaching
+Wei: "You're ready."
+
+Kenji: "For what?"
+
+"To teach. Not to replace me. To become yourself as teacher."
+
+"I'm not qualified."
+
+"Perfect. You just taught from not-knowing. That's real teaching. Qualified teachers offer answers. Unqualified teachers offer presence. You offered presence."
+
+**Zara's Family Dinner**: That evening, Wei invites combined family. Seven people around small table: Wei, Kenji, Amara, David, Zara, Kwame, Maya, Kofi. Conversation flows. Stories shared. Laughter genuine.
+
+But now Kenji sees differently. He's not just student learning. He's watching Wei AS teacher watching her. Understanding how she creates space for people to discover their own truth. Understanding that teaching is facilitating, not instructing.
+
+**The Proposal Lands**: After dinner, Wei and Kenji in garden. Wei: "Next year I'm too old for teaching. Maybe dead. You should continue."
+
+This time, Kenji doesn't immediately refuse. "You really think I'm ready?"
+
+"No one's ever ready. But you're willing. You're present. You respond honestly. That's enough."
+
+**End**: Kenji considers. He came seeking answers. Found something else—practice. Presence. Community. Today he taught for the first time—not from knowledge but from presence. Maybe that's what he should share. Not as expert. As fellow practitioner. Saying: "I don't have answers. But: we can be present together. Learn together. Face this together."
+
+That might be enough.
+
+Actually—that might be everything.
+
+**Key beats**: Thirteen months with Wei • Practice not philosophy • Watching Wei with others • The terrified mother • Kenji responding from presence (first teaching moment) • Wei watching, confirming readiness • Family dinner seen through teacher's eyes • Understanding teaching as space-holding • Wei's proposal landing • Accepting he might be ready
 
 ---
 
@@ -186,17 +212,45 @@ Reconnection. Teaching. Healing. The scattered begin to gather. The broken begin
 
 **Parallel Lives**: David turns question back: "Why did you track the asteroid for ten years? When calculations didn't change?" Amara: "Because someone should. Because precision matters. Because—" She stops. Smiles. "Because it mattered because I did it." "Exactly."
 
-**Understanding**: They see each other clearly for first time in years. Both chose maintenance. Both chose presence. Both chose meaning-making through dedication. Different forms. Same essence.
+**The Decision**: They sit on platform. Watching sunrise. David quiet for long moment. Then: "I'm leaving."
 
-**Sharing Sunrise**: They sit on platform. Watch sunrise together. Don't talk. Just: present. Robot 47B working nearby. Solar arrays humming. Antarctica spreading below. Five years left. Two people who found each other again. That's enough.
+Amara startled: "What?"
 
-**End**: Descending. Amara: "Thank you for showing me." David: "Thank you for seeing." They return to ground. Different understanding between them. Not fixed. But: healing. Real healing.
+"The arrays. Year 13. Moving to Lagos with you."
 
-**Key beats**: First time sharing work • The climb • Sunrise on arrays • Technical devotion • Meeting 47B • The Why question • Parallel recognition • Different forms, same essence • Shared sunrise • Real healing
+"You'd leave this? After eleven years?"
+
+"Twelve years by then. And yes."
+
+"But this is your meaning. Your purpose."
+
+"No." David shakes his head. "This is my *practice*. You're my meaning. Being with people I love while there's still time—that's purpose."
+
+**Amara's Response**: Shocked. Moved. "David, I can't ask you to—"
+
+"You're not asking. I'm choosing. Three years maintaining arrays alone. Or three years with you, with Zara's family, with Maya and Kofi. That's easy math."
+
+"What about 47B? The work?"
+
+"47B and the crew will continue. The arrays don't need me specifically. They need maintenance. That'll happen with or without me."
+
+**47B Overhears**: *Beep beep.* "Colleague Chen departure: noted. This unit experiences... regret at colleague separation. But understands optimal human bonding requires proximity. Arrays will persist. Colleague Chen should pursue optimal outcome."
+
+David smiles. "See? Even 47B understands."
+
+**Understanding**: They see each other clearly for first time in years. Both chose maintenance. Both chose presence. Now: both choosing connection. David leaving his arrays to be with Amara. Amara accepting that love matters more than work. Different path forward. Same destination.
+
+**Sunrise Together**: They sit on platform knowing in three years, David leaves this forever. The arrays will continue. He can let go. Permission granted—by the work, by 47B, by himself. And Amara beside him, choosing family over isolation.
+
+Five years left. Three maintaining arrays. Then: two years together in Lagos with family. That's plan. That's commitment. That's love.
+
+**End**: Descending. Amara: "Thank you for showing me. Thank you for choosing me." David: "Thank you for letting me." They return to ground. Different understanding between them. Not fixed. But: whole. Real. Committed.
+
+**Key beats**: First time sharing work • The climb • Sunrise on arrays • Technical devotion • Meeting 47B • The Why question • Parallel recognition • THE DECISION: David leaving Year 13 • Choosing family over arrays • 47B's understanding and blessing • Permission to let go • Shared sunrise with commitment • Real healing through choice
 
 ---
 
-## Chapter 31: Year 10 — Roots
+## Chapter 31: Year 10 — Community
 **POV: Ibrahim al-Rashid (29) | Year 10, Month 8 | ~4,000 words**
 
 **Opening**: Ibrahim's apartment, Building 12, Unit 403. Seven years here. Three years of maintenance work (started Year 7, Month 3). Life has rhythm now. Not joyful. But: sustainable. Present.
@@ -205,17 +259,57 @@ Reconnection. Teaching. Healing. The scattered begin to gather. The broken begin
 
 **Min-seo's Memory**: She brings out old photos—Seoul before flooding, her children, her lost life. First time showing Ibrahim. "I never talked about them before. Felt like betrayal—them dead, me alive. But: you understand loss. Faith, purpose, identity. We both survived what shouldn't be survivable." Ibrahim nods. Understanding without words.
 
-**Attending Meditation Practice**: Ibrahim goes to weekly community meditation circle (not Kenji's yet—Kenji doesn't return until Year 12). Started attending Year 6 when local group formed. Four years now. Still mostly silent. But: belonging. Derek there—former Marine, 51 now, still processing his own wars. They sit together. No words. Warrior solidarity.
+**Attending Meditation Practice**: Ibrahim goes to weekly community meditation circle (local group—Kenji doesn't return until Year 12). Started attending Year 6 when local group formed. Four years now. Still mostly silent. But: belonging. Derek there—former Marine, 51 now, still processing his own wars. They sit together. No words. Warrior solidarity.
 
-**Fatima's Invitation**: After practice, Fatima approaches. She's hosted community dinners since Year 3 (Ibrahim's first was Year 6). "Eid next week. Come? Bring David if he wants." Ibrahim: "David's leaving soon. Going to Lagos with Amara." Fatima: "Then come alone. Or bring Min-seo and Derek. You have community here."
+**The Invitation**: After practice, Fatima approaches—she's hosted community dinners since Year 3 (Ibrahim's first was Year 6). But today different: "Ibrahim. I'm making dinner tomorrow. Real dinner. Not just you dropping by. I want you, Min-seo, Derek—all together. Intentional. Family dinner."
 
-**The Realization**: Walking home, Ibrahim understands: he has roots. Not faith-based. Not blood family. But: chosen community. Min-seo who gave him mint when he needed aliveness. Derek who understood silence. Fatima who kept inviting. David who taught maintenance as presence. Seven years building connections without noticing.
+Ibrahim surprised: "Why?"
 
-**David's Departure**: Evening. Ibrahim visits David's apartment. Helping pack. David leaving next month for Lagos. "You'll be okay?" David asks. "Yes," Ibrahim says. Means it. "You taught me: showing up is enough. I can show up without you." David: "You have others. Min-seo, Derek, Fatima. Community." Ibrahim: "I know. Thank you for that."
+"Because we've kept each other alive four years (Year 6 to Year 10). Didn't realize it at the time. But: you checking on Min-seo. Min-seo giving you mint. Derek walking with you in silence. Me inviting you when you had nowhere to go. We built something. I want to honor that. Five years left. Time to be intentional."
 
-**End**: That night. Ibrahim on balcony. Mint growing (from Min-seo's cuttings, replanted years ago, still thriving). Building 12 around him. Min-seo below. Community center visible. Meditation practice space. Five years left. No grand purpose. But: roots. People. Place. Presence. Enough.
+**David's News**: That evening, Ibrahim visits David's apartment. David tells him: leaving Year 13 for Lagos. Three years, then gone.
 
-**Key beats**: Seven years in Antarctica • Morning tea with Min-seo • Her sharing photos/grief • Attending meditation circle (local group, not Kenji's yet) • Derek's silent solidarity • Fatima's persistent community • Realizing he has roots • Helping David pack • David's reassurance • Community remains • Mint still growing • Enough
+Ibrahim: "You're leaving the arrays?"
+
+"Choosing family over work. You understand."
+
+"Will I be okay without you?"
+
+David: "You have others. Min-seo, Derek, Fatima. They're your people. I taught you maintenance. They kept you alive."
+
+Ibrahim realizes: true. David taught him competence. But those three taught him connection.
+
+**The Dinner**: Next evening. Fatima's apartment. Four people: Ibrahim, Min-seo, Derek, Fatima. First time gathered intentionally as group. Not coincidence. Not overlap. Deliberate.
+
+Fatima cooks traditional meal. Min-seo brings mint tea. Derek brings nothing but presence (his way). Ibrahim brings bread from community kitchen.
+
+**Sharing Stories**: Around table, they talk—not small talk. Real talk.
+
+Min-seo: "Ibrahim, when you first knocked on my door Year 6, asking about mint—you looked dead inside. I gave you cuttings because you needed something alive to tend. Did it help?"
+
+Ibrahim: "Yes. Kept me showing up."
+
+Derek: "You understood silence. When I couldn't talk about my wars, you didn't make me. Just walked beside me. That mattered."
+
+Fatima: "You kept coming to dinners even when faith was gone. That was brave. Most people, they lose faith, they abandon everything. You stayed. You let yourself be part of something."
+
+**The Realization**: Ibrahim sees it clearly for first time: Four years ago (Year 6), he was drowning. Counting stairs obsessively. Wanting to die but lacking energy for suicide. Then: these three. Not saving him dramatically. Just: showing up. Being present. Offering connection without demanding anything.
+
+Min-seo needed someone to share mint with. Derek needed someone who understood silence. Fatima needed someone to feed. Ibrahim needed all of them. They kept each other alive.
+
+**Recognition**: Ibrahim speaks (rare for him): "I thought I was alone. Seven years in Antarctica (Year 3 to Year 10). But: I had you. Four years of community I didn't recognize as community. Thank you. For keeping me alive when I couldn't keep myself alive."
+
+Min-seo touches his hand: "We kept each other alive."
+
+Fatima: "That's what community is. Not grand purpose. Just: showing up for each other. Day after day. Until showing up becomes living."
+
+**End**: Walking home with Min-seo (same building). Derek walking with them partway (Building 7, different direction). Fatima waving from her window (Building 9, across courtyard). Four refugees who found each other. Four years of unintentional community becoming intentional.
+
+Ibrahim on balcony that night. Mint growing (from Min-seo's cuttings, replanted years ago, still thriving). Building 12 around him. Min-seo below. Derek within walking distance. Fatima's light visible across courtyard. Five years left. No grand purpose. But: roots. People. Chosen family. Community.
+
+Not neutral. Connected. That's more than he hoped for Year 6. That's everything.
+
+**Key beats**: Seven years in Antarctica • Morning tea with Min-seo • Her sharing photos/grief • Attending meditation circle • Derek's silent solidarity • Fatima's intentional invitation • David leaving Year 13 • The deliberate dinner together • Sharing stories of connection • Realizing they kept each other alive four years • From unintentional to intentional community • Four refugees as chosen family • Ibrahim connected, not just neutral
 
 ---
 
@@ -246,30 +340,56 @@ Reconnection. Teaching. Healing. The scattered begin to gather. The broken begin
 
 ---
 
-## Chapter 33: Year 12 — Continuing
+## Chapter 33: Year 12 — Legacy
 **POV: Kenji Torres (35) | Year 12, Month 2 | ~4,000 words**
 
 **Opening**: Six months since Wei's death. Kenji bereft. His teacher gone. His anchor lost. How to continue?
 
 **The Grief**: Different from other losses. Wei was first person Kenji truly loved in adult life. First person who saw him completely. Taught him everything meaningful. Now: gone. Four years before everyone else dies. But this death: individual. Specific. Real.
 
-**The Teaching Circle**: Wei asked Kenji to continue teaching. He's trying. Twice weekly gatherings. Mix of ages, backgrounds. Twenty people usually. Kenji leading presence practice—meditation, gardening, shared meals, discussion. But: feeling fraudulent. Who is he to teach without Wei?
+**The Teaching Circle**: Wei asked Kenji to continue teaching. He's trying. Twice weekly gatherings in Lagos. Mix of ages, backgrounds. Twenty people usually. Kenji leading presence practice—meditation, gardening, shared meals, discussion. But: feeling fraudulent. Who is he to teach without Wei?
 
-**Doubting**: Month 1 after Wei's death. Kenji considers stopping. He's not qualified. Wei was wisdom itself. He's just: student who learned some things. Imposter syndrome crushing.
+**Doubting**: Months 1-4 after Wei's death. Kenji considers stopping. He's not qualified. Wei was wisdom itself. He's just: student who learned some things. Imposter syndrome crushing.
 
 **The Memory**: Remembering Wei's words: "Qualified teachers teach knowledge. Unqualified teachers teach presence. You're perfect." And: "Don't teach answers. Teach questions. Teach practice. Teach: we're figuring this out together."
 
 **Reframing**: Kenji realizes: he's not teaching because he has wisdom. Teaching because practicing together matters. Creating space for presence matters. Building community facing doom matters. He doesn't have answers. But: neither does anyone. At least they can not-have-answers together.
 
-**The Students**: Maya (nearly 14) starts attending regularly. Brilliant, serious, seeking. Asking hard questions. Kenji sees Wei in her—same sharp intelligence, same deep consideration. He teaches her especially, honoring Wei.
+**Maya Arrives**: Month 6, a new student walks in. Maya Okafor-Mensah. Nearly fourteen years old. Zara's daughter. Wei's informal student since age two. 
 
-**Others Finding Practice**: Ibrahim (29) starts coming. Silent at first. Just: sitting. Observing. Eventually participating. Some Antarctic visitors when they pass through Lagos. But: core community forming around Zara's family and local seekers.
+Kenji knows her—met her at family dinners. But now she's seeking him out independently. Sits in back. Practices with fierce concentration. After session, approaches.
 
-**The Shift**: Month 4. During practice, student asks: "How do we know we're doing this right?" Kenji answers instinctively: "If you're present, you're doing it right. There's no perfect presence. Just: this moment, noticed. That's enough." Realizes: he sounds like Wei. Not copying—channeling. She lives through teaching.
+"Uncle Kenji, can I learn from you? Like you learned from Grandmother Wei?"
 
-**End**: Month 6. Kenji in Wei's garden (maintained by Zara, open to all). Tending gardenias. One blooms—white, perfect, temporary. Kenji understands: Wei bloomed. Taught. Faded. Now: he blooms. Teaches. Will fade. But: beauty happened. Teaching spreads. Impermanence doesn't diminish meaning. It concentrates it.
+Kenji surprised: "You called her grandmother?"
 
-**Key beats**: Six months grieving • Continuing teaching • Feeling fraudulent • Remembering Wei's wisdom • Reframing purpose • Students gathering • Maya attending • Community forming • Channeling Wei • Understanding blooming
+"She taught me from when I was little. Mama brought me to the garden. Wei showed me flowers blooming and dying. Taught me impermanence before I knew the word. She died before teaching me everything. You can teach me what she would have taught."
+
+**Kenji Sees Wei**: In Maya's eyes. Same sharp intelligence. Same deep consideration. Same hunger for truth. Wei's teaching continuing through generations: Wei → Zara → Maya. And now: Wei → Kenji → Maya. Multiple lines of transmission.
+
+Maya: "I'm thirteen years, eight months old. I'll die at seventeen years, seven months. Less than four years. I want to learn everything I can. Not because it'll save me. Because learning is how I want to spend my time."
+
+**The Doubt Lifts**: Not because Kenji suddenly feels confident. Because there's a specific person needing specific teaching. Maya asking to learn. Wei would have wanted this. Kenji can honor Wei by teaching Maya what Wei taught him.
+
+Kenji: "I'll teach you everything I know. It won't be enough. But we'll try."
+
+Maya: "That's all I'm asking."
+
+**The Shift**: Month 6 forward. During practice, student asks: "How do we know we're doing this right?" Kenji answers instinctively: "If you're present, you're doing it right. There's no perfect presence. Just: this moment, noticed. That's enough." 
+
+Realizes: he sounds like Wei. Not copying—channeling. She lives through teaching. And now through Maya learning.
+
+**Others Notice**: Ibrahim (29) has been attending for months. Watching Maya, he sees: younger generation learning presence. Something he never had. He approaches Kenji after: "Can I help? With teaching? I don't have answers. But: maybe that's useful. Someone who found presence without philosophy background."
+
+Kenji: "Yes. Community teaching. Everyone offering what they learned. That's what Wei wanted."
+
+**End**: Kenji in Wei's garden (maintained by Zara, open to all). Tending gardenias. One blooms—white, perfect, temporary. Maya helps him water. Nearly fourteen, absorbing everything.
+
+Kenji understands: Wei bloomed. Taught. Faded. Now: he blooms. Teaches. Will fade. Maya learning. Will fade. But: beauty happening. Teaching spreading. Impermanence doesn't diminish meaning. It concentrates it.
+
+Wei's legacy: not immortality. Transmission. Person to person. Until there are no persons. But while there are: passing it forward.
+
+**Key beats**: Six months grieving • Continuing teaching, feeling fraudulent • Remembering Wei's wisdom • Reframing purpose • MAYA ARRIVES (nearly 14) asking to learn • Seeing Wei in her • Multiple transmission lines • The doubt lifts through specific purpose • Teaching Maya what Wei would have taught • Ibrahim offering to help teach • Community teaching emerging • Wei's legacy alive through Maya • Blooming together in garden
 
 ---
 
@@ -360,30 +480,86 @@ Reconnection. Teaching. Healing. The scattered begin to gather. The broken begin
 
 ---
 
-## Chapter 37: Year 14 — Settling
+## Chapter 37: Year 14 — Transmission
 **POV: Zara Okafor-Mensah (47) | Year 14, Month 6 | ~4,500 words**
 
-**Opening**: Lagos spaceport. Zara waiting (again—like Year 9, but different). Maya (16 years, 9 months—nearly 17) and Kofi (13 years, 8 months—nearly 14) beside her. This time: permanent arrival. Amara and David moving here. Family together for final two years.
+**Opening**: Three months since Amara and David arrived permanently. Life has found rhythm. Zara watches something beautiful: her sister teaching her daughter physics on the rooftop. David showing Kofi how to repair the water filtration system below. Knowledge passing down. Love made visible.
 
-**The Arrival**: Amara and David disembark. More luggage this time. Not visiting—staying. Embraces longer. Tears happier. Maya excited: "Aunt Amara! Uncle David! You're really staying?" "Really staying."
+**Maya and Amara — Morning**: Rooftop garden. Sunrise. Maya (16 years, 9 months) and Amara working through orbital mechanics equations. Not homework—no school anymore, no future careers. Just: beauty of mathematics. Elegance of physics. Understanding how the universe works.
 
-**The Apartment**: Zara arranged housing—adjacent to hers. Close but not overlapping. Family but independent. Perfect balance. Amara and David move in. First time living in Lagos. First time leaving Antarctica permanently. Strange. Right.
+Amara: "See how the ellipse defines the orbit? Mass, velocity, distance—three variables, infinite precision."
 
-**First Week**: Settling in. David overwhelmed by Lagos (so many people! so crowded! so loud!). Amara adjusting (no monitoring station, no arrays, just: being). Zara helping them acclimate. Family dinners daily. Children visiting constantly. Different life.
+Maya: "It's beautiful. Even though it's describing the thing that kills us."
 
-**The Community**: Zara introduces them to Wei's garden (maintained communally now). To Kenji's teaching (he visits from Antarctica quarterly). To neighbors, friends, community. Amara shy—not good with people. David comfortable with small groups. Both trying.
+"Especially because. The asteroid follows perfect mathematics. No malice. No intention. Just: physics. There's something honest about that."
 
-**Maya and Amara**: Special bond forming. Maya brilliant—loves physics, astrophysics, mathematics. Amara teaches her everything. Not for career (no future). For beauty. For understanding. For presence in elegant mathematics. Maya soaks it up.
+Zara watching from doorway. Her sister—isolated for seven years (Year 0-7), reconnecting slowly (Year 7-14)—now teaching Maya everything she knows. Not because Maya will use it. Because teaching = connection. Because understanding = presence. Because this is how Amara loves.
 
-**Kofi and David**: Unexpected bond. Kofi (nearly 14) loves building things. David teaches him basic engineering, maintenance principles, how things work. Kofi fascinated. David patient. Different from working with robots—but good different.
+**Kofi and David — Afternoon**: Basement level. Water systems. Kofi (13 years, 8 months) helping David troubleshoot circulation pump. Tom (the compound engineer) supervising, impressed.
 
-**Two Years Left**: The number sits with everyone. Visible countdown now. Maya will be seventeen years, seven months at impact. Kofi will be fourteen years, six months. Amara will be sixty-three. David sixty-four. Zara forty-nine. Kwame fifty-one. All temporary. All precious.
+David: "See this seal? When it degrades, flow drops. You test here, measure here, replace here."
 
-**Zara's Gratitude**: Late at night. Kwame sleeping. Children sleeping. Zara on balcony. Thinking: fourteen years since detection. First years: terror. Middle years: separation. Last years: reunion. Amara here. Family together. Two years left to be sisters, aunts, present. Not enough. Exactly enough. Both.
+Kofi: "But the compound only has eighteen months left. Why maintain?"
 
-**End**: Morning. Family breakfast—eight people around table. Amara teaching Maya about orbital mechanics. David showing Kofi how clockwork works. Kwame making everyone tea. Zara watching them. Two years until everyone dies. But right now: everyone's alive. Everyone's here. Everyone's present. The flower blooming. Temporary. Beautiful. Real.
+David: "Because people need water today. Tomorrow. Next week. Maintenance isn't about forever. It's about function while function matters."
 
-**Key beats**: Permanent arrival • Settling in Lagos • David overwhelmed • Amara adjusting • Meeting community • Maya/Amara bond • Kofi/David bond • Two years visible • Zara's gratitude • First family breakfast • Everyone present • Blooming
+Tom adds: "Your uncle understands. I've maintained these systems fifteen years. Could have stopped Year 1 when we knew. But: people needed water. So I maintained. Eighteen months left? I'll maintain eighteen more months."
+
+Kofi getting it: Purpose isn't permanence. Purpose is presence.
+
+Zara watching from stairs. Her son learning from David—the man who maintained solar arrays fourteen years (Year 1-15), who chose family over work, who understands meaning-through-maintenance. Kofi absorbing not just engineering. Philosophy. Practice. Presence.
+
+**The Gathering**: Evening. Compound community meeting. Called by Mr. Okonkwo (now 82). They've been building community together for fourteen years—started Year 0 with shared meals, formalized Year 2 with regular meetings, now Year 14, Month 6. Seven months until Zara's family migrates to Antarctica (Year 15, Month 1). Six months after that: impact. Time to honor what they built.
+
+Rooftop. Sixty residents. Mr. Okonkwo speaks: "Year 0, detection. Most people fled Lagos. We stayed. Started sharing meals Month 6. Year 2, started meeting regularly. Year 6, planted these gardens—eight years before impact—because gardens matter even when nothing lasts. Fourteen years building this community. Today: gardens still growing. We still here. Eighteen months left. Want to honor that."
+
+**Stories Shared**: 
+
+Adanna stands: "Year 0, I was angry. Angry at people having children. Then Zara had Kofi. Chose life when everyone chose despair. Her family taught me: brief doesn't mean meaningless. My son Samuel is twenty now. Never thought I'd see him reach twenty. Thank you, Zara. For showing us how to live."
+
+Samuel adds: "Kofi's existence gave me permission to keep existing. Sounds strange. But: true. Kid born after detection? That's defiance. That's hope. That's life. Thank you."
+
+Tom (quiet engineer): "Fourteen years maintaining water. Could have stopped. But: Zara asked me to teach her engineering. We designed greywater systems together. Her children helped. Teaching them—knowing they wouldn't become engineers—that mattered more than building career would have mattered. This compound taught me: purpose is people, not projects."
+
+Ling (who cared for Wei until her death): "Professor Wei said this community understood impermanence better than philosophers. You built gardens knowing they'd end. You loved children knowing they'd die young. You taught skills that wouldn't be careers. You lived. Fully. That's everything."
+
+Mr. Okonkwo: "I'm eighty-two. Thought I'd die Year 5. Still tending rooftops. Still growing food. Eighteen months left. Still tending. Because: what else? Despair? No. We chose life. Every day. Fourteen years of choosing life. That's complete."
+
+**Zara Speaks**: She didn't plan to. But: stands. "Thank you. For letting my family be part of this. For defending my choice to have Kofi. For teaching my children. For being community when I needed community. We're leaving in seven months—Year 15, Month 1—going to Antarctica with my sister for the final convergence. But: these fourteen years? You made them possible. You made them real. Thank you."
+
+**Amara and David Witness**: They're new here (three months). But watching this community—fifteen years of living despite doom—they understand what Zara built. What Zara chose. The life Amara missed while isolating.
+
+Amara to David quietly: "I wasted seven years. She built this."
+
+David: "You're here now. That's what matters."
+
+**The Transmission Recognized**: After gathering, walking home. Zara with Kwame, Maya, Kofi, Amara, David. Six people. Family.
+
+Maya: "Mama, why did Aunt Amara teach me orbital mechanics today? I'll never use it."
+
+Zara: "She taught you because teaching is loving. Because understanding is presence. Because knowledge passes person to person until there are no persons. But while there are: we teach. We learn. We connect."
+
+Kofi: "Like Uncle David teaching me maintenance? Even though the compound ends in eighteen months?"
+
+"Exactly."
+
+Amara adds: "And like Wei teaching your mother. And your mother teaching you. And Kenji teaching presence. And this compound teaching all of us how to live despite endings. Transmission. That's what we do. That's what makes us human."
+
+**Eighteen Months**: They're going to Antarctica in seven months (Year 15, Month 1). Eighteen months until impact. This is Lagos goodbye beginning. Not urgent panic. Gentle farewell. Honoring fifteen years of community. Preparing for final phase.
+
+**End**: That night. Zara on balcony. Compound lit below. Gardens growing. People living. Eighteen months left. But today: rooftop mathematics. Basement engineering. Community gathering. Teaching happening. Love visible.
+
+Tomorrow: more transmission. More teaching. More presence. Eighteen months of this. Then: Antarctica. Then: convergence. Then: end.
+
+But tonight: this. Community. Family. Teaching. Transmission.
+
+The flower still blooming. Still passing seeds forward. Until there's no soil left to plant in.
+
+That's enough.
+
+That's everything.
+
+**Key beats**: Three months after arrival, rhythm found • Maya/Amara morning physics (mathematics as love language) • Kofi/David afternoon engineering (maintenance as philosophy) • Compound gathering honoring 15 years • Mr. Okonkwo (82) still tending rooftops • Adanna thanking Zara for showing how to live • Tom on teaching vs projects • Ling invoking Wei's wisdom • Community that chose life every day • Amara witnessing what Zara built • "I wasted seven years. She built this." • The transmission recognized (Wei→Zara→Maya, David→Kofi, compound→family) • Eighteen months until impact, seven until migration • Teaching = loving = presence • Gentle farewell beginning • Honoring what was built • Still blooming
 
 ---
 

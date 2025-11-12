@@ -128,17 +128,17 @@ Buddhist philosophy meets hard SF: impermanence, presence, meaning without perma
 
 **Chapter 27: Roots** - Zara and family reunite with Amara in Lagos; sisters reconnect after nine years apart.
 
-**Chapter 28: Practice** - Kenji learns presence practice from Wei through gardening, tea, and simply being.
+**Chapter 28: Practice** - Kenji discovers he's ready to teach when he responds to a terrified mother seeking wisdom; Wei confirms he's becoming himself as teacher.
 
 **Chapter 29: Letter** - Elena receives letter from Wei and understands her role as chosen witness, not failed governor.
 
-**Chapter 30: Sunrise** - David brings Amara to Platform 73 for the first time; they watch sunrise and reconnect.
+**Chapter 30: Sunrise** - David brings Amara to Platform 73 and tells her he's leaving the arrays in Year 13 to move to Lagos with her.
 
-**Chapter 31: Neutral** - Ibrahim reaches neutral emotional state—not happy, not despairing, just present.
+**Chapter 31: Community** - Ibrahim realizes he has roots when Min-seo, Derek, and Fatima gather for intentional dinner together after four years of keeping each other alive.
 
-**Chapter 32: Bloom** - Wei dies naturally at 124; her final words are "The flower bloomed."
+**Chapter 32: Bloom** - Wei dies naturally at 125; her final words are "The flower bloomed."
 
-**Chapter 33: Continuing** - Kenji, grieving Wei, continues her teaching despite feeling unqualified.
+**Chapter 33: Legacy** - Maya (nearly 14) starts attending Kenji's teaching; he sees Wei's wisdom continuing through her and agrees to teach her everything.
 
 **Chapter 34: Return** - Kenji returns to Antarctica after eleven years; Elena welcomes her son home.
 
@@ -146,7 +146,7 @@ Buddhist philosophy meets hard SF: impermanence, presence, meaning without perma
 
 **Chapter 36: Farewell** - David says goodbye to Platform 73 and robot 47B after twenty years of maintenance.
 
-**Chapter 37: Settling** - Amara and David arrive permanently in Lagos; family bonds deepen in final two years.
+**Chapter 37: Transmission** - Zara watches Amara teach Maya physics and David teach Kofi engineering; the compound community gathers to honor fourteen years together before migration.
 
 **Chapter 38: Offering** - Ibrahim begins offering wisdom to young people in Kenji's circle; teaching through presence.
 
@@ -161,7 +161,7 @@ Buddhist philosophy meets hard SF: impermanence, presence, meaning without perma
 
 **Chapter 42: Seventeen** - Maya's first POV at seventeen years old, three months before she dies at seventeen and seven months.
 
-**Chapter 43: Moment** - Kenji teaches presence practice to sixty people—this moment, this moment, this moment.
+**Chapter 43: Moment** - Maya asks Kenji to teach her everything Wei knew in three months; he agrees to daily intensive training until the end.
 
 **Chapter 44: Meaning** - David and Maya on Platform 73 discuss why maintenance matters when nothing lasts.
 

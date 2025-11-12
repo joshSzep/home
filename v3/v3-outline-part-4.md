@@ -101,21 +101,19 @@ The grief wells up—anticipatory grief she's carried seventeen years. But also:
 
 **Opening**: Community center. Kenji teaching presence practice. Sixty people attending—largest gathering yet. Everyone wanting to learn. Everyone wanting tools for facing the end.
 
-**Journey Reflected**: Reflection on path from seeker to teacher. Left Antarctica Year 1, age 23. Wandered six years seeking answers. Found Wei in Lagos Year 8, age 30. Studied with Wei three years (Year 8-11). Continued teaching after her death (Year 11). Returned to Antarctica Year 12, age 34. Teaching three years now (Year 12-15). Final teachings. Everything Wei gave him, passed forward.
+**Journey Reflected**: Brief reflection on path from seeker to teacher. Left Antarctica Year 1, age 23. Wandered six years seeking answers. Found Wei in Lagos Year 8, age 30. Studied with Wei three years (Year 8-11). Continued teaching after her death (Year 11-12). Returned to Antarctica Year 12, age 34. Teaching three years now (Year 12-15). Final teachings. Everything Wei gave him, passed forward.
 
 **The Practice**: Simple instructions. "Notice breath. Notice body. Notice thoughts without clinging. Notice feelings without drowning. This moment. This moment. This moment. Nothing more. Nothing less. This is enough."
 
-**The Students**: Sixty people ranging from children (Kofi, fourteen) to elders (Elena, seventy-three). Everyone practicing together. Everyone learning presence. Not for enlightenment. Not for peace. Just: for being here clearly, fully, truly.
+**The Students**: Sixty people ranging from children (Kofi, fourteen years, three months) to elders (Elena, seventy-three). Everyone practicing together. Everyone learning presence. Not for enlightenment. Not for peace. Just: for being here clearly, fully, truly.
 
-**Maya**: Kenji watching his niece—seventeen, brilliant, Wei's spiritual granddaughter somehow. She practices with fierce concentration. Asks deep questions. Understands instinctively. Wei would have loved teaching her. But Wei died Year 11. Now: Kenji honors Wei by teaching Maya what Wei would have taught.
+**Maya's Intensity**: Kenji watching his niece—seventeen years, three months old. Three months until she dies at seventeen years, seven months. She practices with FEROCITY. Not desperation. Absolute commitment.
 
-**Ibrahim**: Former fighter sitting in circle. Thirteen years since wounding (Year 2). Eight years of presence practice (meditation groups Year 6-12, Kenji's teachings Year 12-15). Now: almost teacher himself. Offering wisdom from his own journey. Faith lost, presence found. Destruction to drift to maintenance to teaching. Full circle.
+She's been studying with him for three years (Year 12 to Year 15). Started when she was nearly fourteen. Now: nearly complete. But Kenji sees—she's not just practicing. She's trying to EMBODY everything before time runs out.
 
-**David**: Quiet engineer coming to practice irregularly. Not naturally drawn to meditation. But: comes anyway. Sits anyway. Tries anyway. That's practice too—showing up even when it doesn't fit naturally.
+**Ibrahim Co-Teaching**: Former fighter now offering wisdom. Thirteen years since wounding (Year 2). Eight years of presence practice (meditation groups Year 6-12, Kenji's teachings Year 12-15). Now: helping teach. Speaking from his journey. Faith lost, presence found. His story helps others—especially the young, the broken, the lost.
 
-**Amara**: Kenji's aunt by marriage. Came Year 8 skeptical. Kept coming. Softened over years. Now: regular practitioner. Not transformed dramatically. Just: more present. More available. More human. That's enough.
-
-**After Practice**: People staying, talking, being together. Not student-teacher anymore. Just: community. Kenji facilitating but not leading. Everyone teaching each other by being present together.
+**David and Amara**: Quiet engineer and calculated scientist both practicing. David comes irregularly—not natural for him but trying. Amara more regular now. Both softened over years. More present. More human. That's enough.
 
 **Question from Young Student**: A teenager (fourteen) asks, "Kenji, does this practice make dying easier?" 
 
@@ -127,19 +125,57 @@ Kenji: "I don't know. Ask me in three months."
 
 Everyone laughs. Dark humor. True humor. They're all asking the same question.
 
-**Conversation with Maya**: After class, Maya approaches. "Uncle Kenji, can I learn everything Wei taught you?" "In three months?" "Yes." "That's impossible." "So teach me anyway." Kenji smiles. "Okay. We start tomorrow. Every day until the end." "Thank you." "Thank Wei. I'm just passing it forward."
+**Maya hearing this**: She understands suddenly. She won't be ready to die. No one will. But she can be PRESENT while dying. That's different. That's possible. That's what she's learning.
 
-**Reflection on Wei**: Walking home. Kenji thinking about his teacher. Died Year 11, age 125 (reached the age doctors predicted when she was 114). Natural death before the asteroid. Mercy and loss. Wei ready. Wei complete. Wei at peace.
+**After Practice**: People staying, talking, being together. Community. Kenji facilitating but not leading. But Maya stays back. Waits for others to leave.
 
-She taught him everything. Not just meditation. How to live. How to face impermanence. How to make moments matter. How to die eventually. Wei died well. That's his inheritance. Die well. Teach dying well. Pass that forward.
+**The Request**: When they're alone, Maya approaches.
 
-**Two and a Half Months Left**: Kenji in his small apartment. Tomorrow: teach Maya. Tomorrow: hold practice. Tomorrow: be present. Two and a half months of tomorrows. Then: physics. Then: silence. Then: nothing.
+"Uncle Kenji, can I learn everything Wei taught you?"
 
-He's ready? No. Present? Yes. Teaching presence until he can't. That's complete.
+"You've been learning for three years."
 
-**End**: Kenji meditating before sleep. Breath. Body. Moment. Nothing more. Nothing less. Tomorrow comes. Practice continues. Presence persists. Until it doesn't. Then: nothing persists. But right now: breath. That's enough.
+"I mean EVERYTHING. Daily. Intensive. Everything you know. I have three months left. Ninety days. I want to spend them learning."
 
-**Key beats**: Teaching sixty people • Thirteen years journey reflected (left Year 1, returned Year 12, teaching 3 years) • Simple practice instructions • Diverse students • Maya as dedicated student • Ibrahim almost teaching • David trying • Amara present • Does practice make dying easier? No. But. • Maya asking to learn everything • Honoring Wei (died 125 years old) • Teaching dying well • Two and a half months • Ready: no. Present: yes.
+Kenji: "That's impossible. Wei taught me over three years. I can't compress—"
+
+"So teach me anyway. Not because it's possible. Because it's what I want. Daily sessions. One-on-one. Everything. Please."
+
+**Kenji Sees**: She's serious. Completely serious. Seventeen years, three months old. Knows exactly how much time she has left. Wants to spend it learning presence, learning wisdom, learning how to die well. Not morbid. Intentional.
+
+This is what Wei would have wanted. What Wei would have done if she'd lived to teach Maya directly.
+
+**The Agreement**: "Okay. We start tomorrow. Every day. One hour minimum. Sometimes more. I'll teach you everything—meditation techniques, presence practice, how to sit with pain, how to witness impermanence, how to face fear, how to die consciously."
+
+Maya: "Thank you."
+
+"But Maya—you understand? This won't make dying easier. Won't make it okay. You'll still die terrified. You'll still die at seventeen. This just makes the ninety days clearer."
+
+"I know. But clear is better than numb. Present is better than hiding. I want to be awake until the end. Even if awake means scared."
+
+**Kenji's Emotion**: He's moved. She understands. Completely. At seventeen. What took him thirty years to learn, she grasps intuitively.
+
+"Wei would be proud of you."
+
+"Then let's honor her. Teach me. Everything. Starting tomorrow."
+
+**Reflection on Wei**: Walking home alone. Kenji thinking about his teacher. Died Year 11, age 125. Natural death before the asteroid. Mercy and loss. Wei ready. Wei complete. Wei at peace.
+
+She taught him everything. Not just meditation. How to live. How to face impermanence. How to make moments matter. How to die consciously. Wei died well.
+
+Now: Maya wants to learn the same. Ninety days to learn what Wei spent seventy years teaching. Impossible. But they'll try.
+
+**The Transmission**: Wei → Kenji → Maya. Three generations. Three approaches. Same wisdom. Passing forward until there's no one left to pass to. But while there are people: teach. Share. Transmit.
+
+That's the practice. That's the point. Not immortality. Transmission. Person to person. Until the end.
+
+**Ninety Days**: Kenji in his small apartment. Tomorrow: teach Maya. Hour one of ninety sessions. Everything he knows compressed into three months. She'll absorb what she can. Let go of the rest. But she'll die AWAKE. Present. Clear. That's his gift to her. Wei's gift through him.
+
+He's ready? No. Present? Yes. Teaching presence until he can't. Teaching Maya until she can't learn. That's complete.
+
+**End**: Kenji meditating before sleep. Breath. Body. Moment. Tomorrow: intensive training begins. Ninety days. Then: physics. Then: silence. But these ninety days? Everything.
+
+**Key beats**: Teaching sixty people • Simple practice instructions • MAYA'S INTENSITY (17 years 3 months, 3 months left) • Ibrahim co-teaching • David and Amara present • Does practice make dying easier? No. But makes life clearer. • Maya understanding: present while dying, not ready for it • THE REQUEST: teach me everything in 90 days • One-on-one intensive daily training • Kenji agreeing • Clear better than numb • Awake better than hiding • Honoring Wei through teaching Maya • The transmission: Wei → Kenji → Maya • Ninety sessions until the end • Teaching her to die awake
 
 ---
 
