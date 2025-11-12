@@ -46,7 +46,7 @@ The apartment looked the same. Same furniture. Same kitchen layout. But emptier 
 
 They moved to the kitchen. The ritual was familiar—David filling the kettle, pulling down cups, the motions they'd done together thousands of times. But different now. Careful. Distant. The ease gone.
 
-Amara sat at the small table. This table. Where they'd eaten meals, reviewed work, existed in comfortable parallel before everything broke. Now it felt miles wide.
+Amara sat at the small table. This table. Where they'd eaten meals, reviewed work, existed in comfortable parallel before everything broke. Now it felt kilometers wide.
 
 David brought tea. Sat across from her. Waited.
 
