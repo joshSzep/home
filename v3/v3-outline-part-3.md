@@ -62,9 +62,9 @@ Reconnection. Teaching. Healing. The scattered begin to gather. The broken begin
 ## Chapter 26: Year 8 — Stay
 **POV: Kenji Torres (30) | Year 8, Month 8 | ~4,500 words**
 
-**Opening**: Kenji in Lagos. Year 8 of wandering. Visiting his seventeenth city, fourth continent. Still seeking. Still empty.
+**Opening**: Kenji in Lagos. Year 8 of wandering. Visiting his fourth city, fourth continent (including Antarctica). Still seeking. Still empty.
 
-**Six Years of Searching**: Flashback montage—Buddhist monasteries, Stoic communities, Existentialist cafes, secular philosophy groups. Tokyo, Mumbai, Cairo, New Lagos. Met hundreds of seekers. Heard thousands of answers. Intellectual understanding abundant. Emotional integration: zero.
+**Six Years of Searching**: Flashback montage—Buddhist monasteries, Stoic communities, Existentialist cafes, secular philosophy groups. Tokyo, Mumbai, Cairo. Met hundreds of seekers. Heard thousands of answers. Intellectual understanding abundant. Emotional integration: zero.
 
 **Exhaustion**: Kenji is tired. Thirty years old. Spent ages 23-30 traveling. Learned everything. Integrated nothing. Beginning to think: maybe there's no answer. Maybe seeking is pointless. Maybe he should just... stop.
 

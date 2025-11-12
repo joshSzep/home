@@ -74,7 +74,7 @@ Kenji liked Tomás—gentle, confused, honest about confusion. No pretense of ha
 
 "Looking is work. Being willing to not-find takes courage."
 
-Kenji considered this. Year 2, he'd left Antarctica thinking: I'll find answers out here. Truth about how to live the ending. Some wisdom tradition that handles mortality perfectly. Five months in Mumbai had taught him: no perfect answers exist. Or they exist but remain inaccessible. Or they're accessible but not helpful. Or they're helpful but he's broken in ways that prevent help from landing.
+Kenji considered this. Nearly four years ago—Year 1, Month 6—he'd left Antarctica thinking: I'll find answers out here. Truth about how to live the ending. Some wisdom tradition that handles mortality perfectly. Five months in Mumbai had taught him: no perfect answers exist. Or they exist but remain inaccessible. Or they're accessible but not helpful. Or they're helpful but he's broken in ways that prevent help from landing.
 
 "I'm going to Lagos," he said suddenly. Hadn't known he'd decided until words emerged.
 
@@ -106,11 +106,45 @@ Maybe. Kenji finished eating. Tomás left for morning sutras. Kenji stayed, star
 
 ---
 
+This was how it felt in Tokyo. In Cairo. Always the same pattern.
+
+Nearly four years of wandering now. Year 1, Month 6 to Year 5, Month 9. Four cities if you counted Antarctica. Three continents. Seventeen months in Tokyo—Buddhist monasteries on the city outskirts, zazen practice six hours daily, studying koans with teachers who spoke through translators. He'd understood everything intellectually. The ox-herding pictures. The nature of mind. The practice of just sitting. But understanding remained locked in his head, never dropping into his body. After seventeen months of bowing and breathing and analyzing his inability to stop analyzing, he'd left.
+
+Year 3, Month 2: Cairo. Different approach. Western philosophy this time. If Eastern traditions couldn't help him embody acceptance, maybe Stoicism could teach him through reason. He'd found a community in the desert—secular philosophers living in a half-abandoned research station, practicing memento mori, studying Marcus Aurelius and Epictetus, holding daily sessions on mortality and meaning. More his speed, he'd thought. More aligned with his academic training.
+
+It wasn't.
+
+They'd sit in the desert heat discussing death abstractly while the asteroid approached concretely. "Death is nothing to us," they'd recite, "since when we exist, death is not yet present, and when death is present, then we do not exist." Beautiful logic. Perfect rationalization. Completely useless for actually facing the end.
+
+He'd met other seekers there—ex-academics mostly, people who thought mortality could be solved through right thinking. A German mathematician who'd created elaborate philosophical systems proving death was ontologically neutral. A French existentialist who'd written a six-hundred-page treatise on authentic being-toward-death. An Egyptian woman—Amina, he'd just remembered—who'd analyzed Stoic texts with the same desperate precision he'd analyzed Buddhist sutras.
+
+All of them brilliant. All of them frozen. Philosophy as avoidance dressed up as inquiry.
+
+He'd stayed fourteen months in Cairo. Longer than he should have. The desert silence was seductive—easier to think about mortality in abstract than to feel it in particular. But by Year 4, Month 4, he'd admitted defeat. The Stoics had no special answer. Just different vocabulary for the same unbridgeable gap between knowing about acceptance and actually accepting.
+
+So: Mumbai. Year 5, Month 4. Back to embodied practice. The ashram's Hindu-Buddhist hybrid approach—maybe mixing traditions would help where each alone had failed. Five months now of meditation and manual labor and watching himself fail at presence. Same pattern. Different location.
+
+And now: Lagos. One more city. One more teacher. Professor Wei—118 years old, correspondent with his mother, teaching presence and impermanence to anyone who asked. Maybe she'd be different. Maybe age brought wisdom that younger teachers lacked. Maybe meeting someone who'd actually lived with death for over a century would teach him something the books and practices couldn't.
+
+Or maybe he'd arrive, learn nothing new, leave again. Another stop on the wandering that defined him. Tokyo, Cairo, Mumbai, Lagos. Always moving. Never arriving. Seeking as identity. Avoidance as practice.
+
+Tomás was right. He was running.
+
+But running toward or running away? Both. Neither. The question itself was analytical trap—another way of thinking about seeking instead of actually being present with it.
+
+Kenji stood. The breakfast hall was mostly empty now. Morning work period starting soon. He should go to the garden. Should water vegetables he'd never eat. Should perform purpose whether or not purpose was real.
+
+But first: this decision. Lagos. Professor Wei. One more attempt to learn what he couldn't seem to learn. One more city in the wandering. Maybe the last city. Maybe the place where seeking finally exhausted itself into something else.
+
+Or maybe just: another destination in the long drift toward the end.
+
+---
+
 Afternoons were work period. Ashram required four hours daily labor—cooking, cleaning, gardening, maintenance. Kenji usually chose garden. Something about being outside, hands in soil, growing things that wouldn't outlast the asteroid. Futile cultivation. Perfect metaphor.
 
 Today he worked beside Amina. Twenty-four years old, Egyptian, philosopher studying Stoicism with academic rigor. She'd arrived at the ashram two weeks ago, approaching Eastern practice like dissertation research. Took notes during meditation. Analyzed sutras structurally. Understood everything intellectually, felt nothing emotionally.
 
-Kenji recognized himself in her immediately.
+Kenji recognized himself in her immediately. Recognized her especially—he'd met someone with her exact name and approach in Cairo. Maybe the same person? He almost asked, then didn't. If she didn't remember him, that said everything about how forgettable his seeking was. If she did remember and hadn't mentioned it, she had her reasons.
 
 They weeded in silence. Eventually Amina said: "This is absurd."
 
@@ -152,7 +186,9 @@ She was right. He didn't. But he wanted to. Wanted to believe that seeking was m
 
 "You know she won't have answers either."
 
-"Probably not."
+"Probably not. But maybe she's different. The Cairo philosophers were brilliant—we probably crossed paths there Year 3 or 4—but they were all thinking about death, not living with it. Maybe someone who's 118 years old knows something we don't."
+
+"Or maybe you just need to keep moving."
 
 "But you're going anyway."
 
@@ -254,7 +290,9 @@ He started a reply:
 
 *Met some interesting people. Yuki—Japanese woman desperately seeking enlightenment. Father Tomás—Brazilian priest whose faith shattered. Amina—Egyptian philosopher as emotionally frozen as me. We're all performing seeking. Don't know if it's authentic or avoidance. Maybe both.*
 
-*Professor Wei writes to you? I'd like to meet her. Zara mentions her sometimes—neighbor, teacher, 118 years old. Planning to go to Lagos soon. Want to learn from her directly before she dies. Or before I'm too closed off to learn. Whichever comes first.*
+*Nearly four years wandering now. Tokyo taught me I can't stop thinking long enough to meditate properly. Cairo taught me Western philosophy handles death no better than Eastern practice—just different vocabulary for the same failure. Mumbai teaching me the same lessons again. The pattern is exhausting.*
+
+*But Professor Wei writes to you? I'd like to meet her. Zara mentions her sometimes—neighbor, teacher, 118 years old. Planning to go to Lagos soon. Want to learn from her directly before she dies. Or before I'm too closed off to learn. Whichever comes first.*
 
 *I think about you a lot. You governing a dying city. Me wandering dying cities. Both of us trying to find meaning in collapse. Maybe we're doing the same work from different angles. Or maybe I'm just procrastinating while you're actually helping people. Hard to tell.*
 
@@ -288,7 +326,7 @@ Kenji understood. He wanted that too—real transformation, not just: understand
 
 "Does futile seeking have value?"
 
-Yuki looked at him. Eyes red. Face exhausted. "I don't know. You tell me. You've been seeking three years. Tokyo, here, wherever you go next. Has it helped?"
+Yuki looked at him. Eyes red. Face exhausted. "I don't know. You tell me. You've been seeking nearly four years. Tokyo, Cairo, here, wherever you go next. Has it helped?"
 
 Kenji sat with the question. Had it helped? He'd learned things—practices, philosophies, perspectives. Met people. Gained intellectual framework for the ending. But: transformation? Actual change? Peace?
 
