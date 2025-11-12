@@ -26,6 +26,8 @@
 ## Key Relationships
 - Amara & Zara: Sisters, estranged Years 0-7, reconnect Year 7+
 - Amara & David: Married, divorce Year 4, reconnecting Year 8+
+- David & Ibrahim: Work colleagues on solar arrays, Year 7+ (David veteran, Ibrahim new hire)
+- Ibrahim's connections: Min-seo, Derek, Fatima (community members from Year 6)
 - Zara's family: Kwame (husband), Maya (17), Kofi (14 at impact)
 - Elena & Kenji: Mother-son; both learn presence through crisis
 - Wei: Teacher to multiple characters (Zara, Kenji, others)
@@ -57,6 +59,8 @@ Buddhist philosophy meets hard SF: impermanence, presence, meaning without perma
 - **Wei dies Year 14** - Before final convergence (natural death, not impact)
 - **Elena's arc**: Elected mayor → Unopposed → Witness (governance to presence)
 - **Antarctica = megacity** - 4 billion at peak; climate forced migration
+- **Ibrahim's timeline**: Wounded Year 2, arrives Antarctica Year 3 Month 2, unemployed Years 3-7, starts solar array work Year 7, competent by Year 8
+- **David's work history**: Solar array maintenance since before detection (~Year -1); 9+ years by Year 8
 
 ## Collaboration Guidelines
 When working on chapters or outlines:

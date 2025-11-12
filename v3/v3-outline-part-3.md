@@ -37,25 +37,25 @@ Reconnection. Teaching. Healing. The scattered begin to gather. The broken begin
 ## Chapter 25: Year 8 — Competence
 **POV: Ibrahim al-Rashid (27) | Year 8, Month 5 | ~4,000 words**
 
-**NOTE**: Ibrahim was wounded Year 2 and evacuated to Antarctica Year 3 (per written Chapter 13). He never returns to Jerusalem. This chapter shows his breakthrough 5 years into maintenance work.
+**NOTE**: Ibrahim was wounded Year 2 and evacuated to Antarctica Year 3, Month 2 (per written Chapter 13). He spent Years 3-7 unemployed and drifting (Chapter 21, Year 6). Started solar array maintenance Year 7. This chapter shows his breakthrough 14 months into the work—discovering competence after years of emptiness.
 
-**Opening**: Platform 73, morning shift. Ibrahim working maintenance with David. Five years since his arrival in Antarctica as wounded refugee. Five years of routine. Five years of numbness slowly thawing.
+**Opening**: Platform 73, morning shift. Ibrahim working maintenance with David. Nearly five years in Antarctica—but only fourteen months of this work. Fourteen months since employment services contacted him. Fourteen months since he said yes without caring. Fourteen months of routine slowly filling the emptiness.
 
-**The Work**: Ibrahim and David work in comfortable silence. Ibrahim notices something different today: he's present. Not thinking about past (war, faith, failure). Not anxious about future (only 7 years left). Just: here. Working. Present. When did that happen?
+**The Work**: Ibrahim and David work in comfortable silence. Ibrahim notices something different today: he's present. Not thinking about past (war, faith, failure). Not anxious about future (only 7 years left). Just: here. Working. Present. After four years of aimless drift, this focus feels miraculous.
 
-**Small Moment**: Robot 47B malfunctions. Simple fix—connection loose. Ibrahim repairs it without David's help. David watches, nods approval. "You've learned well." Ibrahim realizes: he has. He's competent. Has skill. Has purpose (small, but real).
+**Small Moment**: Housing repair completed independently. Ibrahim realizes: he's competent. Actually skilled. Learned this in fourteen months. After four years of counting stairs obsessively and wandering unemployed, suddenly: capability. Purpose. Something real.
 
-**Lunch on Platform**: They sit two hundred meters up. Ibrahim asks question he's been holding: "Why do you do this? Really?" David considers. "Because I can. Because it matters while it matters. Because showing up is enough." Ibrahim: "Is showing up enough?" "For me, yes. For you?" Ibrahim doesn't know yet.
+**Lunch on Platform**: They sit two hundred meters up. Ibrahim asks question he's been holding: "Why do you do this? Really?" David considers. "Because I can. Because it matters while it matters. Because showing up is enough." Ibrahim: "Is showing up enough?" "For me, yes. For you?" Ibrahim doesn't know yet. But he's here asking, which is more than Year 6.
 
-**The Realization**: Walking home, Ibrahim notices he's not counting steps obsessively anymore (he still limps, always will, but the counting ritual has faded). He's just walking. Being. Present. Not healed. Not happy. But: alive in way that doesn't hurt constantly. That's progress.
+**The Realization**: Walking home, Ibrahim notices he's not counting steps obsessively anymore (he still limps, always will, but the counting ritual has faded since starting work). He's just walking. Being. Present. Four years of drift. Fourteen months of work. The difference is stark. Not healed. Not happy. But: alive in way that doesn't hurt constantly. That's progress.
 
-**Evening Alone**: Ibrahim in his apartment. Refugee housing, small but his. Five years here. No faith. No family. No grand purpose. But: work that matters. Colleagues who respect him. Routine that grounds him. Not the life he imagined. The life he has.
+**Evening Alone**: Ibrahim in his apartment. Refugee housing, small but his. Nearly five years here—most spent empty. But these fourteen months changed something. Work that matters. Colleagues who respect him. Routine that grounds him. Not the life he imagined. The life he has. New. Fragile. Real.
 
-**Small Peace**: Looking out window at Antarctic megacity. Still limping. Still faithless. Still carrying prayer beads (habit, not devotion). But: not wanting to die anymore. Not dreading tomorrow. Just: okay with being alive. That's enough. That's progress. That's everything.
+**Small Peace**: Looking out window at Antarctic megacity. Still limping. Still faithless. Still carrying prayer beads (habit, not devotion). But: not wanting to die anymore. Not dreading tomorrow. Just: okay with being alive. After four years of barely existing, this is everything. Fourteen months of progress. Small peace. New peace. Enough.
 
-**End**: Ibrahim prepares for sleep. Tomorrow: more maintenance. More presence. More showing up. Seven years left. Maybe he'll find something bigger. Maybe this small peace is enough. Either way: he's here. That's start.
+**End**: Ibrahim prepares for sleep. Tomorrow: more maintenance. More presence. More showing up. Seven years left. Maybe he'll find something bigger. Maybe this small peace is enough. Either way: he's here. That's start. That's more than Year 6. That's everything.
 
-**Key beats**: Five years of routine • Noticing his own presence • Competence developing • Question about purpose • David's simple wisdom • Not healed but healing • Progress, not transformation • Small peace emerging • Showing up as enough
+**Key beats**: Fourteen months of work after four years drift • Noticing his own presence • Competence NEW and fragile • Question about purpose • David's simple wisdom • Contrasting with Year 6 emptiness • Not healed but healing • Progress recent and precious • Small peace emerging • Showing up as enough
 
 ---
 

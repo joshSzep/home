@@ -258,6 +258,12 @@ Was she? Amara noticed her voice, her expression. He was right. Thinking about M
 
 They talked for hours. Longer than planned. Conversation flowed more easily as they relaxed. David asked about her work—she'd transitioned to part-time monitoring, spending more time analyzing global data patterns instead of obsessive trajectory tracking. Amara asked about his colleagues—most gone now, maintenance run primarily by robots with four human supervisors.
 
+"There's one other worker I see regularly," David added. "Ibrahim. Started about a year ago. Former militia fighter from Jerusalem. Lost his faith when the asteroid was detected. Spent years drifting, unemployed. Then took this job." He paused, considering. "We don't talk much. Work in parallel mostly. But there's something there. Shared understanding, maybe. Both of us finding purpose in showing up."
+
+"Sounds like good company."
+
+"It is. Quiet company. But real."
+
 Eventually the dining area began filling with lunch crowd. They'd occupied the table four hours. Time to go.
 
 "Walk?" David suggested.

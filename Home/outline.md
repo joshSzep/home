@@ -45,7 +45,7 @@ Kenji leaves Antarctica to search the world for philosophical answers to mortali
 Elena runs for re-election Year 2; Marcus challenges her; democracy persists despite doom.
 
 ### Chapter 13: Breakdown
-Ibrahim wounded in Jerusalem fighting, evacuated to Antarctica, loses everything.
+Ibrahim wounded in Jerusalem fighting Year 2, evacuated to Antarctica, loses everything. Arrives Year 3, Month 2.
 
 ### Chapter 14: Maintenance
 David finds meaning in maintaining solar arrays that will function until impact.
@@ -66,10 +66,10 @@ Kenji travels the world seeking answers, finding intellectual knowledge but no e
 Zara builds community in Lagos around Wei's garden and presence practice.
 
 ### Chapter 20: Mandate
-Elena runs unopposed Year 6; her authority shifts from electoral to demonstrated through presence.
+Elena runs unopposed Year 6; his authority shifts from electoral to demonstrated through presence.
 
 ### Chapter 21: Drift
-Ibrahim drifts in Antarctica, limping, faithless, counting steps, barely alive.
+Ibrahim drifts in Antarctica Year 6, unemployed, limping, faithless, counting steps, barely alive. Connects with Min-seo, Derek, Fatima.
 
 ### Chapter 22: Arrays
 David maintains solar arrays with robot 47B, finding partnership and purpose.
@@ -83,10 +83,10 @@ Amara finally calls Zara after seven years of silence, beginning to reconnect.
 **Chapters: 16**
 
 ### Chapter 24: Threshold
-Amara and David, divorced for four years, meet at his door to try reconnecting.
+Amara and David, divorced for four years, meet at his door to try reconnecting. David mentions Ibrahim, his work colleague.
 
 ### Chapter 25: Competence
-Ibrahim, five years into maintenance work, realizes he's competent and no longer wants to die.
+Ibrahim, fourteen months into solar array maintenance work after four years unemployed, realizes he's competent and no longer wants to die.
 
 ### Chapter 26: Stay
 Kenji, exhausted from six years of seeking, finds Wei's garden in Lagos and begins to learn presence.

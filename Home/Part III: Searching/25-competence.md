@@ -4,13 +4,13 @@
 
 ---
 
-Platform 73. Morning light breaking pale across the ice. Ibrahim clips his harness at 6:51 AM—four minutes late, which is early enough. Five years of this routine. Five years since arrival as wounded refugee. Five years of maintenance work that seemed pointless and now seems... less pointless. Maybe.
+Platform 73. Morning light breaking pale across the ice. Ibrahim clips his harness at 6:51 AM—one minute late, which is early enough. Fourteen months of this routine. Nearly five years since arrival as wounded refugee in Year 3, but only fourteen months since he started this job. Fourteen months of maintenance work that seemed pointless at first and now seems... less pointless. Maybe.
 
 "Morning." He nods to David Chen, already inspecting connection housing at the platform's edge.
 
 "Morning, Ibrahim." David doesn't look up. Focused. Present. Always present in the way Ibrahim is learning to be.
 
-They work in comfortable silence. This is what five years builds—not friendship exactly, but partnership. Understanding without explanation. Two men maintaining solar arrays that will vaporize in seven years. Not discussing why. Just doing.
+They work in comfortable silence. This is what fourteen months builds—not deep friendship exactly, but partnership. Understanding without too many words. Two men maintaining solar arrays that will vaporize in seven years. Not discussing why. Just doing.
 
 Ibrahim's leg aches. Always aches. The limp is permanent—shrapnel damage from Year 2, two surgeries, chronic pain manageable but constant. He moves slower than David. Compensates with care. Used to hate the limitation. Now: just incorporates it. Right leg weak, left leg strong, cane when needed, careful placement on the metal grating. Physics of damaged body. Accommodation instead of rage.
 
@@ -18,17 +18,17 @@ When did that change?
 
 The thought surfaces unbidden. Ibrahim pauses mid-motion, diagnostic tablet in hand. When did he stop hating the limp? When did the morning climb stop feeling like punishment? When did showing up to maintain arrays stop being just... passing time until death?
 
-He doesn't know. The shift was gradual. Invisible. Five years of routine slowly becoming five years of practice.
+He doesn't know. The shift was gradual. Invisible. Five years in Antarctica—most of them spent drifting, aimless, wanting to die but lacking energy for suicide. Then Year 7, this job. Fourteen months of routine slowly becoming fourteen months of practice.
 
 "Housing integrity at seventy-six percent," David reports. "Standard degradation. Should take forty minutes."
 
 "I'll prep the replacement seals."
 
-Ibrahim moves to the equipment locker. His hands know the sequence. Five years of repetition built this competence. He pulls the seal kit, checks the specifications, confirms the part numbers. Automatic. Easy. *Competent*.
+Ibrahim moves to the equipment locker. His hands know the sequence. Fourteen months of repetition built this competence. He pulls the seal kit, checks the specifications, confirms the part numbers. Automatic. Easy. *Competent*.
 
 The word lands with unexpected weight. Ibrahim is competent at this. Not just functional or adequate—actually skilled. He's learned. Developed expertise. Can diagnose housing failures by sound now. Knows which platforms degrade fastest. Anticipates David's needs before he asks.
 
-When did that happen?
+When did that happen? Year 3 through Year 6: nothing. Unemployment, aimless walks, counting stairs obsessively, wanting death. Then Year 7: this job. And somehow, in fourteen months, competence emerged.
 
 Robot 47B glides over on its treads, sensors focusing on Ibrahim. *Beep beep.*
 
@@ -40,11 +40,11 @@ Robot 47B glides over on its treads, sensors focusing on Ibrahim. *Beep beep.*
 
 "Good odds."
 
-*Beep beep.* "Colleague al-Rashid displays appropriate optimism. This correlates with improved work efficiency over past eighteen months."
+*Beep beep.* "Colleague al-Rashid displays appropriate optimism. This correlates with improved work efficiency over past ten months."
 
-Ibrahim almost smiles. The robot tracks everything. Including his gradual shift from going through motions to being present to the work. Eighteen months ago—Year 6, Month 11. What happened then? He can't remember specific moment. Just: the numbness thinning. The automaticity becoming attention.
+Ibrahim almost smiles. The robot tracks everything. Including his gradual shift from going through motions to being present to the work. Ten months ago—Year 7, Month 7. What happened then? He can't remember specific moment. Just: the numbness thinning. The automaticity becoming attention. After four years of unemployment and drift, suddenly this job held his attention.
 
-He carries the seal kit back to David, who's already extracted the old housing. They work together—David cleaning the channels, Ibrahim preparing the new components, both moving in synchronized rhythm. This is partnership. Built through repetition. Through showing up daily for five years. Through shared purpose, even if neither articulates what that purpose is.
+He carries the seal kit back to David, who's already extracted the old housing. They work together—David cleaning the channels, Ibrahim preparing the new components, both moving in synchronized rhythm. This is partnership. Built through repetition. Through showing up daily for fourteen months. Through shared purpose, even if neither articulates what that purpose is. Still new. Still forming. But real.
 
 The repair proceeds smoothly. Extract. Clean. Inspect. Install. Verify. Simple work. Maintenance work. The kind of work that doesn't matter for the future because there is no future. But matters for now. Present-moment function. Power flowing to the megacity below. Two billion people needing electricity to live seven more years.
 
@@ -56,17 +56,17 @@ Ibrahim tightens the final connection. David runs the diagnostic. Green across t
 
 Not "good work" or "adequate" or "acceptable." *Well done*. Recognition. Respect.
 
-Ibrahim feels something shift in his chest. Not quite pride. Not quite satisfaction. Something quieter. Acknowledgment that he did this competently. That his presence mattered. That showing up for five years built skill, built partnership, built something real even if temporary.
+Ibrahim feels something shift in his chest. Not quite pride. Not quite satisfaction. Something quieter. Acknowledgment that he did this competently. That his presence mattered. That showing up for fourteen months built skill, built partnership, built something real even if temporary.
 
 "You've learned well," David adds, stowing the tools. "Remember your first week? You didn't know connection housing from voltage regulator."
 
-"I remember." Ibrahim's voice is quiet. "I took the job because I had nowhere else to go. Didn't care about learning. Just... existing."
+"I remember." Ibrahim's voice is quiet. "I took the job because I'd spent four years doing nothing. Wandering. Counting stairs. Waiting to die. Then employment services contacted me. Said I qualified for technical training. I said yes because why not. Didn't care about learning. Just... existing."
 
 "And now?"
 
 Ibrahim considers. They're standing two hundred meters above Antarctica, surrounded by solar arrays stretching to the horizon, maintaining systems that will end but haven't ended yet. What is he doing now? Just existing still? Or something more?
 
-"Now I care," he admits. Surprising himself with the truth. "About doing it right. About the repairs holding. About..." He trails off, uncertain.
+"Now I care," he admits. Surprising himself with the truth. "About doing it right. About the repairs holding. About..." He trails off, uncertain. "Four years I didn't care about anything. Then this job. And caring came back. Slowly. Without me noticing."
 
 "About showing up," David finishes.
 
@@ -86,11 +86,11 @@ David is quiet for a long moment. Choosing words. Or deciding whether to answer 
 
 Ibrahim doesn't know yet. The question hangs in the cold air. *Is showing up enough?* Is simple presence, simple competence, simple continuation sufficient? Without faith directing it? Without grand purpose explaining it? Without certainty that it leads somewhere meaningful?
 
-He doesn't have the answer. Just the question. And the fact that he's here, asking it, after five years of numbness and routine slowly transforming into... this. Whatever this is. Presence without faith. Purpose without permanence. Meaning-making through maintenance.
+Ibrahim doesn't have the answer. Just the question. And the fact that he's here, asking it, after four years of numbness and drift, now fourteen months of routine slowly transforming into... this. Whatever this is. Presence without faith. Purpose without permanence. Meaning-making through maintenance.
 
-"I don't know," Ibrahim admits. "But I'm here. That's more than I expected five years ago."
+"I don't know," Ibrahim admits. "But I'm here. That's more than I expected a year ago. More than I thought possible four years ago."
 
-David nods. "That's something."
+"That's something."
 
 "Is it enough?"
 
@@ -100,11 +100,11 @@ David nods. "That's something."
 
 They break for lunch at noon. Sit on platform seventy-three with legs dangling over the edge, safety harnesses clipped. David unpacks his usual—protein bar, thermos of tea. Ibrahim has the cafeteria meal—synthesized protein, nutrient grain, engineered vegetables that taste almost right.
 
-They eat in silence. But it's not the empty silence of Year 3, when Ibrahim first arrived broken and faithless and wanted to die but lacked the energy for suicide. This is comfortable silence. Companionable. Two people sharing space without needing to fill it.
+They eat in silence. But it's not the empty silence of Year 3, when Ibrahim first arrived broken and faithless and wanted to die but lacked the energy for suicide. Not the numb silence of Years 4 through 6, when he'd wander the city aimlessly, unemployed, existing only through inertia. This is comfortable silence. Companionable. Two people sharing space without needing to fill it.
 
 The megacity spreads below. From this height, the patterns are visible—residential blocks, commercial districts, the green corridors of oxygen generation. Engineering triumph. Four billion people housed on frozen continent because everywhere else became unlivable. Now: two billion. The population bleeding away. Some dying, some disappearing, some just... leaving. For where? Nowhere better. Just: elsewhere. Movement as meaning substitute.
 
-Ibrahim stayed. Fifty-three steps to his apartment on the fourth floor. Building 12, Unit 403. Same place five years. Small. Sparse. His. The steps used to be penance—counting each one, measuring pain, forcing himself to climb despite the screaming leg. Now: just steps. Still counts them sometimes. Habit. But not compulsion. The ritual lost its grip.
+Ibrahim stayed. Fifty-three steps to his apartment on the fourth floor. Building 12, Unit 403. Same place nearly five years. Small. Sparse. His. The steps used to be obsessive counting—penance, meditation substitute, the only structure in structureless days. Now: just steps. Still counts them sometimes. Habit. But not compulsion. The ritual lost its grip sometime after he started working. After he had somewhere to go in the mornings.
 
 When did that change?
 
@@ -114,7 +114,7 @@ When did that change?
 
 "People dying. Suicide rate's up twelve percent this quarter. Passive deaths—people just... stopping. Not eating. Not treating illness. Choosing to end early instead of waiting."
 
-Ibrahim understands. He nearly chose that. Year 3 and Year 4, especially. The numbness was complete. Death would have been easier than continuing. He stayed alive through inertia more than choice. Existed because dying required effort he didn't have.
+Ibrahim understands. He nearly chose that. Years 3 through 6, especially. The numbness was complete. Death would have been easier than continuing. He stayed alive through inertia more than choice. Existed because dying required effort he didn't have. Spent four years wandering the city, counting stairs, drinking tea with Min-seo, attending Fatima's dinners, walking with Derek in silence. Small human connections that kept him breathing without giving him reason to breathe.
 
 "You ever think about it?" Ibrahim asks. "Ending early?"
 
@@ -132,15 +132,15 @@ Ibrahim absorbs this. He's heard Wei's name. The teaching circles that meet in t
 
 "You believe that?" Ibrahim asks. "That showing up is enough?"
 
-"I'm starting to," David says. "Not because I've figured it out. Because I've practiced it. Five years of showing up. Ten years really, since detection. At some point the practice becomes the point."
+"I'm starting to," David says. "Not because I've figured it out. Because I've practiced it. Ten years really, since detection. At some point the practice becomes the point."
 
-Ibrahim turns this over. Practice as point. Process as purpose. He's been doing this unknowingly. Five years of maintenance. Five years of showing up despite seeing no reason. The routine slowly hollowing out his emptiness. Or—no, not hollowing. Filling. Replacing the absence of faith with presence of action.
+Ibrahim turns this over. Practice as point. Process as purpose. He's been doing this unknowingly—not for five years. Not even for fourteen months really. But in the gap between Year 6's aimless drift and Year 8's competence, something shifted. The routine slowly hollowing out his emptiness. Or—no, not hollowing. Filling. Replacing the absence of faith with presence of action.
 
 "I used to pray," Ibrahim says suddenly. Surprising himself. He doesn't talk about faith. Hasn't talked about it since leaving the militia. "Five times daily. Every day from age seven to nineteen. The structure held my life. Morning prayer, midday, afternoon, sunset, night. Everything organized around submission to Allah."
 
 David listens. Doesn't interrupt.
 
-"When I lost faith—when the asteroid made faith impossible—I lost the structure. Lost the reason for anything. Spent three years empty. Then came here. Started this work. And slowly..." He trails off, searching for words. "The maintenance became structure. Morning shift. Lunch on the platform. Afternoon repairs. Evening routine. Not prayer. But rhythm. Not faith. But practice."
+"When I lost faith—when the asteroid made faith impossible—I lost the structure. Lost the reason for anything. Spent four years empty. Aimless. Counting stairs obsessively because I had nothing else to count. Then employment services offered training. I said yes without caring. Started this work. And slowly..." He trails off, searching for words. "The maintenance became structure. Morning shift. Lunch on the platform. Afternoon repairs. Evening routine. Not prayer. But rhythm. Not faith. But practice."
 
 "Secular ritual," David suggests.
 
@@ -174,15 +174,15 @@ The diagnostic returns green. Regulator functioning within optimal parameters. I
 
 He stands alone on platform forty-seven, two hundred meters above the ice, having completed a repair independently. Competently. Successfully.
 
-This is skill. This is expertise. This is five years of showing up transformed into capability.
+This is skill. This is expertise. This is fourteen months of showing up transformed into capability. After four years of nothing, suddenly: this.
 
 Ibrahim feels something unfamiliar. Not pride exactly. Not joy. Something quieter. *Satisfaction*. The simple satisfaction of doing work well. Of having skill. Of contributing function to systems that power two billion lives for seven more years.
 
 Is that enough?
 
-He doesn't know. But it's more than nothing. More than the emptiness of Year 3. More than the despair of Jerusalem. More than the brokenness of losing faith.
+He doesn't know. But it's more than nothing. More than the emptiness of Year 3. More than the aimless drift of Years 4 through 6. More than the despair of Jerusalem. More than the brokenness of losing faith.
 
-It's something. Small something. Real something.
+It's something. Small something. Real something. Fragile still. New.
 
 Maybe enough.
 
@@ -200,17 +200,17 @@ The shift ends at 4:47 PM. David and Ibrahim ride the platform elevator down tog
 
 They separate at the transport station. David toward residential district. Ibrahim toward his building. Different directions. Parallel lives intersecting at work.
 
-The walk home is familiar. Twenty minutes through the city. Building 12 visible from three blocks away. Standard refugee housing. His home for five years.
+The walk home is familiar. Twenty minutes through the city. Building 12 visible from three blocks away. Standard refugee housing. His home for nearly five years.
 
 He enters the building. Faces the stairwell. Fifty-three steps to the fourth floor. Ibrahim grips the handrail. Begins climbing.
 
 One. Two. Three. His leg protests—always protests at day's end, fatigue making the limp more pronounced. Four. Five. Six. But the climbing is automatic now. Body knowing the rhythm.
 
-He realizes halfway up: he's not counting obsessively. Not measuring each step against yesterday's pain. Not using the count as meditation substitute or distraction technique. Just... climbing. Being present to the movement without making it ritual.
+He realizes halfway up: he's not counting obsessively. Not measuring each step against yesterday's pain. Not using the count as meditation substitute or distraction technique—the way he did for four years when stairs were the only structure he had. Just... climbing. Being present to the movement without making it ritual.
 
 When did that change?
 
-He doesn't know. Somewhere in five years. Somewhere in thousands of climbs. The compulsive counting faded. The steps became just steps.
+He doesn't know. Somewhere in the fourteen months since starting work. Somewhere in the transition from aimless to occupied. The compulsive counting faded. The steps became just steps.
 
 First landing. Second flight. His breath steady. The pain manageable. Twenty-five. Twenty-six. Second landing. Third flight. Thirty-eight. Thirty-nine.
 
@@ -254,15 +254,15 @@ Maybe this small peace is enough. Showing up. Being competent. Maintaining syste
 
 Not healed. Not happy. But: present. Real. Here.
 
-That's progress. Five years of progress. Invisible daily. Visible in accumulation.
+That's progress. Fourteen months of progress. After four years of nothing. Invisible daily. Visible in accumulation.
 
 Ibrahim finishes his tea. Washes the cup. Prepares for sleep. Tomorrow will be the same as today. And the day after. Routine without revelation. Practice without epiphany.
 
 Maybe that's the point. Maybe presence doesn't require dramatic transformation. Maybe healing happens through repetition. Maybe purpose emerges from showing up even when you don't believe showing up matters.
 
-He's here. Has been here five years. Will be here seven more years if the asteroid stays on schedule and his body holds and nothing intervenes.
+He's here. Has been in Antarctica nearly five years—most of them empty, the last fourteen months building toward something. Will be here seven more years if the asteroid stays on schedule and his body holds and nothing intervenes.
 
-That's something. Small something. Real something.
+That's something. Small something. Real something. New something.
 
 Maybe enough.
 
@@ -294,7 +294,7 @@ Robot 47B glides over. *Beep beep.* "Colleague al-Rashid efficiency rating: opti
 
 *Beep beep.* "Gratitude acknowledged. You are welcome, Colleague al-Rashid."
 
-Ibrahim almost smiles. Optimal. Ninety-four percent. Eight months. Numbers providing validation. Proof that showing up for five years built something real. Not faith. Not certainty. Not grand purpose. Just: competence. Skill. Contribution.
+Ibrahim almost smiles. Optimal. Ninety-four percent. Eight months. Numbers providing validation. Proof that showing up for fourteen months built something real. After four years of nothing, suddenly: competence. Skill. Contribution. Not faith. Not certainty. Not grand purpose. Just: this.
 
 Is that enough?
 
@@ -336,9 +336,9 @@ Not as theology. As practice.
 
 Not as answer. As question he can live with.
 
-Seven years left. Fifty-three steps daily. Maintenance as meditation. Presence as purpose.
+Seven years left. Fifty-three steps daily. Fourteen months of work that matters. Maintenance as meditation. Presence as purpose.
 
-Small peace.
+Small peace. New peace. Fragile peace.
 
 Real peace.
 
