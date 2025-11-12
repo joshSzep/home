@@ -188,7 +188,7 @@ That was progress. Small progress, but real.
 
 ---
 
-Saturday morning, 8:03 AM. Amara arrived three minutes late—unusual for her, but she'd changed outfits four times, anxious about something as simple as breakfast. The community center dining area was half-empty. Used to serve five hundred people daily. Now: maybe fifty. But still functioning. Still here.
+Saturday morning, 8:03 AM. Amara arrived three minutes late—unusual for her, but she'd changed outfits four times, anxious about something as simple as breakfast. The community center dining area was nearly empty. Used to serve five hundred people daily. Now: maybe fifty. But still functioning. Still here.
 
 David sat at a corner table, two cups of tea already steaming. He'd arrived early. Also nervous, apparently.
 
@@ -256,7 +256,7 @@ Was she? Amara noticed her voice, her expression. He was right. Thinking about M
 
 "The thawing is slow," she said. "But it's happening."
 
-They talked for two hours. Longer than planned. Conversation flowed more easily as they relaxed. David asked about her work—she'd transitioned to part-time monitoring, spending more time analyzing global data patterns instead of obsessive trajectory tracking. Amara asked about his colleagues—most gone now, maintenance run primarily by robots with four human supervisors.
+They talked for hours. Longer than planned. Conversation flowed more easily as they relaxed. David asked about her work—she'd transitioned to part-time monitoring, spending more time analyzing global data patterns instead of obsessive trajectory tracking. Amara asked about his colleagues—most gone now, maintenance run primarily by robots with four human supervisors.
 
 Eventually the dining area began filling with lunch crowd. They'd occupied the table four hours. Time to go.
 
