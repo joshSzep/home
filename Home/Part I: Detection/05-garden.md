@@ -1,4 +1,4 @@
-# Chapter 5: Wisdom
+# Chapter 5: Garden
 
 **Professor Mei-Lin Wei | Year 0, Day 1 | Lagos District**
 

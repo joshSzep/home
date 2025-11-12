@@ -1,4 +1,4 @@
-# Chapter 20: The Ballot
+# Chapter 20: Mandate
 
 **Elena Torres | Year 6, Month 6 | Antarctic Megacity**
 

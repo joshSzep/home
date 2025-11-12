@@ -1,4 +1,4 @@
-# Chapter 7: Bearing Witness
+# Chapter 7: Witness
 
 **Mayor Elena Torres | Year 0, Day 60 | Antarctic Megacity**
 

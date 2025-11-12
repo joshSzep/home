@@ -9,7 +9,7 @@ Everyone gathers. Final moments. Presence until the end. Together into the light
 
 ---
 
-## Chapter 40: Year 15, Month 1 — Gathering
+## Chapter 40: Year 15, Month 1 — Arrival
 **POV: Amara Okafor (63) | Year 15, Month 1 | ~4,000 words**
 
 **NOTE**: Chapter 19 was written as preview but timeline was off. This chapter occurs Year 15, Month 1 after family arrives from Lagos (Chapter 39).
@@ -26,7 +26,7 @@ Everyone gathers. Final moments. Presence until the end. Together into the light
 
 ---
 
-## Chapter 41: Year 15, Month 1 — Final Migration
+## Chapter 41: Year 15, Month 1 — Assembly
 **POV: Elena Torres (73) | Year 15, Month 1 | ~4,000 words**
 
 **Opening**: Antarctic population: 1.8 million people. Final census. No more leaving—everyone who's here chose to be here. Everyone who isn't already gone or dead.
@@ -53,7 +53,7 @@ Everyone gathers. Final moments. Presence until the end. Together into the light
 
 ---
 
-## Chapter 42: Year 15, Month 1 — Maya's Understanding
+## Chapter 42: Year 15, Month 1 — Seventeen
 **POV: Maya Okafor-Mensah (17 years, 3 months) | Year 15, Month 1 | ~4,500 words**
 
 **NEW POV**: First chapter from Maya's perspective. Final generation. Seventeen years old and will die at seventeen years, seven months. What does she understand? What does she want?
@@ -92,7 +92,7 @@ The grief wells up—anticipatory grief she's carried seventeen years. But also:
 
 ---
 
-## Chapter 43: Year 15, Month 1 — Teaching Until the End
+## Chapter 43: Year 15, Month 1 — Moment
 **POV: Kenji Torres (37) | Year 15, Month 2 | ~4,000 words**
 
 **NOTE**: Kenji born Year -22, age 37 at Year 15.
@@ -141,7 +141,7 @@ He's ready? No. Present? Yes. Teaching presence until he can't. That's complete.
 
 ---
 
-## Chapter 44: Year 15, Month 2 — Platform 73 (FOUNDATION IN CHAPTER 20)
+## Chapter 44: Year 15, Month 2 — Meaning
 **POV: David Chen (63) & Maya Okafor-Mensah (17 years, 4 months) | Year 15, Month 2 | ~5,000 words**
 
 **NOTE**: David born Year -48, age 63 at Year 15. Chapter 20 exists as foundation from earlier draft.
@@ -186,7 +186,7 @@ Three of them on platform. Family. Working together. Being together. Two months 
 
 ---
 
-## Chapter 45: Year 15, Month 2 — Ibrahim's Offering
+## Chapter 45: Year 15, Month 2 — Both
 **POV: Ibrahim al-Rashid (34) | Year 15, Month 2 | ~4,000 words**
 
 **Opening**: Knock on Ibrahim's door. He's meditating—morning practice, routine for seven years. Opens door to find: Imam Hassan. The man who tried to save his faith. Haven't seen each other in eight years.
@@ -281,7 +281,7 @@ But tonight: breath. That's everything.
 
 ---
 
-## Chapter 46: Year 15, Month 3 — Final Lessons (FOUNDATION IN CHAPTER 21)
+## Chapter 46: Year 15, Month 3 — Dignity
 **POV: Elena Torres (73) | Year 15, Month 3 | ~4,500 words**
 
 **NOTE**: Elena born Year -58, age 73 at Year 15. Chapter 21 exists as foundation from earlier draft.
@@ -374,7 +374,7 @@ Elena's final journal entry for the chapter: *Day 335. Thirty days. I'm satisfie
 
 ---
 
-## Chapter 47: Year 15, Month 3 — Twenty-Six Days (WRITTEN AS CHAPTER 21)
+## Chapter 47: Year 15, Month 3 — Twenty-Six
 **POV: Multiple (Convergence Chapter) | Year 15, Month 3, Day 26 | ~5,000 words**
 
 **STATUS: CHAPTER 21 EXISTS — USE AS FOUNDATION, EXPAND SLIGHTLY**
@@ -403,7 +403,7 @@ Elena's final journal entry for the chapter: *Day 335. Thirty days. I'm satisfie
 
 ---
 
-## Chapter 48: Year 15, Month 4, Day 1-7 — Final Week
+## Chapter 48: Year 15, Month 4, Day 1-7 — Seven
 **POV: Zara Okafor-Mensah (49) | Year 15, Month 4, Days 1-7 | ~5,000 words**
 
 **Opening**: Seven days remain. Zara wakes to this knowledge: one week. Seven days with her children. Seven days with Kwame. Seven days until everyone she loves dies.
@@ -480,7 +480,7 @@ Fifteen years. Final week. Tomorrow begins the end. But tonight: breathing. Toni
 
 ---
 
-## Chapter 49: Year 15, Month 4, Final Day — Countdown (WRITTEN AS CHAPTER 22)
+## Chapter 49: Year 15, Month 4, Final Day — Countdown
 **POV: Multiple (Convergence) | Year 15, Month 4, Final Day | ~6,000 words**
 
 **STATUS: CHAPTER 22 EXISTS AS FOUNDATION — EXPAND SLIGHTLY**
@@ -509,7 +509,7 @@ Fifteen years. Final week. Tomorrow begins the end. But tonight: breathing. Toni
 
 ---
 
-## Chapter 50: Year 15, Month 4, Final Day — Light (WRITTEN AS CHAPTER 23)
+## Chapter 50: Year 15, Month 4, Final Day — Light
 **POV: Multiple (Final Moments) | Year 15, Month 4, Final Hour | ~4,000 words**
 
 **STATUS: CHAPTER 23 EXISTS — USE AS FOUNDATION, SLIGHTLY EXPAND**
@@ -542,7 +542,7 @@ Fifteen years. Final week. Tomorrow begins the end. But tonight: breathing. Toni
 
 ---
 
-## Chapter 51: Year 15, Month 4, After — Home (WRITTEN AS CHAPTER 24)
+## Chapter 51: Year 15, Month 4, After — Home
 **POV: Omniscient (Post-Human) | Year 15, Month 4, After | ~3,500 words**
 
 **STATUS: CHAPTER 24 EXISTS — USE AS FOUNDATION, POSSIBLY EXPAND SLIGHTLY**

@@ -9,7 +9,7 @@ Reconnection. Teaching. Healing. The scattered begin to gather. The broken begin
 
 ---
 
-## Chapter 24: Year 8 — Reconciliation Begins
+## Chapter 24: Year 8 — Threshold
 **POV: Amara Okafor (59) & David Chen (57) | Year 8, Month 2 | ~4,000 words**
 
 **Opening**: David's apartment (his since the divorce). Amara arrives—first time in four years. Both nervous. Divorced Year 4. Haven't spoken in months. But: both ready to try.
@@ -34,7 +34,7 @@ Reconnection. Teaching. Healing. The scattered begin to gather. The broken begin
 
 ---
 
-## Chapter 25: Year 8 — Ibrahim Finds Purpose
+## Chapter 25: Year 8 — Competence
 **POV: Ibrahim al-Rashid (27) | Year 8, Month 5 | ~4,000 words**
 
 **NOTE**: Ibrahim was wounded Year 2 and evacuated to Antarctica Year 3 (per written Chapter 13). He never returns to Jerusalem. This chapter shows his breakthrough 5 years into maintenance work.
@@ -59,7 +59,7 @@ Reconnection. Teaching. Healing. The scattered begin to gather. The broken begin
 
 ---
 
-## Chapter 26: Year 8 — Kenji Finds Wei
+## Chapter 26: Year 8 — Stay
 **POV: Kenji Torres (31) | Year 8, Month 8 | ~4,500 words**
 
 **Opening**: Kenji in Lagos. Year 8 of wandering. Visiting his seventeenth city, fourth continent. Still seeking. Still empty.
@@ -88,7 +88,7 @@ Reconnection. Teaching. Healing. The scattered begin to gather. The broken begin
 
 ---
 
-## Chapter 27: Year 9 — Lagos Reunion
+## Chapter 27: Year 9 — Roots
 **POV: Zara Okafor-Mensah (42) | Year 9, Month 3 | ~4,500 words**
 
 **Opening**: Lagos spaceport. Zara waiting with Maya (11 years, 6 months) and Kofi (8 years, 5 months). Nervous. Excited. Scared. Amara visiting for first time in nine years. Will it be awkward? Will the children like her? Will old wounds open?
@@ -115,7 +115,7 @@ Reconnection. Teaching. Healing. The scattered begin to gather. The broken begin
 
 ---
 
-## Chapter 28: Year 9 — Teaching Begins
+## Chapter 28: Year 9 — Practice
 **POV: Kenji Torres (32) | Year 9, Month 9 | ~4,000 words**
 
 **Opening**: Kenji has been Wei's student for thirteen months. Lives in her guest room. Tends garden daily. Practices presence. Slowly learning.
@@ -140,7 +140,7 @@ Reconnection. Teaching. Healing. The scattered begin to gather. The broken begin
 
 ---
 
-## Chapter 29: Year 10 — Elena's Acceptance
+## Chapter 29: Year 10 — Letter
 **POV: Elena Torres (70) | Year 10, Month 1 | ~4,000 words**
 
 **NOTE**: Kenji doesn't return until Year 12, Month 9 (Chapter 34). Elena finds peace in her role WITHOUT his return. This makes his eventual return more poignant.
@@ -169,7 +169,7 @@ Reconnection. Teaching. Healing. The scattered begin to gather. The broken begin
 
 ---
 
-## Chapter 30: Year 10 — David Shares His Work
+## Chapter 30: Year 10 — Sunrise
 **POV: David Chen (58) | Year 10, Month 4 | ~4,000 words**
 
 **Opening**: Platform 73. Dawn. David bringing Amara up for first time. She's visiting from Lagos, staying two weeks. Marriage healing slowly. Now: sharing his work. His meaning.
@@ -196,7 +196,7 @@ Reconnection. Teaching. Healing. The scattered begin to gather. The broken begin
 
 ---
 
-## Chapter 31: Year 10 — Ibrahim Recovered
+## Chapter 31: Year 10 — Neutral
 **POV: Ibrahim al-Rashid (29) | Year 10, Month 8 | ~4,000 words**
 
 **Opening**: Ibrahim discharged from medical facility. Two years of recovery. Leg saved but damaged—permanent limp. Can walk. Can't run. Can't fight. Former warrior. Now: what?
@@ -221,7 +221,7 @@ Reconnection. Teaching. Healing. The scattered begin to gather. The broken begin
 
 ---
 
-## Chapter 32: Year 11 — Wei's Death
+## Chapter 32: Year 11 — Bloom
 **POV: Zara Okafor-Mensah (44) | Year 11, Month 8 | ~5,000 words**
 
 **Opening**: Wei is dying. Not asteroid—natural death. 124 years old. Body failing for months. Mind clear until end. Zara caring for her daily—bathing, feeding, moving. Honor and love.
@@ -248,7 +248,7 @@ Reconnection. Teaching. Healing. The scattered begin to gather. The broken begin
 
 ---
 
-## Chapter 33: Year 12 — After Wei
+## Chapter 33: Year 12 — Continuing
 **POV: Kenji Torres (35) | Year 12, Month 2 | ~4,000 words**
 
 **Opening**: Six months since Wei's death. Kenji bereft. His teacher gone. His anchor lost. How to continue?
@@ -275,7 +275,7 @@ Reconnection. Teaching. Healing. The scattered begin to gather. The broken begin
 
 ---
 
-## Chapter 34: Year 12 — Kenji Returns Home
+## Chapter 34: Year 12 — Return
 **POV: Elena Torres (72) | Year 12, Month 9 | ~4,000 words**
 
 **NOTE**: This is the FIRST time Elena sees Kenji since Year 1, Month 6 (over 11 years). Makes reunion much more poignant.
@@ -306,7 +306,7 @@ Reconnection. Teaching. Healing. The scattered begin to gather. The broken begin
 
 ---
 
-## Chapter 35: Year 13 — Amara's Invitation
+## Chapter 35: Year 13 — Migration
 **POV: Amara Okafor (61) | Year 13, Month 3 | ~4,500 words**
 
 **Opening**: Three years until impact. Amara at monitoring station—but different now. Not hiding. Not calculating obsessively. Just: maintaining data. Real job. Finite purpose.
@@ -335,7 +335,7 @@ Reconnection. Teaching. Healing. The scattered begin to gather. The broken begin
 
 ---
 
-## Chapter 36: Year 13 — David and 47B
+## Chapter 36: Year 13 — Farewell
 **POV: David Chen (62) | Year 13, Month 9 | ~4,000 words**
 
 **Opening**: Platform 73. David's last maintenance shift. Not retiring—moving. Going to Lagos with Amara. Leaving arrays. Leaving 47B. Leaving work that's been meaning itself.
@@ -362,7 +362,7 @@ Reconnection. Teaching. Healing. The scattered begin to gather. The broken begin
 
 ---
 
-## Chapter 37: Year 14 — Gathering in Lagos
+## Chapter 37: Year 14 — Settling
 **POV: Zara Okafor-Mensah (47) | Year 14, Month 6 | ~4,500 words**
 
 **Opening**: Lagos spaceport. Zara waiting (again—like Year 9, but different). Maya (16 years, 9 months—nearly 17) and Kofi (13 years, 8 months—nearly 14) beside her. This time: permanent arrival. Amara and David moving here. Family together for final two years.
@@ -389,7 +389,7 @@ Reconnection. Teaching. Healing. The scattered begin to gather. The broken begin
 
 ---
 
-## Chapter 38: Year 14 — Ibrahim's Purpose
+## Chapter 38: Year 14 — Offering
 **POV: Ibrahim al-Rashid (33) | Year 14, Month 10 | ~4,000 words**
 
 **Opening**: Ibrahim still in Antarctica. Still doing maintenance. Six years since his wounding. Leg still limps. Faith still gone. But: something changed. Not hope. Purpose maybe. Small, tentative, real.
@@ -416,7 +416,7 @@ Reconnection. Teaching. Healing. The scattered begin to gather. The broken begin
 
 ---
 
-## Chapter 39: Year 15 — Family Returns to Antarctica
+## Chapter 39: Year 15 — Journey
 **POV: Zara Okafor-Mensah (48) | Year 15, Month 1 | ~4,500 words**
 
 **NOTE**: Bridge chapter transitioning family from Lagos to Antarctica for Part IV. Parallels Chapter 27 (arrival in Lagos) but with darker undertones.

@@ -1,4 +1,4 @@
-# Chapter 3: Crisis of Faith
+# Chapter 3: Faith
 
 **Ibrahim al-Rashid | Year 0, Day 1 | Jerusalem**
 

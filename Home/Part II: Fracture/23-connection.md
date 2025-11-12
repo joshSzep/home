@@ -1,4 +1,4 @@
-# Chapter 23: The Call
+# Chapter 23: Connection
 
 **Dr. Amara Okafor | Year 7, Month 9 | Antarctic Monitoring Station**
 

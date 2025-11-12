@@ -1,4 +1,4 @@
-# Chapter 24: Reconciliation Begins
+# Chapter 24: Threshold
 
 **Dr. Amara Okafor & David Chen | Year 8, Month 2 | Antarctica**
 

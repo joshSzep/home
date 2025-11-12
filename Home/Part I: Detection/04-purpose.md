@@ -1,4 +1,4 @@
-# Chapter 4: Crisis of Purpose
+# Chapter 4: Purpose
 
 **Kenji Torres | Year 0, Day 1 | Antarctic Megacity, McMurdo District**
 

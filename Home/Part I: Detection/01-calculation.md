@@ -1,4 +1,4 @@
-# Chapter 1: Detection
+# Chapter 1: Calculation
 
 **Dr. Amara Okafor | Year 0, Day 1 | Antarctic Monitoring Station**
 

@@ -1,4 +1,4 @@
-# Chapter 10: Life Choices
+# Chapter 10: Defiance
 
 **Zara Okafor-Mensah | Year 0, Month 10 | Lagos District**
 
