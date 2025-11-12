@@ -179,9 +179,11 @@ She started a reply:
 
 *I'm okay. Shaken but okay. You're right that authority has changed. I don't know what I am anymore. Not elected leader—no vote happened. Not dictator—anyone could challenge me. I'm... the person who stayed. The person who shows up. The witness who maintains structure.*
 
-*Is that enough? Professor Wei says yes. Marcus says yes. The population seems to say yes. But I wanted democratic legitimacy. Wanted voters to choose me freely. Instead: silence. No opposition because no one wants this burden.*
+*Is that enough? Professor Wei says yes. Marcus Rivera says yes. The population seems to say yes. But I wanted democratic legitimacy. Wanted voters to choose me freely. Instead: silence. No opposition because no one wants this burden.*
 
-*That's legitimate too, I suppose. Different legitimacy. Earned through practice not promises. But it feels hollow even when it feels earned.*
+*I wrote to Marcus Reyes in Mumbai—asking if I'm becoming a dictator. He wrote back: "You're becoming what's needed. I saw you transform from elected official to witness. That's not dictatorship. That's evolution. Authority through demonstrated presence is more legitimate than authority through campaign promises. You've earned this through six years of showing up. That's real." His words helped. Not because they solved anything. Because someone who served me, who left when leaving was right, sees this as legitimate. That means something.*
+
+*Different legitimacy. Earned through practice not promises. But it feels hollow even when it feels earned.*
 
 *Nine years left. Maybe that's long enough to figure out what I'm doing. Or short enough that it doesn't matter.*
 

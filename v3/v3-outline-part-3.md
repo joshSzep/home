@@ -181,7 +181,11 @@ Actually—that might be everything.
 
 *"Elena—You asked if witness matters when no one remains to remember. Wrong question. Witness doesn't matter BECAUSE someone remembers. Witness matters BECAUSE it happens. You show up. You document. You say: we existed, we mattered, we tried. That's everything. Not for future. For now. Presence doesn't require permanence. Meaning doesn't require memory."*
 
-**Understanding**: Elena reads Wei's words again. And again. Something shifts. She's not failing at governance. She's succeeding at witness. Different purpose. Different measure. Not about outcomes (no good outcomes exist). About presence itself.
+**Letter from Reyes**: Also waiting—quarterly letter from Marcus Reyes in Mumbai. Seven years of correspondence now (Year 3 to Year 10). His words different from Wei's—less philosophy, more grounded presence:
+
+*"Elena—Year 10, still teaching children in Mumbai. Still practicing daily. Still grateful for eight years of service beside you. You asked last letter if you've become what you didn't want to be—leader without mandate, witness without audience. I understand the fear. But I watched you transform Year 0 to Year 2. You didn't cling to power. You evolved into what was needed. Your work was complete when I left Year 2. My leaving was right. Your continuing was right. Different callings. Both valid. Five years left. You'll show up all five years. That's your nature. Not failure. Completion. —Marcus"*
+
+**Understanding**: Elena reads both letters again. And again. Something shifts. She's not failing at governance. She's succeeding at witness. Different purpose. Different measure. Not about outcomes (no good outcomes exist). About presence itself.
 
 **The Realization**: She's been governing wrong question. "Am I effective?" No. "Am I present?" Yes. That's enough. That's everything. Burden doesn't lighten (still crushing) but changes shape. Becomes sustainable. Becomes choice instead of trap.
 

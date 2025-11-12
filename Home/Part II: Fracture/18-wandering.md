@@ -326,6 +326,40 @@ Kenji bowed. Thanked the teacher. Packed his few belongings—clothing, tablet, 
 
 Goodbyes were brief. Yuki: "Find what you're looking for." Tomás: "Or don't find it. Either is okay." Amina: "Let me know if Lagos helps. I might go there after here."
 
+Before leaving, one last encounter. Kenji found Marcus Reyes at the children's center—small building on ashram grounds where refugees taught local kids. Reyes had been there three years, teaching English and basic science.
+
+They'd met twice before in Antarctica—brief conversations, mutual recognition. Kenji respected Reyes' choice to leave power for presence. Wanted to hear his perspective on seeking.
+
+"Did you find it?" Kenji asked. "What you came here for?"
+
+Reyes looked up from helping a seven-year-old with spelling. "Define 'it.'"
+
+"Purpose. Peace. Whatever you were looking for when you left Antarctica."
+
+Reyes considered. Forty years old now, calm in ways Kenji envied. "I found something. Not what I expected. I came to escape responsibility, to stop being defined by eight years of service. Found I couldn't escape. Service is part of me. So I teach children instead of governing mayors. Different service. Same nature."
+
+"Does that feel like finding or failing?"
+
+"Both. Neither." Reyes smiled slightly. "Your mother asks me the same questions in her letters. 'Are you happy? Did leaving work? Was it worth it?' I tell her: I'm present. That's different from happy but better than numb. Leaving was right. Being here is right. Eventually leaving here will be right too. Everything in its time."
+
+"She writes to you?"
+
+"Quarterly. I write back. We maintain connection without proximity. That's enough." Reyes studied Kenji. "You're leaving too. Going to Lagos?"
+
+"To meet a Professor. Philosopher. Wei. Before she dies."
+
+"Good. Wei's teaching might land better than ashram philosophy."
+
+It seemed Reyes knew everyone. Kenji didn't ask how. Just accepted it.
+
+Reyes continued. "Wei is more grounded. More practical. Less about achieving states, more about accepting what is." Reyes touched the boy's shoulder gently. "Spelling is good, Arjun. Keep going."
+
+He turned back to Kenji. "Your mother loves you deeply. Worries about you constantly. When you're ready, go home. Not for her—for you. The seeking is valuable. But so is returning. I left Antarctica three years ago. Haven't gone back. Maybe won't. But I think about it. Think about showing up one last time before the end. Being there with people I served. Maybe you'll feel the same. Maybe not. Just: don't let pride keep you away if returning is what you need."
+
+Kenji felt unexpected emotion. "Thank you."
+
+"Travel well. Learn what you can. Send regards to Wei from me—I've read her letters to your mother. She's remarkable."
+
 On his last evening, Kenji sat in the meditation hall alone. Forty cushions empty. Incense burned down to ash. Mumbai sounds filtering through latticed windows—traffic, voices, life continuing despite the countdown.
 
 He closed his eyes. Tried to meditate. Tried to be present. Mind wandered immediately—thinking about Lagos, about Wei, about his mother, about the ten years remaining, about whether seeking was meaningful or just: addiction to motion.

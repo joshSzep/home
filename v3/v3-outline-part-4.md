@@ -37,6 +37,54 @@ Everyone gathers. Final moments. Presence until the end. Together into the light
 
 **The Arrivals**: Last ships arriving. Zara's family (Amara's sister). Ibrahim's former imam (seeking reconciliation). Wei's former students (honoring dead teacher). Everyone converging. Everyone choosing Antarctica as final place.
 
+**MARCUS REYES RETURNS**: Mid-month, Marcus Rivera approaches Elena with unusual expression. "Someone's here to see you. Says he's family."
+
+Elena confused—Kenji's teaching at community center. Then Marcus Reyes stands in her doorway. Sixty-eight years old (same as Rivera). Thirteen years since he left Antarctica (Year 2 to Year 15). Thirteen years in Mumbai teaching children, practicing presence, becoming himself. He looks peaceful. Solid. Complete.
+
+Elena: "Marcus."
+
+Reyes: "Madam Mayor. Though I hear you're not mayor anymore. Just witness."
+
+"Just Elena now."
+
+"Good. Better."
+
+They embrace—brief, warm, honest. Thirteen years collapsing into recognition.
+
+"Why did you come back?"
+
+"Three months left. I wanted to be here. With you. With the work we did together. With the beginning and the ending both. And you wrote me Year 10 that your son returned. I wanted to meet the man he became. Wanted to see if he found what I found—that leaving and returning are both necessary."
+
+"You didn't have to—"
+
+"I chose to. I left thirteen years ago because my time of service was complete. I'm returning now because my time of solitude is complete. I want to face the end with people I love. You're one of them."
+
+Elena can't speak. Finally: "You found yourself? In Mumbai?"
+
+"Yes. Took seven years, but: yes. Taught children. Practiced meditation. Built garden. Learned who I was without governance. Now I know: I'm someone who served you faithfully, left when leaving was right, lived fully, ready to die with family. You're my family, Elena. Eight years working together made that permanent."
+
+"Where will you stay?"
+
+"Found housing. Small apartment. Near the community center. I want to attend Kenji's teachings. Want to help however I can. Not as assistant—those days are complete. As friend. As witness alongside you. As someone who shows up because showing up is what I do."
+
+Elena wipes eyes. "The two Marcuses will be confusing again."
+
+"We figured it out before. We'll figure it out now."
+
+**Two Marcuses Together**: Later, Elena, Marcus Rivera, Marcus Reyes share tea in Elena's apartment. Two Marcuses, same age (68), different journeys. One stayed fourteen years. One left for thirteen, returned for last three months. Both present. Both chosen family.
+
+"How do we distinguish you two?" Elena asks, smiling through tears.
+
+Rivera: "I'm the one who never left."
+
+Reyes: "I'm the one who left and came back."
+
+Elena: "Both necessary. Both valued. Both family."
+
+They drink tea and talk about fifteen years—governance, transformation, service, leaving, returning, all of it. Witnessing each other's journeys. Understanding everyone's path was valid, everyone's choices were right, everyone's presence was gift.
+
+**Three months left. Two Marcuses. One Elena. Family complete.**
+
 **Why Antarctica?**: Elena reflects: This is where humanity bet its future. This is Forever Earth's heart. Fitting that this is where it ends. Four billion in Antarctica at peak. Now: under two million. But still: center. Still: home.
 
 **Infrastructure Failing**: Power intermittent. Water systems degrading. Food from stores. Everything maintained just barely. David Chen's solar arrays still functioning—testament to his persistence. Everything working just long enough.
@@ -281,6 +329,26 @@ Ibrahim: "Of course. Everyone welcome."
 
 **Old Friends Witness**: After practice, Min-seo, Derek, and Fatima approach. They've watched Ibrahim for nine years—from broken refugee Year 6 to present practitioner Year 15. Min-seo: "Ibrahim, who is your friend?" Ibrahim introduces Hassan. "My former imam. From Jerusalem. Before I lost faith." Fatima lights up: "You're imam? Ibrahim used to pray! I remember—Year 6, he still carried prayer beads." Hassan looks at Ibrahim with understanding. Derek adds quietly: "We all lost something. Kept each other alive anyway." Four refugees who survived together, now welcoming fifth.
 
+**Meeting Marcus Reyes**: As they're leaving, an older man approaches Ibrahim—someone new to the circle. "Ibrahim, I'm Marcus. Marcus Reyes. Elena Torres's former assistant. I've heard you help teach."
+
+Ibrahim nods. "Sometimes. When Kenji asks."
+
+Reyes: "I taught children in Mumbai for thirteen years. English, basic science. I'd like to help here. If there's room."
+
+Ibrahim studies him. "You taught children?"
+
+"Refugee children. Syrian, Afghani, Burmese. Taught them English so they could communicate. Taught them hope when hope was scarce."
+
+"Then you understand."
+
+"Yes."
+
+"Practice with us. Help teach. Everyone who survived something has wisdom to share."
+
+Reyes smiles. "Thank you. I'm still learning too."
+
+"We all are. Until we can't."
+
 After, Hassan approaches Kenji: "This is what Ibrahim learned?"
 
 Kenji: "This is what Wei taught me. I teach what she taught. Presence. Impermanence. Letting go."
@@ -412,7 +480,7 @@ She speaks simply: "We have thirty days. Then: physics. Then: silence. We can sp
 
 Silence. Then: applause. Not celebratory. Acknowledging. Honoring.
 
-**End**: Elena in her apartment. Marcus nearby (lives close, visits daily). Kenji stopping by. Small family. Chosen family. Thirty days left.
+**End**: Elena in her apartment. Marcus Rivera nearby (lives close, visits daily). Kenji stopping by. Small family. Chosen family. Thirty days left.
 
 Elena's final journal entry for the chapter: *Day 335. Thirty days. I'm satisfied. Not with dying. With living. With showing up. With bearing witness. With facing this honestly. That's complete. That's enough. That's everything.*
 
@@ -461,6 +529,28 @@ She looks at Maya (17 years, 6 months) and Kofi (14 years, 5 months) sleeping. Y
 **Day 1 — Normal Day**: Zara makes decision: spend final week normally. Not dramatizing. Not creating fake meaning. Just: living. Being family. Presence as usual. That's the point.
 
 Breakfast together. Maya going to Kenji's teaching. Kofi exploring with friends. Kwame working in community kitchen. Zara maintaining water systems (they still need maintenance). 
+
+**Marcus Reyes and Maya**: After teaching session, Zara finds Maya talking with an older man—Marcus Reyes, Elena's former assistant. He's teaching refugee children alongside Ibrahim at the community center.
+
+Reyes: "Your daughter is remarkable. Sharp mind. Wei must have loved teaching her."
+
+Maya: "Did you know Grandmother Wei?"
+
+"Through her letters. Through her influence on people I respected. She reached far beyond her garden."
+
+"I'm trying to learn everything before—" Maya stops.
+
+"Before time runs out. I understand. I spent thirteen years learning who I was beyond service. You're learning who you are within brevity. Different projects. Same urgency."
+
+Maya considers. "Did you succeed? Learning who you were?"
+
+"Yes. I'm someone who served faithfully, left gracefully, lived fully, and came back to witness the end with family. That's complete."
+
+"I wish I had thirteen years."
+
+"I wish you did too. But you have seventeen. Brief doesn't mean empty. You'll know yourself by the end. That's what matters."
+
+Zara watching this exchange feels gratitude—another elder witnessing Maya, honoring her, seeing her as person not tragedy. That's gift.
 
 **Adanna Arrives**: At community center, Zara encounters someone unexpected: Adanna. From Lagos compound. The fierce mother who defended Zara's choice Year 0. Who said "Your family mattered." And with her: her son Samuel, now 20 years old.
 

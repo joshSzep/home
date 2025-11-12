@@ -58,7 +58,7 @@ That question had been answered three weeks later when Marcus Rivera filed his c
 
 Elena had known of him—infrastructure specialist, thirty-two years old, competent and respected. They'd worked together on several projects during her first term. Brilliant mind. Pragmatic approach. Good person.
 
-Not the Marcus who was her assistant. Different Marcus. The confusion of names had been constant during the campaign—reporters mixing them up, voters confused, both Marcuses grimacing at the coincidence.
+Not the Marcus who was her assistant. Different Marcus. The confusion of names had been constant during the campaign—reporters mixing them up, voters confused, both Marcuses grimacing at the coincidence. Both Marcus. Both Marcus R in fact. Both the same age. It was like a cosmic joke.
 
 Marcus Rivera's platform was simple: end the theater, accept reality, distribute resources fairly, let people leave, make them comfortable. Stop pretending governance mattered. Focus on practical care until the end.
 
@@ -367,7 +367,7 @@ Elena looked at him, startled. "What?"
 
 "Where will you go?"
 
-"Home. Mumbai. See my family for the first time in six years. Spend thirteen years with them instead of in conference rooms." He picked up his tablet again. "But first: one last briefing. I want to see Rivera in action. Make sure he's worthy of you."
+"My original home. Mumbai. See my family, what's left of them, for the first time in six years. Find a life, a new purpose." He picked up his tablet again. "But first: one last briefing. I want to see Rivera in action. Make sure he's worthy of you."
 
 Rivera raised an eyebrow. "No pressure."
 

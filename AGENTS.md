@@ -31,7 +31,10 @@
 - Zara's Lagos compound community: Mr. Okonkwo (elderly farmer, rooftop gardens), Adanna (fierce mother, defender of life-choice) & Samuel (her son, 20 at impact), Tom (engineer, water systems), Ling (Wei's caregiver) - Years 0-15, Adanna and Samuel come to Antarctica for final week
 - Zara's family: Kwame (husband), Maya (17), Kofi (14 at impact)
 - Elena & Kenji: Mother-son; both learn presence through crisis
-- Wei: Teacher to multiple characters (Zara, Kenji, others)
+- Elena & Marcus Reyes (assistant): He serves her Years -6 to 2, leaves for Mumbai, maintains correspondence Years 3-15, returns final three months
+- Elena & Marcus Rivera (deputy): Opponent Year 2, then deputy Years 2-15; transforms from challenger to partner
+- Wei: Teacher to multiple characters (Zara, Kenji, others); correspondent with Elena and Reyes
+- Marcus Reyes & Kenji: Encounter in Mumbai Year 5; Reyes models healthy leaving/returning
 
 ## Thematic Core
 Buddhist philosophy meets hard SF: impermanence, presence, meaning without permanence, acceptance without resignation. Everything was always temporary—the asteroid just makes it visible.
@@ -57,11 +60,13 @@ Buddhist philosophy meets hard SF: impermanence, presence, meaning without perma
 ## Important Notes
 - **Timeline precision matters** - Track character ages and years carefully
 - **Character arcs span 15 years** - Respect growth/change trajectories
-- **Wei dies Year 14** - Before final convergence (natural death, not impact)
+- **Wei dies Year 11** - Before final convergence (natural death at 125 years old, not impact)
 - **Elena's arc**: Elected mayor → Unopposed → Witness (governance to presence)
 - **Antarctica = megacity** - 4 billion at peak; climate forced migration
 - **Ibrahim's timeline**: Wounded Year 2, arrives Antarctica Year 3 Month 2, unemployed Years 3-7, starts solar array work Year 7, competent by Year 8
 - **David's work history**: Solar array maintenance since before detection (~Year -1); 9+ years by Year 8
+- **Marcus Reyes arc**: Elena's assistant Years -6 to 2 (8 years service), leaves Antarctica Year 2 for Mumbai, teaches refugee children Years 3-15, maintains quarterly correspondence with Elena, encounters Kenji in Mumbai Year 5, returns to Antarctica Year 15 Month 1 (final 3 months), helps teach with Ibrahim and Kenji, witnesses end with chosen family
+- **Two Marcuses**: Marcus Reyes (assistant, then Mumbai teacher) vs. Marcus Rivera (opponent, then deputy mayor) - both the same age, different journeys, both Elena's chosen family
 
 ## Complete Chapter Outline
 

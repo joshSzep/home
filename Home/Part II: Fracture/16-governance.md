@@ -122,9 +122,19 @@ She started a reply:
 
 She sent it. Immediately wished she'd said more, said less, said differently. But the words were gone. That was always true. You spoke and the speaking was over and you couldn't take it back, couldn't perfect it, could only live with what you'd offered.
 
+Two more letters waited to be written. One to Wei—weekly correspondence, five years now of philosophical exchange. One to Marcus Reyes—quarterly check-in, two years since he'd left for Mumbai.
+
+She drafted the second quickly:
+
+*Marcus—Year 4, Month 7. Still governing. Still showing up. Population down to 2.2 billion. Rivera asks why I continue. Same question you asked me Year 0, Month 2. Remember? "Why are we doing this?" I still don't have good answer. I just keep showing up. Is that enough? How are you? How is Mumbai? Still practicing? Still teaching children? Still finding yourself? I think of you often. Thank you for eight years of service. Thank you for leaving when leaving was right. That was gift. —E*
+
+Brief. Honest. Maintaining connection to the person who'd witnessed her early transformation. His responses were always grounded—updates on his teaching, observations on presence practice, gratitude for their shared years. No philosophy, no advice. Just: friendly witness from distance.
+
+She sent both letters. Would receive replies within the week. Her community of correspondence—philosopher, son, former assistant. All teaching her different things about presence, service, letting go.
+
 ---
 
-11:00 AM. Marcus returned with lunch—two sandwiches, tea, the companionable efficiency of three years working side-by-side.
+11:00 AM. Marcus Rivera returned with lunch—two sandwiches, tea, the companionable efficiency of two years working side-by-side.
 
 "Eat," he said. "You skip breakfast too often."
 
