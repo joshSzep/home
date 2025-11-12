@@ -66,6 +66,8 @@ Everyone gathers. Final moments. Presence until the end. Together into the light
 
 **Wei's Influence**: Grandmother Wei (honorary grandmother) taught her presence. From age two to Wei's death. The garden. The flowers. The impermanence made visible. Wei dying naturally before the asteroid—mercy and loss both.
 
+**Lagos Community**: Maya reflects on leaving the compound. Mr. Okonkwo teaching her about soil, showing her that tending gardens matters even when nothing lasts. Adanna's fierce love—defending Mama's choice to have children, defending Maya's right to exist. Tom's quiet engineering wisdom, teaching her systems thinking alongside Mama. Ling's gentle care for Wei, showing Maya that tending the dying is sacred work. Fifteen years of neighbors becoming family. Community that built rooftop gardens Year 6 despite having only 9 years left—they taught her that brief doesn't mean meaningless.
+
 **Kofi**: Her brother. Fourteen years, two months old. Brilliant, curious, kind. She raised him almost as much as Mama did. Taught him reading. Taught him kindness. Taught him that brief life matters. He'll die at fourteen years, six months (in eight months). She'll die at seventeen years, seven months. Both too young. Both exactly the age they'll be.
 
 **What She Wants**: Maya standing under Antarctic stars, thinking: What do I want from three months? 
@@ -241,6 +243,8 @@ Ibrahim: "Of course. Everyone welcome."
 
 **That Evening**: Ibrahim brings Hassan to community center. Practice session. Sixty people. Hassan sits awkwardly—not used to Buddhist practices. But: tries. Breathes. Notices. Practices.
 
+**Old Friends Witness**: After practice, Min-seo, Derek, and Fatima approach. They've watched Ibrahim for nine years—from broken refugee to present practitioner. Min-seo: "Ibrahim, who is your friend?" Ibrahim introduces Hassan. "My former imam. From Jerusalem. Before I lost faith." Fatima lights up: "You're imam? Ibrahim used to pray! I remember—Year 6, he still carried prayer beads." Hassan looks at Ibrahim with understanding. Derek adds quietly: "We all lost something. Kept each other alive anyway." Four refugees who survived together, now welcoming fifth.
+
 After, Hassan approaches Kenji: "This is what Ibrahim learned?"
 
 Kenji: "This is what Wei taught me. I teach what she taught. Presence. Impermanence. Letting go."
@@ -255,9 +259,11 @@ Kenji: "This is what Wei taught me. I teach what she taught. Presence. Impermane
 
 Hassan considers. "Wise answer."
 
-**Walking Home**: Ibrahim and Hassan walking together. Former imam. Former fighter. Both seeking truth. Both facing end. Both uncertain. Both present.
+**Walking Home**: Ibrahim, Hassan, Min-seo, Derek, and Fatima walking together. Former imam. Former fighter. Former teacher. Former soldier. Faithful refugee. All survivors. All facing end. All uncertain. All present.
 
-Ibrahim: "I'm glad you came."
+Min-seo, slower now, leans on Ibrahim's arm. He steadies her. Fifty-three steps to their building. She's counted them with him for nine years.
+
+Ibrahim: "I'm glad you came, Hassan."
 
 Hassan: "So am I. I don't want to die with regret between us."
 
@@ -265,9 +271,13 @@ Hassan: "So am I. I don't want to die with regret between us."
 
 "Both true," Hassan echoes. "I'm learning that. Both/and instead of either/or."
 
-**Two Months Left**: Ibrahim in his apartment. Imam Hassan staying in nearby housing. Tomorrow: practice together. Tomorrow: be present together. Tomorrow: witness ending together.
+Fatima: "You all come to dinner. Tomorrow. Yes? I'm making *mansaf*. Last proper meal before the end maybe."
 
-Ibrahim reflects: Eight years ago, wounded and alone. Seven years ago, finding presence. Now: reconciled. Connected. Part of community. Former imam returned. Both changed. Both facing death. Both uncertain. Both here.
+They all agree. Community. Chosen family. Five people who found each other in Antarctica's cold. Kept each other alive through nothing years. Now: facing everything together.
+
+**Two Months Left**: Ibrahim in his apartment. Imam Hassan staying nearby. Min-seo below in Unit 204. Derek in Building 7. Fatima in Building 9. Tomorrow: practice together. Tomorrow: Fatima's dinner. Tomorrow: be present together. Tomorrow: witness ending together.
+
+Ibrahim reflects: Eight years ago, wounded and alone. Seven years ago, finding presence. Nine years ago, meeting Min-seo, Derek, Fatima—they saved him without knowing. Now: reconciled. Connected. Part of community. Former imam returned. Old friends remaining. All changed. All facing death. All uncertain. All here.
 
 That's enough.
 
@@ -277,7 +287,7 @@ Two months. Then: physics. Then: silence.
 
 But tonight: breath. That's everything.
 
-**Key beats**: Imam Hassan arrives • Apology for trying to keep faith • Ibrahim's journey shared • No faith but presence • Imam's own doubt • Unexpected friendship • Hassan joining practice • Both/and instead of either/or • Walking together • Reconciliation complete • Faith in people instead of God • Two months left
+**Key beats**: Imam Hassan arrives • Apology for trying to keep faith • Ibrahim's journey shared • No faith but presence • Imam's own doubt • Unexpected friendship • Hassan joining practice • Min-seo, Derek, Fatima witnessing reconciliation • Old friends welcoming new friend • Both/and instead of either/or • Walking together (five people) • Fatima's dinner invitation • Community complete • Faith in people instead of God • Two months left
 
 ---
 
@@ -414,9 +424,17 @@ She looks at Maya (17 years, 6 months) and Kofi (14 years, 5 months) sleeping. Y
 
 **Day 1 — Normal Day**: Zara makes decision: spend final week normally. Not dramatizing. Not creating fake meaning. Just: living. Being family. Presence as usual. That's the point.
 
-Breakfast together. Maya going to Kenji's teaching. Kofi exploring with friends. Kwame working in community kitchen. Zara maintaining water systems (they still need maintenance). Evening together: cooking, eating, talking, being.
+Breakfast together. Maya going to Kenji's teaching. Kofi exploring with friends. Kwame working in community kitchen. Zara maintaining water systems (they still need maintenance). 
 
-Normal. Final. Both.
+**Adanna Arrives**: At community center, Zara encounters someone unexpected: Adanna. From Lagos compound. The fierce mother who defended Zara's choice Year 0. Who said "Your family mattered." And with her: her son Samuel, now 20 years old.
+
+Adanna: "We couldn't stay away. Samuel and I—we needed to be here. With you. Your family showed us life was worth choosing. We wanted to witness that through to the end. Together."
+
+Samuel, quiet but present: "You were always part of our family. We wanted to face this with family."
+
+Zara embraces them both—fifteen years of compound community, choosing to die together rather than apart. Adanna and Samuel will stay at community center. Be present for final days. Witness the family that inspired them.
+
+Evening together: cooking, eating, talking, being. Normal. Final. Both.
 
 **Day 2 — Amara**: Sisters spending day together. Fifteen years of estrangement. Three months of reconnection. Seven days left. Is it enough?
 
@@ -491,9 +509,9 @@ Fifteen years. Final week. Tomorrow begins the end. But tonight: breathing. Toni
 
 **Platform 73 — Amara & David**: Climbing up together. Final maintenance. Final work. Final presence. Systems functioning. Robots working. Everything continuing until it can't. Breakfast on platform. Tea. Bread. Ritual. Presence. Love.
 
-**Community Center — Elena**: Final gathering. Everyone together. Not teaching. Not leading. Just: being together. Witnessing together. Elena satisfied. Complete. Present until the end.
+**Community Center — Elena**: Final gathering. Everyone together. Min-seo, Derek, Fatima among the faces—nine years of community, final hours together. Adanna and Samuel here too—left Lagos last week, mother and son together, couldn't bear to be apart from the family that taught them life was worth choosing. Not teaching. Not leading. Just: being together. Witnessing together. Elena satisfied. Complete. Present until the end.
 
-**Kenji's Apartment — Final Teaching**: Small group. Maya, Kofi, Ibrahim, Hassan, others. Simple practice. Breath. Body. Moment. Nothing more. Nothing less. This is enough.
+**Kenji's Apartment — Final Teaching**: Small group. Maya, Kofi, Ibrahim, Hassan, Min-seo, Derek, Fatima, others. The refugees who survived together. Simple practice. Breath. Body. Moment. Nothing more. Nothing less. This is enough.
 
 **Zara's Family — Together**: Four people. Holding each other. Loving each other. Being together until the end. No fear. Well, some fear. But: together. That mitigates. That helps. That's love.
 
@@ -518,11 +536,11 @@ Fifteen years. Final week. Tomorrow begins the end. But tonight: breathing. Toni
 
 **Amara & David**: On platform 73. Holding hands. Watching the sky. Watching the data. Fifteen years of tracking. Forty-seven seconds until impact. Physics perfect. Mathematics elegant. Love real.
 
-**Zara's Family**: Four people holding each other. Maya, Kofi, Zara, Kwame. Together until the end. Promise kept. No one alone. Everyone loved. Everyone witnessed.
+**Zara's Family**: Four people holding each other. Maya, Kofi, Zara, Kwame. Together until the end. Promise kept. No one alone. Everyone loved. Everyone witnessed. Zara's final thought: the compound community that built gardens Year 6. Mr. Okonkwo tending rooftops right to the end. Tom maintaining water systems. Ling caring for Wei. Adanna defending life. They taught her: brief doesn't mean meaningless. She taught her children. They all lived it. Together. Complete.
 
 **Elena & Kenji**: Mother and son. Together. Present. Complete. Bearing witness until the end. Together.
 
-**Ibrahim & Hassan**: Former fighter. Former imam. Both uncertain. Both present. Both together. Faith in people. Faith in presence. Faith in this moment.
+**Ibrahim, Hassan, Min-seo, Derek, Fatima**: Five refugees. Nine years of keeping each other alive. Former fighter. Former imam. Grieving teacher. Broken Marine. Faithful host. Together in final moments. No longer just surviving—witnessing. Faith in people. Faith in presence. Faith in this moment. Min-seo's hand in Ibrahim's. Derek steady beside them. Fatima praying quietly. Hassan uncertain but present. Together until the end.
 
 **Maya & Kofi**: Sister and brother. Seventeen and fourteen. Brief lives. Real lives. Loved lives. Together until the end.
 
@@ -553,7 +571,7 @@ Fifteen years. Final week. Tomorrow begins the end. But tonight: breathing. Toni
 
 **Physics Continues**: Earth wounded but continuing. Matter persists. Energy transforms. Universe indifferent. But consciousness: ended.
 
-**What Ends**: Wei's teaching. Zara's defiance. Amara's calculations. David's maintenance. Elena's witness. Kenji's presence. Ibrahim's journey. Maya's brilliance. Kofi's wonder. Everything. Everyone. All at once.
+**What Ends**: Wei's teaching. Zara's defiance. Amara's calculations. David's maintenance. Elena's witness. Kenji's presence. Ibrahim's journey. Maya's brilliance. Kofi's wonder. The rooftop gardens. The refugee dinners. The community circles. Min-seo's mint. Adanna's fierce love. Everything. Everyone. All at once.
 
 **What Persists**: Nothing conscious. Nothing aware. But: matter. Energy. Physics. Earth eventually recovering (millions of years). Life eventually returning (maybe). But human consciousness: ended. Forever.
 

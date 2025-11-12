@@ -27,7 +27,8 @@
 - Amara & Zara: Sisters, estranged Years 0-7, reconnect Year 7+
 - Amara & David: Married, divorce Year 4, reconnecting Year 8+
 - David & Ibrahim: Work colleagues on solar arrays, Year 7+ (David veteran, Ibrahim new hire)
-- Ibrahim's connections: Min-seo, Derek, Fatima (community members from Year 6)
+- Ibrahim's refugee community: Min-seo (Korean elder, mint gardener), Derek (former US Marine), Fatima (Jordanian, faithful host) - kept him alive Years 6-15
+- Zara's Lagos compound community: Mr. Okonkwo (elderly farmer, rooftop gardens), Adanna (fierce mother, defender of life-choice) & Samuel (her son, 20 at impact), Tom (engineer, water systems), Ling (Wei's caregiver) - Years 0-15, Adanna and Samuel come to Antarctica for final week
 - Zara's family: Kwame (husband), Maya (17), Kofi (14 at impact)
 - Elena & Kenji: Mother-son; both learn presence through crisis
 - Wei: Teacher to multiple characters (Zara, Kenji, others)

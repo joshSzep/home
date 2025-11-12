@@ -196,28 +196,26 @@ Reconnection. Teaching. Healing. The scattered begin to gather. The broken begin
 
 ---
 
-## Chapter 31: Year 10 — Neutral
+## Chapter 31: Year 10 — Roots
 **POV: Ibrahim al-Rashid (29) | Year 10, Month 8 | ~4,000 words**
 
-**Opening**: Ibrahim discharged from medical facility. Two years of recovery. Leg saved but damaged—permanent limp. Can walk. Can't run. Can't fight. Former warrior. Now: what?
+**Opening**: Ibrahim's apartment, Building 12, Unit 403. Seven years here. Three years of maintenance work. Life has rhythm now. Not joyful. But: sustainable. Present.
 
-**Nowhere to Go**: No family. No faith community. No militia. No home. Antarctica offers him refugee housing—small apartment, basic stipend. Meaningless work if he wants it. Most refugees refuse (what's the point?). Ibrahim takes it. Not knowing why. Just: something to do.
+**Morning with Min-seo**: Ibrahim stops at Unit 204 (second floor). Min-seo, now 68, slower but still tending her balcony mint. They drink tea together—ritual established Year 6, maintained four years. She asks about his work. He asks about her garden. Simple presence. No philosophy needed.
 
-**The Work**: Maintenance crew—cleaning solar arrays, minor repairs, grunt work. Ibrahim's first civilian job. First legal work. First work without violence. Strange. Boring. But: present.
+**Min-seo's Memory**: She brings out old photos—Seoul before flooding, her children, her lost life. First time showing Ibrahim. "I never talked about them before. Felt like betrayal—them dead, me alive. But: you understand loss. Faith, purpose, identity. We both survived what shouldn't be survivable." Ibrahim nods. Understanding without words.
 
-**Meeting David**: Month 3, Ibrahim assigned to Platform 73 crew. Meets David Chen—quiet, dedicated, mysterious. They work together silently. Ibrahim notices: David talks to robots. Treats work like prayer. Maintains systems like they matter. Why?
+**Attending Kenji's Teaching**: Ibrahim goes to weekly circle. Started attending Year 6 (when Kenji returned). Four years now. Still mostly silent. But: belonging. Derek there—former Marine, 51 now, still processing his own wars. They sit together. No words. Warrior solidarity.
 
-**Curiosity Emerging**: Ibrahim begins asking questions. Not verbal—he's not social. But: observing. Why does David care? Why does maintenance matter? Why doesn't despair crush him? Ibrahim spent eight years despairing. David spent twelve years working. Different responses to same doom.
+**Fatima's Invitation**: After practice, Fatima approaches. She's hosted community dinners since Year 3 (Ibrahim's first was Year 6). "Eid next week. Come? Bring David if he wants." Ibrahim: "David's leaving soon. Going to Lagos with Amara." Fatima: "Then come alone. Or bring Min-seo and Derek. You have community here."
 
-**The Conversation**: Month 6, lunch break. Ibrahim finally asks: "Why do you do this?" David: "Do what?" "Maintain arrays that will end." David considers. "Why did you fight in Jerusalem?" Ibrahim: "I don't know anymore." "But you knew once?" "Yes. I believed it mattered." David: "I believe this matters. Same thing."
+**The Realization**: Walking home, Ibrahim understands: he has roots. Not faith-based. Not blood family. But: chosen community. Min-seo who gave him mint when he needed aliveness. Derek who understood silence. Fatima who kept inviting. David who taught maintenance as presence. Seven years building connections without noticing.
 
-**Ibrahim's Uncertainty**: "But you know it's futile." "Futile means pointless. This has point—provides power while people live. That's not futile. That's meaningful." Ibrahim quiet. Then: "I lost my faith. Lost my purpose. Don't know what matters anymore." David: "Maybe start with what's in front of you. Clean arrays. Maintain systems. Be present. See what grows."
+**David's Departure**: Evening. Ibrahim visits David's apartment. Helping pack. David leaving next month for Lagos. "You'll be okay?" David asks. "Yes," Ibrahim says. Means it. "You taught me: showing up is enough. I can show up without you." David: "You have others. Min-seo, Derek, Fatima. Community." Ibrahim: "I know. Thank you for that."
 
-**Small Start**: Ibrahim tries this. Not believing. Just: trying. Shows up daily. Does work. Notices things—sunrise patterns, robot behaviors, David's quiet competence. Doesn't feel meaningful yet. But: doesn't feel meaningless either. Neutral. That's progress.
+**End**: That night. Ibrahim on balcony. Mint growing (from Min-seo's cuttings, replanted years ago, still thriving). Building 12 around him. Min-seo below. Community center visible. Kenji's teaching space. Five years left. No grand purpose. But: roots. People. Place. Presence. Enough.
 
-**End**: Month 8. Ibrahim walking home (limping). Notices: he's not actively wanting to die anymore. Doesn't want to live exactly. But: not dying seems okay. Five years left. Maybe he'll find something. Maybe not. Either way: he's here. That's start.
-
-**Key beats**: Discharged • Nowhere to go • Accepting refugee status • Maintenance work begins • Meeting David • Silent observation • First conversation • Talking about faith and purpose • Trying small start • Not wanting to die • Neutral progress
+**Key beats**: Seven years in Antarctica • Morning tea with Min-seo • Her sharing photos/grief • Attending Kenji's circle • Derek's silent solidarity • Fatima's persistent community • Realizing he has roots • Helping David pack • David's reassurance • Community remains • Mint still growing • Enough
 
 ---
 
@@ -398,6 +396,8 @@ Reconnection. Teaching. Healing. The scattered begin to gather. The broken begin
 
 **Kenji's Circle**: Ibrahim attends weekly. Four years now. Still silent mostly. But: belonging. Community. People facing doom together. Ibrahim stopped fighting others. Learning to stop fighting himself. Slow progress.
 
+**Old Friends Present**: Min-seo still attends—seventy now, frailer, but still growing mint on her balcony. Derek comes sometimes—quiet Marine, aging, still understands Ibrahim's silences. Fatima hosts dinners still—smaller now, but faithful. These three kept Ibrahim alive Years 3-7. Now: they practice presence together. Witnessing each other's survival.
+
 **The Students**: Young people attend circle. Children born pre-detection, now teenagers. Fifteen years old maximum. All facing death before adulthood. Ibrahim watches them: scared, brave, angry, peaceful, confused, clear. All of it. Real.
 
 **The Question**: One student—girl, maybe fourteen—asks: "How do you face this? Knowing you'll never be adult? Never have full life?" Silence. No one has good answer. Then: Ibrahim speaks (rare). "I fought for eight years. Believed fighting mattered. Lost faith. Lost purpose. Got wounded. Almost died. Spent six years learning: maybe full life isn't length. Maybe full life is depth. Presence. Being here completely. You have less time than me. But: if you're present, you're full. That's complete."
@@ -408,9 +408,11 @@ Reconnection. Teaching. Healing. The scattered begin to gather. The broken begin
 
 **Shift**: Something in Ibrahim shifts. Not dramatic. Subtle. He spent eight years destroying. Six years maintaining. Now: maybe building? Not physically. Emotionally. Communally. Offering what he learned to others. Teaching through living. Being present as offering.
 
-**Two Years Left**: Ibrahim considers future. Two years. He'll be thirty-four at impact. Never imagined living this long. Thought he'd die in Jerusalem. But: survived. Found meaning in survival. Small meaning. Real meaning.
+**After Circle**: Min-seo, Derek, Fatima approach. Min-seo: "Ibrahim. You spoke today. That's new." Ibrahim uncomfortable: "Had something to say." Derek: "Helped me." Fatima: "Helped all of us." Pause. Min-seo touches his arm: "I remember when you first came to my door. Year 6. Broken. Silent. Counting stairs like ritual. Look at you now." Ibrahim: "I'm not different." Derek: "You are. We all are. Eight years of survival changes people." They stand together—four refugees who kept each other alive through nothing years. Now: witnessing each other bloom.
 
-**End**: Walking home. Limping. Alone. But: not lonely. Part of community. Part of circle. Part of something. No faith in God. But: faith in presence maybe. Faith in this moment. Faith in people facing doom together with dignity. That's enough.
+**Two Years Left**: Ibrahim considers future. Two years. He'll be thirty-four at impact. Never imagined living this long. Thought he'd die in Jerusalem. But: survived. Found meaning in survival. Small meaning. Real meaning. And people—Min-seo, Derek, Fatima, David (gone to Lagos), Kenji—who witnessed that survival.
+
+**End**: Walking home with Min-seo (same building). Limping together. She's slower now. He steadies her on stairs. Fifty-three steps. Counting together. Arriving at their floor. "Tea tomorrow?" she asks. "Always," he says. Part of community. Part of circle. Part of something. No faith in God. But: faith in presence maybe. Faith in this moment. Faith in people facing doom together with dignity. That's enough.
 
 **Key beats**: Six years maintenance • David's teaching internalized • Attending Kenji's circle • Student's question • Ibrahim speaking wisdom • Surprising himself • Kenji's recognition • Shift toward offering • Two years left • Faith in presence
 
@@ -424,6 +426,18 @@ Reconnection. Teaching. Healing. The scattered begin to gather. The broken begin
 **Opening**: Lagos. Final day. Zara, Kwame, Maya (17 years, 3 months), and Kofi (14 years, 2 months) packing. Not much—most possessions meaningless now. Photos. Wei's teachings. Children's artwork. What matters fits in small bags.
 
 **Why Return**: Amara asks to be together for final months. David wants to be near his arrays. Elena invited them—community forming in Antarctica for the end. Zara hesitates (Lagos is home) but agrees (family matters most).
+
+**Compound Farewell**: The community gathers—Mr. Okonkwo (now 80+, still tending the rooftop gardens he helped design), Adanna (her son now 20, both staying in Lagos for the end), Tom (quiet as ever, still maintaining water systems), Ling (who cared for Wei through her final year). Fifteen years of shared meals, rooftop gardens, greywater systems, collective childcare. The community that voted unanimously Year 6 to plant gardens despite having only 9 years left.
+
+Mr. Okonkwo: "You taught us gardens matter. We're still tending them. Right to the end."
+
+Adanna embraces Zara: "Thank you for showing us life was worth choosing. Kofi's existence gave us permission to keep living. Your family mattered."
+
+Tom, awkward but sincere: "The water systems still work. Your engineering. Fifteen years of clean water because you cared." 
+
+Ling: "Professor Wei loved your family. Said you understood impermanence better than most philosophers. She was right."
+
+They stand together—compound residents, neighbors who became chosen family. Zara realizes: they built community. Not forever. For fifteen years. That was the point. Duration irrelevant.
 
 **Maya's Goodbye**: Maya visits Wei's garden one last time. Now maintained by others but still blooming. She sits where Wei taught. Seventeen years old. Never kissed anyone. Never fell in love. Never had own child. Never did most things adults do. But: Wei taught her presence. That's complete somehow. Still: grief for unlived life.
 
