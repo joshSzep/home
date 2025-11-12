@@ -1,4 +1,4 @@
-# Chapter 25: Ibrahim Finds Purpose
+# Chapter 25: Competence
 
 **Ibrahim al-Rashid | Year 8, Month 5 | Antarctic Solar Arrays**
 
