@@ -66,7 +66,7 @@ Kenji travels the world seeking answers, finding intellectual knowledge but no e
 Zara builds community in Lagos around Wei's garden and presence practice.
 
 ### Chapter 20: Mandate
-Elena runs unopposed Year 6; his authority shifts from electoral to demonstrated through presence.
+Elena runs unopposed Year 6; her authority shifts from electoral to demonstrated through presence.
 
 ### Chapter 21: Drift
 Ibrahim drifts in Antarctica Year 6, unemployed, limping, faithless, counting steps, barely alive. Connects with Min-seo, Derek, Fatima.

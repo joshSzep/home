@@ -14,9 +14,9 @@ Everyone gathers. Final moments. Presence until the end. Together into the light
 
 **NOTE**: Chapter 19 was written as preview but timeline was off. This chapter occurs Year 15, Month 1 after family arrives from Lagos (Chapter 39).
 
-**Opening**: Antarctica. Amara's apartment. Family arrived yesterday from Lagos. Zara, Kwame, Maya (17 years, 3 months), Kofi (14 years, 2 months). All together for first time since they reconciled Year 7.
+**Opening**: Antarctica. Amara's apartment. Family arrived yesterday from Lagos. Zara, Kwame, Maya (17 years, 3 months), Kofi (14 years, 3 months—born Year 0, Month 10). All together for first time since they reconciled Year 7.
 
-**The Reunion**: Different from Year 7 call or Year 9 visit. This is permanent. Eight months until impact. Family choosing to face end together. Amara watching Kofi (last saw him at 6, now 14) and Maya (now nearly adult). Time passed. Time short.
+**The Reunion**: Different from Year 7 call or Year 9 visit. This is permanent. Three months until impact (Year 15, Month 1 to Month 4). Family choosing to face end together. Amara watching Kofi (last saw him at 6, now 14) and Maya (now nearly adult). Time passed. Time short.
 
 **First Night**: Amara can't stop watching her family. Maya and Kofi exploring. Being teenagers. Being alive. Zara and Kwame exhausted but present. David creating space. Home becoming real.
 
@@ -47,7 +47,7 @@ Everyone gathers. Final moments. Presence until the end. Together into the light
 
 **Conversation with Kenji**: Her son asks, "Mom, are you satisfied?" "With what?" "With how you led. With fifteen years as mayor." Elena thinks. "I was elected twice (Year -2 and Year 2). Then no one opposed me (Year 6). Then no one wanted the job (Year 10+). I went from wielding power to bearing witness. I didn't save anyone. But I showed up. I maintained dignity. I did the work until there was no work left. The transformation from mayor to witness—that was the real work. Yes. That's enough."
 
-**End**: Elena looking out over the megacity. Lights flickering across the vast continental sprawl. People moving between buildings. Community persisting. Three months left. She's ready? No. Present? Yes. That's everyone's truth now.
+**End**: Elena looking out over the megacity. Lights flickering across the vast continental sprawl. People moving between buildings. Community persisting. Three months left (Year 15, Month 1 to Month 4). She's ready? No. Present? Yes. That's everyone's truth now.
 
 **Key beats**: Final census • Choosing companions • Government ended, witness continuing • Final arrivals • Why Antarctica • Infrastructure barely holding • Community centers as heart • Kenji's question • Elena satisfied • Three months
 
@@ -68,7 +68,7 @@ Everyone gathers. Final moments. Presence until the end. Together into the light
 
 **Lagos Community**: Maya reflects on leaving the compound. Mr. Okonkwo teaching her about soil, showing her that tending gardens matters even when nothing lasts. Adanna's fierce love—defending Mama's choice to have children, defending Maya's right to exist. Tom's quiet engineering wisdom, teaching her systems thinking alongside Mama. Ling's gentle care for Wei, showing Maya that tending the dying is sacred work. Fifteen years of neighbors becoming family. Community that built rooftop gardens Year 6 despite having only 9 years left—they taught her that brief doesn't mean meaningless.
 
-**Kofi**: Her brother. Fourteen years, two months old. Brilliant, curious, kind. She raised him almost as much as Mama did. Taught him reading. Taught him kindness. Taught him that brief life matters. He'll die at fourteen years, six months (in eight months). She'll die at seventeen years, seven months. Both too young. Both exactly the age they'll be.
+**Kofi**: Her brother. Fourteen years, three months old (born Year 0, Month 10). Brilliant, curious, kind. She raised him almost as much as Mama did. Taught him reading. Taught him kindness. Taught him that brief life matters. He'll die at fourteen years, six months (in three months, impact Month 4). She'll die at seventeen years, seven months. Both too young. Both exactly the age they'll be.
 
 **What She Wants**: Maya standing under Antarctic stars, thinking: What do I want from three months? 
 
@@ -90,7 +90,7 @@ The grief wells up—anticipatory grief she's carried seventeen years. But also:
 
 **End**: Maya lying down beside her brother. Not waking him. Just: being close. Listening to his breath. Thinking: *Three months. Make them matter. Be present. Love openly. Die together. That's all I can do. That has to be enough.*
 
-**Key beats**: Maya's first POV • Seventeen years reflected • Growing up doomed • Wei's influence • Relationship with Kofi • What she wants • Intelligence as burden • Meeting family • Interest in David's work • Wanting Kenji's teaching • Watching Kofi sleep • Anticipatory grief • Three months to matter
+**Key beats**: Maya's first POV • Seventeen years reflected • Growing up doomed • Wei's influence • Relationship with Kofi (14 years, 3 months) • What she wants • Intelligence as burden • Meeting family • Interest in David's work • Wanting Kenji's teaching • Watching Kofi sleep • Anticipatory grief • Three months to matter
 
 ---
 
@@ -105,11 +105,11 @@ The grief wells up—anticipatory grief she's carried seventeen years. But also:
 
 **The Practice**: Simple instructions. "Notice breath. Notice body. Notice thoughts without clinging. Notice feelings without drowning. This moment. This moment. This moment. Nothing more. Nothing less. This is enough."
 
-**The Students**: Sixty people ranging from children (Kofi, thirteen) to elders (Elena, seventy-four). Everyone practicing together. Everyone learning presence. Not for enlightenment. Not for peace. Just: for being here clearly, fully, truly.
+**The Students**: Sixty people ranging from children (Kofi, fourteen) to elders (Elena, seventy-three). Everyone practicing together. Everyone learning presence. Not for enlightenment. Not for peace. Just: for being here clearly, fully, truly.
 
 **Maya**: Kenji watching his niece—seventeen, brilliant, Wei's spiritual granddaughter somehow. She practices with fierce concentration. Asks deep questions. Understands instinctively. Wei would have loved teaching her. But Wei died Year 11. Now: Kenji honors Wei by teaching Maya what Wei would have taught.
 
-**Ibrahim**: Former fighter sitting in circle. Eight years since wounding. Seven years of presence practice. Now: almost teacher himself. Offering wisdom from his own journey. Faith lost, presence found. Destruction to maintenance to teaching. Full circle.
+**Ibrahim**: Former fighter sitting in circle. Thirteen years since wounding (Year 2). Eight years of presence practice (meditation groups Year 6-12, Kenji's teachings Year 12-15). Now: almost teacher himself. Offering wisdom from his own journey. Faith lost, presence found. Destruction to drift to maintenance to teaching. Full circle.
 
 **David**: Quiet engineer coming to practice irregularly. Not naturally drawn to meditation. But: comes anyway. Sits anyway. Tries anyway. That's practice too—showing up even when it doesn't fit naturally.
 
@@ -129,7 +129,7 @@ Everyone laughs. Dark humor. True humor. They're all asking the same question.
 
 **Conversation with Maya**: After class, Maya approaches. "Uncle Kenji, can I learn everything Wei taught you?" "In three months?" "Yes." "That's impossible." "So teach me anyway." Kenji smiles. "Okay. We start tomorrow. Every day until the end." "Thank you." "Thank Wei. I'm just passing it forward."
 
-**Reflection on Wei**: Walking home. Kenji thinking about his teacher. Died Year 11, age 125. Natural death before the asteroid. Mercy and loss. Wei ready. Wei complete. Wei at peace.
+**Reflection on Wei**: Walking home. Kenji thinking about his teacher. Died Year 11, age 125 (reached the age doctors predicted when she was 114). Natural death before the asteroid. Mercy and loss. Wei ready. Wei complete. Wei at peace.
 
 She taught him everything. Not just meditation. How to live. How to face impermanence. How to make moments matter. How to die eventually. Wei died well. That's his inheritance. Die well. Teach dying well. Pass that forward.
 
@@ -139,7 +139,7 @@ He's ready? No. Present? Yes. Teaching presence until he can't. That's complete.
 
 **End**: Kenji meditating before sleep. Breath. Body. Moment. Nothing more. Nothing less. Tomorrow comes. Practice continues. Presence persists. Until it doesn't. Then: nothing persists. But right now: breath. That's enough.
 
-**Key beats**: Teaching sixty people • Eight years journey reflected • Simple practice instructions • Diverse students • Maya as dedicated student • Ibrahim almost teaching • David trying • Amara present • Does practice make dying easier? No. But. • Maya asking to learn everything • Honoring Wei • Teaching dying well • Two and a half months • Ready: no. Present: yes.
+**Key beats**: Teaching sixty people • Thirteen years journey reflected (left Year 1, returned Year 12, teaching 3 years) • Simple practice instructions • Diverse students • Maya as dedicated student • Ibrahim almost teaching • David trying • Amara present • Does practice make dying easier? No. But. • Maya asking to learn everything • Honoring Wei (died 125 years old) • Teaching dying well • Two and a half months • Ready: no. Present: yes.
 
 ---
 
@@ -152,7 +152,7 @@ He's ready? No. Present? Yes. Teaching presence until he can't. That's complete.
 
 **Opening**: David and Maya climbing platform 73. Two hundred meters up. Solar arrays stretching endlessly. Robot 47B working faithfully. Morning light on ice.
 
-**Maya's Request**: She asked to learn maintenance. Not for career. For understanding. For witnessing David's life work. For spending time with quiet uncle who showed up thirty years.
+**Maya's Request**: She asked to learn maintenance. Not for career. For understanding. For witnessing David's life work. For spending time with quiet uncle who showed up fourteen years (maintaining arrays Year 1-15).
 
 **Teaching**: David showing Maya the systems. Connection housings. Voltage regulators. Diagnostic protocols. Robot coordination. Everything he does. Everything he knows. Passing it forward even though it ends in two months.
 
@@ -164,7 +164,7 @@ David pauses. Considers. "The point is: they need maintaining. Someone should do
 
 "No. But it's meaningful. Meaning and logic are different."
 
-**Robot 47B**: Maya fascinated by the maintenance robots. David's relationship with 47B especially—thirty years of coordinated work. "Does it know it's dying?" "No." "Is that better?" "I don't know. But I know it's working. That's honest. That's complete."
+**Robot 47B**: Maya fascinated by the maintenance robots. David's relationship with 47B especially—ten years of coordinated work (Year 5 to Year 15). "Does it know it's dying?" "No." "Is that better?" "I don't know. But I know it's working. That's honest. That's complete."
 
 **The View**: From platform 73, all of Antarctica visible. Civilization built on ice. Forever Earth's heart. About to end. Maya staring out, doing math: "The blast radius will vaporize everything within 2,000 kilometers. Instant. We won't feel it." "No." "Is that better?" "I don't know."
 
@@ -172,7 +172,7 @@ David pauses. Considers. "The point is: they need maintaining. Someone should do
 
 **Working Together**: They spend hours maintaining. Maya learning. David teaching. Both present. Both knowing this is temporary. Both doing it anyway. That's defiance. That's love. That's meaning.
 
-**Lunch on Platform**: David brings meal. They eat two hundred meters up. Talk about everything. Maya asking about David's life. Thirty years of maintenance. Married Year -5. Divorced Year 4 after fourteen years. Seven years healing, together again. "Was it worth it? The healing?" "Yes. Every moment of the seven years mattered more than the ten years broken." "Even knowing it ends?" "Especially knowing it ends." "Did you remarry?" "No. But we're together. That's what matters."
+**Lunch on Platform**: David brings meal. They eat two hundred meters up. Talk about everything. Maya asking about David's life. Fourteen years of maintenance work (Year 1-15). Married Year -9. Divorced Year 4 after thirteen years. Seven years healing (Year 8-15), together again. "Was it worth it? The healing?" "Yes. Every moment of the seven years mattered more than the four years broken." "Even knowing it ends?" "Especially knowing it ends." "Did you remarry?" "No. But we're together. That's what matters."
 
 **Amara Arriving**: Surprise—Amara climbs up. First time ever visiting platform during David's work. She wanted to see. Wanted to witness. Wanted to be present with her partner and niece doing meaningful work.
 
@@ -191,7 +191,7 @@ Three of them on platform. Family. Working together. Being together. Two months 
 ## Chapter 45: Year 15, Month 2 — Both
 **POV: Ibrahim al-Rashid (34) | Year 15, Month 2 | ~4,000 words**
 
-**Opening**: Knock on Ibrahim's door. He's meditating—morning practice, routine for seven years. Opens door to find: Imam Hassan. The man who tried to save his faith. Haven't seen each other in eight years.
+**Opening**: Knock on Ibrahim's door. He's meditating—morning practice, routine for nine years (meditation groups since Year 6). Opens door to find: Imam Hassan. The man who tried to save his faith. Haven't seen each other in thirteen years (since Year 2).
 
 **The Imam**: Aged significantly. Seventy-eight now. Traveled from Jerusalem to Antarctica for the end. Seeking: reconciliation. Closure. Peace before dying.
 
@@ -207,7 +207,7 @@ Ibrahim surprised: "For what?"
 
 "For trying to keep you in faith when your faith was dying. For making you feel guilty for doubt. For not seeing: you were searching for truth, and truth sometimes means releasing belief."
 
-**Ibrahim's Journey**: He tells the imam everything. Eight years of war. The wound. The UN hospital. Seven years of maintenance work. Presence practice with Kenji. Learning to live without faith but with meaning. Finding purpose in showing up. In being present. In bearing witness.
+**Ibrahim's Journey**: He tells the imam everything. Eight years of war. The wound. The UN hospital. Eight years of maintenance work (started Year 7, Month 3). Presence practice—first with meditation groups (Year 6+), then with Kenji (Year 12+). Learning to live without faith but with meaning. Finding purpose in showing up. In being present. In bearing witness.
 
 "I don't believe in Allah anymore," Ibrahim says. "I don't believe in paradise. I don't believe in divine purpose. But: I believe in this moment. I believe in presence. I believe in doing good work even when nothing lasts. That's my faith now."
 
@@ -243,7 +243,7 @@ Ibrahim: "Of course. Everyone welcome."
 
 **That Evening**: Ibrahim brings Hassan to community center. Practice session. Sixty people. Hassan sits awkwardly—not used to Buddhist practices. But: tries. Breathes. Notices. Practices.
 
-**Old Friends Witness**: After practice, Min-seo, Derek, and Fatima approach. They've watched Ibrahim for nine years—from broken refugee to present practitioner. Min-seo: "Ibrahim, who is your friend?" Ibrahim introduces Hassan. "My former imam. From Jerusalem. Before I lost faith." Fatima lights up: "You're imam? Ibrahim used to pray! I remember—Year 6, he still carried prayer beads." Hassan looks at Ibrahim with understanding. Derek adds quietly: "We all lost something. Kept each other alive anyway." Four refugees who survived together, now welcoming fifth.
+**Old Friends Witness**: After practice, Min-seo, Derek, and Fatima approach. They've watched Ibrahim for nine years—from broken refugee Year 6 to present practitioner Year 15. Min-seo: "Ibrahim, who is your friend?" Ibrahim introduces Hassan. "My former imam. From Jerusalem. Before I lost faith." Fatima lights up: "You're imam? Ibrahim used to pray! I remember—Year 6, he still carried prayer beads." Hassan looks at Ibrahim with understanding. Derek adds quietly: "We all lost something. Kept each other alive anyway." Four refugees who survived together, now welcoming fifth.
 
 After, Hassan approaches Kenji: "This is what Ibrahim learned?"
 
@@ -287,7 +287,7 @@ Two months. Then: physics. Then: silence.
 
 But tonight: breath. That's everything.
 
-**Key beats**: Imam Hassan arrives • Apology for trying to keep faith • Ibrahim's journey shared • No faith but presence • Imam's own doubt • Unexpected friendship • Hassan joining practice • Min-seo, Derek, Fatima witnessing reconciliation • Old friends welcoming new friend • Both/and instead of either/or • Walking together (five people) • Fatima's dinner invitation • Community complete • Faith in people instead of God • Two months left
+**Key beats**: Imam Hassan arrives (thirteen years since they last met) • Apology for trying to keep faith • Ibrahim's journey shared (eight years work, nine years practice) • No faith but presence • Imam's own doubt • Unexpected friendship • Hassan joining practice • Min-seo, Derek, Fatima witnessing reconciliation (nine years of community) • Old friends welcoming new friend • Both/and instead of either/or • Walking together (five people) • Fatima's dinner invitation • Community complete • Faith in people instead of God • Two months left
 
 ---
 

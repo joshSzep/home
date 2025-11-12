@@ -37,13 +37,13 @@ Reconnection. Teaching. Healing. The scattered begin to gather. The broken begin
 ## Chapter 25: Year 8 — Competence
 **POV: Ibrahim al-Rashid (27) | Year 8, Month 5 | ~4,000 words**
 
-**NOTE**: Ibrahim was wounded Year 2 and evacuated to Antarctica Year 3, Month 2 (per written Chapter 13). He spent Years 3-7 unemployed and drifting (Chapter 21, Year 6). Started solar array maintenance Year 7. This chapter shows his breakthrough 14 months into the work—discovering competence after years of emptiness.
+**NOTE**: Ibrahim was wounded Year 2 and evacuated to Antarctica Year 3, Month 2 (per written Chapter 13). He spent Years 3-7 unemployed and drifting (Chapter 21, Year 6). Started solar array maintenance Year 7, Month 3. This chapter shows his breakthrough 14 months into the work—discovering competence after years of emptiness.
 
 **Opening**: Platform 73, morning shift. Ibrahim working maintenance with David. Nearly five years in Antarctica—but only fourteen months of this work. Fourteen months since employment services contacted him. Fourteen months since he said yes without caring. Fourteen months of routine slowly filling the emptiness.
 
 **The Work**: Ibrahim and David work in comfortable silence. Ibrahim notices something different today: he's present. Not thinking about past (war, faith, failure). Not anxious about future (only 7 years left). Just: here. Working. Present. After four years of aimless drift, this focus feels miraculous.
 
-**Small Moment**: Housing repair completed independently. Ibrahim realizes: he's competent. Actually skilled. Learned this in fourteen months. After four years of counting stairs obsessively and wandering unemployed, suddenly: capability. Purpose. Something real.
+**Small Moment**: Housing repair completed independently. Ibrahim realizes: he's competent. Actually skilled. Learned this in fourteen months. After four years of counting stairs obsessively and wandering unemployed (Years 3-6), then starting this work Year 7 Month 3, suddenly: capability. Purpose. Something real.
 
 **Lunch on Platform**: They sit two hundred meters up. Ibrahim asks question he's been holding: "Why do you do this? Really?" David considers. "Because I can. Because it matters while it matters. Because showing up is enough." Ibrahim: "Is showing up enough?" "For me, yes. For you?" Ibrahim doesn't know yet. But he's here asking, which is more than Year 6.
 
@@ -55,7 +55,7 @@ Reconnection. Teaching. Healing. The scattered begin to gather. The broken begin
 
 **End**: Ibrahim prepares for sleep. Tomorrow: more maintenance. More presence. More showing up. Seven years left. Maybe he'll find something bigger. Maybe this small peace is enough. Either way: he's here. That's start. That's more than Year 6. That's everything.
 
-**Key beats**: Fourteen months of work after four years drift • Noticing his own presence • Competence NEW and fragile • Question about purpose • David's simple wisdom • Contrasting with Year 6 emptiness • Not healed but healing • Progress recent and precious • Small peace emerging • Showing up as enough
+**Key beats**: Fourteen months of work (started Year 7, Month 3) after four years drift • Noticing his own presence • Competence NEW and fragile • Question about purpose • David's simple wisdom • Contrasting with Year 6 emptiness • Not healed but healing • Progress recent and precious • Small peace emerging • Showing up as enough
 
 ---
 
@@ -91,11 +91,11 @@ Reconnection. Teaching. Healing. The scattered begin to gather. The broken begin
 ## Chapter 27: Year 9 — Roots
 **POV: Zara Okafor-Mensah (42) | Year 9, Month 3 | ~4,500 words**
 
-**Opening**: Lagos spaceport. Zara waiting with Maya (11 years, 6 months) and Kofi (8 years, 5 months). Nervous. Excited. Scared. Amara visiting for first time in nine years. Will it be awkward? Will the children like her? Will old wounds open?
+**Opening**: Lagos spaceport. Zara waiting with Maya (11 years, 6 months) and Kofi (8 years, 8 months—born Year 0, Month 10). Nervous. Excited. Scared. Amara visiting for first time in nine years. Will it be awkward? Will the children like her? Will old wounds open?
 
 **The Arrival**: Amara and David disembark. Sisters see each other—nine years older, both changed. Long moment of uncertainty. Then: embrace. Not tentative. Full. Real. Zara crying: "You came." Amara: "I should have come sooner." "You're here now. That's enough."
 
-**Meeting the Children**: Maya (11) serious and curious: "Hello, Aunt Amara. I'm Maya. I'm very good at mathematics." Amara laughs: "I heard. Your mother says you're brilliant." Kofi (7) shy at first, then: "Are you from space?" "No, from Antarctica." "Is that the same?" "Almost."
+**Meeting the Children**: Maya (11) serious and curious: "Hello, Aunt Amara. I'm Maya. I'm very good at mathematics." Amara laughs: "I heard. Your mother says you're brilliant." Kofi (8) shy at first, then: "Are you from space?" "No, from Antarctica." "Is that the same?" "Almost."
 
 **David's Presence**: Kwame and David meet—two quiet men, both married to intense women. Instant understanding. Kwame: "Welcome. Tea?" David: "Please." They disappear into kitchen, leaving sisters alone.
 
@@ -172,15 +172,15 @@ Reconnection. Teaching. Healing. The scattered begin to gather. The broken begin
 ## Chapter 30: Year 10 — Sunrise
 **POV: David Chen (58) | Year 10, Month 4 | ~4,000 words**
 
-**Opening**: Platform 73. Dawn. David bringing Amara up for first time. She's visiting from Lagos, staying two weeks. Marriage healing slowly. Now: sharing his work. His meaning.
+**Opening**: Platform 73. Dawn. David bringing Amara up for first time. She's visiting from Lagos, staying two weeks. Relationship healing slowly (divorced Year 4, reconnecting Year 8). Now: sharing his work. His meaning.
 
-**The Climb**: Two hundred meters up. Amara nervous about height. David patient. They climb slowly. Robot 47B gliding on adjacent rail, monitoring. Amara: "You work here every day?" "Every day for twelve years." "It's so high." "You get used to it."
+**The Climb**: Two hundred meters up. Amara nervous about height. David patient. They climb slowly. Robot 47B gliding on adjacent rail, monitoring. Amara: "You work here every day?" "Every day for eleven years." "It's so high." "You get used to it."
 
 **The Arrays**: Reaching top. Sunrise breaking over Antarctica. Solar arrays stretching forever. Systems humming. Perfectly maintained. David shows Amara his work: connection housings, voltage regulators, calibration protocols. Technical details she'd normally love. But:
 
-**Different Appreciation**: Amara sees something else. Not the engineering. The dedication. David has maintained these arrays for twelve years. They'll function five more years. Then: vaporized. He knows this. Maintains them anyway. This isn't delusion. It's devotion.
+**Different Appreciation**: Amara sees something else. Not the engineering. The dedication. David has maintained these arrays for eleven years. They'll function five more years. Then: vaporized. He knows this. Maintains them anyway. This isn't delusion. It's devotion.
 
-**47B Introduction**: "This is 47B. My partner." Robot beeps greeting. "We've worked together four years. Best colleague I've ever had." Amara surprised: "Better than humans?" "More honest. More present. More consistent. Never despairing. Just: working."
+**47B Introduction**: "This is 47B. My partner." Robot beeps greeting. "We've worked together five years. Best colleague I've ever had." Amara surprised: "Better than humans?" "More honest. More present. More consistent. Never despairing. Just: working."
 
 **The Why**: Amara asks the question: "Why do you do this? When it doesn't matter?" David considers. "It matters because I do it. Because these systems provide power. Because people need power to live. Five years of power is real. That's enough."
 
@@ -199,13 +199,13 @@ Reconnection. Teaching. Healing. The scattered begin to gather. The broken begin
 ## Chapter 31: Year 10 — Roots
 **POV: Ibrahim al-Rashid (29) | Year 10, Month 8 | ~4,000 words**
 
-**Opening**: Ibrahim's apartment, Building 12, Unit 403. Seven years here. Three years of maintenance work. Life has rhythm now. Not joyful. But: sustainable. Present.
+**Opening**: Ibrahim's apartment, Building 12, Unit 403. Seven years here. Three years of maintenance work (started Year 7, Month 3). Life has rhythm now. Not joyful. But: sustainable. Present.
 
 **Morning with Min-seo**: Ibrahim stops at Unit 204 (second floor). Min-seo, now 68, slower but still tending her balcony mint. They drink tea together—ritual established Year 6, maintained four years. She asks about his work. He asks about her garden. Simple presence. No philosophy needed.
 
 **Min-seo's Memory**: She brings out old photos—Seoul before flooding, her children, her lost life. First time showing Ibrahim. "I never talked about them before. Felt like betrayal—them dead, me alive. But: you understand loss. Faith, purpose, identity. We both survived what shouldn't be survivable." Ibrahim nods. Understanding without words.
 
-**Attending Kenji's Teaching**: Ibrahim goes to weekly circle. Started attending Year 6 (when Kenji returned). Four years now. Still mostly silent. But: belonging. Derek there—former Marine, 51 now, still processing his own wars. They sit together. No words. Warrior solidarity.
+**Attending Meditation Practice**: Ibrahim goes to weekly community meditation circle (not Kenji's yet—Kenji doesn't return until Year 12). Started attending Year 6 when local group formed. Four years now. Still mostly silent. But: belonging. Derek there—former Marine, 51 now, still processing his own wars. They sit together. No words. Warrior solidarity.
 
 **Fatima's Invitation**: After practice, Fatima approaches. She's hosted community dinners since Year 3 (Ibrahim's first was Year 6). "Eid next week. Come? Bring David if he wants." Ibrahim: "David's leaving soon. Going to Lagos with Amara." Fatima: "Then come alone. Or bring Min-seo and Derek. You have community here."
 
@@ -213,16 +213,16 @@ Reconnection. Teaching. Healing. The scattered begin to gather. The broken begin
 
 **David's Departure**: Evening. Ibrahim visits David's apartment. Helping pack. David leaving next month for Lagos. "You'll be okay?" David asks. "Yes," Ibrahim says. Means it. "You taught me: showing up is enough. I can show up without you." David: "You have others. Min-seo, Derek, Fatima. Community." Ibrahim: "I know. Thank you for that."
 
-**End**: That night. Ibrahim on balcony. Mint growing (from Min-seo's cuttings, replanted years ago, still thriving). Building 12 around him. Min-seo below. Community center visible. Kenji's teaching space. Five years left. No grand purpose. But: roots. People. Place. Presence. Enough.
+**End**: That night. Ibrahim on balcony. Mint growing (from Min-seo's cuttings, replanted years ago, still thriving). Building 12 around him. Min-seo below. Community center visible. Meditation practice space. Five years left. No grand purpose. But: roots. People. Place. Presence. Enough.
 
-**Key beats**: Seven years in Antarctica • Morning tea with Min-seo • Her sharing photos/grief • Attending Kenji's circle • Derek's silent solidarity • Fatima's persistent community • Realizing he has roots • Helping David pack • David's reassurance • Community remains • Mint still growing • Enough
+**Key beats**: Seven years in Antarctica • Morning tea with Min-seo • Her sharing photos/grief • Attending meditation circle (local group, not Kenji's yet) • Derek's silent solidarity • Fatima's persistent community • Realizing he has roots • Helping David pack • David's reassurance • Community remains • Mint still growing • Enough
 
 ---
 
 ## Chapter 32: Year 11 — Bloom
 **POV: Zara Okafor-Mensah (44) | Year 11, Month 8 | ~5,000 words**
 
-**Opening**: Wei is dying. Not asteroid—natural death. 124 years old. Body failing for months. Mind clear until end. Zara caring for her daily—bathing, feeding, moving. Honor and love.
+**Opening**: Wei is dying. Not asteroid—natural death. 125 years old. Body failing for months. Mind clear until end. Zara caring for her daily—bathing, feeding, moving. Honor and love.
 
 **The Final Days**: Wei bedridden. Zara, Maya (nearly 14), and Kofi (nearly 11) reading to her. Kenji visiting daily (he's been studying with Wei for ~3 years now). Others paying respects. Wei clear about dying: "I'm ready. Lived fully. Now: time to let go." No fear. No resistance. Just: acceptance.
 
@@ -232,7 +232,7 @@ Reconnection. Teaching. Healing. The scattered begin to gather. The broken begin
 
 **The Death**: Wei closes her eyes. Breath slowing. Everyone holding hands around her bed. She speaks once more: "The flower bloomed." Then: silence. Gone.
 
-**Grief and Gratitude**: Zara weeping. Kenji weeping. Everyone weeping. But: not despairing. Wei lived 125 years. Taught for seventy. Died ready. This is mercy. This is grace. Still painful—but: right somehow.
+**Grief and Gratitude**: Zara weeping. Kenji weeping. Everyone weeping. But: not despairing. Wei lived 125 years (reached the age her doctors predicted at 114). Taught for seventy. Died ready. This is mercy. This is grace. Still painful—but: right somehow.
 
 **The Funeral**: Wei wanted natural burial—ashes in her garden. Small ceremony. No religion. Just: presence. People sharing stories. Kenji reads Wei's favorite poem about cherry blossoms. Maya reads passage from her philosophy books. Zara places ashes under the lemon tree. Wei returns to soil.
 
@@ -307,9 +307,9 @@ Reconnection. Teaching. Healing. The scattered begin to gather. The broken begin
 ## Chapter 35: Year 13 — Migration
 **POV: Amara Okafor (61) | Year 13, Month 3 | ~4,500 words**
 
-**Opening**: Three years until impact. Amara at monitoring station—but different now. Not hiding. Not calculating obsessively. Just: maintaining data. Real job. Finite purpose.
+**Opening**: Two years until impact. Amara at monitoring station—but different now. Not hiding. Not calculating obsessively. Just: maintaining data. Real job. Finite purpose.
 
-**The Visits**: Amara visits Lagos three times yearly now. Seeing Zara, Kwame, Maya (15), Kofi (12). Aunt relationship growing. Not perfect—ten years wasted can't be fully recovered. But: real. Present. Meaningful.
+**The Visits**: Amara visits Lagos three times yearly now (since reconnection Year 8). Seeing Zara, Kwame, Maya (15), Kofi (12). Aunt relationship growing. Not perfect—nine years wasted can't be fully recovered. But: real. Present. Meaningful.
 
 **Maya's Brilliance**: Maya is fifteen and a half. Brilliant in mathematics, astrophysics. Like Amara. Asks about asteroid: trajectory, impact calculations, physics. Amara teaches her. Not morbid—scientific. Maya wants to understand what's ending them.
 
@@ -321,13 +321,13 @@ Reconnection. Teaching. Healing. The scattered begin to gather. The broken begin
 
 **The Decision**: Month 3. Amara tells Zara: "We're coming. Year 14. David and I. To stay. For the end." Zara cries (joy, relief, love). "Thank you. Thank you." Amara: "I should have come sooner." "You're coming now. That's enough."
 
-**Preparing**: Amara begins planning. Transferring monitoring data. Training replacement (unnecessary—automated, but: ritual matters). Arranging housing in Lagos. Preparing to leave Antarctica after forty years.
+**Preparing**: Amara begins planning. Transferring monitoring data. Training replacement (unnecessary—automated, but: ritual matters). Arranging housing in Lagos. Preparing to leave Antarctica after forty-three years (arrived Year -30 as young researcher).
 
-**Saying Goodbye**: Amara walks monitoring station. Forty years here. Twenty years before detection. Twenty years after. This place was her life. Her identity. Her hiding place. Her prison. Her home. Saying goodbye to all of it.
+**Saying Goodbye**: Amara walks monitoring station. Forty-three years here (arrived Year -30). Thirty years before detection. Thirteen years after. This place was her life. Her identity. Her hiding place. Her prison. Her home. Saying goodbye to all of it.
 
 **The Last Calculation**: Final trajectory update. Impact date: Year 15, Day 365. Location: Pacific Ocean. Probability: 99.97% (unchanged in fifteen years). Physics perfect. Outcome certain. Her work: complete. Time to let go.
 
-**End**: Amara closes monitoring station. Not abandoning—leaving to successor. But: her tenure here ends. Scientist becoming sister. Calculator becoming aunt. Isolated becoming connected. Three years left. Time to be with family. Time to be present. Time to live instead of analyzing life.
+**End**: Amara closes monitoring station. Not abandoning—leaving to successor. But: her tenure here ends. Scientist becoming sister. Calculator becoming aunt. Isolated becoming connected. Two years left. Time to be with family. Time to be present. Time to live instead of analyzing life.
 
 **Key beats**: Regular Lagos visits • Maya's brilliance • Invitation to come • Discussing with David • Joint decision • Telling Zara • Preparing to leave Antarctica • Goodbye to monitoring station • Final calculation • Scientist becoming sister • Living instead of analyzing
 
@@ -338,25 +338,25 @@ Reconnection. Teaching. Healing. The scattered begin to gather. The broken begin
 
 **Opening**: Platform 73. David's last maintenance shift. Not retiring—moving. Going to Lagos with Amara. Leaving arrays. Leaving 47B. Leaving work that's been meaning itself.
 
-**Twenty Years**: David has maintained these arrays twenty years. Pre-detection, it was career. Post-detection, it became purpose. Now: ending. Not because arrays fail. Because he's choosing different purpose. Being with Amara. Being with family. Being present.
+**Twelve Years**: David has maintained these arrays twelve years (started Year 1, now Year 13). Pre-detection, it was career. Post-detection, it became purpose. Now: ending. Not because arrays fail. Because he's choosing different purpose. Being with Amara. Being with family. Being present.
 
 **The Final Inspection**: Walking arrays with 47B. Checking every connection. Recording every detail. Systems perfect—ninety-six percent efficiency. Will function three years. Then: vaporized. David satisfied. Work complete.
 
-**47B**: Robot has been his partner six years. Longest consistent relationship besides marriage. Faithful. Present. Honest. David will miss this machine in ways he won't miss most humans.
+**47B**: Robot has been his partner eight years (since Year 5). Longest consistent relationship besides marriage. Faithful. Present. Honest. David will miss this machine in ways he won't miss most humans.
 
 **The Conversation**: David speaks aloud (habit now): "47B, this is our last shift together." Robot: *Beep beep.* "Colleague Chen transferring?" "Yes. Moving to Lagos. Different purpose now." *Beep.* "Maintenance efficiency will decrease." "Yes. But: automation will continue. You'll continue. You don't need me." *Beep beep beep.* "Colleague Chen efficiency rating: optimal. Departure noted with regret."
 
 **David's Emotion**: Realizes he's crying. Crying over robot. Absurd. But: 47B was real relationship. Consistent presence. Pure function without drama. He learned from this machine—how to be present, how to work without despair, how to maintain despite futility. Thank you, 47B.
 
-**The Ritual**: David performs final calibration. Updates logs. Records: "Platform 73 maintenance transferred to automated systems and remaining crew. Systems optimal. Three years functionality assured. Chen, D. — Final signature." Done.
+**The Ritual**: David performs final calibration. Updates logs. Records: "Platform 73 maintenance transferred to automated systems and remaining crew. Systems optimal. Two years functionality assured. Chen, D. — Final signature." Done.
 
 **Descending**: Walking down platform for last time. 47B accompanying him (unnecessary—just: courtesy). At bottom, David turns: "Goodbye, 47B. Thank you for being excellent colleague." Robot: *Beep beep beep beep.* "Colleague Chen: farewell. Function well."
 
-**Going Home**: David returns to apartment. Amara waiting. Packing nearly complete. Lagos transport booked for next month. Twenty years in Antarctica ending. New chapter beginning. Scary. Right. Both.
+**Going Home**: David returns to apartment. Amara waiting. Packing nearly complete. Lagos transport booked for next month. Twelve years maintaining arrays ending. New chapter beginning. Scary. Right. Both.
 
 **End**: That night, David dreams of arrays. Humming solar panels. Robot 47B working faithfully. Systems maintaining themselves. Perfect function continuing without him. Wakes understanding: the work continues. He can let go. That's permission. That's peace.
 
-**Key beats**: Final maintenance shift • Twenty years summarized • Systems perfect • Last time with 47B • Robot conversation • Crying over machine • Learning from robot • Final calibration • Goodbye to 47B • Going home to Amara • The work continues without him • Permission to let go
+**Key beats**: Final maintenance shift • Twelve years summarized • Systems perfect • Last time with 47B (8-year partnership) • Robot conversation • Crying over machine • Learning from robot • Final calibration • Goodbye to 47B • Going home to Amara • The work continues without him • Permission to let go
 
 ---
 
@@ -390,31 +390,31 @@ Reconnection. Teaching. Healing. The scattered begin to gather. The broken begin
 ## Chapter 38: Year 14 — Offering
 **POV: Ibrahim al-Rashid (33) | Year 14, Month 10 | ~4,000 words**
 
-**Opening**: Ibrahim still in Antarctica. Still doing maintenance. Six years since his wounding. Leg still limps. Faith still gone. But: something changed. Not hope. Purpose maybe. Small, tentative, real.
+**Opening**: Ibrahim still in Antarctica. Still doing maintenance. Twelve years since his wounding (Year 2). Leg still limps. Faith still gone. But: something changed. Not hope. Purpose maybe. Small, tentative, real.
 
-**The Work**: Six years maintaining arrays with David. Then David left. Ibrahim continued. Not leadership—just: showing up. Doing work. Being present. Something David taught without teaching.
+**The Work**: Seven years maintaining arrays (started Year 7, Month 3). First with David (Years 7-13), then David left Year 14. Ibrahim continued alone. Not leadership—just: showing up. Doing work. Being present. Something David taught without teaching.
 
-**Kenji's Circle**: Ibrahim attends weekly. Four years now. Still silent mostly. But: belonging. Community. People facing doom together. Ibrahim stopped fighting others. Learning to stop fighting himself. Slow progress.
+**Kenji's Circle**: Ibrahim attends Kenji's teaching weekly (Kenji returned Year 12, now Year 14 = two years of Kenji's teachings). Before that, attended other meditation groups Years 6-12. Still silent mostly. But: belonging. Community. People facing doom together. Ibrahim stopped fighting others. Learning to stop fighting himself. Slow progress.
 
 **Old Friends Present**: Min-seo still attends—seventy now, frailer, but still growing mint on her balcony. Derek comes sometimes—quiet Marine, aging, still understands Ibrahim's silences. Fatima hosts dinners still—smaller now, but faithful. These three kept Ibrahim alive Years 3-7. Now: they practice presence together. Witnessing each other's survival.
 
 **The Students**: Young people attend circle. Children born pre-detection, now teenagers. Fifteen years old maximum. All facing death before adulthood. Ibrahim watches them: scared, brave, angry, peaceful, confused, clear. All of it. Real.
 
-**The Question**: One student—girl, maybe fourteen—asks: "How do you face this? Knowing you'll never be adult? Never have full life?" Silence. No one has good answer. Then: Ibrahim speaks (rare). "I fought for eight years. Believed fighting mattered. Lost faith. Lost purpose. Got wounded. Almost died. Spent six years learning: maybe full life isn't length. Maybe full life is depth. Presence. Being here completely. You have less time than me. But: if you're present, you're full. That's complete."
+**The Question**: One student—girl, maybe fourteen—asks: "How do you face this? Knowing you'll never be adult? Never have full life?" Silence. No one has good answer. Then: Ibrahim speaks (rare). "I fought for eight years. Believed fighting mattered. Lost faith. Lost purpose. Got wounded. Almost died. Spent four years barely existing (Years 3-6). Spent seven years learning through work and practice: maybe full life isn't length. Maybe full life is depth. Presence. Being here completely. You have less time than me. But: if you're present, you're full. That's complete."
 
 **Surprised**: Ibrahim surprised himself. Didn't know he believed that until he said it. But: truth. Something learned from David's maintenance, Kenji's teaching, Wei's wisdom (secondhand). Young people watching him. Considering. Maybe believing.
 
 **Kenji After**: Kenji approaches. "That was wise." Ibrahim uncomfortable: "I'm not wise." "Wisdom isn't about being wise. It's about being present enough to speak truth. You did that." Ibrahim: "Did it help?" "I don't know. But: you offered yourself. That's generous."
 
-**Shift**: Something in Ibrahim shifts. Not dramatic. Subtle. He spent eight years destroying. Six years maintaining. Now: maybe building? Not physically. Emotionally. Communally. Offering what he learned to others. Teaching through living. Being present as offering.
+**Shift**: Something in Ibrahim shifts. Not dramatic. Subtle. He spent eight years destroying (fighting). Four years drifting (Years 3-6). Seven years maintaining (work starting Year 7). Now Year 14: maybe building? Not physically. Emotionally. Communally. Offering what he learned to others. Teaching through living. Being present as offering.
 
-**After Circle**: Min-seo, Derek, Fatima approach. Min-seo: "Ibrahim. You spoke today. That's new." Ibrahim uncomfortable: "Had something to say." Derek: "Helped me." Fatima: "Helped all of us." Pause. Min-seo touches his arm: "I remember when you first came to my door. Year 6. Broken. Silent. Counting stairs like ritual. Look at you now." Ibrahim: "I'm not different." Derek: "You are. We all are. Eight years of survival changes people." They stand together—four refugees who kept each other alive through nothing years. Now: witnessing each other bloom.
+**After Circle**: Min-seo, Derek, Fatima approach. Min-seo: "Ibrahim. You spoke today. That's new." Ibrahim uncomfortable: "Had something to say." Derek: "Helped me." Fatima: "Helped all of us." Pause. Min-seo touches his arm: "I remember when you first came to my door. Year 6. Broken. Silent. Counting stairs like ritual. Look at you now." Ibrahim: "I'm not different." Derek: "You are. We all are. Eight years of knowing each other (Year 6 to Year 14), surviving together, changes people." They stand together—four refugees who kept each other alive through nothing years. Now: witnessing each other bloom.
 
 **Two Years Left**: Ibrahim considers future. Two years. He'll be thirty-four at impact. Never imagined living this long. Thought he'd die in Jerusalem. But: survived. Found meaning in survival. Small meaning. Real meaning. And people—Min-seo, Derek, Fatima, David (gone to Lagos), Kenji—who witnessed that survival.
 
 **End**: Walking home with Min-seo (same building). Limping together. She's slower now. He steadies her on stairs. Fifty-three steps. Counting together. Arriving at their floor. "Tea tomorrow?" she asks. "Always," he says. Part of community. Part of circle. Part of something. No faith in God. But: faith in presence maybe. Faith in this moment. Faith in people facing doom together with dignity. That's enough.
 
-**Key beats**: Six years maintenance • David's teaching internalized • Attending Kenji's circle • Student's question • Ibrahim speaking wisdom • Surprising himself • Kenji's recognition • Shift toward offering • Two years left • Faith in presence
+**Key beats**: Seven years maintenance work • David's teaching internalized • Attending Kenji's circle (two years with Kenji, six years other groups before) • Student's question • Ibrahim speaking wisdom • Surprising himself • Kenji's recognition • Shift toward offering • One year left • Faith in presence
 
 ---
 
@@ -423,7 +423,7 @@ Reconnection. Teaching. Healing. The scattered begin to gather. The broken begin
 
 **NOTE**: Bridge chapter transitioning family from Lagos to Antarctica for Part IV. Parallels Chapter 27 (arrival in Lagos) but with darker undertones.
 
-**Opening**: Lagos. Final day. Zara, Kwame, Maya (17 years, 3 months), and Kofi (14 years, 2 months) packing. Not much—most possessions meaningless now. Photos. Wei's teachings. Children's artwork. What matters fits in small bags.
+**Opening**: Lagos. Final day. Zara, Kwame, Maya (17 years, 3 months), and Kofi (14 years, 3 months—born Year 0, Month 10) packing. Not much—most possessions meaningless now. Photos. Wei's teachings. Children's artwork. What matters fits in small bags.
 
 **Why Return**: Amara asks to be together for final months. David wants to be near his arrays. Elena invited them—community forming in Antarctica for the end. Zara hesitates (Lagos is home) but agrees (family matters most).
 
@@ -449,13 +449,13 @@ They stand together—compound residents, neighbors who became chosen family. Za
 
 **Arrival**: Antarctica spaceport. Colder. Quieter. Amara, David, Elena, Kenji waiting. Embraces. Welcome home (though it's not really home). Assigned quarters—larger than Lagos apartment. Temporary housing. Everything temporary.
 
-**First Night**: Family together in new apartment. Strange. Unfamiliar. Maya and Kofi sharing room (like when Kofi was baby). Zara and Kwame holding each other. Eight months left. Maybe nine if calculations off. Not enough time. Exactly the time they have.
+**First Night**: Family together in new apartment. Strange. Unfamiliar. Maya and Kofi sharing room (like when Kofi was baby). Zara and Kwame holding each other. Three months left (Year 15, Month 1 to Month 4). Not enough time. Exactly the time they have.
 
 **Zara's Reflection**: Lying awake. Fifteen years since detection. She chose life—marriage, children, engineering, teaching, presence. Some chose calculation (Amara). Some chose politics (Elena). Some chose seeking (Kenji). Some chose fighting (Ibrahim). Some chose maintenance (David). All valid. All temporary. All complete.
 
-**End**: Morning. First day in Antarctica. Zara looking out window—white landscape, artificial city, humanity's final gathering place. Maya and Kofi sleeping. Kwame beside her. Family together. Eight months. That's everything. That's enough.
+**End**: Morning. First day in Antarctica. Zara looking out window—white landscape, artificial city, humanity's final gathering place. Maya and Kofi sleeping. Kwame beside her. Family together. Three months. That's everything. That's enough.
 
-**Key beats**: Final day Lagos • Packing only what matters • Maya's grief for unlived life • Kofi's directness about death • Kwame's steadiness • Symbolic flight from warmth to cold • Reunion in Antarctica • Temporary housing • First night together • Eight months left • Zara's reflection on fifteen years • Family complete
+**Key beats**: Final day Lagos • Packing only what matters • Compound farewell (Adanna, Samuel, Mr. Okonkwo, Tom, Ling) • Maya's grief for unlived life • Kofi's directness about death • Kwame's steadiness • Symbolic flight from warmth to cold • Reunion in Antarctica • Temporary housing • First night together • Three months left • Zara's reflection on fifteen years • Family complete
 
 ---
 
