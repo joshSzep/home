@@ -99,7 +99,7 @@ The grief wells up—anticipatory grief she's carried seventeen years. But also:
 
 **Opening**: Community center. Kenji teaching presence practice. Sixty people attending—largest gathering yet. Everyone wanting to learn. Everyone wanting tools for facing the end.
 
-**Journey Reflected**: Reflection on path from seeker to teacher. Left for Lagos Year 1, age 23. Studied with Wei three years (Year 1-4). Continued after her death (Year 11). Returned to Antarctica Year 12, age 34. Teaching three years now (Year 12-15). Final teachings. Everything Wei gave him, passed forward.
+**Journey Reflected**: Reflection on path from seeker to teacher. Left Antarctica Year 1, age 23. Wandered six years seeking answers. Found Wei in Lagos Year 8, age 30. Studied with Wei three years (Year 8-11). Continued teaching after her death (Year 11). Returned to Antarctica Year 12, age 34. Teaching three years now (Year 12-15). Final teachings. Everything Wei gave him, passed forward.
 
 **The Practice**: Simple instructions. "Notice breath. Notice body. Notice thoughts without clinging. Notice feelings without drowning. This moment. This moment. This moment. Nothing more. Nothing less. This is enough."
 

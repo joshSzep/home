@@ -70,7 +70,7 @@ Zara looked directly into the camera. Older than Amara remembered. Gray threadin
 
 "Amara." Her sister's voice was flat. Not angry. Not sad. Just: tired. "This is my last message. I'm not angry anymore. I was for a long time—years, honestly. Angry that you calculated our deaths and then vanished. Angry that you chose isolation over family. Angry that Maya and Kofi have an aunt they'll never meet."
 
-She paused. Watched Kofi chase his butterfly. "Professor Wei is our neighbor. Our teacher. She's 122 years old now, still teaching from her garden even as her body fails. She's never met you, but she knows about you. Says you're hiding from life by burying yourself in death. Says the calculations are armor against feeling anything at all."
+She paused. Watched Kofi chase his butterfly. "Professor Wei is our neighbor. Our teacher. Still teaching from her garden even as her body fails. She's never met you, but she knows about you. Says you're hiding from life by burying yourself in death. Says the calculations are armor against feeling anything at all."
 
 Zara looked back at the camera. "She was right. I see that now. You're not calculating because it matters. You're calculating because it's safe. Because numbers don't ask anything of you. Because data doesn't love you back and can't be lost."
 
@@ -254,7 +254,7 @@ Zara updated her on Maya: nine years old, brilliant and serious, reading far abo
 
 And Kofi: six years old, joyful and curious, always in motion. "He's pure life," Zara said. "He doesn't understand extinction intellectually. He knows in eight years everyone dies. But it doesn't weigh on him the way it weighs on Maya. He's just—present. Happy. Alive. He makes everyone around him more alive too."
 
-Zara talked about Kwame, still steady, still working as an engineer despite everything. About their apartment compound, how neighbors had formed a tight community. About Professor Wei, their neighbor—122 years old now, body failing but mind sharp, still teaching from her garden. "She's the wisest person I've ever met," Zara said. "She teaches by just being present. Just noticing things. The children love her. I think you would too."
+Zara talked about Kwame, still steady, still working as an engineer despite everything. About their apartment compound, how neighbors had formed a tight community. About Professor Wei, body failing but mind sharp, still teaching from her garden. "She's the wisest person I've ever met," Zara said. "She teaches by just being present. Just noticing things. The children love her. I think you would too."
 
 Amara listened. Didn't share much—what would she share? Seven years of calculations meant nothing compared to Zara's life. But she listened. Really listened. Let her sister's words seep past the numbness, past the armor, past the fear.
 

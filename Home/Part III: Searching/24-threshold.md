@@ -16,7 +16,7 @@ What was she doing here?
 
 The answer came from Zara's voice in her head, six months of phone calls and slowly rebuilding: *"You can't heal everything at once, Amara. But you can try. One person at a time. Starting with the people you pushed away."*
 
-Amara had visited Lagos twice since that first call. Met Kofi properly—seven years old now, joyful and curious, calling her "Aunt Amara" like they'd known each other forever. Reconnected with Maya—ten and brilliant and asking questions about astrophysics that reminded Amara painfully of herself. Met Professor Wei—122 years old, body failing but mind sharp, still teaching from her garden. Begun learning what presence meant.
+Amara had visited Lagos twice since that first call. Met Kofi properly—seven years old now, joyful and curious, calling her "Aunt Amara" like they'd known each other forever. Reconnected with Maya—ten and brilliant and asking questions about astrophysics that reminded Amara painfully of herself. Met Professor Wei, body failing but mind sharp, still teaching from her garden. Begun learning what presence meant.
 
 But she hadn't contacted David. Hadn't known how. He'd tried so many times—Year 1, Year 2, Year 3, even that last attempt Year 4. She'd felt nothing. Said nothing that mattered. He'd finally stopped. Filed for divorce. Given up.
 

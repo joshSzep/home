@@ -60,13 +60,13 @@ Reconnection. Teaching. Healing. The scattered begin to gather. The broken begin
 ---
 
 ## Chapter 26: Year 8 — Stay
-**POV: Kenji Torres (31) | Year 8, Month 8 | ~4,500 words**
+**POV: Kenji Torres (30) | Year 8, Month 8 | ~4,500 words**
 
 **Opening**: Kenji in Lagos. Year 8 of wandering. Visiting his seventeenth city, fourth continent. Still seeking. Still empty.
 
 **Six Years of Searching**: Flashback montage—Buddhist monasteries, Stoic communities, Existentialist cafes, secular philosophy groups. Tokyo, Mumbai, Cairo, New Lagos. Met hundreds of seekers. Heard thousands of answers. Intellectual understanding abundant. Emotional integration: zero.
 
-**Exhaustion**: Kenji is tired. Thirty-one years old. Spent ages 25-31 traveling. Learned everything. Integrated nothing. Beginning to think: maybe there's no answer. Maybe seeking is pointless. Maybe he should just... stop.
+**Exhaustion**: Kenji is tired. Thirty years old. Spent ages 23-30 traveling. Learned everything. Integrated nothing. Beginning to think: maybe there's no answer. Maybe seeking is pointless. Maybe he should just... stop.
 
 **The Garden**: Walking Lagos District, lost, considering booking transport home (giving up). Passes small apartment building. Sees balcony garden—extraordinary beautiful. Flowers blooming despite autumn. Someone tending them slowly.
 
@@ -99,7 +99,7 @@ Reconnection. Teaching. Healing. The scattered begin to gather. The broken begin
 
 **David's Presence**: Kwame and David meet—two quiet men, both married to intense women. Instant understanding. Kwame: "Welcome. Tea?" David: "Please." They disappear into kitchen, leaving sisters alone.
 
-**The Apartment Tour**: Zara shows Amara their home. Engineering schematics. Children's art. Wei's garden next door (Wei is 122 years old now, still teaching). Photos. Life evidence. Amara seeing: her sister built something real. While Amara calculated, Zara lived.
+**The Apartment Tour**: Zara shows Amara their home. Engineering schematics. Children's art. Wei's garden next door (Wei is still teaching). Photos. Life evidence. Amara seeing: her sister built something real. While Amara calculated, Zara lived.
 
 **Difficult Conversation**: After children sleep. Sisters on balcony. Zara: "Why did you wait so long?" Amara: "Fear. Shame. Not knowing how." "How what?" "How to be human instead of scientist. How to care about things that end. How to love when love means loss."
 
@@ -284,7 +284,7 @@ Reconnection. Teaching. Healing. The scattered begin to gather. The broken begin
 
 **Preparation**: Elena nervous. What if they don't recognize each other? What if he's too changed? What if she's too changed? She prepares apartment—his old room, gathering dust. Makes it ready.
 
-**The Arrival**: Antarctica spaceport. Elena waiting. Transport arrives. Door opens. Kenji emerges—thirty-five years old, calm, present. They see each other. Eleven years. Mother and son. Elena breaks—tears, embrace. "You came home." "I'm sorry it took so long." "You're here. That's all that matters."
+**The Arrival**: Antarctica spaceport. Elena waiting. Transport arrives. Door opens. Kenji emerges—thirty-four years old, calm, present. They see each other. Eleven years. Mother and son. Elena breaks—tears, embrace. "You came home." "I'm sorry it took so long." "You're here. That's all that matters."
 
 **Catching Up**: They talk for hours. Kenji shares: the seeking, the emptiness, finding Wei in Lagos, three years of study, Wei's death, continuing teaching, finally feeling ready to return. Elena shares: ten years of governance becoming witness, Year 6 non-election, correspondence with Wei, finding purpose in presence.
 
