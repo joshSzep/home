@@ -1,6 +1,6 @@
 # Chapter 24: Reconciliation Begins
 
-**Dr. Amara Okafor (58) & David Chen (56) | Year 8, Month 2 | Antarctica**
+**Dr. Amara Okafor & David Chen | Year 8, Month 2 | Antarctica**
 
 ---
 
