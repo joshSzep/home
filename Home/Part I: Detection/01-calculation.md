@@ -215,6 +215,10 @@ She pulled up the countdown timer. Created a new display element on her screen:
 
 The numbers would decrement. Each second bringing the object closer. Each day reducing the time humanity had left. She would watch this countdown for fifteen years, updating it daily, tracking their march toward extinction with the same professional competence she'd brought to every other aspect of her work.
 
+Year 0. That's what they'd call it now. Not 3025 AD anymore—that calendar belonged to a species with a future. This was Year 0 of the new era. The only era that mattered. The countdown had become humanity's clock, and she'd just set it.
+
+She'd reset time itself.
+
 Because what else was there to do?
 
 What else could she do?

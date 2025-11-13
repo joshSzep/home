@@ -122,6 +122,12 @@ Maybe.
 
 She pulled up the housing authorization Marcus mentioned. Twelve hundred refugees needing shelter. Simple approval process. She signed it. Twelve hundred people would have housing today. Not forever. Just: today. Was that enough? It had to be. It was all anyone ever had.
 
+Next document: Temporal Standardization Act. She'd been putting this off for weeks. Simple administrative order, really—formalizing what everyone already practiced. Year 0 dating system. Official adoption of detection as temporal origin. Making the countdown calendar Antarctica's legal standard.
+
+Some part of her resisted. Abandoning the old calendar felt like abandoning history itself—millennia of human civilization reduced to irrelevant prologue. But people were already using Year 0. Already measuring time in months until impact. Already living in the countdown. The Act just acknowledged reality.
+
+She signed it. Another piece of the old world formalized into memory. Time itself reset by bureaucratic order.
+
 The comm chimed. Her son's name appeared. Kenji. She'd spoken to him twice since detection, both conversations brief and strained. He'd looked terrible—thin, hollow-eyed, clearly not sleeping. Rumors reached her: parties, substances, self-destruction. She'd wanted to help. Didn't know how. He didn't answer her calls anymore.
 
 She answered immediately. "Kenji? Mijo?"

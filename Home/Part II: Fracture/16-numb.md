@@ -134,7 +134,7 @@ He sat down in the spare chair—unused, dusty, probably hadn't been occupied in
 
 "Don't be. I'm fine."
 
-"You're not fine. You haven't been fine in four years. You barely eat. You never sleep. You don't talk to anyone. Your sister—"
+"You're not fine. You haven't been fine since detection. Four years, Amara. Four years of this. You barely eat. You never sleep. You don't talk to anyone. Your sister—"
 
 "Don't." Amara's voice sharper than intended. "Don't bring up Zara."
 

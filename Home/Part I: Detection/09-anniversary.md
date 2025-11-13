@@ -180,13 +180,13 @@ Maybe.
 
 ## Ibrahim — Jerusalem Camp, Evening
 
-One year faithless.
+One year faithless. One year since time reset and his purpose ended.
 
 Ibrahim knelt with his brothers for evening prayer. Automatic. Body doing what body had always done. But: nothing behind it. No connection. No belief. Just: going through motions because alternative was isolation.
 
 The camp had noticed. Imam had stopped trying to restore his faith. Brothers tolerated him but didn't trust him. He was hollow shell pretending faith.
 
-Why stay? Where else? Faith defined his identity. Without it: nothing. No purpose. No structure. No Ibrahim.
+Why stay? Where else? Faith defined his identity. Without it: nothing. No purpose. No structure. No Ibrahim. The life he'd built before detection—fighter, believer, servant of Allah—felt like someone else's memory.
 
 One year of emptiness. Fourteen years of same ahead. The prospect was unbearable. Prayer beads in hand feeling like stones. Words feeling like noise. Everything meaning nothing.
 

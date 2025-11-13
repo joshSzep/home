@@ -12,7 +12,7 @@ He used to say them. Used to mean them. The Compassionate. The Merciful. The Kin
 
 Ibrahim set them on the windowsill and stood, slowly. His left leg protested—always did, always would. The shrapnel was still there, too close to his spine for removal. Permanent souvenir from his last battle. Four years ago now. Four years since everything broke.
 
-Twenty-three years old. Nine years left. No faith. No purpose. No identity.
+Twenty-three years old. Nine years left. No faith. No purpose. No identity. The old calendar—the one where years meant building toward something—felt like a language he'd forgotten how to speak.
 
 Just: alive.
 

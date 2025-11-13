@@ -90,6 +90,8 @@ Elena had practiced this answer. Still felt unprepared.
 
 "You're right. By every measure, my term has been catastrophic. Population loss. System failures. Deaths. All of it happened under my governance." She paused. "But I'm not running on success. I'm running on presence. On showing up. On maintaining dignity and order and democratic process even when—especially when—those things seem meaningless. I can't stop the exodus. Can't stop the deaths. Can't stop the asteroid. What I can do: bear witness. Document accurately. Maintain structure. Say: we existed, we mattered, we tried. That's what I'm offering. Four more years of showing up."
 
+She met the moderator's eyes. "Year 0, we formalized the new calendar. Acknowledged that time itself had reset. Some called it symbolic theater—abandoning the old calendar when we should focus on practical needs. But someone had to say: this is Year 0. This is when our countdown began. This matters enough to document. That's governance. Maintaining order and meaning even when both seem futile."
+
 "Mr. Rivera, your response?"
 
 Marcus stepped forward. He'd dressed professionally—suit, serious expression. But his youth was obvious. Elena at thirty-two had looked young. Marcus at thirty-two looked like a child playing dress-up.

@@ -58,7 +58,7 @@ That was concerning. The imam's face was composed, but Ibrahim could see tension
 
 Hassan activated the broadcast.
 
-Ibrahim watched as Secretary General Chen explained: Near-Earth object detected. Collision course. Ninety-nine point nine seven percent impact probability. Fifteen years. Deflection impossible. Extinction inevitable.
+Ibrahim watched as Secretary General Chen explained: Near-Earth object detected. Collision course. Ninety-nine point nine seven percent impact probability. Fifteen years. Deflection impossible. Extinction inevitable. The screen showed a new calendar notation—Year 0—as if time itself had been reset to count down toward oblivion.
 
 The tent was silent except for the Secretary General's voice. A hundred and fifty men listening to the calm explanation of the end of everything.
 
