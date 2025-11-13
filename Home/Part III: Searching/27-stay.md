@@ -40,7 +40,7 @@ Zara meets him at her door. Forty-two years old now. Kenji last saw her at a fam
 
 "Of course. Family." She steps back, studying him. "You look tired."
 
-"Six years traveling."
+"Seven years traveling."
 
 "Did you find what you were looking for?"
 
