@@ -172,7 +172,9 @@ He tries again. The tree stands. Leaves move slightly in manufactured breeze. Fr
 
 "For how long?"
 
-"Until you stop asking how long." Wei picks up her soup bowl again. "You can stay. Guest room in Zara's apartment is yours as long as you need it. Come to garden every day. Help me water plants. We won't talk philosophy. Won't discuss theories. Just: tend garden together. That's teaching."
+"Until you stop asking how long." Wei picks up her soup bowl again. "You can stay. Guest room in Zara's apartment is yours as long as you need it. Come to garden every day. Help me water plants. We won't talk philosophy. Won't discuss theories. Just: tend garden together."
+
+Wei sips her soup. "That's teaching."
 
 Kenji feels something he hasn't felt in six years. Not hope—hope is too strong. But: possibility. Not of finding answers. Of stopping seeking answers. Wei isn't offering wisdom. She's offering presence. Being here. Watering plants. No grand revelation. Just: this.
 
