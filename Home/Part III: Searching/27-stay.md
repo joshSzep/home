@@ -6,7 +6,7 @@
 
 The transport arrives at dawn.
 
-Kenji stands in the arrival hall watching Lagos District wake through floor-to-ceiling windows. Engineered tropical climate—humid, bright, relentlessly alive. Fourth city in six years. Fourth continent if Antarctica counted, which it did in every way that mattered. Year 1, Month 6 to now. Tokyo to Cairo to Mumbai to here. Always moving. Never arriving.
+Kenji stands in the arrival hall watching Lagos District wake through floor-to-ceiling windows. Engineered tropical climate—humid, bright, relentlessly alive. Fifth city. Third continent. Antarctica to Tokyo to Cairo to Mumbai to here. Always moving. Never arriving.
 
 He's thirty years old. Feels older. Feels exhausted in ways sleep doesn't fix.
 
@@ -291,7 +291,7 @@ Kenji feels tears threatening. Six years of seeking. Six years of teachers offer
 
 Kenji sits with this. The garden is quiet. Wei isn't pushing. Just: offering. Stay. Rest. Water plants. Learn nothing. Be here.
 
-He thinks about Tokyo—seventeen months of zazen, still on Picture One. Cairo—fourteen months of philosophy, understanding everything and nothing. Mumbai—forty months of meditation, glimpsing occasionally, never catching. Six years and here he is: exhausted, empty-handed, arriving at useful despair.
+He thinks about Tokyo—seventeen months of zazen, still on Picture One. Cairo—fourteen months of philosophy, understanding everything and nothing. Mumbai—over four years of meditation, glimpsing occasionally, never catching. Seven years and here he is: exhausted, empty-handed, arriving at useful despair.
 
 Wei said useful despair is readiness. Readiness to stop. Readiness to stay.
 
