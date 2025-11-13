@@ -1,4 +1,4 @@
-# Chapter 18: Wandering
+# Chapter 19: Wandering
 
 **Kenji Torres | Year 5, Month 9 | Mumbai**
 
@@ -78,6 +78,8 @@ Kenji considered this. Nearly four years ago—Year 1, Month 6—he'd left Antar
 
 "I'm going to Lagos," he said suddenly. Hadn't known he'd decided until words emerged.
 
+He remembered the ox-herding pictures from Tokyo—three years ago now, Year 2, Month 11. Roshi had taught them. Ten stages from lost to enlightened. Kenji had understood them perfectly, explained them to his mother in careful detail, studied the scroll until he could recite each image. Roshi had said: "You're still on Picture One. Still seeking." Three years later, Kenji could see he'd progressed—maybe Picture Three now. Glimpsing the ox. Seeing it briefly through intellectual understanding. But Picture Three was still fundamentally lost. The ox glimpsed wasn't the ox caught. Understanding wasn't realization. He could see the teaching clearly across Tokyo, Cairo, Mumbai. But seeing wasn't being.
+
 Tomás looked surprised. "When?"
 
 "Soon. Maybe next month."
@@ -108,7 +110,11 @@ Maybe. Kenji finished eating. Tomás left for morning sutras. Kenji stayed, star
 
 This was how it felt in Tokyo. In Cairo. Always the same pattern.
 
-Nearly four years of wandering now. Year 1, Month 6 to Year 5, Month 9. Four cities if you counted Antarctica. Three continents. Seventeen months in Tokyo—Buddhist monasteries on the city outskirts, zazen practice six hours daily, studying koans with teachers who spoke through translators. He'd understood everything intellectually. The ten ox-herding pictures. The nature of mind. The practice of just sitting. But understanding remained locked in his head, never dropping into his body. After seventeen months of bowing and breathing and analyzing his inability to stop analyzing, he'd left.
+Nearly four years of wandering now. Year 1, Month 6 to Year 5, Month 9. Four cities if you counted Antarctica. Three continents. The ox-herding pictures called it "seeking the ox"—Picture One, the beginning. But Kenji had learned them in Tokyo, Year 2, Month 11, seventeen months into his journey. Roshi explaining the ten stages while snow fell outside the monastery. Picture One: seeking desperately. Picture Two: finding traces—footprints, hints, signs of the way. Picture Three: glimpsing the ox briefly. Seeing but not holding.
+
+Kenji was on Picture Three. Had been for years. Every city offered glimpses—Tokyo's zazen, Cairo's philosophy, Mumbai's meditation. Moments where he saw clearly, understood deeply, touched something real. Then it vanished. The ox seen but not caught. Picture Four required catching and holding—that seemed impossible. The gap between glimpsing and catching felt infinite.
+
+Seventeen months in Tokyo—Buddhist monasteries on the city outskirts, zazen practice six hours daily, studying koans with teachers who spoke through translators. He'd understood everything intellectually. The ox-herding pictures. The nature of mind. The practice of just sitting. But understanding remained locked in his head, never dropping into his body. After seventeen months of bowing and breathing and analyzing his inability to stop analyzing, he'd left.
 
 Year 3, Month 2: Cairo. Different approach. Western philosophy this time. If Eastern traditions couldn't help him embody acceptance, maybe Stoicism could teach him through reason. He'd found a community in the desert—secular philosophers living in a half-abandoned research station, practicing memento mori, studying Marcus Aurelius and Epictetus, holding daily sessions on mortality and meaning. More his speed, he'd thought. More aligned with his academic training.
 
@@ -286,13 +292,17 @@ He started a reply:
 
 *Mom—*
 
-*Year 5, Month 9 from Mumbai. I'm at an ashram. Hindu-Buddhist hybrid. Lot of seekers here, all trying to figure out how to live the ending. We meditate. Study. Talk in circles mostly. I understand intellectually what they're teaching—impermanence, acceptance, presence. Can't feel it yet. Emotional integration seems impossible. But I'm trying.*
+*Year 5, Month 9 from Mumbai. I'm at an ashram. Hindu-Buddhist hybrid. Lot of seekers here, all trying to figure out how to live the ending. We meditate. Study. Talk in circles mostly.*
+
+*Remember the ox-herding pictures I wrote you about from Tokyo? Year 2, Month 11? I've been thinking about them. I'm on Picture Three—"Glimpsing the Ox." I can see the teaching clearly. Understand impermanence, acceptance, presence intellectually. But I can't stay there. Can't embody it. Picture Four is "Catching the Ox"—holding onto understanding through struggle and practice. I don't know how to get there.*
 
 *Met some interesting people. Yuki—Japanese woman desperately seeking enlightenment. Father Tomás—Brazilian priest whose faith shattered. Amina—Egyptian philosopher as emotionally frozen as me. We're all performing seeking. Don't know if it's authentic or avoidance. Maybe both.*
 
 *Nearly four years wandering now. Tokyo taught me I can't stop thinking long enough to meditate properly. Cairo taught me Western philosophy handles death no better than Eastern practice—just different vocabulary for the same failure. Mumbai teaching me the same lessons again. The pattern is exhausting.*
 
-*But Professor Wei writes to you? I'd like to meet her. Zara mentions her sometimes—neighbor, teacher, 118 years old. Planning to go to Lagos soon. Want to learn from her directly before she dies. Or before I'm too closed off to learn. Whichever comes first.*
+*But Professor Wei writes to you? I'd like to meet her. Zara mentions her sometimes—neighbor, teacher, 118 years old. Maybe she can teach me how to move from glimpsing to catching. How to hold onto the ox when it struggles. Planning to go to Lagos soon. Want to learn from her directly before she dies. Or before I'm too closed off to learn. Whichever comes first.*
+
+*Maybe Lagos will be different. Maybe I'll just keep glimpsing until I die. Both seem possible. Picture Three continuing—seeing but not holding, understanding but not embodying. Four years of wandering. Four years of glimpses. Maybe that's all I'll ever get.*
 
 *I think about you a lot. You governing a dying city. Me wandering dying cities. Both of us trying to find meaning in collapse. Maybe we're doing the same work from different angles. Or maybe I'm just procrastinating while you're actually helping people. Hard to tell.*
 
@@ -461,6 +471,10 @@ Lagos next. Then: whatever came after Lagos. Then: whatever came after that.
 Wandering until wandering exhausted itself. Seeking until seeking revealed its own futility. Running until running transformed into something else—arrival, acceptance, presence. Whatever those words meant.
 
 The transport hummed. Kenji breathed. Year 5 continued. The seeking continued.
+
+Picture Three continuing. Glimpsing continuing. Four years of seeing the ox without catching it. Maybe Lagos would teach him how to finally hold on. Or maybe—and this felt more honest—maybe Lagos would teach him that glimpsing was enough. That being present to Picture Three was also valid practice. That he didn't need to reach Picture Ten before the asteroid arrived.
+
+The ox had been glimpsed. That was something. Three years ago in Tokyo, Year 2, Month 11, Roshi said he was still on Picture One, still just seeking. Now: Picture Three. Progress, even if it felt like failure. Two pictures in three years. Maybe that was the actual pace of transformation. Glacial. Invisible. Real.
 
 Everything continued because what else would it do?
 

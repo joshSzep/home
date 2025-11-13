@@ -1,4 +1,4 @@
-# Chapter 23: Connection
+# Chapter 24: Connection
 
 **Dr. Amara Okafor | Year 7, Month 9 | Antarctic Monitoring Station**
 
@@ -66,7 +66,7 @@ Amara opened the most recent message. From three weeks ago.
 
 A video. Zara in Wei's garden in Lagos, afternoon sunlight streaming through the lemon tree that Wei had been growing for years. Two children visible—Maya (9 years old now, tall and serious, reading a book in the shade) and Kofi (6 years old, laughing at something off-camera, chasing a butterfly through the flowers).
 
-Zara looked directly into the camera. Older than Amara remembered. Gray threading through her hair. Lines around her eyes. But present. Alive. Real.
+Zara looked directly into the camera. Older than Amara remembered. Grey threading through her hair. Lines around her eyes. But present. Alive. Real.
 
 "Amara." Her sister's voice was flat. Not angry. Not sad. Just: tired. "This is my last message. I'm not angry anymore. I was for a long time—years, honestly. Angry that you calculated our deaths and then vanished. Angry that you chose isolation over family. Angry that Maya and Kofi have an aunt they'll never meet."
 

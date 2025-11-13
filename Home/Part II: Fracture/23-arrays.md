@@ -1,4 +1,4 @@
-# Chapter 22: Arrays
+# Chapter 23: Arrays
 
 **David Chen | Year 7, Month 2 | Antarctic Solar Arrays**
 

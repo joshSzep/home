@@ -1,4 +1,4 @@
-# Chapter 21: Drift
+# Chapter 22: Drift
 
 **Ibrahim al-Rashid | Year 6, Month 11 | Antarctica**
 
@@ -56,7 +56,7 @@ The lobby was mostly empty. A few residents checking mailboxes, one man sleeping
 
 Ibrahim walked through the lobby and out the main entrance.
 
-The Antarctic megacity sprawled in every direction. Building 12 was in the outer residential zone—lower-density, quieter, cheaper. Refugee housing. The city center was visible in the distance, towers rising toward the gray sky. Four billion people once. Fewer now. Nobody counted anymore.
+The Antarctic megacity sprawled in every direction. Building 12 was in the outer residential zone—lower-density, quieter, cheaper. Refugee housing. The city center was visible in the distance, towers rising toward the grey sky. Four billion people once. Fewer now. Nobody counted anymore.
 
 The cold hit immediately. Ibrahim pulled his jacket tighter. Antarctic winter meant darkness—twenty-hour nights, brief twilight, no true day. Artificial lights everywhere compensating. The street lamps were motion-activated, saving energy. They lit as he walked, died after he passed.
 

@@ -1,4 +1,4 @@
-# Chapter 20: Mandate
+# Chapter 21: Mandate
 
 **Elena Torres | Year 6, Month 6 | Antarctic Megacity**
 
@@ -73,6 +73,8 @@ Her terminal chimed. Wei's weekly letter—sent yesterday, before the filing dea
 *Both legitimate. Both earned. Just different.*
 
 *Democracy is not only voting. It is also consent. Also accountability. Also the ability to challenge authority. If people can challenge you but choose not to, that is also democracy speaking.*
+
+*I write to your son sometimes. He inquired about ox-herding pictures once—seeking and finding. I responded but he hasn't written back. Silence is also communication. He's wandering still, I think. But wandering is also path. Sometimes Picture One lasts years. Sometimes seeking IS the finding. Tell him this if he writes you: the ox was never lost.*
 
 *With respect,  
 Professor Wei*

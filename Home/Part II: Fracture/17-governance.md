@@ -1,4 +1,4 @@
-# Chapter 16: Governance
+# Chapter 17: Governance
 
 **Elena Torres | Year 4, Month 7 | Antarctic Megacity**
 
@@ -103,6 +103,8 @@ She pulled up her personal messages. Kenji had written.
 *— Kenji*
 
 Elena read it twice. Her son was twenty-eight now. Nearly three years into his wandering. Still lost. Still seeking. Still alive, which was something. The parties had stopped, or at least the desperate obliteration had slowed. Progress. Maybe.
+
+His last letter—Year 2, Month 11—had mentioned something called "ox-herding pictures." Zen teaching about seeking and finding. He'd explained all ten stages with perfect intellectual clarity, then admitted he was still lost at stage one. Elena understood that feeling: governing through collapse, documenting witness no one would read, showing up to empty rooms. Maybe she was seeking something too. Or maybe, like Kenji's teaching suggested, being present to being lost was enough.
 
 She started a reply:
 

@@ -1,7 +1,7 @@
 # HOME — Part III Outline
 
 ## PART III: SEARCHING
-**Chapters 24-39 | ~65,000 words | Years 8-12**
+**Chapters 25-40 | ~65,000 words | Years 8-12**
 
 Reconnection. Teaching. Healing. The scattered begin to gather. The broken begin to mend.
 
@@ -9,7 +9,7 @@ Reconnection. Teaching. Healing. The scattered begin to gather. The broken begin
 
 ---
 
-## Chapter 24: Year 8 — Threshold
+## Chapter 25: Year 8 — Threshold
 **POV: Amara Okafor (59) & David Chen (57) | Year 8, Month 2 | ~4,000 words**
 
 **Opening**: David's apartment (his since the divorce). Amara arrives—first time in four years. Both nervous. Divorced Year 4. Haven't spoken in months. But: both ready to try.
@@ -34,7 +34,7 @@ Reconnection. Teaching. Healing. The scattered begin to gather. The broken begin
 
 ---
 
-## Chapter 25: Year 8 — Competence
+## Chapter 26: Year 8 — Competence
 **POV: Ibrahim al-Rashid (27) | Year 8, Month 5 | ~4,000 words**
 
 **NOTE**: Ibrahim was wounded Year 2 and evacuated to Antarctica Year 3, Month 2 (per written Chapter 13). He spent Years 3-7 unemployed and drifting (Chapter 21, Year 6). Started solar array maintenance Year 7, Month 3. This chapter shows his breakthrough 14 months into the work—discovering competence after years of emptiness.
@@ -59,7 +59,7 @@ Reconnection. Teaching. Healing. The scattered begin to gather. The broken begin
 
 ---
 
-## Chapter 26: Year 8 — Stay
+## Chapter 27: Year 8 — Stay
 **POV: Kenji Torres (30) | Year 8, Month 8 | ~4,500 words**
 
 **Opening**: Kenji in Lagos. Year 8 of wandering. Visiting his fourth city, fourth continent (including Antarctica). Still seeking. Still empty.
@@ -88,7 +88,7 @@ Reconnection. Teaching. Healing. The scattered begin to gather. The broken begin
 
 ---
 
-## Chapter 27: Year 9 — Roots
+## Chapter 28: Year 9 — Roots
 **POV: Zara Okafor-Mensah (42) | Year 9, Month 3 | ~4,500 words**
 
 **Opening**: Lagos spaceport. Zara waiting with Maya (11 years, 6 months) and Kofi (8 years, 8 months—born Year 0, Month 10). Nervous. Excited. Scared. Amara visiting for first time in nine years. Will it be awkward? Will the children like her? Will old wounds open?
@@ -115,7 +115,7 @@ Reconnection. Teaching. Healing. The scattered begin to gather. The broken begin
 
 ---
 
-## Chapter 28: Year 9 — Practice
+## Chapter 29: Year 9 — Practice
 **POV: Kenji Torres (32) | Year 9, Month 9 | ~4,000 words**
 
 **Opening**: Kenji has been Wei's student for thirteen months. Lives in her guest room. Tends garden daily. Practices presence. Slowly learning.
@@ -166,7 +166,7 @@ Actually—that might be everything.
 
 ---
 
-## Chapter 29: Year 10 — Letter
+## Chapter 30: Year 10 — Letter
 **POV: Elena Torres (70) | Year 10, Month 1 | ~4,000 words**
 
 **NOTE**: Kenji doesn't return until Year 12, Month 9 (Chapter 34). Elena finds peace in her role WITHOUT his return. This makes his eventual return more poignant.
@@ -199,7 +199,7 @@ Actually—that might be everything.
 
 ---
 
-## Chapter 30: Year 10 — Sunrise
+## Chapter 31: Year 10 — Sunrise
 **POV: David Chen (58) | Year 10, Month 4 | ~4,000 words**
 
 **Opening**: Platform 73. Dawn. David bringing Amara up for first time. She's visiting from Lagos, staying two weeks. Relationship healing slowly (divorced Year 4, reconnecting Year 8). Now: sharing his work. His meaning.
@@ -254,7 +254,7 @@ Five years left. Three maintaining arrays. Then: two years together in Lagos wit
 
 ---
 
-## Chapter 31: Year 10 — Community
+## Chapter 32: Year 10 — Community
 **POV: Ibrahim al-Rashid (29) | Year 10, Month 8 | ~4,000 words**
 
 **Opening**: Ibrahim's apartment, Building 12, Unit 403. Seven years here. Three years of maintenance work (started Year 7, Month 3). Life has rhythm now. Not joyful. But: sustainable. Present.
@@ -317,7 +317,7 @@ Not neutral. Connected. That's more than he hoped for Year 6. That's everything.
 
 ---
 
-## Chapter 32: Year 11 — Bloom
+## Chapter 33: Year 11 — Bloom
 **POV: Zara Okafor-Mensah (44) | Year 11, Month 8 | ~5,000 words**
 
 **Opening**: Wei is dying. Not asteroid—natural death. 125 years old. Body failing for months. Mind clear until end. Zara caring for her daily—bathing, feeding, moving. Honor and love.
@@ -344,7 +344,7 @@ Not neutral. Connected. That's more than he hoped for Year 6. That's everything.
 
 ---
 
-## Chapter 33: Year 12 — Legacy
+## Chapter 34: Year 12 — Legacy
 **POV: Kenji Torres (35) | Year 12, Month 2 | ~4,000 words**
 
 **Opening**: Six months since Wei's death. Kenji bereft. His teacher gone. His anchor lost. How to continue?
@@ -397,7 +397,7 @@ Wei's legacy: not immortality. Transmission. Person to person. Until there are n
 
 ---
 
-## Chapter 34: Year 12 — Return
+## Chapter 35: Year 12 — Return
 **POV: Elena Torres (72) | Year 12, Month 9 | ~4,000 words**
 
 **NOTE**: This is the FIRST time Elena sees Kenji since Year 1, Month 6 (over 11 years). Makes reunion much more poignant.
@@ -428,7 +428,7 @@ Wei's legacy: not immortality. Transmission. Person to person. Until there are n
 
 ---
 
-## Chapter 35: Year 13 — Migration
+## Chapter 36: Year 13 — Migration
 **POV: Amara Okafor (61) | Year 13, Month 3 | ~4,500 words**
 
 **Opening**: Two years until impact. Amara at monitoring station—but different now. Not hiding. Not calculating obsessively. Just: maintaining data. Real job. Finite purpose.
@@ -457,7 +457,7 @@ Wei's legacy: not immortality. Transmission. Person to person. Until there are n
 
 ---
 
-## Chapter 36: Year 13 — Farewell
+## Chapter 37: Year 13 — Farewell
 **POV: David Chen (62) | Year 13, Month 9 | ~4,000 words**
 
 **Opening**: Platform 73. David's last maintenance shift. Not retiring—moving. Going to Lagos with Amara. Leaving arrays. Leaving 47B. Leaving work that's been meaning itself.
@@ -484,7 +484,7 @@ Wei's legacy: not immortality. Transmission. Person to person. Until there are n
 
 ---
 
-## Chapter 37: Year 14 — Transmission
+## Chapter 38: Year 14 — Transmission
 **POV: Zara Okafor-Mensah (47) | Year 14, Month 6 | ~4,500 words**
 
 **Opening**: Three months since Amara and David arrived permanently. Life has found rhythm. Zara watches something beautiful: her sister teaching her daughter physics on the rooftop. David showing Kofi how to repair the water filtration system below. Knowledge passing down. Love made visible.
@@ -567,7 +567,7 @@ That's everything.
 
 ---
 
-## Chapter 38: Year 14 — Offering
+## Chapter 39: Year 14 — Offering
 **POV: Ibrahim al-Rashid (33) | Year 14, Month 10 | ~4,000 words**
 
 **Opening**: Ibrahim still in Antarctica. Still doing maintenance. Twelve years since his wounding (Year 2). Leg still limps. Faith still gone. But: something changed. Not hope. Purpose maybe. Small, tentative, real.
@@ -598,7 +598,7 @@ That's everything.
 
 ---
 
-## Chapter 39: Year 15 — Journey
+## Chapter 40: Year 15 — Journey
 **POV: Zara Okafor-Mensah (48) | Year 15, Month 1 | ~4,500 words**
 
 **NOTE**: Bridge chapter transitioning family from Lagos to Antarctica for Part IV. Parallels Chapter 27 (arrival in Lagos) but with darker undertones.

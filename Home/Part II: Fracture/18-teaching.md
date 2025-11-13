@@ -1,4 +1,4 @@
-# Chapter 17: Teaching
+# Chapter 18: Teaching
 
 **Professor Mei-Lin Wei | Year 5, Month 4 | Lagos District**
 
@@ -91,6 +91,8 @@ The letter continued:
 *That matters. That is meaning itself.*
 
 *Consider the flower. It blooms for three days. Does the brevity make blooming futile? No. The flower blooms because blooming is its nature. You govern because governing is your nature. Outcome is irrelevant. Practice is everything.*
+
+*A young man wrote to me months ago—Elena's son, seeking teacher. He'd mentioned studying in Tokyo, learning about the ox-herding pictures but unable to embody them. I responded: The pictures aren't ladder to climb. They're mirror to see where you are. Being present to Picture One is also practice. He hasn't written back. Sometimes seekers need silence more than words.*
 
 *Your son seeks what you've already found. He wanders the world looking for how to live ten years. You live those ten years by showing up. Every morning. Every briefing. Every decision that won't matter and matters completely.*
 

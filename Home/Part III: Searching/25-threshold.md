@@ -1,4 +1,4 @@
-# Chapter 24: Threshold
+# Chapter 25: Threshold
 
 **Dr. Amara Okafor & David Chen | Year 8, Month 2 | Antarctica**
 
@@ -30,7 +30,7 @@ She knocked.
 
 Footsteps inside. The door opened.
 
-David stood there—fifty-six years old, thinner than she remembered, gray threading through his hair. He wore his off-duty clothes: comfortable pants, old sweater. His expression cycled through surprise, confusion, uncertainty.
+David stood there—fifty-six years old, thinner than she remembered, grey threading through his hair. He wore his off-duty clothes: comfortable pants, old sweater. His expression cycled through surprise, confusion, uncertainty.
 
 "Amara."
 

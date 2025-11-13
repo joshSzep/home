@@ -1,4 +1,4 @@
-# Chapter 15: Numb
+# Chapter 16: Numb
 
 **Dr. Amara Okafor | Year 4, Month 1 | Antarctic Monitoring Station**
 
@@ -90,7 +90,7 @@ But he'd seen her car outside. Knew she was here. Would wait.
 
 She opened the door.
 
-"Hi," David said. Fifty-four years old now. Gray in his beard. Tired eyes. Her husband of thirteen years, looking like a stranger.
+"Hi," David said. Fifty-four years old now. Grey in his beard. Tired eyes. Her husband of thirteen years, looking like a stranger.
 
 "Hi."
 

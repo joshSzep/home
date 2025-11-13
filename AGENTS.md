@@ -47,10 +47,10 @@ Buddhist philosophy meets hard SF: impermanence, presence, meaning without perma
 - **Each chapter**: ~4,000-4,500 words typically
 
 ## Current Status (as of context)
-- **Parts I & II**: Complete (23 chapters)
-- **Part III**: 2 of 16 chapters written (24-25)
+- **Parts I & II**: Complete (24 chapters, including new Ch 12: Traces)
+- **Part III**: 2 of 16 chapters written (25-26)
 - **Part IV**: Detailed outline exists; none written yet
-- **Active work area**: Part III (Chapters 26-39)
+- **Active work area**: Part III (Chapters 27-40)
 
 ## File Conventions
 - All content is Markdown (`.md` files only)
@@ -67,6 +67,7 @@ Buddhist philosophy meets hard SF: impermanence, presence, meaning without perma
 - **David's work history**: Solar array maintenance since before detection (~Year -1); 9+ years by Year 8
 - **Marcus Reyes arc**: Elena's assistant Years -6 to 2 (8 years service), leaves Antarctica Year 2 for Mumbai, teaches refugee children Years 3-15, maintains quarterly correspondence with Elena, encounters Kenji in Mumbai Year 5, returns to Antarctica Year 15 Month 1 (final 3 months), helps teach with Ibrahim and Kenji, witnesses end with chosen family
 - **Two Marcuses**: Marcus Reyes (assistant, then Mumbai teacher) vs. Marcus Rivera (opponent, then deputy mayor) - both the same age, different journeys, both Elena's chosen family
+- **Ten Ox-Herding Pictures**: Zen teaching introduced Ch 12 (Tokyo, Year 2 M11); maps Kenji's journey: Pic 1 (seeking-Ch11), Pic 2 (traces-Ch12), Pic 3 (glimpsing-Ch19), Pic 4 (catching-Ch27), Pic 5 (taming-Ch29), Pic 6-7 (riding/ox forgotten-Ch35), Pic 8 (self forgotten-Ch44), Pic 9 (returning to source-Ch49), Pic 10 (marketplace-Ch51); teaching transmitted to Maya; novel's title "Home" = Picture 9
 
 ## Complete Chapter Outline
 
@@ -98,96 +99,98 @@ Buddhist philosophy meets hard SF: impermanence, presence, meaning without perma
 
 **Chapter 11: Departure** - Kenji leaves Antarctica to search the world for philosophical answers to mortality.
 
-**Chapter 12: Election** - Elena runs for re-election Year 2; Marcus challenges her; democracy persists despite doom.
+**Chapter 12: Traces** - Kenji at Tokyo monastery Year 2 learns the Ten Ox-Herding Pictures; Roshi tells him he's still on Picture One (seeking); seventeen breaths of presence.
 
-**Chapter 13: Breakdown** - Ibrahim wounded in Jerusalem fighting Year 2, evacuated to Antarctica, loses everything. Arrives Year 3, Month 2.
+**Chapter 13: Election** - Elena runs for re-election Year 2; Marcus challenges her; democracy persists despite doom.
 
-**Chapter 14: Maintenance** - David finds meaning in maintaining solar arrays that will function until impact.
+**Chapter 14: Breakdown** - Ibrahim wounded in Jerusalem fighting Year 2, evacuated to Antarctica, loses everything. Arrives Year 3, Month 2.
 
-**Chapter 15: Numb** - Amara, four years after detection, completely numb and isolated; David leaves her.
+**Chapter 15: Maintenance** - David finds meaning in maintaining solar arrays that will function until impact.
 
-**Chapter 16: Governance** - Elena governs a collapsing civilization, maintaining dignity through impossible circumstances.
+**Chapter 16: Numb** - Amara, four years after detection, completely numb and isolated; David leaves her.
 
-**Chapter 17: Teaching** - Wei teaches presence to Zara's family and others in Lagos as years pass.
+**Chapter 17: Governance** - Elena governs a collapsing civilization, maintaining dignity through impossible circumstances.
 
-**Chapter 18: Wandering** - Kenji travels the world seeking answers, finding intellectual knowledge but no emotional integration.
+**Chapter 18: Teaching** - Wei teaches presence to Zara's family and others in Lagos as years pass.
 
-**Chapter 19: Community** - Zara builds community in Lagos around Wei's garden and presence practice.
+**Chapter 19: Wandering** - Kenji travels the world seeking answers, finding intellectual knowledge but no emotional integration; realizes he's on Picture Three (glimpsing the ox).
 
-**Chapter 20: Mandate** - Elena runs unopposed Year 6; her authority shifts from electoral to demonstrated through presence.
+**Chapter 20: Community** - Zara builds community in Lagos around Wei's garden and presence practice.
 
-**Chapter 21: Drift** - Ibrahim drifts in Antarctica Year 6, unemployed, limping, faithless, counting steps, barely alive. Connects with Min-seo, Derek, Fatima.
+**Chapter 21: Mandate** - Elena runs unopposed Year 6; her authority shifts from electoral to demonstrated through presence.
 
-**Chapter 22: Arrays** - David maintains solar arrays with robot 47B, finding partnership and purpose.
+**Chapter 22: Drift** - Ibrahim drifts in Antarctica Year 6, unemployed, limping, faithless, counting steps, barely alive. Connects with Min-seo, Derek, Fatima.
 
-**Chapter 23: Connection** - Amara finally calls Zara after seven years of silence, beginning to reconnect.
+**Chapter 23: Arrays** - David maintains solar arrays with robot 47B, finding partnership and purpose.
+
+**Chapter 24: Connection** - Amara finally calls Zara after seven years of silence, beginning to reconnect.
 
 ### PART III: SEARCHING (Years 8-12)
 **Chapters: 16**
 
-**Chapter 24: Threshold** - Amara and David, divorced for four years, meet at his door to try reconnecting. David mentions Ibrahim, his work colleague.
+**Chapter 25: Threshold** - Amara and David, divorced for four years, meet at his door to try reconnecting. David mentions Ibrahim, his work colleague.
 
-**Chapter 25: Competence** - Ibrahim, fourteen months into solar array maintenance work after four years unemployed, realizes he's competent and no longer wants to die.
+**Chapter 26: Competence** - Ibrahim, fourteen months into solar array maintenance work after four years unemployed, realizes he's competent and no longer wants to die.
 
-**Chapter 26: Stay** - Kenji, exhausted from six years of seeking, finds Wei's garden in Lagos and begins to learn presence.
+**Chapter 27: Stay** - Kenji, exhausted from six years of seeking, finds Wei's garden in Lagos and begins to learn presence; Wei teaches him about Picture Four (catching the ox).
 
-**Chapter 27: Roots** - Zara and family reunite with Amara in Lagos; sisters reconnect after nine years apart.
+**Chapter 28: Roots** - Zara and family reunite with Amara in Lagos; sisters reconnect after nine years apart.
 
-**Chapter 28: Practice** - Kenji discovers he's ready to teach when he responds to a terrified mother seeking wisdom; Wei confirms he's becoming himself as teacher.
+**Chapter 29: Practice** - Kenji discovers he's ready to teach when he responds to a terrified mother seeking wisdom; Wei confirms he's reached Picture Five (taming the ox).
 
-**Chapter 29: Letter** - Elena receives letter from Wei and understands her role as chosen witness, not failed governor.
+**Chapter 30: Letter** - Elena receives letter from Wei and understands her role as chosen witness, not failed governor.
 
-**Chapter 30: Sunrise** - David brings Amara to Platform 73 and tells her he's leaving the arrays in Year 13 to move to Lagos with her.
+**Chapter 31: Sunrise** - David brings Amara to Platform 73 and tells her he's leaving the arrays in Year 13 to move to Lagos with her.
 
-**Chapter 31: Community** - Ibrahim realizes he has roots when Min-seo, Derek, and Fatima gather for intentional dinner together after four years of keeping each other alive.
+**Chapter 32: Community** - Ibrahim realizes he has roots when Min-seo, Derek, and Fatima gather for intentional dinner together after four years of keeping each other alive.
 
-**Chapter 32: Bloom** - Wei dies naturally at 125; her final words are "The flower bloomed."
+**Chapter 33: Bloom** - Wei dies naturally at 125; final teaching to Kenji about Pictures 6-10; her final words are "The flower bloomed."
 
-**Chapter 33: Legacy** - Maya (nearly 14) starts attending Kenji's teaching; he sees Wei's wisdom continuing through her and agrees to teach her everything.
+**Chapter 34: Legacy** - Maya (nearly 14) starts attending Kenji's teaching; he begins teaching her the ox-herding pictures; sees Wei's wisdom continuing through her.
 
-**Chapter 34: Return** - Kenji returns to Antarctica after eleven years; Elena welcomes her son home.
+**Chapter 35: Return** - Kenji returns to Antarctica after eleven years (Pictures 6-7: riding home, ox forgotten); Elena welcomes her son home.
 
-**Chapter 35: Migration** - Amara and David decide to move to Lagos to be with Zara's family for the final years.
+**Chapter 36: Migration** - Amara and David decide to move to Lagos to be with Zara's family for the final years.
 
-**Chapter 36: Farewell** - David says goodbye to Platform 73 and robot 47B after twenty years of maintenance.
+**Chapter 37: Farewell** - David says goodbye to Platform 73 and robot 47B after twenty years of maintenance.
 
-**Chapter 37: Transmission** - Zara watches Amara teach Maya physics and David teach Kofi engineering; the compound community gathers to honor fourteen years together before migration.
+**Chapter 38: Transmission** - Zara watches Amara teach Maya physics and David teach Kofi engineering; the compound community gathers to honor fourteen years together before migration.
 
-**Chapter 38: Offering** - Ibrahim begins offering wisdom to young people in Kenji's circle; teaching through presence.
+**Chapter 39: Offering** - Ibrahim begins offering wisdom to young people in Kenji's circle; teaching through presence.
 
-**Chapter 39: Journey** - Zara's family travels from Lagos to Antarctica for the final eight months; family converges.
+**Chapter 40: Journey** - Zara's family travels from Lagos to Antarctica for the final eight months; family converges.
 
 ### PART IV: CONVERGENCE (Year 15 - Final Year)
 **Chapters: 12**
 
-**Chapter 40: Arrival** - Amara's family arrives in Antarctica; three months until impact, family finally together.
+**Chapter 41: Arrival** - Amara's family arrives in Antarctica; three months until impact, family finally together.
 
-**Chapter 41: Assembly** - Elena observes final migration—1.8 million people choosing Antarctica as their final place.
+**Chapter 42: Assembly** - Elena observes final migration—1.8 million people choosing Antarctica as their final place.
 
-**Chapter 42: Seventeen** - Maya's first POV at seventeen years old, three months before she dies at seventeen and seven months.
+**Chapter 43: Seventeen** - Maya's first POV at seventeen years old; reflects on three years learning the ox pictures from Uncle Kenji (currently Picture 5-6).
 
-**Chapter 43: Moment** - Maya asks Kenji to teach her everything Wei knew in three months; he agrees to daily intensive training until the end.
+**Chapter 44: Moment** - Kenji realizes he's reached Picture 8 (both ox and self forgotten) while teaching; Maya asks him to teach her everything in three months remaining.
 
-**Chapter 44: Meaning** - David and Maya on Platform 73 discuss why maintenance matters when nothing lasts.
+**Chapter 45: Meaning** - David and Maya on Platform 73 discuss why maintenance matters when nothing lasts.
 
-**Chapter 45: Both** - Ibrahim and Imam Hassan reconcile; "both/and instead of either/or."
+**Chapter 46: Both** - Ibrahim and Imam Hassan reconcile; "both/and instead of either/or."
 
-**Chapter 46: Dignity** - Elena's final lessons on facing the end with dignity; thirty days remain.
+**Chapter 47: Dignity** - Elena's final lessons on facing the end with dignity; thirty days remain.
 
-**Chapter 47: Twenty-Six** - Twenty-six days before impact—brief vignettes from all POVs, everyone in chosen places.
+**Chapter 48: Twenty-Six** - Twenty-six days before impact—brief vignettes from all POVs, everyone in chosen places.
 
-**Chapter 48: Seven** - Zara's final week with her family—seven days lived normally, presently, fully.
+**Chapter 49: Seven** - Zara's final week with her family; embodies Picture 9 (returning to source—home was always here); seven days lived normally, presently, fully.
 
-**Chapter 49: Countdown** - Final day, hour by hour; everyone in their places as countdown accelerates.
+**Chapter 50: Countdown** - Final day, hour by hour; everyone in their places as countdown accelerates.
 
-**Chapter 50: Light** - Final forty-seven seconds; impact in Pacific; the light consumes everything.
+**Chapter 51: Light** - Final forty-seven seconds; Kenji and Maya teaching others (Picture 10: marketplace with gift-bestowing hands); impact in Pacific; the light consumes everything.
 
-**Chapter 51: Home** - Post-human epilogue; consciousness ended but for fifteen years they were present, together, home.
+**Chapter 52: Home** - Post-human epilogue; consciousness ended but for fifteen years they were present, together, home (Picture 9 realized at species level).
 
 ### Chapter Summary
-**Total Chapters**: 51
+**Total Chapters**: 52
 - **Part I (Detection)**: 9 chapters
-- **Part II (Fracture)**: 14 chapters  
+- **Part II (Fracture)**: 15 chapters (includes new Chapter 12: Traces)
 - **Part III (Searching)**: 16 chapters
 - **Part IV (Convergence)**: 12 chapters
 
@@ -196,10 +199,10 @@ Buddhist philosophy meets hard SF: impermanence, presence, meaning without perma
 - **Zara**: Towers → Defiance → Community → Roots → Seven Days
 - **Elena**: Witness → Mandate → Letter → Dignity → Complete
 - **David**: Maintenance → Arrays → Farewell → Meaning → Light
-- **Kenji**: Purpose → Wandering → Stay → Practice → Moment
+- **Kenji**: Purpose → Wandering (Pic 1-3) → Stay (Pic 4) → Practice (Pic 5) → Moment (Pic 8)
 - **Ibrahim**: Faith → Drift → Competence → Offering → Both
 - **Wei**: Garden → Teaching → Stay → Witness → Bloom
-- **Maya**: (appears young) → (grows throughout) → Seventeen → Seven → Light
+- **Maya**: (appears young) → (grows throughout) → Seventeen (Pic 5-6) → Seven → Light (Pic 10)
 
 ## Collaboration Guidelines
 When working on chapters or outlines:
