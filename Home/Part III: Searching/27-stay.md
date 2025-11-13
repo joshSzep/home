@@ -80,7 +80,7 @@ Kenji sits on the garden bench. Zara excuses herself—some compound meeting abo
 
 "You know my mother?"
 
-"We correspond. Five years now. She's wise woman. Understands witness."
+"We correspond. She's a wise woman. Understands witness."
 
 Kenji blinks. "My mother?"
 
