@@ -1,9 +1,9 @@
 # HOME — Part III Outline
 
 ## PART III: SEARCHING
-**Chapters 25-40 | ~65,000 words | Years 8-12**
+**Chapters 25-44 | ~80,000 words | Years 8-15 (Month 1)**
 
-Reconnection. Teaching. Healing. The scattered begin to gather. The broken begin to mend.
+Reconnection. Teaching. Healing. Awakening. The scattered begin to gather. The broken begin to mend. Maya's journey from encountering death to embracing presence.
 
 **Note**: Elena now governs through legitimacy-by-presence, not electoral mandate. Her journey from elected leader (Year -2, Year 2) to chosen witness (Year 6+) complete.
 
@@ -344,8 +344,42 @@ Not neutral. Connected. That's more than he hoped for Year 6. That's everything.
 
 ---
 
-## Chapter 34: Year 12 — Legacy
-**POV: Kenji Torres (35) | Year 12, Month 2 | ~4,000 words**
+## Chapter 34: Year 11 — Awakening
+**POV: Maya Okafor-Mensah (13 years, 11 months) | Year 11, Month 9 | ~4,000 words**
+
+**NEW MAYA POV - Buddha's Awakening Parallel**
+
+**Opening**: One week after Wei's death. Maya alone in Wei's garden, now maintained by Ling and others. Nearly fourteen years old. First real death she's witnessed. Everything changed.
+
+**The Buddha's Encounter**: Maya sitting where Wei taught, remembering Buddhist story Wei told her years ago—the Buddha encountering sickness, old age, death. "He saw the truth everyone pretends isn't real," Wei had said. "That awakened him." Maya understanding now, viscerally, what that means. Death isn't abstract. It's Wei's empty wheelchair. Wei's unfinished letters. Wei's voice gone forever.
+
+**Grief as Teacher**: Maya has understood impermanence intellectually since age three. Flowers die. Everything ends. Wei taught this constantly. But understanding isn't experiencing. Wei's death is different—personal, immediate, devastating. The grief is physical. She cries until empty, then cries more. This is what Wei meant. This is the truth beneath the philosophy.
+
+**The Empty Garden**: Walking through the garden, everything Wei tended is still here. The lemon tree. The gardenias. The mint Min-seo gave cuttings from. But Wei isn't. The garden continues without its gardener. Maya sees: this is what happens. Life continues. Consciousness ends. The world doesn't stop for individual death. 
+
+**Mama's Question Revisited**: "Will we be ready?" Maya asked Wei's final night. Now, one week later, she understands the answer better. No. She won't be ready to die at seventeen. But Wei showed her something else—how to die awake. How to be present until the last moment. How to love what you'll lose. That's different from ready.
+
+**What Maya Sees Clearly Now**:
+- She will die at 17 years, 7 months (calculating precisely: 44 months from now)
+- She will never be an adult, never fall in love, never have children
+- Everyone she loves will die with her or before her
+- This is real, not abstract—Wei proved it
+- And somehow, despite all this, the garden still blooms
+
+**The Shift**: Something crystallizes. Maya stops being a child learning philosophy and becomes a practitioner. This isn't preparation for some distant future death. This is NOW. She has less than four years. Wei showed her what those years could be—fully lived, fully present, fully awake. Maya wants that. Not because it makes death okay. Because it makes life real.
+
+**First Vow**: Maya makes a promise to Wei's memory, to herself. She will learn everything Wei would have taught her. She will practice presence not as concept but as lived reality. She will die at seventeen, but she will die awake. She will make her brief life matter the way Wei made 125 years matter—through presence, through teaching others, through loving what she'll lose.
+
+**Kofi Arrives**: Her brother (10 years, 11 months) finds her in the garden. "Mama's worried. You've been here four hours." Maya looks at him clearly—he'll die at fourteen. Younger than her. Less time to understand. She takes his hand. "Kofi, I need to tell you something about death." He nods, serious. "I know. Wei died." "Yes. And we will too. But Wei taught me something. Want to learn?" Kofi sits beside her among the flowers. Maya begins teaching him what she's just understood. The transmission already beginning.
+
+**End**: That evening, Maya tells Mama and Papa: "I want to study with Uncle Kenji. Formally. Everything he learned from Wei. I don't want to waste the time I have left." Zara seeing her daughter's face—something changed. Something awakened. Maya isn't a child anymore. Hasn't been since Wei died. Now: young practitioner. Brief life. Fierce commitment. Beginning.
+
+**Key beats**: One week after Wei's death • Buddha's awakening parallel (encountering death) • Intellectual understanding becoming visceral experience • The empty garden continuing • Grief as teacher • Calculating her remaining time precisely (44 months) • Understanding she won't be "ready" but can be "awake" • The shift from student to practitioner • First vow to live fully • Teaching Kofi (transmission begins) • Requesting formal study with Kenji • Maya's awakening—the birth of her practice
+
+---
+
+## Chapter 35: Year 12 — Legacy
+**POV: Kenji Torres (34) | Year 12, Month 3 | ~4,000 words**
 
 **Opening**: Six months since Wei's death. Kenji bereft. His teacher gone. His anchor lost. How to continue?
 
@@ -397,7 +431,7 @@ Wei's legacy: not immortality. Transmission. Person to person. Until there are n
 
 ---
 
-## Chapter 35: Year 12 — Return
+## Chapter 36: Year 12 — Return
 **POV: Elena Torres (72) | Year 12, Month 9 | ~4,000 words**
 
 **NOTE**: This is the FIRST time Elena sees Kenji since Year 1, Month 6 (over 11 years). Makes reunion much more poignant.
@@ -428,7 +462,7 @@ Wei's legacy: not immortality. Transmission. Person to person. Until there are n
 
 ---
 
-## Chapter 36: Year 13 — Migration
+## Chapter 37: Year 13 — Migration
 **POV: Amara Okafor (61) | Year 13, Month 3 | ~4,500 words**
 
 **Opening**: Two years until impact. Amara at monitoring station—but different now. Not hiding. Not calculating obsessively. Just: maintaining data. Real job. Finite purpose.
@@ -457,7 +491,7 @@ Wei's legacy: not immortality. Transmission. Person to person. Until there are n
 
 ---
 
-## Chapter 37: Year 13 — Farewell
+## Chapter 38: Year 13 — Farewell
 **POV: David Chen (62) | Year 13, Month 9 | ~4,000 words**
 
 **Opening**: Platform 73. David's last maintenance shift. Not retiring—moving. Going to Lagos with Amara. Leaving arrays. Leaving 47B. Leaving work that's been meaning itself.
@@ -484,7 +518,49 @@ Wei's legacy: not immortality. Transmission. Person to person. Until there are n
 
 ---
 
-## Chapter 38: Year 14 — Transmission
+## Chapter 39: Year 13 — Questions
+**POV: Maya Okafor-Mensah (15 years, 6 months) | Year 13, Month 9 | ~4,000 words**
+
+**SECOND MAYA POV - Questioning Phase**
+
+**Opening**: Lagos compound. Maya in Wei's garden (now two years since her death). Nearly sixteen years old. Twenty months until she dies. Practicing meditation daily with Uncle Kenji's group for fifteen months (since Year 12, Month 6). Something is shifting—questioning everything.
+
+**The Practice Established**: Maya has been practicing presence for fifteen months now. Daily meditation. Weekly teachings with Kenji. Reading Buddhist texts. She understands intellectually. But emotionally: still struggling. The questions multiply instead of dissolving.
+
+**Meeting with Kenji**: After group practice. Maya stays back. "Uncle Kenji, I need to ask something." He waits. "The practice—it's supposed to help, right? Make facing death easier?" "It makes life clearer. Death remains hard." "But I don't feel clearer. I feel... more confused. More aware of how much I'm losing."
+
+**The Realization**: Kenji explains: "That's progress. You're seeing clearly. Before, death was abstract. Now: real. That's harder. But also: honest. You're not bypassing grief with philosophy. You're feeling it."
+
+**What Maya Questions**:
+- Will the practice actually help when the moment comes?
+- Is she wasting her remaining time sitting in meditation instead of...what? Living?
+- What does "living fully" even mean when you're fifteen and dying at seventeen?
+- Should she try to fall in love? Experience things other teenagers experience?
+- Or is presence practice the best use of her limited time?
+
+**The Loneliness**: Maya realizes she's alone in her peer group. Other fifteen-year-olds in Lagos compound aren't practicing. They're partying, connecting, living desperately. She's sitting. Breathing. Being present. Is she choosing wisdom or missing life?
+
+**Conversation with Mama**: Zara finds her crying in the garden. "What's wrong, love?" Maya: "Mama, did you ever regret having me? Knowing I'd die so young?" Zara honest: "Every day. And never. Both true. You're here. You're real. That matters more than duration." "But what if I'm wasting my time? I could be out there, doing teenager things. Instead I'm meditating about impermanence. Maybe I should be living instead of practicing to die."
+
+**Zara's Wisdom**: "Maya, presence IS living. You're not practicing to die. You're practicing to be here. Fully. Now. That's all anyone can do, ever. Your time is short. But you're using it consciously. That's not waste. That's everything."
+
+**Mama's Story**: Zara shares something she's never told Maya. "When Wei died, I asked her once: 'Do you regret all the years practicing? All the time meditating instead of doing?' Wei said: 'Doing what? I was always doing the most important thing—being present to my life. Everything else was decoration.'"
+
+**The Doubt Persists**: But Maya still uncertain. She wants guarantees. Wants to know this path is right. Wants confirmation that presence practice at fifteen is worth the cost of missed experiences. No one can give her that. Not Kenji. Not Mama. Not Wei's memory.
+
+**Kofi's Simplicity**: That evening, Kofi (12 years, 11 months) bouncing through apartment. Happy. Playing. Present without practice. Maya watches him—he's just living. Not questioning. Not analyzing. Just: here. Maybe that's wisdom too. Maybe she's overthinking everything.
+
+**Late Night Realization**: Maya sits in her room. Seventeen months until death (calculating precisely now—a habit). She realizes: the questioning IS the practice. Wei never promised certainty. Kenji never promised peace. They promised: being present to what is. Right now, what is = doubt, fear, confusion, grief. Being present to THAT is practice too.
+
+**The Decision**: Maya writes in her journal (started after Wei's death): "I don't know if this practice will help when the moment comes. I don't know if I'm choosing right. But this is my choice. Fifteen years old. Twenty months left. I choose presence. Not because it's right. Because it's mine."
+
+**End**: Next morning. Maya at practice. Kenji teaching. She sits with her doubt. Breathes with her confusion. Stays present to her questioning. The practice continues. Not easier. Just: continuing. Maybe that's enough. Maybe that's everything. Maybe she'll never know until the end.
+
+**Key beats**: Two years after Wei's death • Fifteen months of practice • The questions multiplying • Feeling more confused, not clearer • Is she wasting her remaining time? • Loneliness of her path • Conversation with Mama about regret • Zara's wisdom on presence AS living • Wei's teaching through Zara • The doubt persists (no guarantees) • Watching Kofi's natural presence • Realizing questioning IS practice • Choosing presence despite doubt • Continuing without certainty
+
+---
+
+## Chapter 40: Year 14 — Transmission
 **POV: Zara Okafor-Mensah (47) | Year 14, Month 6 | ~4,500 words**
 
 **Opening**: Three months since Amara and David arrived permanently. Life has found rhythm. Zara watches something beautiful: her sister teaching her daughter physics on the rooftop. David showing Kofi how to repair the water filtration system below. Knowledge passing down. Love made visible.
@@ -563,12 +639,65 @@ That's enough.
 
 That's everything.
 
-**Key beats**: Three months after arrival, rhythm found • Maya/Amara morning physics (mathematics as love language) • Kofi/David afternoon engineering (maintenance as philosophy) • Compound gathering honoring 15 years • Mr. Okonkwo (82) still tending rooftops • Adanna thanking Zara for showing how to live • Tom on teaching vs projects • Ling invoking Wei's wisdom • Community that chose life every day • Amara witnessing what Zara built • "I wasted seven years. She built this." • The transmission recognized (Wei→Zara→Maya, David→Kofi, compound→family) • Eighteen months until impact, seven until migration • Teaching = loving = presence • Gentle farewell beginning • Honoring what was built • Still blooming
+**Key beats**: Three months after arrival, rhythm found • Maya/Amara morning physics (mathematics as love language) • Kofi/David afternoon engineering (maintenance as philosophy) • Compound gathering honoring 15 years • Mr. Okonkwo (82) still tending rooftops • Adanna thanking Zara for showing how to live • Tom on teaching vs projects • Ling invoking Wei's wisdom • Community that chose life every day • Amara witnessing what Zara built • "I wasted seven years. She built this." • The transmission recognized (Wei→Zara→Maya, David→Kofi, compound→family) • Eighteen months until impact, seven until migration • Teaching continuing until the end
 
 ---
 
-## Chapter 39: Year 14 — Offering
-**POV: Ibrahim al-Rashid (33) | Year 14, Month 10 | ~4,000 words**
+## Chapter 41: Year 14 — Deepening
+**POV: Maya Okafor-Mensah (16 years, 9 months) | Year 14, Month 12 | ~4,000 words**
+
+**THIRD MAYA POV - Deepening Practice**
+
+**Opening**: Lagos. Final weeks before migration to Antarctica (Year 15, Month 1). Maya almost seventeen years old. Four months until she dies. Something has shifted—the practice is deepening. Less questioning, more presence. Not because she has answers. Because she's stopped needing them.
+
+**Two Years of Practice**: Since Wei's death (Year 11, Month 8), Maya has practiced presence: 2 years, 4 months. Daily meditation. Weekly teachings with Kenji. Studying Buddhist texts. The questioning phase (Chapter 39, Year 13) was hard. But she stayed with it. Now: different. The practice working not because it's easier, but because she's meeting it honestly.
+
+**Morning Practice Alone**: Maya in Wei's garden. Predawn. Alone. She comes here most mornings now—before family wakes, before compound activity. Sitting where Wei sat. Meditating. Not fighting her mind. Not seeking peace. Just: sitting. Breathing. Being present to whatever arises. Fear. Grief. Love. All of it.
+
+**What Changed**: Not external. Internal. Maya stopped waiting for the practice to fix her fear of death. Stopped expecting presence to make dying okay. Started just... being present. To the fear. To the grief. To the love. All of it together. Paradox: acceptance doesn't mean okay. Means: this is what is.
+
+**The Realization**: Sitting in garden, watching sunrise, Maya understands something Wei tried to teach: The point isn't to feel different. The point is to be present to what you actually feel. She's terrified of dying. Will be terrified until it happens. But she can be present TO the terror. That's different from being consumed by it.
+
+**Teaching Moment**: After practice, two younger teenagers (14 and 15) from compound approach. They've watched Maya practicing. "Can you teach us? About... facing it?" Maya surprised—she's not a teacher. She's barely figured anything out. But she remembers Kenji teaching her: "I can sit with you. We can practice together. I don't have answers. But: presence is something we do together."
+
+**First Time Teaching**: They sit in garden. Maya teaches them basic breath meditation (what Kenji taught her). "Notice breath. Notice when mind wanders. Come back. That's all. You won't be good at it. I'm still not good at it. But: showing up is the practice." The girls try. Struggle. Maya remembers struggling. Still struggles. "Perfect. Keep going."
+
+**Uncle Kenji Watches**: He's been at compound for routine visit (he visits quarterly from Antarctica now). Sees Maya teaching. Approaches after. "You've become a teacher." Maya: "No, I just—" "You just taught presence to two terrified teenagers and gave them something real. That's teaching. Wei would be proud."
+
+**Maya's Understanding**: She's not ready to die. Will never be ready. But: she's ready to be present until she dies. That's different. Four months left. She'll keep practicing. Not to achieve something. Just: to be here. Fully. Until she can't.
+
+**Conversation with Aunt Amara**: That evening, rooftop. Mathematics session (their ritual now). But tonight, Maya asks different question. "Aunt Amara, do you think my life mattered? Brief life. Seventeen years, four months. Did it matter?" 
+
+Amara careful: "Yes. You taught those girls today. That matters. You lived consciously. That matters. Duration doesn't determine value. You matter because you're here. Because you're real. Because you chose to be present instead of numb. That's everything."
+
+"Even though I'll be gone in four months?"
+
+"Especially because you'll be gone in four months. You knew your timeline. You chose anyway. Chose practice. Chose presence. Chose to face it awake. Most people hide. You didn't. That's courage."
+
+**Kofi Watching**: Her brother (13 years, 11 months) has been watching her practice for two years. He doesn't practice formally—too young, too restless. But he's absorbed something from seeing Maya do it. Tonight he asks: "Maya, when the asteroid comes... will you be scared?" 
+
+Maya honest: "Yes. Terrified. But I'll be present to being scared. That's all I can do."
+
+"Will you hold my hand?"
+
+"Yes. We'll all hold hands. Mama, Papa, Aunt Amara, Uncle David. All of us together. I promise."
+
+**The Transmission Realized**: Maya understanding: Wei → Zara → Maya → Kofi → those two girls today. The teaching spreading. Not because she's enlightened. Because she's honest. Because she's present. Because she's willing to sit with terror and still show up.
+
+**Final Night in Lagos**: Three weeks until family migrates. Maya packing her room. Doesn't take much—photos, Wei's butterfly book, journal, a few clothes. At seventeen, she owns little. Needs less. Looking around the room: this is where she became herself. Became a practitioner. Became someone who could face death without looking away.
+
+**Saying Goodbye to the Garden**: Late night. Maya alone in Wei's garden one last time before migration. Every flower memorized. Every stone familiar. This is where she learned everything that matters. She sits. Meditates. Thanks Wei silently. Thanks the garden. Thanks the practice. Four months left. She's not ready. But she's present. That has to be enough.
+
+**End**: Returning to apartment. Everyone asleep. Maya lies in her bed. Four months until death (calculating still—a habit). Two years of practice behind her. Brief practice. But: real. She thinks: *Wei practiced 40 years. I'll get 2 years, 8 months total (Year 11 Month 8 to Year 15 Month 4). Not long enough to master anything. But long enough to learn presence. Long enough to matter. Long enough to teach two girls in a garden. Brief. Complete. Enough.*
+
+Sleep comes. Tomorrow: more practice. Eventually: migration. Then: final months. Then: death. All of it held in present moment. All of it real. All of it temporary. All of it beautiful.
+
+**Key beats**: Final weeks before migration • Four months until death • Practice deepening (not easier, but more honest) • Stopped needing answers • Morning practice alone in Wei's garden • Understanding presence TO fear vs consumed BY fear • First time teaching others • Kenji witnessing her becoming teacher • "Not ready to die, but ready to be present until I die" • Conversation with Amara about mattering • Promise to Kofi to hold hands at the end • The transmission spreading • Saying goodbye to Lagos compound garden • 2 years, 8 months total practice • Not mastery but presence • Brief, complete, enough
+
+---
+
+## Chapter 42: Year 14 — Offering
+**POV: Ibrahim al-Rashid (33) | Year 14, Month 9 | ~4,000 words**
 
 **Opening**: Ibrahim still in Antarctica. Still doing maintenance. Twelve years since his wounding (Year 2). Leg still limps. Faith still gone. But: something changed. Not hope. Purpose maybe. Small, tentative, real.
 
@@ -594,11 +723,83 @@ That's everything.
 
 **End**: Walking home with Min-seo (same building). Limping together. She's slower now. He steadies her on stairs. Fifty-three steps. Counting together. Arriving at their floor. "Tea tomorrow?" she asks. "Always," he says. Part of community. Part of circle. Part of something. No faith in God. But: faith in presence maybe. Faith in this moment. Faith in people facing doom together with dignity. That's enough.
 
-**Key beats**: Seven years maintenance work • David's teaching internalized • Attending Kenji's circle (two years with Kenji, six years other groups before) • Student's question • Ibrahim speaking wisdom • Surprising himself • Kenji's recognition • Shift toward offering • One year left • Faith in presence
+**Key beats**: Seven years maintenance work • David's teaching internalized • Attending Kenji's circle (two years with Kenji, six years other groups before) • Student's question • Ibrahim speaking wisdom • Surprising himself • Kenji's recognition • Shift toward offering • Two years left • Faith in presence
 
 ---
 
-## Chapter 40: Year 15 — Journey
+## Chapter 43: Year 14 — Readiness
+**POV: Maya Okafor-Mensah (17 years, 0 months) | Year 14, Month 15 (Year 15, Month 3 technically) | ~4,000 words**
+
+**FOURTH MAYA POV - Final Reflection Before Migration**
+
+**Opening**: Lagos compound. One week before family migrates to Antarctica. Maya's seventeenth birthday was two weeks ago (Year -2, Month 9 to Year 15, Month 2 = 17 years, 2 months old now). Two months until she dies. Final reflection on her seventeen years.
+
+**Seventeen Years**: Maya sitting alone in Wei's garden. Her whole life compressed into seventeen years, two months. She makes a list in her mind—not morbid, just honest accounting. What did she experience?
+
+**What She Had:**
+- Loving parents who chose her despite doom
+- Brother who needed her, who she raised alongside Mama
+- Grandmother Wei (honorary) who taught her everything that mattered
+- Lagos compound community who watched her grow
+- Uncle Kenji who taught her formal practice
+- Aunt Amara who finally came home
+- Uncle David who showed her maintenance as philosophy
+- Mathematics—beauty of patterns, elegance of physics
+- Books—especially the butterfly book Wei gave her
+- Gardens—watching flowers bloom and die, learning impermanence directly
+- 2 years, 8 months of formal presence practice (Year 11 Month 8 to Year 15 Month 4)
+- The ability to teach—she taught those two girls basic meditation
+- Complete knowledge of her death date (age 17 years, 7 months—five more months from now)
+
+**What She Never Had:**
+- Eighteenth birthday
+- University
+- Career
+- First kiss / romance / love
+- Sex
+- Her own children
+- Travel beyond Lagos and Antarctica
+- Full adulthood
+- Independence from parents
+- Time to become whoever she might have been
+
+**The Grief**: It hits her fresh today. She'll never know who adult Maya would have been. What she'd choose. Where she'd go. Who she'd love. All the possible Mayas—erased. Only this seventeen-year-old version exists. Brief. Incomplete. Final.
+
+**The Rage**: For the first time in months, Maya feels anger. Not at her parents (they gave her life, brief as it is). Not at the universe (the asteroid is just physics). But: anger at the unfairness. She did nothing wrong. She practiced presence. She loved openly. She faced death with courage. And still: she dies at seventeen. No reward for goodness. No exception for the young. Just: physics.
+
+**Sitting with Rage**: Maya practices what Kenji taught—presence includes rage. She doesn't have to be peaceful Buddhist practitioner. She can be angry seventeen-year-old dying too soon AND present. Both. She sits in garden, breathes with the rage, lets it be there. It doesn't dissolve. Just: coexists with everything else.
+
+**What Wei Would Say**: Maya imagines Wei (dead now three years, seven months). Wei would say: "Good. Anger is honest. Feel it. Don't drown in it. But don't bypass it with philosophy. You're seventeen. You're dying. Anger is appropriate." Maya smiles—she can still hear Wei's voice. The teaching lives in her.
+
+**Kofi Finds Her**: Her brother (14 years, 2 months) sits beside her. He sees she's been crying. "You okay?" "No. Not okay. Angry." "At what?" "At dying before I get to live." Kofi quiet. Then: "Me too. I'll only be fourteen. You at least get to be seventeen." They sit together—sister and brother, both dying too young, both angry, both present.
+
+**The Realization**: Sitting with Kofi, Maya realizes: the practice didn't fix anything. She's still terrified. Still angry. Still grieving unlived life. But: she's present TO all of it. That's different from numb. Different from hiding. Different from pretending it's okay.
+
+The practice gave her: ability to be with what is. To not look away. To love her brief life while grieving its brevity. To hold paradox—grateful for seventeen years AND enraged they're only seventeen years. Both true.
+
+**What Readiness Means**: People keep asking if she's ready. Mama, Aunt Amara, compound neighbors. "Are you ready?" She understands now: No. Never ready. But: present. Awake. Willing to face it without looking away. That's not readiness. That's something else. Presence maybe. Courage maybe. Just: not running.
+
+**Teaching One More Time**: Those two girls she taught (14 and 15) approach for final session before migration. They sit in garden. Practice together. After, one asks: "Maya, does the practice help? With the fear?" 
+
+Maya honest: "No. I'm still terrified. But: the practice means I'm terrified AND present. I'm not numb. I'm not hiding. I'm here, feeling everything, until I can't anymore. That's all it offers. That's everything."
+
+The girls understand. Or don't. Either way: transmission happened. Wei→Kenji→Maya→them. Brief chain. Real chain. Enough.
+
+**Final Night in Garden**: Alone again. Maya says goodbye to this place. Every flower. Every stone. Every shadow. This is where she learned to be present. Where Wei taught her. Where she became herself—brief self, young self, aware self. Seventeen years finding out who Maya Okafor-Mensah was. Now: five months to BE that person fully. Then: nothing.
+
+**The Promise**: Maya makes final vow (updating her first vow from Chapter 34). "I will die at seventeen years, seven months. Two months from now. I will die terrified, grieving, angry at unfairness. AND I will die awake. Present. Loving what I'm losing. Not because it makes death okay. Because it makes life real. For Wei. For those two girls. For Kofi. For Mama and Papa. For myself. I will die well. That's all I can promise."
+
+**End**: Walking back to apartment. Final week in Lagos. Then: Antarctica. Then: Uncle Kenji's intensive ninety-day teaching (he promised when she arrives). Then: final days. Then: asteroid. Then: nothing.
+
+But tonight: here. Tomorrow: packing. Next week: migration. Being present to each step. Not ready. Never ready. But: present. That's her practice. That's her life. That's enough.
+
+Maya whispers to the night: "Thank you. For seventeen years. Not enough. But: something. Thank you." And means it. Despite everything. Really means it.
+
+**Key beats**: One week before migration • Seventeenth birthday recent (17 years, 2 months old) • Two months until death • Accounting of what she had and never had • The grief for unlived life • Rage emerging (honest anger) • Sitting with rage as practice • Imagining Wei's response • Kofi joining her in anger • Understanding practice didn't fix anything, just enables presence • Redefining readiness (present, not ready) • Final teaching session with two girls • Honesty about still being terrified • Final goodbye to garden • Updated vow—will die awake despite terror • Gratitude despite everything • Not ready but present
+
+---
+
+## Chapter 44: Year 15 — Journey
 **POV: Zara Okafor-Mensah (48) | Year 15, Month 1 | ~4,500 words**
 
 **NOTE**: Bridge chapter transitioning family from Lagos to Antarctica for Part IV. Parallels Chapter 27 (arrival in Lagos) but with darker undertones.
