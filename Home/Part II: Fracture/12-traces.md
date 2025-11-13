@@ -204,9 +204,9 @@ That night, Kenji wrote to his mother:
 
 *Year 2, Month 11 from Tokyo. Seventeen months at this monastery. I learned something today called the Ten Ox-Herding Pictures. Ancient Zen teaching—ten stages from lost to enlightened. I'm going to explain them because they're beautiful and because writing to you helps me process.*
 
-*Picture One: Seeking the Ox. Boy completely lost, searching desperately. The ox (representing enlightenment/understanding/true nature) is missing. This is me Year 1, Month 6. This is still me now.*
+*Picture One: Seeking the Ox. Boy completely lost, searching desperately. The ox—representing enlightenment, understanding, true nature—is nowhere. This was me Year 1, Month 6. This is still me now.*
 
-*Picture Two: Finding the Traces. Boy sees footprints. Intellectual understanding. Reading sutras, learning techniques, knowing the path exists. I thought I was here. Roshi says I'm not—I'm still just seeking.*
+*Picture Two: Finding the Traces. Boy sees footprints. Intellectual understanding. Reading sutras, learning techniques, knowing the path exists. I thought I was here. Roshi says no—still just seeking.*
 
 *Picture Three: Glimpsing the Ox. Seeing it briefly but can't hold onto it. Moments of clarity that vanish. Haven't reached this yet.*
 
@@ -214,17 +214,17 @@ That night, Kenji wrote to his mother:
 
 *Picture Five: Taming the Ox. Still effort but cooperation emerging. Practice working. Integration beginning.*
 
-*Picture Six: Riding the Ox Home. Effortless practice. Teaching others becomes possible. Playing flute while riding. Joy.*
+*Picture Six: Riding the Ox Home. Effortless practice. The boy plays flute while riding. Ready to teach others. Joyful.*
 
-*Picture Seven: Ox Forgotten, Self Alone. The teaching so internalized it becomes invisible. Natural presence without technique.*
+*Picture Seven: Ox Forgotten, Self Alone. Teaching so internalized it becomes invisible. Natural presence without technique.*
 
-*Picture Eight: Both Ox and Self Forgotten. Empty circle. Pure presence. Complete. Cannot be described.*
+*Picture Eight: Both Ox and Self Forgotten. Empty circle. Pure presence. Cannot be described.*
 
-*Picture Nine: Returning to the Source. Understanding home was always here. Never left. The journey was discovering you never went anywhere. (This one made me think of you—you've been home this whole time. Showing up every day. You're already living Picture Nine without knowing it.)*
+*Picture Nine: Returning to the Source. Understanding home was always here. Never left. The journey was discovering you never went anywhere. (This one is you, Mom. You've been home this whole time. Showing up every day. Living Picture Nine without knowing it.)*
 
 *Picture Ten: Entering the Marketplace with Gift-Bestowing Hands. Teaching others. Compassion. Helping people. Returning to ordinary world with gifts of wisdom.*
 
-*The teaching is perfect. Maps exactly the journey I'm trying to make. From seeking answers about mortality (Picture One) to being present with mortality (Pictures Eight through Ten). But here's the problem: Roshi says I'm still on Picture One. Still just seeking. All my understanding is just thoughts about understanding, not actual understanding.*
+*The teaching is perfect. Maps exactly the journey I'm trying to make—from seeking answers about mortality to being present with mortality. But here's the problem: Roshi says I'm still on Picture One. All my understanding is just thoughts about understanding, not actual understanding.*
 
 *It's like this: Imagine you wanted to learn swimming. You could read books about swimming, study stroke mechanics, watch videos, understand hydrodynamics perfectly. But until you get in the water, you can't swim. I'm reading books about swimming. Analyzing stroke technique. Taking notes on buoyancy. Roshi is saying: just get in the water. But I don't know how to stop studying and start doing.*
 
@@ -283,11 +283,11 @@ Then his mind returned: *Was that it? Was that Picture Two? Did traces just appe
 
 And the moment was gone. Back to seeking. Back to Picture One.
 
-But: seventeen breaths. That was something. Seventeen more breaths of presence than he usually managed. In seventeen months, seventeen breaths of actual practice. That was terrible ratio. But also: seventeen breaths that didn't exist before.
+But: seventeen breaths. That was something. Seventeen breaths of presence that hadn't existed before. In seventeen months, seventeen breaths of actual practice. Terrible ratio. But also: seventeen breaths more than nothing.
 
 Maybe that was the traces Roshi meant. Not permanent understanding. Just: moments. Brief glimpses. Seventeen breaths at a time. The ox glimpsed for seventeen breaths then lost again. That's Picture Three maybe. Or Picture One-and-a-half. Somewhere between pure seeking and actually finding traces.
 
-Seventeen breaths. Seventeen months. Thirteen years left until extinction. All of it temporary. All of it complete in its own way. All of it: opportunity to practice presence to whatever picture he was actually on.
+Seventeen breaths. Seventeen months. Thirteen years left until extinction. All temporary. All complete in its own way. All of it: opportunity to practice presence to whichever picture he was actually on.
 
 Maybe that was enough. Maybe that was the real teaching. Every picture is complete in itself. Picture One isn't failure—it's where he actually is. And being present to Picture One IS practice. Even if he never reaches Picture Two.
 

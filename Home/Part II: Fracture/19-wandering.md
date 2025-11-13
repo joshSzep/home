@@ -110,9 +110,9 @@ Maybe. Kenji finished eating. Tomás left for morning sutras. Kenji stayed, star
 
 This was how it felt in Tokyo. In Cairo. Always the same pattern.
 
-Nearly four years of wandering now. Year 1, Month 6 to Year 5, Month 9. Four cities if you counted Antarctica. Three continents. The ox-herding pictures called it "seeking the ox"—Picture One, the beginning. But Kenji had learned them in Tokyo, Year 2, Month 11, seventeen months into his journey. Roshi explaining the ten stages while snow fell outside the monastery. Picture One: seeking desperately. Picture Two: finding traces—footprints, hints, signs of the way. Picture Three: glimpsing the ox briefly. Seeing but not holding.
+Nearly four years of wandering now. Year 1, Month 6 to Year 5, Month 9. Four cities if you counted Antarctica. Three continents. The ox-herding pictures called it "seeking the ox"—Picture One. But Kenji had learned them in Tokyo, Year 2, Month 11. Roshi explaining the ten stages while snow fell outside. Picture One: seeking. Picture Two: finding traces. Picture Three: glimpsing but not holding.
 
-Kenji was on Picture Three. Had been for years. Every city offered glimpses—Tokyo's zazen, Cairo's philosophy, Mumbai's meditation. Moments where he saw clearly, understood deeply, touched something real. Then it vanished. The ox seen but not caught. Picture Four required catching and holding—that seemed impossible. The gap between glimpsing and catching felt infinite.
+Kenji was on Picture Three. Had been for years. Every city offered glimpses—Tokyo's zazen, Cairo's philosophy, Mumbai's meditation. Moments where he saw clearly, touched something real. Then it vanished. The ox seen but not caught. Picture Four required catching and holding. The gap between glimpsing and catching felt infinite.
 
 Seventeen months in Tokyo—Buddhist monasteries on the city outskirts, zazen practice six hours daily, studying koans with teachers who spoke through translators. He'd understood everything intellectually. The ox-herding pictures. The nature of mind. The practice of just sitting. But understanding remained locked in his head, never dropping into his body. After seventeen months of bowing and breathing and analyzing his inability to stop analyzing, he'd left.
 
@@ -294,7 +294,7 @@ He started a reply:
 
 *Year 5, Month 9 from Mumbai. I'm at an ashram. Hindu-Buddhist hybrid. Lot of seekers here, all trying to figure out how to live the ending. We meditate. Study. Talk in circles mostly.*
 
-*Remember the ox-herding pictures I wrote you about from Tokyo? Year 2, Month 11? I've been thinking about them. I'm on Picture Three—"Glimpsing the Ox." I can see the teaching clearly. Understand impermanence, acceptance, presence intellectually. But I can't stay there. Can't embody it. Picture Four is "Catching the Ox"—holding onto understanding through struggle and practice. I don't know how to get there.*
+*Remember the ox-herding pictures from Tokyo? Year 2, Month 11? I've been thinking about them. I'm on Picture Three—glimpsing the ox. I can see the teaching clearly. Understand impermanence, acceptance, presence intellectually. But I can't stay there. Can't embody it. Picture Four is catching—holding onto understanding through struggle and practice. I don't know how to get there.*
 
 *Met some interesting people. Yuki—Japanese woman desperately seeking enlightenment. Father Tomás—Brazilian priest whose faith shattered. Amina—Egyptian philosopher as emotionally frozen as me. We're all performing seeking. Don't know if it's authentic or avoidance. Maybe both.*
 
@@ -474,7 +474,7 @@ The transport hummed. Kenji breathed. Year 5 continued. The seeking continued.
 
 Picture Three continuing. Glimpsing continuing. Four years of seeing the ox without catching it. Maybe Lagos would teach him how to finally hold on. Or maybe—and this felt more honest—maybe Lagos would teach him that glimpsing was enough. That being present to Picture Three was also valid practice. That he didn't need to reach Picture Ten before the asteroid arrived.
 
-The ox had been glimpsed. That was something. Three years ago in Tokyo, Year 2, Month 11, Roshi said he was still on Picture One, still just seeking. Now: Picture Three. Progress, even if it felt like failure. Two pictures in three years. Maybe that was the actual pace of transformation. Glacial. Invisible. Real.
+The ox had been glimpsed. That was something. Three years ago in Tokyo, Roshi said he was still on Picture One. Now: Picture Three. Progress, even if it felt like failure. Two pictures in three years. Maybe that was the actual pace of transformation—glacial, invisible, real.
 
 Everything continued because what else would it do?
 

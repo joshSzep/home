@@ -120,11 +120,11 @@ Kenji stops. Considers. "No."
 
 Kenji feels something crack in his chest. She's right. He's been running. From Antarctica. From the asteroid. From his own inability to transform. Dressed it up as seeking, as spiritual practice, as philosophical inquiry. But underneath: just running.
 
-"I'm thirty years old," he says quietly. "I'll be thirty-seven when everyone dies. And I've spent six years—almost a quarter of my remaining life—looking for how to live these years meaningfully. But I can't find it. I understand impermanence intellectually. I can explain the ox-herding pictures perfectly. I know all the teachings. But I can't *feel* them. Can't embody them. There's this gap between knowing and being and I can't cross it."
+"I'm thirty years old," he says quietly. "I'll be thirty-seven when everyone dies. And I've spent six years—almost a quarter of my remaining life—looking for how to live these years meaningfully. But I can't find it. I understand impermanence intellectually. I can recite all ten stages. I know all the teachings. But I can't *feel* them. Can't embody them. There's this gap between knowing and being and I can't cross it."
 
 Wei listens. Doesn't interrupt. Doesn't offer immediate wisdom. Just: listens.
 
-"The Tokyo teacher said I was still on Picture One," Kenji continues. "Still just seeking. That was six years ago. I thought I'd progressed since then—maybe Picture Three now, glimpsing the ox. But glimpsing isn't catching. I see it clearly sometimes—understanding, presence, acceptance. But I can't hold it. And I'm tired. So tired. Of seeking. Of failing. Of being stuck in my own head watching myself fail to be present while analyzing why I can't be present which prevents me from being present which I analyze which—" He stops. "It's recursive. Infinite loop. And I can't break it."
+"The Tokyo teacher said I was still on Picture One," Kenji continues. "Still just seeking. That was six years ago. I thought I'd progressed since then—maybe Picture Three now, glimpsing it. But glimpsing isn't catching. I see it clearly sometimes—understanding, presence, acceptance. But I can't hold it. And I'm tired. So tired. Of seeking. Of failing. Of being stuck in my own head watching myself fail to be present while analyzing why I can't be present which prevents me from being present which I analyze which—" He stops. "It's recursive. Infinite loop. And I can't break it."
 
 "Good," Wei says.
 
@@ -198,7 +198,7 @@ That night, Kenji sits in the guest room writing to his mother. Six years of let
 
 *I'm staying in Lagos. Not forever—nothing is forever. But for now. Going to stop seeking and start... being here. Trying to, anyway. The gap between trying and doing is the whole problem. But Wei says that's okay. The gap is practice.*
 
-*I miss you. Miss home. Miss the simplicity of just living instead of seeking meaning in living. Maybe that's what I'm learning. Maybe that's Picture Four of the ox-herding pictures—catching the ox after six years of glimpsing. Maybe I'm still on Picture One. Don't know. Wei says the pictures aren't ladder to climb, just mirror to see where you are. So: here I am. Lagos. Exhausted. Beginning again. Or stopping again. Same thing, maybe.*
+*I miss you. Miss home. Miss the simplicity of just living instead of seeking meaning in living. Maybe that's what I'm learning. Maybe that's Picture Four—catching the ox after six years of glimpsing. Maybe I'm still on Picture One. Don't know. Wei says the pictures aren't ladder to climb, just mirror to see where you are. So: here I am. Lagos. Exhausted. Beginning again. Or stopping again. Same thing, maybe.*
 
 *Seven years left. I won't spend them all in Lagos. But I'll spend some time here. Learning to water plants. Learning to not-learn. Learning to stop trying to learn. Whatever that means.*
 
@@ -261,9 +261,9 @@ They sit in silence after the watering is complete. The morning is still cool. L
 
 Kenji nods. Stays sitting. The garden blooming around them. The lemon tree standing patient. The herbs spreading in their containers. Everything temporary. Everything here now. Everything worth tending.
 
-He thinks about the ox-herding pictures. Picture Four: catching the ox. The boy grabs the rope, holds on, begins the work of taming. Still effort required. Still struggle. But contact made. The teaching caught, not just glimpsed.
+He thinks about Picture Four: catching the ox. The boy grabs the rope, holds on, begins the work of taming. Still effort required. Still struggle. But contact made. The teaching caught, not just glimpsed.
 
-Maybe this is Picture Four. Maybe watering plants with shaking-handed old woman is catching the ox. Not dramatic. Not enlightenment. Just: contact. Presence. Being here without seeking to be somewhere else.
+Maybe this is it. Maybe watering plants with a shaking-handed old woman is catching the ox. Not dramatic. Not enlightenment. Just: contact. Presence. Being here without seeking to be somewhere else.
 
 Or maybe he's still on Picture One and Wei is letting him think he's progressed. Doesn't matter. The pictures are mirror, not ladder. He's where he is. Here in this garden. Seven years until everyone dies. But right now: lemon tree watered. Gardenias tended. Work complete.
 
