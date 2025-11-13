@@ -116,15 +116,15 @@ Kenji stops. Considers. "No."
 
 "Because I don't know where else to go."
 
-"Ah. Now honest." Wei smiles slightly. "That's good start. The seeking itself is lie if you're running. But admitting you're running—that's closer to truth."
+"Ah. Now honest." Wei smiles slightly. "That's a good start. The seeking itself is a lie if you're running. But admitting you're running—that's closer to truth."
 
 Kenji feels something crack in his chest. She's right. He's been running. From Antarctica. From the asteroid. From his own inability to transform. Dressed it up as seeking, as spiritual practice, as philosophical inquiry. But underneath: just running.
 
-"I'm thirty years old," he says quietly. "I'll be thirty-seven when everyone dies. And I've spent six years—almost a quarter of my remaining life—looking for how to live these years meaningfully. But I can't find it. I understand impermanence intellectually. I can recite all ten stages. I know all the teachings. But I can't *feel* them. Can't embody them. There's this gap between knowing and being and I can't cross it."
+"I'm thirty years old," he says quietly. "I'll be thirty-seven when everyone dies. And I've spent seven years—almost half of my remaining life—looking for how to live these years meaningfully. But I can't find it. I understand impermanence intellectually. I can recite all ten ox-herding pictures. I know all the teachings. But I can't *feel* them. Can't embody them. There's this gap between knowing and being and I can't cross it."
 
 Wei listens. Doesn't interrupt. Doesn't offer immediate wisdom. Just: listens.
 
-"The Tokyo teacher said I was still on Picture One," Kenji continues. "Still just seeking. That was six years ago. I thought I'd progressed since then—maybe Picture Three now, glimpsing it. But glimpsing isn't catching. I see it clearly sometimes—understanding, presence, acceptance. But I can't hold it. And I'm tired. So tired. Of seeking. Of failing. Of being stuck in my own head watching myself fail to be present while analyzing why I can't be present which prevents me from being present which I analyze which—" He stops. "It's recursive. Infinite loop. And I can't break it."
+"The Tokyo teacher said I was still on Picture One," Kenji continues. "Still just seeking. That was nearly six years ago. I thought I'd progressed since then—maybe Picture Three now, glimpsing it. But glimpsing isn't catching. I see it clearly sometimes—understanding, presence, acceptance. But I can't hold it. And I'm tired. So tired. Of seeking. Of failing. Of being stuck in my own head watching myself fail to be present while analyzing why I can't be present which prevents me from being present which I analyze which—" He stops. "It's recursive. Infinite loop. And I can't break it."
 
 "Good," Wei says.
 
@@ -140,7 +140,7 @@ The word sits there. Stopping. Not seeking different answer. Not trying harder. 
 
 "I don't know how to stop," Kenji admits.
 
-"Good. Not-knowing is start." Wei gestures to the lemon tree. "You see this tree?"
+"Good. Not-knowing is a start." Wei gestures to the lemon tree. "You see this tree?"
 
 "Yes."
 
