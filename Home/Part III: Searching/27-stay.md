@@ -52,7 +52,7 @@ Inside, the apartment is warm chaos. Children's drawings on walls. Engineering s
 
 "That's Wei," Zara says, following his gaze. "She lives next door but spends mornings in my garden. Her own space is smaller. I'll introduce you after you've settled."
 
-Kenji unpacks in the guest room. Doesn't take long—he stopped carrying much by Cairo. Clothes. His mother's letters. The journal where he documents all the seeking that leads nowhere. That's it. Everything else he's learned to leave behind.
+Kenji unpacks in the guest room. Doesn't take long. His mother's letters. The journal where he documents all the seeking that leads nowhere. That's it. Everything else he's learned to leave behind.
 
 Through the window he can see the old woman in the wheelchair. She's watering a lemon tree, movements careful despite the shaking. Something about her presence. Not seeking. Not striving. Just: being. Here. Doing what needs doing.
 
