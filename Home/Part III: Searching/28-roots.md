@@ -50,7 +50,7 @@ The arrival board updates: eight minutes.
 
 Lagos District morning wraps around them like warm water—engineered tropical climate, bright and humid and relentlessly alive. Through the arrival hall windows, Zara sees the megacity waking: five million people beginning another day six years before they all end. Still building. Still working. Still living. The persistence is remarkable. Or delusional. Or both. Or neither—just: what life does. Continue until it can't.
 
-The compound rooftop garden is visible from here, a green crown on their building three kilometers away. The expansion they voted on in Year 6 is complete now—one hundred twenty square meters of growing space producing eighty percent of their vegetables. Planted three years ago. Will feed them for three more years. Then: vaporized. But today: thriving. That's enough.
+The compound rooftop garden is visible from here, a green crown on their building three kilometers away. The expansion they voted on in Year 6 is complete now—one hundred twenty square meters of growing space producing eighty percent of their vegetables. Planted three years ago. Will feed them for six more years. Then: vaporized. But today: thriving. That's enough.
 
 That's what Wei taught her. That's what she's tried to teach her children. That's what she hopes Amara has learned: Temporary and valuable aren't opposites. They're partners.
 
