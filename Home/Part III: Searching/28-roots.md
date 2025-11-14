@@ -8,7 +8,7 @@ The transport schedule updates: twelve minutes to arrival.
 
 Zara checks it again. Still twelve minutes. Time moving with the peculiar elasticity of anticipation—simultaneously crawling and accelerating toward a moment she's been imagining for eighteen months.
 
-Eighteen months since Amara finally called. Eighteen months of weekly conversations rebuilding what nine years of silence had fractured. Two brief visits in that time—awkward, tentative, both sisters learning how to be sisters again. But this is different. Two weeks. Extended stay. Family integration. The real test of whether connection survives proximity.
+Eighteen months since Amara finally called. Eighteen months of weekly conversations rebuilding what seven years of silence had fractured. Two brief visits in that time—awkward, tentative, both sisters learning how to be sisters again. But this is different. Two weeks. Extended stay. Family integration. The real test of whether connection survives proximity.
 
 "Mama, you're nervous." Maya looks up from her physics book—advanced orbital mechanics, university level, which she reads like entertainment. Eleven and a half years old and already seeing patterns everyone else misses. Like her aunt. Like both her mother's engineering and her aunt's astrophysics flowing together in one brilliant, serious child.
 
@@ -38,7 +38,7 @@ Zara pulls him onto her lap—getting harder as he grows, all elbows and knees a
 
 So Zara tells him again, the same story she's been telling since she called Amara back eighteen months ago: Your Aunt Amara is my big sister. She's a scientist who studies the sky. She lives in Antarctica where it's very cold. She was sad for a long time and far away, but now she's coming to visit. She wants to know you. She wants to be your aunt.
 
-What Zara doesn't tell him: She calculated your death before you were born and then disappeared into numbers for nine years. She missed your birth, your first words, your first day of school. She sent you nothing—no messages, no gifts, no acknowledgment you existed. She chose isolation over family because feeling anything hurt too much.
+What Zara doesn't tell him: She calculated your death before you were born and then disappeared into numbers for seven years. She missed your birth, your first words, your first day of school. She sent you nothing—no messages, no gifts, no acknowledgment you existed. She chose isolation over family because feeling anything hurt too much.
 
 But that was then. People change. People thaw. Amara is trying.
 
@@ -108,11 +108,11 @@ Amara. Fifty-nine years old, gray-threaded hair, thin in the way of people who f
 
 Sisters see each other across the arrival hall.
 
-Nine years. Nine years older. Both changed. Both different from who they were when Maya was born and Amara missed it, when Kofi was born and Amara sent nothing, when Zara stopped trying and Amara kept isolating.
+Seven years. Seven years older. Both changed. Both different from who they were when Maya was born and Amara missed it, when Kofi was born and Amara sent nothing, when Zara stopped trying and Amara kept isolating.
 
 But also: same. Still sisters. Still carrying the same grandmother's eyes, the same stubborn Okafor determination, the same engineering brain that turns everything into solvable problems even when some problems don't solve.
 
-Zara moves first. Has to. Amara is frozen, clearly terrified this won't work, that nine years of absence can't be bridged, that she's not welcome despite eighteen months of proof otherwise.
+Zara moves first. Has to. Amara is frozen, clearly terrified this won't work, that seven years of absence can't be bridged, that she's not welcome despite eighteen months of proof otherwise.
 
 So Zara crosses the distance. Closes the gap. Opens her arms.
 
@@ -126,7 +126,7 @@ The embrace is full. Not tentative. Not careful. Full. Real. Sisters holding eac
 
 "You're here now. That's enough."
 
-They hold each other and Zara feels nine years of grief and anger and fear dissolving. Not gone—you don't erase nine years in one embrace. But: releasing. Making space for something else. Something better. Something like forgiveness. Something like love continuing despite everything.
+They hold each other and Zara feels seven years of grief and anger and fear dissolving. Not gone—you don't erase seven years in one embrace. But: releasing. Making space for something else. Something better. Something like forgiveness. Something like love continuing despite everything.
 
 When they finally separate, both sisters crying, Zara sees David standing back with Maya and Kofi, giving them space. Her children watching, learning: this is what reconciliation looks like. This is what family choosing family looks like. This is what showing up means.
 
@@ -196,7 +196,7 @@ Kwame smiles. "Come. I'll make tea. The women can handle emotions. We'll handle 
 
 They disappear into the transport's family section, leaving Zara and Amara with the children. Maya holding Amara's other hand now, already explaining Lagos District's engineering—water reclamation, power systems, transit network. Kofi adding commentary about which parks have the best climbing trees and where his friend Samuel lives and how compound dinners work.
 
-Zara watches her children absorb their aunt into the family as if she's always been there. As if nine years of absence don't matter. As if love is simple and immediate and doesn't require perfect presence.
+Zara watches her children absorb their aunt into the family as if she's always been there. As if seven years of absence don't matter. As if love is simple and immediate and doesn't require perfect presence.
 
 Maybe it is. Maybe they understand something she's forgotten. Maybe children are closer to Wei's teaching: this moment. This moment. This moment. Nothing else exists.
 
@@ -222,7 +222,7 @@ The transport glides through Lagos District. Past residential zones where ten mi
 
 "There!" Kofi points out the window. "See that building with the gardens? That's ours!"
 
-The compound rises before them—fifty units, two hundred residents, rooftop thick with green. Home. Real home. Where Zara planted roots nine years ago and they've grown deep enough now to support new growth. To support her sister's return. To support family choosing family despite everything.
+The compound rises before them—fifty units, two hundred residents, rooftop thick with green. Home. Real home. Where Zara planted roots seven years ago and they've grown deep enough now to support new growth. To support her sister's return. To support family choosing family despite everything.
 
 ---
 
@@ -254,7 +254,7 @@ Amara touches a photo—Kofi at three years old, covered in soil from Wei's gard
 
 Amara looks at Zara, eyes shining. "Is it enough?"
 
-Zara thinks of Wei's teaching. Of flowers blooming and fading. Of lemon trees fruiting and resting. Of everything temporary and everything valuable. Of nine years of compound life teaching her that enough is whatever you have if you're present to it.
+Zara thinks of Wei's teaching. Of flowers blooming and fading. Of lemon trees fruiting and resting. Of everything temporary and everything valuable. Of seven years of compound life teaching her that enough is whatever you have if you're present to it.
 
 "Nothing's ever enough if you think it should be permanent," Zara says. "But it's what we have. And that makes it enough."
 
@@ -332,7 +332,7 @@ After dinner, children scatter to play. Adults linger over tea. Zara finds herse
 
 Zara hasn't thought of it that way. Her sister detecting the asteroid has always felt like betrayal—as if Amara personally chose this future. But Yuki is right. Amara could have hidden it. Could have let someone else bear witness. She didn't. She stood up and said: here's what's coming. Here's the truth. Here's the countdown.
 
-That took courage. Zara has spent nine years forgetting that.
+That took courage. Zara has spent seven years forgetting that.
 
 "She did," Zara agrees. "She did her job. Then she broke."
 
@@ -354,7 +354,7 @@ Kwame and David do dishes together, still talking, finding that easy companionsh
 
 Zara moves through it all feeling something unfamiliar. Not happiness—that's too simple. Not completion—that implies endings. Something else. Something like rightness. Like pieces finding their places. Like fractured family becoming whole not through magic but through choice. Choice to try. Choice to forgive. Choice to show up.
 
-Children finally sleep. Kwame and David retire—David to community housing nearby, Kwame to their bedroom. The apartment settles. Just Zara and Amara remaining, sisters alone for the first time in nine years.
+Children finally sleep. Kwame and David retire—David to community housing nearby, Kwame to their bedroom. The apartment settles. Just Zara and Amara remaining, sisters alone for the first time in seven years.
 
 They move to the balcony without discussion. Some conversations need open air. Need darkness. Need the privacy of night.
 
@@ -372,7 +372,7 @@ Amara is silent for long enough that Zara wonders if she'll answer. Then: "Fear.
 
 "No. It was dying slowly instead of quickly. Safer maybe, but not living."
 
-They sit with that truth. Zara has spent nine years angry at her sister's choice. But sitting here now, hearing Amara name it honestly, the anger dissolves. Different survival strategies. Both valid. Both understandable. One just happened to look like life while the other looked like death.
+They sit with that truth. Zara has spent seven years angry at her sister's choice. But sitting here now, hearing Amara name it honestly, the anger dissolves. Different survival strategies. Both valid. Both understandable. One just happened to look like life while the other looked like death.
 
 "You think I don't feel that?" Zara says finally. "Every day I watch my children grow knowing they'll never finish growing. Maya will be seventeen. Kofi will be thirteen. Never adults. Never their full selves." She looks at her sleeping children's windows. "But I still love them. Still parent them. Still choose presence."
 
@@ -382,7 +382,7 @@ They sit with that truth. Zara has spent nine years angry at her sister's choice
 
 "Love isn't less real because it ends," Zara continues. "It's more real. Because you know you can't take it for granted. Because every moment is the moment you have. Because temporary makes everything infinite."
 
-Amara is crying now. Quiet tears reflecting Lagos District lights. "I'm sorry I missed so much. Maya's birth. Kofi's birth. Nine years of their lives. I can't get that back. I know I can't."
+Amara is crying now. Quiet tears reflecting Lagos District lights. "I'm sorry I missed so much. Maya's birth. Kofi's birth. Seven years of their lives. I can't get that back. I know I can't."
 
 "No. You can't." Truth serves better than comfort. "But you have six years left. Six years to be their aunt. That's not nothing."
 
@@ -418,7 +418,7 @@ They sit together holding the telescope between them—three generations of Okaf
 
 "Thank you," Zara says. "For bringing this. For being here. For trying."
 
-"Thank you for not giving up on me. For keeping the door open. For letting me come back even after nine years of nothing."
+"Thank you for not giving up on me. For keeping the door open. For letting me come back even after seven years of nothing."
 
 "You're my sister. That doesn't change. Even when you disappear. Even when I'm angry. Even when it hurts. You're my sister. That's permanent even when everything else isn't."
 
@@ -436,7 +436,7 @@ Amara reaches for Zara's hand. Sisters holding hands on a balcony in Lagos Distr
 
 "The garden teaches that. Wei just tends it. We all just tend it. That's the practice. That's everything."
 
-They sit in comfortable silence—something they couldn't do nine years ago, something they're relearning now. Sisters. Family. Connected despite fracture, loving despite ending, present despite fear.
+They sit in comfortable silence—something they couldn't do seven years ago, something they're relearning now. Sisters. Family. Connected despite fracture, loving despite ending, present despite fear.
 
 Inside, the apartment holds sleeping children and waiting beds and tomorrow's beginning. Outside, Lagos District glows with five million persistent lights. Above, stars wheel across the sky carrying their ancient, indifferent light toward a planet that won't survive to see them again.
 
@@ -474,7 +474,7 @@ Too early to know. Too distant to plan. But: possible. Real possibility instead 
 
 Amara turns to face the window. Wei's garden is visible below—shadows and shapes in the darkness, the lemon tree standing patient, gardenias invisible but present. Tomorrow she'll water them. Learn Wei's practice. Tend life that will end but grows anyway.
 
-Nine years wasted. But six years remaining.
+Seven years wasted. But six years remaining.
 
 Better late than never.
 
@@ -488,13 +488,13 @@ Brief and complete.
 
 All of it true simultaneously. Wei's teaching. Zara's wisdom. The garden's lesson applied to family, to love, to the six years remaining.
 
-From Maya's room: pages turning. From Kofi's room: soft breathing. From Zara and Kwame's room: settled silence. From outside: Lagos District's persistent glow. From above: stars indifferent and beautiful. From within: something Amara hasn't felt in nine years.
+From Maya's room: pages turning. From Kofi's room: soft breathing. From Zara and Kwame's room: settled silence. From outside: Lagos District's persistent glow. From above: stars indifferent and beautiful. From within: something Amara hasn't felt in seven years.
 
 Peace.
 
 Not happiness—that's too simple. Not healing—that's too complete. Just: peace. Small peace. Fragile peace. Real peace.
 
-The peace of showing up. Of being present. Of choosing connection despite fear. Of family sounds through walls. Of tomorrow's garden waiting. Of six years to practice presence instead of nine years of practiced absence.
+The peace of showing up. Of being present. Of choosing connection despite fear. Of family sounds through walls. Of tomorrow's garden waiting. Of six years to practice presence instead of seven years of practiced absence.
 
 Amara closes her eyes. Sleep comes easier than it has in years. Not the exhausted collapse of isolation. Not the drugged unconsciousness of numbness. The peaceful rest of someone who belongs somewhere. Someone who's part of something. Someone who's home.
 
