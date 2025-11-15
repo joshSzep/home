@@ -33,8 +33,10 @@
 - Elena & Kenji: Mother-son; both learn presence through crisis
 - Elena & Marcus Reyes (assistant): He serves her Years -6 to 2, leaves for Mumbai, maintains correspondence Years 3-15, returns final three months
 - Elena & Marcus Rivera (deputy): Opponent Year 2, then deputy Years 2-15; transforms from challenger to partner
+- Elena & Daniel Okonkwo: Prisoner who killed friend during Year 2 riot; Elena refuses pardon despite advocacy from both Marcuses; visits him Year 6; Daniel dies by suicide Year 14 M8; Elena realizes too late she chose justice over mercy
 - Wei: Teacher to multiple characters (Zara, Kenji, others); correspondent with Elena and Reyes
 - Marcus Reyes & Kenji: Encounter in Mumbai Year 5; Reyes models healthy leaving/returning
+- Daniel Okonkwo & Raj Patel: Friends, both refugees; Daniel kills Raj over food during District 7 riot Year 2; carries profound guilt; writes 200+ letters to Raj's widow (never answered)
 
 ## Thematic Core
 Buddhist philosophy meets hard SF: impermanence, presence, meaning without permanence, acceptance without resignation. Everything was always temporary—the asteroid just makes it visible.
@@ -69,6 +71,7 @@ Buddhist philosophy meets hard SF: impermanence, presence, meaning without perma
 - **Two Marcuses**: Marcus Reyes (assistant, then Mumbai teacher) vs. Marcus Rivera (opponent, then deputy mayor) - both the same age, different journeys, both Elena's chosen family
 - **Ten Ox-Herding Pictures**: Zen teaching introduced Ch 12 (Tokyo, Year 2 M11); maps Kenji's journey: Pic 1 (seeking-Ch11), Pic 2 (traces-Ch12), Pic 3 (glimpsing-Ch19), Pic 4 (catching-Ch27), Pic 5 (taming-Ch29), Pic 6-7 (riding/ox forgotten-Ch36), Pic 8 (self forgotten-Ch48), Pic 9 (returning to source-Ch53), Pic 10 (marketplace-Ch55); teaching transmitted to Maya; novel's title "Home" = Picture 9
 - **Maya's Four POV Chapters** (NEW): Ch 34 (Awakening - age 13, Buddha's encounter with death), Ch 39 (Questions - age 15, doubt phase), Ch 41 (Deepening - age 16, first teaching), Ch 43 (Readiness - age 17, rage and gratitude before migration); shows her journey from encountering death to embracing presence; 2 years 8 months total practice (Year 11 M8 to Year 15 M4)
+- **Daniel Okonkwo arc**: Side character making violence/suicide statistics visceral; Year 2: kills friend Raj Patel with rebar over food during District 7 riot, sentenced to 15 years; Marcus Reyes advocates pardon before leaving, Elena refuses; Year 4: Marcus Rivera challenges her decision; Year 6: Elena visits prison, sees his three children (mother died Year 3 suicide), 200+ unanswered letters to victim's widow; Year 10: Wei's letter about mercy prompts reflection; Year 11: Kenji's return surfaces unresolved guilt; Year 14 M8: Daniel commits suicide (wants to die present, not guilty); Year 15: Elena learns of death in Ch 51, realizes mercy would have been wiser than justice—forgiveness too late; thematic exploration of justice vs. mercy, consequence vs. compassion when time is short
 
 ## Complete Chapter Outline
 
@@ -102,7 +105,7 @@ Buddhist philosophy meets hard SF: impermanence, presence, meaning without perma
 
 **Chapter 12: Traces** - Kenji at Tokyo monastery Year 2 learns the Ten Ox-Herding Pictures; Roshi tells him he's still on Picture One (seeking); seventeen breaths of presence.
 
-**Chapter 13: Election** - Elena runs for re-election Year 2; Marcus challenges her; democracy persists despite doom.
+**Chapter 13: Election** - Elena runs for re-election Year 2; Marcus challenges her; democracy persists despite doom. DANIEL OKONKWO INTRODUCED: District 7 riot, Daniel kills friend Raj Patel over food, arrested in horror, Elena visits holding cell, Marcus Reyes advocates pardon before leaving for Mumbai, Elena refuses.
 
 **Chapter 14: Breakdown** - Ibrahim wounded in Jerusalem fighting Year 2, evacuated to Antarctica, loses everything. Arrives Year 3, Month 2.
 
@@ -110,7 +113,7 @@ Buddhist philosophy meets hard SF: impermanence, presence, meaning without perma
 
 **Chapter 16: Numb** - Amara, four years after detection, completely numb and isolated; David leaves her.
 
-**Chapter 17: Governance** - Elena governs a collapsing civilization, maintaining dignity through impossible circumstances.
+**Chapter 17: Governance** - Elena governs a collapsing civilization, maintaining dignity through impossible circumstances. DANIEL: Year 4 prison report, Marcus Rivera challenges Elena's decision, Elena defends choosing justice over mercy but doubt lingers.
 
 **Chapter 18: Teaching** - Wei teaches presence to Zara's family and others in Lagos as years pass.
 
@@ -118,7 +121,7 @@ Buddhist philosophy meets hard SF: impermanence, presence, meaning without perma
 
 **Chapter 20: Community** - Zara builds community in Lagos around Wei's garden and presence practice.
 
-**Chapter 21: Mandate** - Elena runs unopposed Year 6; her authority shifts from electoral to demonstrated through presence.
+**Chapter 21: Mandate** - Elena runs unopposed Year 6; her authority shifts from electoral to demonstrated through presence. DANIEL: Prison visit—Elena sees his devastation, three children motherless (wife's suicide Year 3), 200+ letters to Raj's widow unanswered; Elena doesn't change decision but questions whether she was wrong.
 
 **Chapter 22: Drift** - Ibrahim drifts in Antarctica Year 6, unemployed, limping, faithless, counting steps, barely alive. Connects with Min-seo, Derek, Fatima.
 
@@ -184,7 +187,7 @@ Buddhist philosophy meets hard SF: impermanence, presence, meaning without perma
 
 **Chapter 50: Both** - Ibrahim and Imam Hassan reconcile; "both/and instead of either/or."
 
-**Chapter 51: Dignity** - Elena's final lessons on facing the end with dignity; thirty days remain.
+**Chapter 51: Dignity** - Elena's final lessons on facing the end with dignity; thirty days remain. DANIEL: Elena learns Daniel died by suicide Year 14 Month 8; final dignity chapter becomes about forgiveness too late, mercy would have been wiser than justice.
 
 **Chapter 52: Twenty-Six** - Twenty-six days before impact—brief vignettes from all POVs, everyone in chosen places.
 

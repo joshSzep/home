@@ -179,7 +179,9 @@ Actually—that might be everything.
 
 **Letter from Wei**: Elena opens her correspondence. Five years of letters exchanged with Professor Wei in Lagos. Wei's latest (received yesterday):
 
-*"Elena—You asked if witness matters when no one remains to remember. Wrong question. Witness doesn't matter BECAUSE someone remembers. Witness matters BECAUSE it happens. You show up. You document. You say: we existed, we mattered, we tried. That's everything. Not for future. For now. Presence doesn't require permanence. Meaning doesn't require memory."*
+*"Elena—You asked if witness matters when no one remains to remember. Wrong question. Witness doesn't matter BECAUSE someone remembers. Witness matters BECAUSE it happens. You show up. You document. You say: we existed, we mattered, we tried. That's everything. Not for future. For now. Presence doesn't require permanence. Meaning doesn't require memory.*
+
+*You also asked about mercy versus justice. About the prisoner you refused to pardon eight years ago. I cannot tell you if you were right or wrong—both matter. But I will say: when time is short, compassion often serves better than consequence. Not because justice doesn't matter. Because presence matters more. A man dying guilty in a cell cannot practice presence with his children. You chose principle. Perhaps mercy would have been wiser. But the choosing itself—the weight you carry—that is also practice. That is also presence. Do not punish yourself for choosing what you believed was right."*
 
 **Letter from Reyes**: Also waiting—quarterly letter from Marcus Reyes in Mumbai. Seven years of correspondence now (Year 3 to Year 10). His words different from Wei's—less philosophy, more grounded presence:
 
@@ -189,13 +191,15 @@ Actually—that might be everything.
 
 **The Realization**: She's been governing wrong question. "Am I effective?" No. "Am I present?" Yes. That's enough. That's everything. Burden doesn't lighten (still crushing) but changes shape. Becomes sustainable. Becomes choice instead of trap.
 
+**Daniel's Weight**: Wei's words about mercy surface Daniel Okonkwo—eight years in prison now, still writing letters, still separated from his children. Was she wrong? Should she have chosen compassion over consequence? The question has no answer. But it stays with her. Justice upheld. Mercy denied. Both choices had cost.
+
 **Decision**: She'll continue. Not as elected mayor (those days ended Year 6). Not as interim mayor (pretending democracy matters). As chosen witness. As person who shows up. For five more years. Until the end. Because someone should.
 
 **The Ritual**: Elena returns to her morning briefing. Alone. Speaks aloud: "Day 3,652. Population 1.2 billion. Infrastructure at 44% capacity. Governance continuing. Someone is bearing witness. That's me. That's enough."
 
 **End**: Elena filing her daily report. Sending to archive. No one reads it. That's not the point. The point is: someone documented. Someone bore witness. Someone said: we were here, we mattered, we faced the end with dignity. Tomorrow she'll show up again. And the next day. Until she can't.
 
-**Key beats**: Solitary ritual • Crisis of purpose • Considering quitting • Letter from Wei (not Kenji) • Wrong question vs right question • Understanding witness • Burden changing shape • From mayor to chosen witness • Decision to continue • Speaking aloud to empty room • Documentation as sacred act • Five more years
+**Key beats**: Solitary ritual • Crisis of purpose • Considering quitting • Letter from Wei (not Kenji) • Wei's words about mercy and Daniel Okonkwo • Wrong question vs right question • Understanding witness • Daniel's ongoing weight (8 years imprisoned) • Burden changing shape • From mayor to chosen witness • Decision to continue • Speaking aloud to empty room • Documentation as sacred act • Five more years
 
 ---
 
@@ -446,6 +450,8 @@ Wei's legacy: not immortality. Transmission. Person to person. Until there are n
 
 **Recognition**: They understand each other now. Elena: "Wei wrote to me. For five years. Her letters...they saved me." Kenji: "She wrote to me about you. Said your work was holy. Said witness matters." They smile—same teacher, different paths, both transformed.
 
+**Unfinished Business**: Kenji asks about regrets. Elena quiet for long moment. Then: Daniel Okonkwo. The man who killed his friend Year 2. Still in prison. Ten years now. Kenji listens. "Did you do what you believed was right?" "Yes." "And now?" "Now...I think mercy might have been wiser. But I can't undo it. He's there. His children are grown. The time for compassion passed." Kenji: "Forgiveness doesn't require perfect timing. It just requires willingness." Elena: "I don't know if I can face him." "Then practice presence with the guilt. That's also sacred work."
+
 **The Request**: Kenji: "I want to teach here. Presence practice. For whoever needs it. Will you help?" Elena: "Of course. I have an office building that's mostly empty. Perfect space." Kenji: "I don't need much. Just: room for people to sit." "You'll have it."
 
 **The Move**: Kenji settles in. Elena helps establish teaching space—community center room, simple, open. Kenji announces twice-weekly gatherings. Elena uncertain if people will come. They do. Thirty people first session.
@@ -458,7 +464,7 @@ Wei's legacy: not immortality. Transmission. Person to person. Until there are n
 
 **End**: Elena in mayor's office. Morning ritual. But: different now. Not bearing witness alone. Her son returned. Community forming around presence practice. Three years left. Everything temporary. Everything precious. She's ready? No. Present? Yes. That's enough.
 
-**Key beats**: Elena learning presence • Difficult for governor mind • Gradual understanding • Kenji wanting to return home • Elena's relief • Establishing teaching in Antarctica • Thirty people coming • Different governance • Seeing Kenji's wisdom • Mother and son healed • Not alone
+**Key beats**: Elena learning presence • Difficult for governor mind • Gradual understanding • Kenji wanting to return home • Elena's relief • Daniel Okonkwo surfaces (10 years imprisoned, unresolved guilt) • Kenji's gentle challenge about forgiveness • Establishing teaching in Antarctica • Thirty people coming • Different governance • Seeing Kenji's wisdom • Mother and son healed • Not alone but still carrying Daniel's weight
 
 ---
 

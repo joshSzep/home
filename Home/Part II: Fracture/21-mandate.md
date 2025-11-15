@@ -255,6 +255,68 @@ Elena laughed quietly. "You're very certain about hypothetical futures."
 
 ---
 
+The next day, Elena did something she'd been avoiding for four years.
+
+She visited Daniel Okonkwo in prison.
+
+The detention center was functional—barely. Overcrowded, understaffed, maintained because someone maintained it. Forty thousand prisoners across Antarctica. Down from eighty thousand at peak. Some released early. Some died. Some chose early endings rather than waiting for the asteroid.
+
+Daniel was in minimum security. No flight risk—where would he go? No violence beyond the initial crime. Just: a man serving nine more years that would end when everyone died.
+
+The guard brought him to the visitor room. Elena watched him enter—thirty-eight years old now, gaunt, moving carefully as if expecting pain. He saw her. Froze.
+
+"Mayor Torres."
+
+"Mr. Okonkwo. Sit. Please."
+
+He sat slowly, hands trembling. The bloodstains were long gone but Elena could see he still felt them. Permanent marks invisible to everyone except the person who'd worn them.
+
+"Why are you here?" His voice was careful. Respectful. Broken.
+
+"I wanted to see you. See how you were doing. Four years is a long time."
+
+"It's also nothing. Nine years left. I'll die here. Away from my children." No self-pity in his tone. Just fact. "They're twelve, ten, and eight now. Growing up without me. My oldest daughter writes sometimes. Tells me about school, about her siblings, about how they're managing. She's raising them, Mayor. Twelve years old and she's the parent."
+
+Elena felt the weight of that. "Where's their mother?"
+
+"Died Year 3. Suicide. Couldn't bear what I'd done. Couldn't bear raising three children alone knowing they'd all die anyway." His voice cracked. "So my daughter does it. Because I'm here. Because I killed Raj over three containers of food."
+
+"I'm sorry."
+
+"Don't be. This is justice. You sentenced me. I deserved it. Raj deserved justice. His widow deserved justice. Everyone deserved consequence." He looked at her directly. "I write to Raj's widow every week. Have for four years. Two hundred letters. She's never responded. Not once. I keep writing anyway. Apologizing. Explaining that I'm sorry, that I didn't mean to, that I'd take it back if I could. I know she'll never forgive me. I keep writing because... what else can I do?"
+
+Elena thought about those letters. Two hundred apologies sent into silence. Two hundred attempts at atonement that would never be accepted. The practice of remorse without the possibility of redemption.
+
+"Do you want to be pardoned?"
+
+The question hung there. Daniel's eyes filled with tears. "Every day. Every single day I want to see my children. Hold them. Tell them I'm sorry. Try to be their father for nine years instead of dying in here." He wiped his face roughly. "But wanting doesn't change what I did. I killed Raj. With my hands. Over food. I watched him die. His last words were his children's names—calling for them. And I took him from them. So no. I don't deserve pardon. I deserve this."
+
+"That's not what I asked."
+
+"I know." Daniel's voice dropped to whisper. "Yes. I want to be pardoned. I want to hold my children. I want to try to teach them how to face the end with dignity instead of dying in a cell as proof that some things still have consequences. But you were right, Mayor Torres. Justice matters. Even at the end. Especially at the end. Someone has to maintain that. You're that someone. I respect that even as it destroys me."
+
+Elena sat in the visitor room across from this grieving killer and saw: the cost of her decision. Not abstract. Specific. Three children without their father. A twelve-year-old raising her siblings. Two hundred letters sent to silence. A man dying from guilt in a cell while his family died from asteroid outside it.
+
+This was justice. Real consequence. The principle that actions mattered even when permanence didn't exist.
+
+But what had Marcus said? *Mercy matters more than justice when time is short.* What had Reyes said? *Let him carry his guilt in freedom instead of a cell.*
+
+Was she wrong? Had she been wrong for four years?
+
+"I don't know anymore," Elena said quietly. "Whether this is right. Whether justice matters more than mercy. Whether consequence is more important than presence. I thought I knew. I'm not certain anymore."
+
+"You chose," Daniel said simply. "You had to choose. You chose what you believed was right. That's all anyone can do. I live with my choice—I killed Raj. You live with yours—you keep me here. Both choices have weight. Both matter. Neither can be undone."
+
+Elena stood. "Thank you for seeing me."
+
+"Thank you for coming. It matters that you came. That you saw what your decision means. Most people wouldn't." He stood too. "I'll keep writing to Raj's widow. I'll keep apologizing. And nine years from now, when the asteroid comes, I'll face it in this cell knowing: I paid. I faced consequence. That matters. You made sure it mattered."
+
+The guard led him away. Elena stood in the empty visitor room, feeling the weight of justice and mercy, consequence and compassion, principle and practice colliding inside her.
+
+She didn't change her decision. But she wondered. And the wondering felt like its own kind of punishment.
+
+---
+
 Late evening. Marcus gone. Elena alone in the apartment that was simultaneously too small and too large. She pulled out her journal—physical notebook, old-fashioned. Pen and paper. Something about writing by hand made thoughts more real.
 
 **Year 6, Month 6, Day 1**

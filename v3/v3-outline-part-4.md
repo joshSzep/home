@@ -554,6 +554,14 @@ That's enough.
 
 **Opening**: Thirty days until impact. Elena's final month. She's documented everything. Borne witness for fifteen years. Now: final lessons. Final presence. Final dignity.
 
+**Daniel's Death**: Morning report arrives—prison notification. Daniel Okonkwo died seven months ago. Year 14, Month 8. Suicide. Guards found him peaceful, sitting in meditation posture, note beside him: "I wanted to die present, not guilty. Tell my children I tried. Tell the mayor she was right about justice. Wrong about mercy. Both true. Forgive me. —Daniel"
+
+Elena reads this three times. Thirteen years she kept him imprisoned. Thirteen years he wrote letters. Thirteen years he carried guilt. And six months ago—six months before everyone would die anyway—he chose to end it. Chose to die present rather than wait for the asteroid guilty.
+
+She never pardoned him. Never offered mercy. Justice upheld. Consequence maintained. And now: too late. He died alone in a cell. His children grew up without him. Raj Patel still dead. Justice served. Mercy denied. Nothing changed except more suffering added to the sum.
+
+Marcus Rivera finds her crying. "What happened?" She shows him the report. He sits beside her. Silent. Finally: "You chose what you believed was right." "I was wrong." "Maybe. Maybe mercy would have been wiser. But you chose honestly. That's all anyone can do." "It's not enough." "No. It's not. But it's what we have."
+
 **The Community**: Antarctica reduced to essential—1.2 million people remaining (600,000 left last month for chosen places). Those staying chose Antarctica as final witness. Chose this community. Chose together.
 
 **Daily Gathering**: Community center every morning. Kenji leading practice. Elena attending daily now—not as mayor, as person. Sitting with everyone. Breathing with everyone. Practicing presence with everyone.
@@ -578,9 +586,25 @@ Elena pauses. Considers. "I do rage. Some days. Some moments. But rage doesn't c
 
 **Conversation with Kenji**: Her son asks, "Mom, any regrets?"
 
-Elena thinks. "Yes. I wish I'd understood presence sooner. Wish I'd known: leadership is witness, not control. Wish I'd practiced what you teach decades ago."
+Elena thinks. "Yes. Daniel Okonkwo. I kept him in prison thirteen years. He died six months ago. Suicide. Alone. I chose justice over mercy. I was wrong."
 
-"You practiced by leading. Different path. Same destination."
+Kenji quiet. Then: "Were you wrong? Or did you choose what you believed was right at the time?"
+
+"Both. I believed justice mattered. I was wrong that it mattered more than compassion."
+
+"You're carrying his death."
+
+"Yes."
+
+"Can you forgive yourself?"
+
+"I don't know. He wanted forgiveness. I never gave it. Now I want it. Can't receive it. Maybe that's justice too."
+
+Kenji: "Or maybe it's learning. You learned mercy matters. You learned too late to help Daniel. But others learned from watching you learn. That's also transmission."
+
+Elena: "I wish I'd understood presence sooner. Wish I'd known: leadership is witness, not control. Wish I'd practiced what you teach decades ago. Wish I'd chosen mercy."
+
+"You practiced by leading. Different path. Same destination. And you're practicing now—facing your mistake honestly. That's also sacred work."
 
 "Is it enough?"
 
@@ -588,9 +612,9 @@ Elena thinks. "Yes. I wish I'd understood presence sooner. Wish I'd known: leade
 
 "Because I don't know the answer."
 
-"Maybe that's the answer. Not knowing. Being uncertain. Showing up anyway."
+"Maybe that's the answer. Not knowing. Being uncertain. Showing up anyway. Even with regret."
 
-Elena smiles. "Wise son."
+Elena smiles through tears. "Wise son."
 
 "I learned from Wei. Who learned from her teachers. Who learned from—"
 
@@ -632,9 +656,9 @@ Silence. Then: applause. Not celebratory. Acknowledging. Honoring.
 
 **End**: Elena in her apartment. Marcus Rivera nearby (lives close, visits daily). Kenji stopping by. Small family. Chosen family. Thirty days left.
 
-Elena's final journal entry for the chapter: *Day 335. Thirty days. I'm satisfied. Not with dying. With living. With showing up. With bearing witness. With facing this honestly. That's complete. That's enough. That's everything.*
+Elena's final journal entry for the chapter: *Day 335. Thirty days. Daniel Okonkwo died seven months ago. I learned about it today. Thirteen years I kept him imprisoned. He wanted to die present, not guilty. I denied him mercy until it was too late. I was wrong. I carry this. I'll die carrying this. That's justice. That's also learning. I'm satisfied with showing up, with bearing witness, with facing this honestly. I'm not satisfied with every choice. Daniel deserved mercy. His children deserved their father. I chose principle over humanity. I learned. Too late for Daniel. Not too late to practice differently now. Thirty days left. I'll practice mercy. I'll practice forgiveness—of myself, of others, of everything. That's all I have left to give. That's everything.*
 
-**Key beats**: Thirty days left • Community reduced to chosen 1,200 • Teaching through modeling • Young woman's question • Still documenting • Final entry • Conversation with Kenji about regret • The angry young gathering • Elena witnessing their rage • Honesty as gift • Final community gathering • Her speech • Both/and, not either/or • Satisfied with living, not dying
+**Key beats**: Daniel's death (7 months ago, suicide) • Elena learns too late • Grief and guilt • Marcus witnessing her pain • Thirty days left • Community reduced to chosen 1,200 • Teaching through modeling • Young woman's question • Still documenting • Conversation with Kenji about regret and Daniel • Learning mercy too late • The angry young gathering • Elena witnessing their rage • Honesty as gift • Final community gathering • Her speech • Both/and, not either/or • Satisfied with living, not all choices • Carrying Daniel until the end • Practicing mercy now
 
 ---
 

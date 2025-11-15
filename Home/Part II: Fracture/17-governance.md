@@ -224,9 +224,49 @@ Power outage in Sector 12. Chen reported repair crews responding but undermanned
 
 Health services requesting additional mental health staff. Dr. Ade's voice tight with exhaustion: "We're losing people daily to suicide. Not enough therapists. Not enough beds. Not enough anything." Elena approved the hire authorization. Knew they wouldn't find enough people. Approved it anyway.
 
+Prison report. Daniel Okonkwo, Year 2 into a 15-year sentence for manslaughter. Still writing weekly letters to Raj Patel's widow. Still receiving no response. Mental health deteriorating but stable enough for continued imprisonment.
+
+Elena filed this away without comment. Marcus Rivera watched her carefully.
+
 This was governance. Not grand strategy. Not visionary leadership. Just: responding to today's emergencies. Maintaining today's systems. Showing up today. Tomorrow would bring more crises, more failures, more overwhelming need. She'd show up tomorrow too.
 
 At 6 PM, Marcus stopped by her office. "Go home."
+
+"I have more work."
+
+"You always have more work. The work is infinite. Your capacity isn't. Go home."
+
+"In a moment." Elena looked at him. "You read the prison report."
+
+"I did."
+
+"You think I was wrong. To deny the pardon."
+
+Marcus chose his words carefully. "I think you chose justice over mercy. Both have value. But yes—I think Reyes was right. I think Okonkwo should be with his children."
+
+"He killed someone."
+
+"Yes. And he's dying from guilt in that cell. His children are growing up without him. Raj Patel is still dead. What does keeping Daniel imprisoned accomplish except more suffering?"
+
+"It upholds the principle that actions have consequences. Even at the end of the world."
+
+"Does it? Or does it just add cruelty to tragedy?" Marcus stood. "You asked why I stay. Part of it is this: I disagree with you about Daniel Okonkwo. I think you're wrong to keep him imprisoned. But you're still governing honestly, still trying to maintain justice in impossible circumstances. I respect that even when I think you're mistaken. That's why I stay—to witness your witness, to challenge when challenge is needed, to help you carry this burden even when we disagree about how to carry it."
+
+Elena felt the words settle. "You think I should pardon him."
+
+"I think mercy matters more than justice when time is short. But: it's your decision. You're the mayor. You're the one who has to live with either choice."
+
+"I am." Elena turned back to her work. "Thank you for saying it anyway."
+
+"That's my job. Go home when you can."
+
+He left. Elena sat with her decision—Daniel Okonkwo in prison, two years down, thirteen years left until they all died anyway. Justice maintained. Consequence upheld. A man separated from his children forever because he killed his friend over food during a riot caused by systems she governed.
+
+Was Marcus right? Was Reyes right? Should mercy matter more?
+
+She didn't change her mind. But she wondered. And the wondering would stay with her.
+
+At 6 PM, she finally went home.
 
 "I have more work."
 

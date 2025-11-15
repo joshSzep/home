@@ -146,9 +146,23 @@ District 7 was chaos. Fires burning. Crowds surging. Security forces in riot gea
 
 She found Commander Osei. "Report."
 
-"Started six hours ago. Protest about food distribution—some people getting less than allocation. Peaceful initially. Then someone threw something. Someone else responded. Spiral from there. Twelve confirmed dead. Thirty injured. Still escalating."
+"Started six hours ago. Protest about food distribution—some people getting less than allocation. Peaceful initially. Then someone threw something. Someone else responded. Spiral from there." Osei's voice caught. "Twelve confirmed dead. Thirty injured. And one—" He stopped. "One murder. Not riot death. Actual murder. Man beat another man to death with a piece of rebar. Over food containers. Security pulled him off the body. He was still holding it. Crying. Just—holding the dead man and crying."
 
-"What do they want?"
+Elena felt the words land. Murder. Not the abstract violence of riot statistics. A specific man. A specific death. A specific killer.
+
+"The killer?"
+
+"Detained. Identified as Daniel Okonkwo—refugee from flooded Jakarta, three children, unemployed for fourteen months. Victim is Raj Patel, thirty-one, also refugee. They knew each other. Both desperate. Both starving." Osei looked sick. "Okonkwo keeps saying he didn't mean to. Says he just—snapped. Patel had three containers. Okonkwo had none. Fight started. Then..."
+
+Elena understood. Desperation meeting desperation. Rage erupting from helplessness. A moment of violence ending in death. And then: the horror of what was done.
+
+"Where is he now?"
+
+"Holding cell. Confession recorded. Physical evidence clear. Open-shut case for prosecution."
+
+Open-shut. Elena filed this away. Someone would need to decide what justice meant when everyone died in thirteen years. Someone would need to determine if punishment mattered when permanence didn't exist. Not now. But soon.
+
+"What do they want?" Elena asked, nodding toward the crowd.
 
 "Honestly? They want to not be dying in thirteen years. Failing that: fair food, better housing, someone to blame." Osei looked exhausted. "We can't give them any of that."
 
@@ -198,7 +212,35 @@ Silence. The woman was crying now. Others crying too. The rage hadn't disappeare
 
 The riot didn't end cleanly. People didn't magically calm down. But the spike of violence passed. Security distributed emergency rations. Elena stayed for six hours—talking, listening, bearing witness.
 
-Seventeen dead total. Forty-three injured. Resources redistributed more fairly. Temporary peace.
+Seventeen dead total. Forty-three injured. One murder. Resources redistributed more fairly. Temporary peace.
+
+At hour five, Elena visited the holding cell.
+
+Daniel Okonkwo sat on the bench, hands still bloodstained despite washing. Thirty-four years old. Thin—everyone was thin now. Three children waiting somewhere for a father who'd killed a man over food.
+
+"Mr. Okonkwo," Elena said.
+
+He looked up. Recognition and shame collided in his expression. "Mayor Torres. I—" His voice broke. "I killed him. Raj. He was my friend. We worked together before. I killed my friend."
+
+"Tell me what happened."
+
+"I don't know. I was so hungry. My children—they're eight, six, and four. They hadn't eaten in two days. Allocation center ran out before we got there. Happened three times this week. Then I saw Raj with three containers. *Three*. And I just—" He gestured helplessly. "I asked if he could spare one. Just one. He said no. Said his family needed them. Then I got angry. Then he got angry. Then I picked up the rebar and..." 
+
+Tears now. "I didn't mean to kill him. I swear. I just wanted food. I just wanted my children to eat. And now Raj is dead and his children don't have a father and my children—" He couldn't finish.
+
+Elena watched this man dissolve into grief. The statistics were real now. Murder rate up 500%. This is what that meant. Desperate people killing each other. Friends turning on friends. Humanity fracturing under the weight of extinction.
+
+"What happens to me?" Daniel asked.
+
+"Trial. Probably conviction. Probably prison."
+
+"For how long? We only have thirteen years."
+
+"Yes."
+
+"So I'll die in prison. Away from my children. Never seeing them again. Because I killed my friend over food." His laugh was broken. "Justice, I guess."
+
+Elena had no answer. Justice did require consequence. Even when—especially when—nothing lasted. But standing here, looking at this grieving killer, she felt the weight of what would come. Someone would need to sentence him. Someone would need to decide what punishment meant when everyone was already condemned.
 
 Marcus—assistant Marcus—drove her home at dawn. "That was insane," he said.
 
@@ -431,7 +473,37 @@ The briefing continued. Practical governance alongside symbolic governance. Pres
 
 After, both Marcuses stayed.
 
-Reyes packed his belongings carefully—tablet, stylus, eight years of notes backed up to the archive. "That's it, then. My last briefing."
+Reyes pulled up his tablet. "Before I go—one last thing. Daniel Okonkwo."
+
+Elena felt the name like a weight. Three months since the riot. The trial had been swift—confession, evidence, conviction. Manslaughter. Fifteen years. Meaningless sentence when everyone died in thirteen.
+
+"What about him?"
+
+"I've been visiting him. Weekly. Since the sentencing." Reyes met her eyes. "He's falling apart. Grief, guilt, separation from his children. He writes letters to Raj Patel's widow every week—she never responds. He keeps writing anyway. Apologizing. Explaining. Begging forgiveness."
+
+"Reyes—"
+
+"I think you should pardon him."
+
+The words hung there. Elena felt them settle. Pardon. Mercy instead of justice. Forgiveness instead of consequence.
+
+"He killed someone."
+
+"Yes. In desperation. Over food. During a riot caused by governance failures—not your fault specifically, but: system failures we all participated in." Reyes leaned forward. "Elena, he's not dangerous. He's destroyed by what he did. Keeping him in prison for thirteen years accomplishes nothing except more suffering. His children need him. He needs them. And Raj Patel is still dead whether Daniel rots in a cell or tries to live with what he did."
+
+"Justice requires consequence."
+
+"Does it? Even when everyone's already condemned? Even when the consequence is just additional cruelty?" Reyes's voice was gentle. "I'm not saying he deserves forgiveness. I'm saying: mercy might matter more than justice when nothing lasts. Let him try to be present for his children. Let him carry his guilt in freedom instead of a cell. That's not absolving him—it's allowing him to face what he did while still living."
+
+Elena thought about this. Daniel Okonkwo in a cell, writing unanswered letters, separated from his children, dying in prison. Daniel Okonkwo free, raising his children, carrying Raj Patel's death every day, trying to be present despite everything.
+
+Both were punishment. One involved mercy.
+
+"I can't," she said finally. "If I pardon him, what message does that send? That killing is acceptable when you're desperate? That consequence doesn't matter?"
+
+"It sends the message that mercy matters more than judgment when time is short." Reyes stood. "But: it's your decision. I just wanted to ask before I left."
+
+He packed his belongings carefully—tablet, stylus, eight years of notes backed up to the archive. "That's it, then. My last briefing."
 
 "You could stay," Elena offered. "Different role. Still part of the team."
 
