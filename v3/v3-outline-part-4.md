@@ -662,7 +662,7 @@ Elena's final journal entry for the chapter: *Day 335. Thirty days. Daniel Okonk
 
 ---
 
-## Chapter 52: Year 15, Month 3 — Twenty-Six
+## Chapter 52: Year 15, Month 3 — Ordinary
 **POV: Multiple (Convergence Chapter) | Year 15, Month 3, Day 26 | ~5,000 words**
 
 **STATUS: CHAPTER 21 EXISTS — USE AS FOUNDATION, EXPAND SLIGHTLY**
@@ -691,7 +691,7 @@ Elena's final journal entry for the chapter: *Day 335. Thirty days. Daniel Okonk
 
 ---
 
-## Chapter 53: Year 15, Month 4, Day 1-7 — Seven
+## Chapter 53: Year 15, Month 4, Day 1-7 — Living
 **POV: Zara Okafor-Mensah (49) | Year 15, Month 4, Days 1-7 | ~5,000 words**
 
 **Opening**: Seven days remain. Zara wakes to this knowledge: one week. Seven days with her children. Seven days with Kwame. Seven days until everyone she loves dies.
