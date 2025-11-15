@@ -18,6 +18,18 @@ The evening prayer was Ibrahim's favorite. Maghrib—sunset prayer, when the day
 
 This was certainty. This was purpose. This was home.
 
+But more than that—and Ibrahim had never told anyone this, would never find words adequate—this was when he *felt* God. Not intellectually understood. Not dutifully believed. *Felt*. The presence arriving like warmth spreading through his chest. The sense of being held, witnessed, loved by something infinitely greater. His brothers around him, moving together, breathing together, prostrating together—and in that synchronized surrender, something opened. A door in his heart that led somewhere vast and luminous and absolutely real.
+
+He'd felt it first at age twelve. Friday prayers at the mosque in his village. The imam's voice calling them to worship. Two hundred men rising, bowing, prostrating in perfect unison. Ibrahim among them, going through motions he'd practiced since childhood. Then: it happened. Like the room filled with light, though his eyes were closed. Like he could feel every person there—their hearts, their prayers, their presence. Like God was so close Ibrahim could almost touch Him. So present that tears ran down his face onto the prayer mat.
+
+He'd asked his father about it afterward. "Baba, did you feel that? In the prayer? Did you feel... something?"
+
+His father had smiled. "Yes, son. That's Allah. That's why we pray. Not just the words—the presence. You felt Him. Be grateful. Some people pray their whole lives and never feel what you just felt."
+
+After that, Ibrahim chased it. Not every prayer brought the feeling. Sometimes it was just rote motion, just words said because they were supposed to be said. But often enough—especially at maghrib, especially with his brothers, especially when the light was right and the air was cool and everyone was aligned—the door opened. God arrived. The presence filled him. And Ibrahim knew, with every cell of his being, that this was real. That Allah saw him. That paradise waited. That dying in service to this was the greatest honor imaginable.
+
+That's what made him a fighter. Not ideology. Not politics. Not even justice. The feeling. The certainty that came from direct encounter. He'd met God. How could he not defend the land where God dwelled? How could he not fight for the holy places where that presence was strongest? How could death be frightening when it meant returning to the source of that light he felt in prayer?
+
 Ibrahim was nineteen years old. He'd joined the militia at sixteen, the moment he was old enough. Before that: madrasah, studying Quran, learning from the imam. His whole life had been preparation for this—defending the holy land, serving Allah, earning paradise through righteous struggle.
 
 Jerusalem had been contested for three millennia. Muslim, Christian, Jew—all claiming the same stones, the same streets, the same sacred spaces. In the era of Forever Earth, when humanity abandoned the stars and accepted planetary confinement, Jerusalem became more precious. Not just spiritually sacred, but eternally so. The conflicts weren't going to end. There would be no exodus to new worlds. This was it. This land. Forever.
@@ -28,9 +40,15 @@ So they fought. And Ibrahim believed—totally, completely—that this fight was
 
 Glory be to my Lord, the Great.
 
-The prayer continued. Ibrahim's mind was quiet, centered. This was what faith felt like—complete surrender, complete certainty, complete peace. No doubt. No questions. Just: submission to Allah's will and trust that everything happened according to divine plan.
+The prayer continued. Ibrahim's mind was quiet, centered. Waiting for the door to open. Waiting for the presence.
 
-Three years in the militia. Dozens of engagements. Ibrahim had killed. Had watched brothers die. Had been wounded twice—once superficially, once seriously enough to require evacuation. Each time, his faith held. Death was temporary. Paradise was forever. This life was test. The next life was reward.
+And: there. It came.
+
+Warmth spreading through his chest. The sense of being witnessed by something infinite. His brothers around him—he could feel them, their hearts beating in rhythm with his. The collective surrender creating space for God to enter. The tent filling with presence the way a room fills with light when you open curtains.
+
+This was what faith felt like. Not belief. Not intellectual assent. But: encounter. Direct experience. God as real as the ground beneath him, as present as the air he breathed. Complete surrender, complete certainty, complete peace. No doubt. No questions. Just: being held in attention so vast and loving it made everything else—combat, death, fear, pain—irrelevant.
+
+Three years in the militia. Dozens of engagements. Ibrahim had killed. Had watched brothers die. Had been wounded twice—once superficially, once seriously enough to require evacuation. Each time, his faith held. Not because he believed in paradise intellectually. Because he'd *felt* it. The presence in prayer was preview. Death would be returning to that light permanently. What was there to fear?
 
 Simple. Clean. True.
 
@@ -158,15 +176,27 @@ But the crack had widened. And he couldn't ignore it anymore.
 
 He tried to pray. Held the beads. Spoke the names. *Al-Aziz. Al-Jabbar. Al-Mutakabbir.* The Mighty. The Compeller. The Supreme.
 
-The words were empty. Just sounds in an empty tent. God didn't answer. Or God wasn't there. Or God was there but didn't care. Ibrahim didn't know which was worse.
+Waited for the door to open. Waited for the warmth. Waited for the presence.
 
-He'd lived his entire life for this faith. Structured every decision around it. Chosen this fight, this struggle, this potential martyrdom because he believed it meant something. Believed paradise waited. Believed righteousness mattered.
+Nothing.
+
+The words were empty. Just sounds in an empty tent. The door stayed closed. No warmth in his chest. No sense of being held. No feeling of vastness or light or love. Just: Ibrahim, alone, speaking to absence.
+
+God didn't answer. Or God wasn't there. Or God was there but didn't care. Or—worst possibility—God had never been there. The feeling Ibrahim had chased since age twelve, the presence he'd felt hundreds of times, the direct encounter that made him willing to die... what if it was just brain chemistry? Just neurons firing in patterns that felt like meaning? Just human need for connection projected onto emptiness?
+
+He'd lived his entire life for this faith. Structured every decision around it. Chosen this fight, this struggle, this potential martyrdom because he'd *felt* something real. Not just believed—experienced. The presence in prayer wasn't abstract theology. It was as real as another person in the room. More real. The most real thing Ibrahim had ever known.
+
+And now: gone. The door closed. The warmth absent. The feeling vanished like it had never existed.
 
 Now: an asteroid. Physics. Indifferent matter following indifferent laws toward indifferent collision. Fifteen years, then extinction. Muslim and non-Muslim alike. Righteous and wicked together. Jerusalem and Mecca and every holy site—vaporized. Every prayer said, every sacrifice made, every martyr died—all rendered meaningless by simple collision of matter and planet.
 
+And the presence Ibrahim had felt—what was it? If everyone dies regardless, if righteousness and wickedness end the same way, if God allows His holy places to be vaporized and His faithful to be extinguished... then what was that warmth in prayer? What was that feeling of being held? What was that door opening in his chest when his brothers prostrated together?
+
+Delusion? Wish fulfillment? Brain chemistry mistaken for divine encounter?
+
 If that was Allah's plan, Ibrahim couldn't worship it. Couldn't surrender to it. Couldn't call it merciful or compassionate or any of the ninety-nine names he'd memorized.
 
-And if he couldn't worship it... then what?
+And if the feeling wasn't real—if the most true thing Ibrahim had ever experienced was just neurons firing—then what?
 
 His whole identity was wrapped in faith. Muslim. Fighter. Servant of Allah. Take that away and what remained? A nineteen-year-old with a gun defending land that wouldn't exist. Fighting enemies who would die with him. Serving cause that ended in fifteen years regardless of who won.
 
@@ -176,9 +206,11 @@ He lay down on his bedroll, still holding the beads. Through the tent fabric, st
 
 God didn't create the asteroid. God didn't guide it. God didn't care about it. It was just: matter, following physics, approaching planet. Natural. Inevitable. Empty of meaning or malice or mercy.
 
-Like everything else, maybe. Like life. Like death. Like the prayers Ibrahim had said five times daily for nineteen years, expecting them to mean something, to reach somewhere, to matter.
+Like everything else, maybe. Like life. Like death. Like the feeling Ibrahim had experienced in prayer—the warmth, the presence, the door opening in his chest. Maybe it was just: neurons, following patterns, creating sensations. Natural. Biochemical. Empty of divine presence or supernatural meaning.
 
-But maybe they were just sounds. Just words said into empty air. Just human need for pattern and purpose in a universe that offered neither.
+Maybe the prayers Ibrahim had said five times daily for nineteen years were just sounds. Just words said into empty air. Just human need for pattern and purpose in a universe that offered neither.
+
+Maybe God was never there. Maybe the feeling was always illusion. Maybe Ibrahim had structured his entire life around neurochemistry mistaken for the divine.
 
 Ibrahim closed his eyes and tried to feel faith returning.
 
