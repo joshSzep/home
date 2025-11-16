@@ -840,7 +840,7 @@ Fifteen years. Final week. Tomorrow begins the end. But tonight: breathing. Toni
 
 **Elena & Kenji**: Mother and son. Together. Present. Complete. Bearing witness until the end. Together.
 
-**Ibrahim, Hassan, Min-seo, Derek, Fatima**: Five refugees. Nine years of keeping each other alive. Former fighter. Former imam. Grieving teacher. Broken Marine. Faithful host. Together in final moments. No longer just surviving—witnessing. Faith in people. Faith in presence. Faith in this moment. Min-seo's hand in Ibrahim's. Derek steady beside them. Fatima praying quietly. Hassan uncertain but present. Together until the end.
+**Ibrahim, Hassan, Min-seo, Derek, Fatima, Linnea**: Six refugees. Nine years of keeping each other alive (Years 6-15). Former fighter. Former imam. Grieving teacher. Broken Marine. Faithful host. Recovering addict. Together in final moments. No longer just surviving—witnessing. Faith in people. Faith in presence. Faith in this moment. Min-seo's hand in Ibrahim's. Derek steady beside them. Fatima praying quietly. Hassan uncertain but present. Linnea clean for the first time in fifteen years, shaking but here. Together until the end.
 
 **Maya & Kofi**: Sister and brother. Seventeen and fourteen. Brief lives. Real lives. Loved lives. Together until the end.
 

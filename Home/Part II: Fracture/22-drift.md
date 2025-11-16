@@ -186,7 +186,27 @@ Ibrahim glanced at his cane. "That obvious?"
 
 They sat in silence. Understanding passing between them without words. Both fighters. Both broken. Both here in this strange refugee community, eating Eid dinner despite neither being particularly devout.
 
-"Do you believe anymore?" Derek asked quietly.
+A woman approached their table—blonde, Swedish accent, rail-thin. Ibrahim recognized her vaguely from the building. Unit 418, maybe? She held a plate but hadn't put much food on it. Hands shaking slightly.
+
+"Linnea," Derek said, gesturing to an empty chair. "Sit."
+
+She sat. Looked at the food like it was a problem to solve. Picked at a piece of bread.
+
+"You need to eat," Derek said. Not harsh. Just: factual.
+
+"I know." Her voice was quiet. "I'm trying."
+
+Fatima appeared with a cup. "Mint tea. It helps." She set it in front of Linnea gently.
+
+"Thank you." Linnea wrapped both hands around the cup. Seeking warmth, or steadiness, or both.
+
+Ibrahim understood immediately, even without details. Understood the shaking. The thinness. The difficulty with something as simple as eating. Different battles, different wounds. Same brokenness.
+
+Derek caught his eye. Silent communication: *She's part of this. We keep her alive. That's what we do here.*
+
+Ibrahim nodded. Acceptance without judgment.
+
+"Do you believe anymore?" Derek asked quietly, returning to their conversation.
 
 Ibrahim considered lying. Considered deflecting. Instead: "No."
 
@@ -197,6 +217,10 @@ Ibrahim considered lying. Considered deflecting. Instead: "No."
 "Don't know. But it's something."
 
 Ibrahim thought about that. Something instead of nothing. Presence instead of absence. Showing up instead of hiding. Was that enough? He couldn't answer. But maybe not-answering was its own kind of answer.
+
+Linnea sipped her tea. Set the cup down. Managed a small bite of bread. Still here. Still trying. Whatever her battle was, she was still fighting it.
+
+That was something. Maybe that was enough.
 
 Fatima called everyone to attention. "Before we finish, I want to thank everyone for coming. For being community. For sharing this Eid together. We're all far from home. All facing the same ending. But tonight: we're here. We're together. We're alive. That matters."
 
@@ -255,6 +279,16 @@ One afternoon, Derek spoke: "I started going to group therapy. Veteran thing. Ta
 "I'll think about it."
 
 "Liar." Derek smiled slightly. "But the offer stands."
+
+They walked in silence for a block. Then Derek added: "Linnea's getting worse. Haven't seen her in three days. Fatima's been checking on her. Bringing food. But..." He trailed off.
+
+Ibrahim understood. There were things food couldn't fix. Things presence couldn't reach. But you kept trying anyway. Kept showing up. Kept offering what you could.
+
+"Should I...?" Ibrahim didn't know how to finish. What could he offer? He could barely keep himself alive.
+
+"Just notice her. When you see her. Nod. Let her know someone sees she's here. That's all. That's enough."
+
+It didn't feel like enough. But maybe Derek was right. Maybe noticing was something. Maybe acknowledgment mattered.
 
 Fatima continued inviting Ibrahim to things. Community dinners. Prayer groups (which he declined). Movie nights (which he attended once, awkwardly). She never pressured. Never judged. Just: kept offering. Kept including him.
 

@@ -14,7 +14,7 @@ Day 72 since detection. Kenji had counted at first. Now he had to check his wris
 
 He'd been to thirty-seven parties. Or forty. He'd lost count. Started Day 3—one night of escape. Then Day 5. Then Day 7. By Day 20, daily. By Day 40, he stopped going home between them. Just: party to party, apartment to apartment, stranger to stranger. Always moving. Never still. Stillness meant thinking.
 
-"You're Kenji Torres?" A girl approached. Maybe twenty-two. Glassy eyes, pupils wide. On something. Like everyone else. Like him.
+"You're Kenji Torres?" A girl approached. Maybe twenty-two, blonde hair pulled back messily, Scandinavian features. Glassy eyes, pupils wide. On something. Like everyone else. Like him.
 
 "Yeah."
 
@@ -22,7 +22,7 @@ He'd been to thirty-seven parties. Or forty. He'd lost count. Started Day 3—on
 
 "Yeah."
 
-"Must be weird." She swayed to the music, movements loose and uncoordinated. "Your mom running a dying city."
+"Must be weird." She swayed to the music, movements loose and uncoordinated. Swedish accent slight but present. "Your mom running a dying city."
 
 Kenji took a drink from whatever was in his hand. Didn't taste it. "Must be weird being anyone right now."
 
@@ -34,7 +34,7 @@ She laughed—too loud, too long. Everything exaggerated. "True! Hey, want somet
 
 Kenji took two. Swallowed them dry. The girl took the third. They stood in the pounding music, waiting for the chemicals to work.
 
-"What did you do?" she asked. "Before?"
+"I'm Linnea," she said. "Used to be a biologist. Studied trees. Can you believe that? Trees." She laughed again. "What did you do? Before?"
 
 "PhD candidate. Asteroid deflection."
 
@@ -44,7 +44,7 @@ Another laugh. "That's so fucked! You studied how to stop them and couldn't?"
 
 The pills started working. Reality softened. Edges blurred. The music became texture instead of sound—physical presence wrapping around him. His body felt distant, like he was operating it remotely. Perfect. This was perfect. Consciousness without presence. Sensation without meaning.
 
-The girl was dancing. Or falling. Hard to tell. Kenji watched her move, feeling nothing. The room pulsed with bodies and light. Everyone seeking the same thing: oblivion. Temporary death before real death. Practice dying. He was good at it now.
+Linnea was dancing. Or falling. Hard to tell. Blonde hair catching the strobing lights. Kenji watched her move, feeling nothing. The room pulsed with bodies and light. Everyone seeking the same thing: oblivion. Temporary death before real death. Practice dying. He was good at it now.
 
 Time fractured. He was dancing. He was sitting. He was in a different room. Someone's bedroom, three people he didn't know, sharing substances he didn't ask about. The conversation was about nothing. Everything. The asteroid. Their ex-lovers. Whether anything mattered. The usual desperate philosophy of the doomed.
 
@@ -62,7 +62,7 @@ He stood. Needed to move. Left the room without saying goodbye. No one noticed. 
 
 Back in the main room, the party continued. The music had changed—slower now, dreamier, vocals floating over ambient synth. People moving like they were underwater. Kenji moved with them, his body following rhythms his mind couldn't process. Good. Thought was the enemy. Sensation was all.
 
-A hand on his arm. He turned. Different girl. Or the same girl? Hard to tell. Faces blurred.
+A hand on his arm. He turned. Different girl. Or the same girl? Linnea again. Hard to tell. Faces blurred.
 
 "You look lost," she said.
 
@@ -72,7 +72,7 @@ A hand on his arm. He turned. Different girl. Or the same girl? Hard to tell. Fa
 
 They were kissing. Or had been kissing. Time jumped. Now they were in another room, on someone's bed, clothes complicated and in the way. Kenji's hands moved automatically. His body knew what to do even when his mind was elsewhere. Muscle memory of connection without actual connection.
 
-Afterward, the girl—he never learned her name—fell asleep. Kenji lay beside her, staring at the ceiling, feeling the drugs wearing off. The crash always came. High to baseline to below. The payment for forgetting.
+Afterward, Linnea fell asleep. Kenji lay beside her, staring at the ceiling, feeling the drugs wearing off. The crash always came. High to baseline to below. The payment for forgetting.
 
 The room was too quiet. He could think again. That was bad. Thinking meant remembering: dissertation abandoned, future lost, mother worried, brilliance wasted. Thinking meant feeling: guilt for the spiral, shame for the waste, fear of the asteroid, horror at meaninglessness.
 

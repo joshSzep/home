@@ -374,7 +374,85 @@ Kenji bowed. Thanked the teacher. Packed his few belongings—clothing, tablet, 
 
 Goodbyes were brief. Yuki: "Find what you're looking for." Tomás: "Or don't find it. Either is okay." Amina: "Let me know if Lagos helps. I might go there after here."
 
-Before leaving, one last encounter. Kenji found Marcus Reyes at the children's center—small building on ashram grounds where refugees taught local kids. Reyes had been there three years, teaching English and basic science.
+Before leaving Mumbai entirely, Kenji had one errand—medical supplies for the ashram from the district clinic. The walk took him through the refugee quarter, a place he usually avoided. Too many desperate faces. Too much suffering he couldn't help.
+
+He almost didn't recognize her.
+
+Blonde hair matted, unwashed. Face hollow, cheekbones sharp under stretched skin. Sitting against a wall with three others, all in various states of consciousness. The needle marks on her arms were visible even from distance.
+
+Linnea. From the Lagos party. Year 0, Day 72. Five years ago.
+
+Kenji stopped. Stared. She looked up—pupils pinpoint, eyes unfocused. No recognition. She was too far gone to remember anything beyond the next dose.
+
+"You have anything?" she asked. Swedish accent thicker now, words slurred. "Anything at all?"
+
+He should keep walking. Should let her be someone else's tragedy. Should maintain the detachment he'd cultivated through four years of seeing suffering everywhere.
+
+But he couldn't move.
+
+"Linnea?"
+
+Slight pause. Some flicker behind the eyes. "Do I... know you?"
+
+"Lagos. Year 0. We—" He stopped. What were they? Two lost people who'd spent one drugged night together? "We met at a party."
+
+"Lagos." She laughed—bitter, hollow sound nothing like her loud laugh from five years ago. "Lagos. Yeah. That was... before." She gestured vaguely at herself. "This is after."
+
+"Are you..." He didn't know how to finish the question. Okay? Clearly not. Getting help? Obviously not. Surviving? Barely.
+
+"Am I what? Dying?" Another laugh. "We're all dying, remember? Asteroid. End of everything. So why not this way? At least I won't feel it when it comes."
+
+One of the other people—man, maybe forty, equally wasted—stirred. "She's no good for hours. Already used everything. Come back tomorrow if you want her."
+
+Kenji felt sick. "I don't—I'm not here for—"
+
+"Then why are you here?" Linnea's voice carried unexpected sharpness. "You wanna save me? Tell me to stop? Offer me your ashram wisdom?" She gestured at the building behind them—small temple, meditation center, free clinic. "They try every day. The helpers. The fixers. The enlightened ones. Telling me there's better way. But this?" She held up her scarred arms. "This is the only better way I've found."
+
+"There are programs. Treatment centers—"
+
+"For what? Fifteen more years of sobriety before we all burn? No thanks." She closed her eyes, leaning back against the wall. "I studied trees, you know. Did I tell you that? Year 0? Biologist. Trees. The big ones, centuries old. Sequoias. Bristlecone pines. Three thousand years old, some of them. And the asteroid kills them too. All that time, all that life. Gone." 
+
+She opened her eyes, looked at him with sudden terrible clarity. "You were the deflection guy. The PhD. Could've stopped it but couldn't. We're the same, you and me. Both failed at our work. Just chose different ways to cope. You travel. Seek. Meditate. I do this. Neither works. Neither matters. At least mine doesn't pretend."
+
+The words landed like physical blows. She was right. They'd both been at that party Year 0, both seeking oblivion, both running. He'd gotten out. She hadn't. Luck? Choice? Something else?
+
+"I got clean," he said quietly. "After that night. Went home. Stopped."
+
+"Good for you." No sarcasm. Just: tired statement. "I tried. Year 1. Rehab in Stockholm. Made it four months. Then I thought: why? What am I staying sober for? To watch everything end clearheaded? Fuck that."
+
+Kenji crouched down, eye level with her. Saw the person underneath the addiction—biologist who'd studied ancient trees, Swedish girl who'd come to Lagos seeking something, twenty-two-year-old who'd offered him pills with glassy-eyed generosity.
+
+"Where do you stay?" he asked.
+
+"Anywhere. Here. There. Does it matter?"
+
+"Do you eat?"
+
+"When someone brings food. The clinic people. They're persistent." She smiled slightly. "Don't worry about me, deflection boy. I'm fine. I'm exactly where I chose to be."
+
+"I don't think—"
+
+"Don't think. That's your problem. Too much thinking. I stopped thinking Year 1. Much better."
+
+One of her companions groaned, stirring from stupor. Linnea's attention shifted immediately—checking if he had anything, needed anything, wanted something. The network of addiction. The constant focus on the next dose, the next escape, the next forgetting.
+
+Kenji stood. Felt helpless. Felt guilty. Felt the enormous weight of their different paths—both started at the same party, both took the same pills, both fell apart. But he'd had his mother. Had resources. Had the privilege to seek instead of sink.
+
+Linnea hadn't.
+
+"I'm leaving Mumbai," he said. "Going to Lagos. To—" Why was he telling her this? "To learn from a teacher there."
+
+"Lagos." Linnea's voice was distant now. "Tell Lagos I said hi. Tell the parties and the music and the lights. Tell them Linnea's still dancing. Just differently now."
+
+He left her there. Walked away through the refugee quarter with medical supplies he'd forgotten to pick up and guilt he couldn't metabolize. The walk back to the ashram took forty minutes. Every step carrying Linnea's hollowed face. Her sharp clarity. Her choice to die this way instead of that way.
+
+Both of us running, she'd said. Just different directions.
+
+That night, before sleeping, he added a postscript to his letter to Elena:
+
+*P.S. — Saw someone today from Year 0. The parties. She's deep in addiction now. Barely alive. Said we're the same—both running, just different methods. She might be right. I got out. She didn't. Don't know why. Luck. Privilege. Timing. But I can't help her. Can't save her. Can only witness and move on. Is that enough? Is witnessing without helping just voyeurism? Don't know. But it haunts me. Will keep haunting me.*
+
+The next morning, one last encounter before his transport. Kenji found Marcus Reyes at the children's center—small building on ashram grounds where refugees taught local kids. Reyes had been there three years, teaching English and basic science.
 
 They'd met twice before in Antarctica—brief conversations, mutual recognition. Kenji respected Reyes' choice to leave power for presence. Wanted to hear his perspective on seeking.
 

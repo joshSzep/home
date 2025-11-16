@@ -27,7 +27,8 @@
 - Amara & Zara: Sisters, estranged Years 0-7, reconnect Year 7+
 - Amara & David: Married, divorce Year 4, reconnecting Year 8+
 - David & Ibrahim: Work colleagues on solar arrays, Year 7+ (David veteran, Ibrahim new hire)
-- Ibrahim's refugee community: Min-seo (Korean elder, mint gardener), Derek (former US Marine), Fatima (Jordanian, faithful host) - kept him alive Years 6-15
+- Ibrahim's refugee community: Min-seo (Korean elder, mint gardener), Derek (former US Marine), Fatima (Jordanian, faithful host), Linnea (Swedish biologist, addiction recovery) - kept him alive Years 6-15
+- Kenji & Linnea: Met at party Year 0 Day 72 (both using); encounters her Mumbai Year 5 (deep addiction); Ibrahim brings her to Kenji's teaching Years 11-12; she recovers through presence practice
 - Zara's Lagos compound community: Mr. Okonkwo (elderly farmer, rooftop gardens), Adanna (fierce mother, defender of life-choice) & Samuel (her son, 20 at impact), Tom (engineer, water systems), Ling (Wei's caregiver) - Years 0-15, Adanna and Samuel come to Antarctica for final week
 - Zara's family: Kwame (husband), Maya (17), Kofi (14 at impact)
 - Elena & Kenji: Mother-son; both learn presence through crisis
@@ -72,6 +73,7 @@ Buddhist philosophy meets hard SF: impermanence, presence, meaning without perma
 - **Ten Ox-Herding Pictures**: Zen teaching introduced Ch 12 (Tokyo, Year 2 M11); maps Kenji's journey: Pic 1 (seeking-Ch11), Pic 2 (traces-Ch12), Pic 3 (glimpsing-Ch19), Pic 4 (catching-Ch27), Pic 5 (taming-Ch29), Pic 6-7 (riding/ox forgotten-Ch36), Pic 8 (self forgotten-Ch48), Pic 9 (returning to source-Ch53), Pic 10 (marketplace-Ch55); teaching transmitted to Maya; novel's title "Home" = Picture 9
 - **Maya's Four POV Chapters** (NEW): Ch 34 (Awakening - age 13, Buddha's encounter with death), Ch 39 (Questions - age 15, doubt phase), Ch 41 (Deepening - age 16, first teaching), Ch 43 (Readiness - age 17, rage and gratitude before migration); shows her journey from encountering death to embracing presence; 2 years 8 months total practice (Year 11 M8 to Year 15 M4)
 - **Daniel Okonkwo arc**: Side character making violence/suicide statistics visceral; Year 2: kills friend Raj Patel with rebar over food during District 7 riot, sentenced to 15 years; Marcus Reyes advocates pardon before leaving, Elena refuses; Year 4: Marcus Rivera challenges her decision; Year 6: Elena visits prison, sees his three children (mother died Year 3 suicide), 200+ unanswered letters to victim's widow; Year 10: Wei's letter about mercy prompts reflection; Year 11: Kenji's return surfaces unresolved guilt; Year 14 M8: Daniel commits suicide (wants to die present, not guilty); Year 15: Elena learns of death in Ch 51, realizes mercy would have been wiser than justice—forgiveness too late; thematic exploration of justice vs. mercy, consequence vs. compassion when time is short
+- **Linnea Andersson arc**: Side character making drug/addiction crisis visceral; Swedish biologist (studied trees), age 22 Year 0; meets Kenji at Lagos party Day 72, both using substances; Kenji encounters her Mumbai Year 5 (deep addiction, refugee quarter); part of Ibrahim's community Years 8-11 (Min-seo, Derek, Fatima help keep her alive); Ibrahim brings her to Kenji's teaching Year 11-12; begins recovery through presence practice; embodies hope that transformation possible even after years of addiction; human face of 520% increase in drug deaths; represents path Kenji escaped and later helps heal
 
 ## Complete Chapter Outline
 
@@ -166,7 +168,7 @@ Buddhist philosophy meets hard SF: impermanence, presence, meaning without perma
 
 **Chapter 41: Deepening** - NEW MAYA POV (16 years, 9 months, Year 14 Month 12). Practice deepening; first time teaching others; stopped needing answers; understanding presence TO fear vs consumed BY fear; preparing for migration; 2 years 8 months of total practice complete.
 
-**Chapter 42: Offering** - Ibrahim begins offering wisdom to young people in Kenji's circle; teaching through presence.
+**Chapter 42: Offering** - Ibrahim begins offering wisdom to young people in Kenji's circle; teaching through presence. LINNEA RETURNS: Ibrahim brings Linnea to the teaching session; Kenji recognizes her after 13-14 years—she's barely surviving years of addiction; reunion haunted by guilt and parallel paths; her recovery journey begins through presence practice.
 
 **Chapter 43: Readiness** - NEW MAYA POV (17 years, 2 months, Year 15 Month 3). Final reflection before migration; accounting what she had and never had; rage at dying young; understanding practice didn't fix anything, just enables presence; final teaching session; updated vow to die awake; gratitude despite everything.
 
