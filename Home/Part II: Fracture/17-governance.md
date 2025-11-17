@@ -224,7 +224,7 @@ Power outage in Sector 12. Chen reported repair crews responding but undermanned
 
 Health services requesting additional mental health staff. Dr. Ade's voice tight with exhaustion: "We're losing people daily to suicide. Not enough therapists. Not enough beds. Not enough anything." Elena approved the hire authorization. Knew they wouldn't find enough people. Approved it anyway.
 
-Prison report. Daniel Okonkwo, Year 2 into a 15-year sentence for manslaughter. Still writing weekly letters to Raj Patel's widow—over one hundred letters now. Still receiving no response. Three children without their father. Mental health deteriorating but stable enough for continued imprisonment.
+Prison report. Daniel Okonkwo, Year 2 into a 15-year sentence for manslaughter. Still writing weekly letters to Priya Patel, Raj's widow—over one hundred letters now. Still receiving no response. Priya raising two children alone (Aanya, six; Dev, four) while working as water systems engineer. Three children without their father on Daniel's side. Mental health deteriorating but stable enough for continued imprisonment.
 
 Elena filed this away without comment, though her hand paused over the signature line. Justice required consequences. Mercy required compassion. She'd chosen justice. Marcus Rivera watched her carefully, said nothing.
 

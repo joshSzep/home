@@ -261,6 +261,27 @@
 - **Kenji connection**: One of youngest serious students; asks best questions; learns faster than anyone except Maya
 - **By final weeks**: Teaching others their age; embodies Picture 10 before dying—marketplace with gift-bestowing hands
 
+#### **Aanya Patel** (19, daughter of Raj Patel - murder victim)
+- **Born**: Year -4 (age 4 at father's death Year 2, age 19 at impact)
+- **Background**: Raj Patel (father) killed Year 2 District 7 riot by Daniel Okonkwo; raised by mother Priya Patel (engineer); grew up in shadow of murder, watching mother's silent rage
+- **Story**: Watched mother refuse to read Daniel's 217 letters for 11 years; carried family's grief and rage; became mediator between mother and younger brother Dev
+- **Year 13 (age 18)**: Insisted mother attend Kenji's teachings; "Mama, you're dying from this rage. Come with me. Please."
+- **Kenji connection**: Attended teachings Year 13-15; brought mother; witnessed Priya's transformation; practices alongside her
+- **Character**: Wise beyond years; parentified child who raised herself while mother grieved; compassionate despite everything
+- **Teaching moment**: Asks Kenji Year 14: "How do you practice when your parent won't? When they're still consumed?" Kenji: "You practice yourself. You witness them. You can't make them ready. You can only be present to where they are."
+- **Final weeks**: Sits beside Priya at community center; witnesses mother teach about unforgiveness; embodies hope that next generation can choose differently
+- **Significance**: Shows how violence ripples through families; child of victim choosing presence over inherited rage
+
+#### **Dev Patel** (17, son of Raj Patel - murder victim)
+- **Born**: Year 0 (age 2 at father's death Year 2, age 17 at impact)
+- **Background**: Too young to remember father clearly; raised in aftermath of murder; absorbed mother's rage; resents both Daniel AND mother's withholding of forgiveness
+- **Story**: Unlike sister Aanya, refuses to attend teachings; still consumed by anger at Daniel, angry at mother for never reading letters (thinks forgiveness might have helped family heal), angry at asteroid, angry at everything
+- **Character**: Bright, wounded, closed off; embodies those who can't/won't practice; valid choice to face end differently
+- **Aanya's relationship**: She tried for years to bring him to practice; he refuses; she finally accepts his choice
+- **Priya's teaching**: Uses Dev's absence as teaching tool—"My son chose differently. I grieve this. But I can't force him. Both/and. I practice with what is, not what I wish was."
+- **Final week**: Absent from community center; possibly with friends, possibly alone; Priya and Aanya don't know exactly where he'll be at impact; this grief is additional weight they carry
+- **Significance**: Shows that practice isn't for everyone; that families fracture differently; that some people face the end angry and that's valid too; not everyone transforms; some rage never resolves
+
 ---
 
 ### KENJI'S WANDERING YEARS - TEACHERS WHO SHAPED HIM

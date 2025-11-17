@@ -283,7 +283,7 @@ Elena felt the weight of that. "Where's their mother?"
 
 "I'm sorry."
 
-"Don't be. This is justice. You sentenced me. I deserved it. Raj deserved justice. His widow deserved justice. Everyone deserved consequence." He looked at her directly. "I write to Raj's widow every week. Have for four years. Two hundred letters. She's never responded. Not once. I keep writing anyway. Apologizing. Explaining that I'm sorry, that I didn't mean to, that I'd take it back if I could. I know she'll never forgive me. I keep writing because... what else can I do?"
+"Don't be. This is justice. You sentenced me. I deserved it. Raj deserved justice. His widow—Priya—deserved justice. Everyone deserved consequence." He looked at her directly. "I write to Priya every week. Have for four years. Two hundred letters. She's never responded. Not once. I keep writing anyway. Apologizing. Explaining that I'm sorry, that I didn't mean to, that I'd take it back if I could. I know she'll never forgive me. I keep writing because... what else can I do?"
 
 Elena thought about those letters. Two hundred apologies sent into silence. Two hundred attempts at atonement that would never be accepted. The practice of remorse without the possibility of redemption.
 
@@ -295,7 +295,7 @@ The question hung there. Daniel's eyes filled with tears. "Every day. Every sing
 
 "I know." Daniel's voice dropped to whisper. "Yes. I want to be pardoned. I want to hold my children. I want to try to teach them how to face the end with dignity instead of dying in a cell as proof that some things still have consequences. But you were right, Mayor Torres. Justice matters. Even at the end. Especially at the end. Someone has to maintain that. You're that someone. I respect that even as it destroys me."
 
-Elena sat in the visitor room across from this grieving killer and saw: the cost of her decision. Not abstract. Specific. Three children without their father. A twelve-year-old raising her siblings. Two hundred letters sent to silence. A man dying from guilt in a cell while his family died from asteroid outside it.
+Elena sat in the visitor room across from this grieving killer and saw: the cost of her decision. Not abstract. Specific. Three children without their father. A twelve-year-old raising her siblings. Two hundred letters sent to silence. Priya Patel raising Raj's children alone, never answering those letters, carrying rage that might consume her. A man dying from guilt in a cell while his family died from asteroid outside it.
 
 This was justice. Real consequence. The principle that actions mattered even when permanence didn't exist.
 
@@ -309,7 +309,7 @@ Was she wrong? Had she been wrong for four years?
 
 Elena stood. "Thank you for seeing me."
 
-"Thank you for coming. It matters that you came. That you saw what your decision means. Most people wouldn't." He stood too. "I'll keep writing to Raj's widow. I'll keep apologizing. And nine years from now, when the asteroid comes, I'll face it in this cell knowing: I paid. I faced consequence. That matters. You made sure it mattered."
+"Thank you for coming. It matters that you came. That you saw what your decision means. Most people wouldn't." He stood too. "I'll keep writing to Priya. I'll keep apologizing. She has two children to raise alone now—Aanya and Dev. My friend's children. I took their father. And she'll never read my letters, and that's... that's what I deserve. But I'll keep writing anyway." He paused. "And nine years from now, when the asteroid comes, I'll face it in this cell knowing: I paid. I faced consequence. That matters. You made sure it mattered."
 
 The guard led him away. Elena stood in the empty visitor room, feeling the weight of justice and mercy, consequence and compassion, principle and practice colliding inside her.
 

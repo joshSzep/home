@@ -491,7 +491,7 @@ Elena felt the name like a weight. Three months since the riot. The trial had be
 
 "What about him?"
 
-"I've been visiting him. Weekly. Since the sentencing." Reyes met her eyes. "He's falling apart. Grief, guilt, separation from his children. He writes letters to Raj Patel's widow every week—she never responds. He keeps writing anyway. Apologizing. Explaining. Begging forgiveness."
+"I've been visiting him. Weekly. Since the sentencing." Reyes met her eyes. "He's falling apart. Grief, guilt, separation from his children. He writes letters to Raj Patel's widow—Priya Patel, Indian-British engineer, two young children of her own—every week. She never responds. He keeps writing anyway. Apologizing. Explaining. Begging forgiveness."
 
 "Reyes—"
 
@@ -501,7 +501,7 @@ The words hung there. Elena felt them settle. Pardon. Mercy instead of justice. 
 
 "He killed someone."
 
-"Yes. In desperation. Over food. During a riot caused by governance failures—not your fault specifically, but: system failures we all participated in." Reyes leaned forward. "Elena, he's not dangerous. He's destroyed by what he did. Keeping him in prison for thirteen years accomplishes nothing except more suffering. His children need him. He needs them. And Raj Patel is still dead whether Daniel rots in a cell or tries to live with what he did."
+"Yes. In desperation. Over food. During a riot caused by governance failures—not your fault specifically, but: system failures we all participated in." Reyes leaned forward. "Elena, he's not dangerous. He's destroyed by what he did. Keeping him in prison for thirteen years accomplishes nothing except more suffering. His children need him. He needs them. Priya Patel has to raise her own children alone while carrying this rage and grief. And Raj Patel is still dead whether Daniel rots in a cell or tries to live with what he did."
 
 "Justice requires consequence."
 
