@@ -100,6 +100,12 @@ Zara's heart rate elevates again. Maya's right—autonomic response, indistingui
 
 "There isn't one."
 
+On the wall behind the schedule display, someone has hung one of the new prints making their way through the districts—a reproduction of an installation by Asha Marin, the extinction-era artist half the world seems to be arguing about this year. The piece is simple: a child-sized mannequin standing under a projected countdown clock, hands empty, face featureless. Some commentators call it blasphemous. Others call it compassionate. Zara just notices how every person who glances at it flinches in a slightly different way.
+
+Maya studies it with clinical interest. "People keep saying it's controversial," she says. "But it's just light and plastic. The reaction is in them, not in it."
+
+"Art's good at that," Zara replies. "Showing you what you brought into the room." She has no opinion on Asha beyond this: the work is a mirror. The world is terrified of mirrors right now.
+
 Passengers emerge from customs. First wave: business travelers, engineers, maintenance workers rotating home from Antarctic duty. Second wave: families, researchers, the rare tourist who still travels despite everything. Third wave—
 
 There.

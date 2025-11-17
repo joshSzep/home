@@ -23,6 +23,9 @@
 7. **Professor Mei-Lin Wei** (114→125, dies Year 11) - Buddhist elder; teaches impermanence and presence
 8. **Maya Okafor-Mensah** (born Year -2, POV in Part IV) - Zara's daughter; dies at 17 years 7 months
 
+## Key Side Characters (Selected)
+- **Asha Marin** (40→55) - Mixed-media extinction-era artist; uses religious and state imagery to expose how people project meaning onto symbols; insists that art is a mirror, not an answer; moves from global notoriety to quiet presence in Antarctica, where her late installations force characters to notice who they become in front of unsettling images.
+
 ## Key Relationships
 - Amara & Zara: Sisters, estranged Years 0-7, reconnect Year 7+
 - Amara & David: Married, divorce Year 4, reconnecting Year 8+

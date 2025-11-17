@@ -648,6 +648,38 @@ Later, young woman from earlier approaches: "Thank you. For not pretending it's 
 
 Elena: "Honest is all I can be anymore."
 
+**Asha's Final Installation**: That afternoon, Elena walks through District 5 where Asha Marin (55) has created her final major work. It's simple—a large circular space with mirrors surrounding, countdown clock projected overhead, mannequins of all ages standing in viewing positions. No narrative. No instruction. Just: stand here. Look. Notice what you feel. The installation is called "Witness."
+
+Elena stands inside for seventeen minutes. The mirrors show her: seventy-three years old, tired, grieving, present. The countdown shows: 29 days, 14 hours. The mannequins show: everyone she's led, everyone she's lost, everyone still here. She sees herself seeing. The projection is hers. The reaction is hers. The installation just reveals.
+
+She finds Asha outside. "That's the most honest thing I've experienced in fifteen years."
+
+Asha: "People think I'm trying to disturb them. I'm not. I'm just making them notice they're already disturbed. You stood there seventeen minutes. What did you see?"
+
+"Myself. My failures. My grief. My persistence. Everything."
+
+"And the installation?"
+
+"Showed me nothing. Showed me everything I brought into it."
+
+Asha nods: "That's what art does. That's what presence does. Same practice, different form. Kenji taught me that. Or Ibrahim did. Or maybe I always knew and needed permission to stop hiding behind provocation."
+
+"Your work matters."
+
+"For thirty more days. Then: vaporized like everything else."
+
+"Still matters."
+
+"Yes. Brief and valuable aren't opposites."
+
+Elena smiles—that's what Wei taught. What Zara lived. What they're all learning. "Will you come to the community center? Kenji's teaching tonight."
+
+"I go every week now. Took me two years to stop being skeptical. Now I can't imagine facing this without the practice. Strange journey."
+
+"All our journeys are strange."
+
+They part. Elena returns to her apartment carrying image of herself in mirror—old, present, complete. Daniel's death haunts her. But Asha's installation reminded her: witness yourself honestly. That's sacred work too.
+
 **Final Week Meeting**: Elena calls final community gathering. Not governance. Not leadership. Just: togetherness. 1,200 people in community center. Everyone fitting barely.
 
 She speaks simply: "We have thirty days. Then: physics. Then: silence. We can spend these days raging, hiding, despairing. All valid. All understandable. Or: we can spend them present. Together. Witnessing each other. Facing the end with dignity. Both/and, not either/or. Rage and presence. Grief and love. Fear and courage. All of it true. All of it honored. All of it witnessed. That's what we do here. That's what we've always done. That's what we'll do until we can't."
@@ -702,7 +734,7 @@ She looks at Maya (17 years, 6 months) and Kofi (14 years, 5 months) sleeping. Y
 
 **Day 1 — Normal Day**: Zara makes decision: spend final week normally. Not dramatizing. Not creating fake meaning. Just: living. Being family. Presence as usual. That's the point.
 
-Breakfast together. Maya going to Kenji's teaching. Kofi exploring with friends. Kwame working in community kitchen. Zara maintaining water systems (they still need maintenance). 
+Breakfast together. Maya going to Kenji's teaching. Kofi exploring with friends. Kwame working in community kitchen. Zara maintaining water systems (they still need maintenance). They walk past Asha's "Witness" installation—still standing in District 5, mirrors catching final week light. Maya pauses: "Mama, should we go in?" Zara: "Do you want to?" "I want to see myself before I'm gone." They stand inside together, mother and daughter, seeing themselves seeing. Seven days left reflected infinitely. Maya: "We're here. That's real." Zara: "Yes. That's everything." 
 
 **Marcus Reyes and Maya**: After teaching session, Zara finds Maya talking with an older man—Marcus Reyes, Elena's former assistant. He's teaching refugee children alongside Ibrahim at the community center.
 
