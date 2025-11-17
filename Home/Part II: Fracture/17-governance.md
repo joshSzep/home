@@ -14,7 +14,7 @@ Elena knew this. Marcus knew this. Chen, Kowalski, and Dr. Ade knew this. They s
 
 Chen pulled up his datapad. Sixty-two years old now, thin as wire, stubborn as bedrock. "Two point two billion as of this morning. Down from four point two billion at detection. Down from three point one billion last year. We're losing approximately fifteen percent population annually—some departure, mostly deaths."
 
-Two point two billion. Elena wrote this in her notes. Old habit. The notes lived in a secure archive somewhere, categorized under "Historical Record" as if history would survive the asteroid. Someone at the archive still backed them up daily. Someone still believed documentation mattered.
+Elena wrote this in her notes. Old habit. The notes lived in a secure archive somewhere, categorized under "Historical Record" as if history would survive the asteroid. Someone at the archive still backed them up daily. Someone still believed documentation mattered.
 
 Maybe they were right.
 
@@ -34,7 +34,7 @@ Kowalski grimaced. He always grimaced now. Fifty-eight years old, former militar
 
 Elena nodded. Wrote this down too. Dr. Ade went next—health services report. Suicide rate plateaued but catastrophically high. Hospitals understaffed. Mental health services overwhelmed. Birth rate effectively zero. Death rate climbing. Two hundred thousand deaths last month in Antarctica alone.
 
-Two hundred thousand. Elena felt the number settle. Four years ago it would have destroyed her. Now it was Thursday.
+Elena felt the number settle. Four years ago it would have destroyed her. Now it was Thursday.
 
 "Orders, Mayor?" Marcus Rivera asked gently.
 
@@ -224,9 +224,9 @@ Power outage in Sector 12. Chen reported repair crews responding but undermanned
 
 Health services requesting additional mental health staff. Dr. Ade's voice tight with exhaustion: "We're losing people daily to suicide. Not enough therapists. Not enough beds. Not enough anything." Elena approved the hire authorization. Knew they wouldn't find enough people. Approved it anyway.
 
-Prison report. Daniel Okonkwo, Year 2 into a 15-year sentence for manslaughter. Still writing weekly letters to Raj Patel's widow. Still receiving no response. Mental health deteriorating but stable enough for continued imprisonment.
+Prison report. Daniel Okonkwo, Year 2 into a 15-year sentence for manslaughter. Still writing weekly letters to Raj Patel's widow—over one hundred letters now. Still receiving no response. Three children without their father. Mental health deteriorating but stable enough for continued imprisonment.
 
-Elena filed this away without comment. Marcus Rivera watched her carefully.
+Elena filed this away without comment, though her hand paused over the signature line. Justice required consequences. Mercy required compassion. She'd chosen justice. Marcus Rivera watched her carefully, said nothing.
 
 This was governance. Not grand strategy. Not visionary leadership. Just: responding to today's emergencies. Maintaining today's systems. Showing up today. Tomorrow would bring more crises, more failures, more overwhelming need. She'd show up tomorrow too.
 
@@ -266,17 +266,13 @@ Was Marcus right? Was Reyes right? Should mercy matter more?
 
 She didn't change her mind. But she wondered. And the wondering would stay with her.
 
-At 6 PM, she finally went home.
-
-"I have more work."
-
-"You always have more work. The work is infinite. Your capacity isn't. Go home."
+---
 
 Elena looked at her deputy mayor. Thirty-five years old, carrying weight he didn't have to carry, staying when he could leave. "Why are you doing this, Marcus? Really?"
 
 "I told you. I want to help bear the burden."
 
-"But why? You could be anywhere. Doing anything. Why stand beside a sixty-six-year-old woman governing collapse?"
+"But why? You could be anywhere. Doing anything. Why stand beside a sixty-two-year-old woman governing collapse?"
 
 Marcus sat down across from her. Considered his answer carefully. "Year 2, I ran against you because I thought you were wrong. Thought governance was theater. Thought we should focus on comfort, not dignity. Thought your witness was empty symbolism."
 
@@ -298,7 +294,7 @@ She went home.
 
 Home was an apartment she barely recognized. Kenji's room was empty—had been empty for two years. His possessions remained: books, dissertation notes, clothes. Frozen in time. Waiting for a return that might not come.
 
-Elena made tea. Sat in her living room. The megacity glowed outside her window—two point two billion lights, each one a person, each person facing extinction, all of them somehow continuing.
+Elena made tea. Sat in her living room. The megacity glowed outside her window—billions of lights, each one a person, each person facing extinction, all of them somehow continuing.
 
 She pulled up Professor Wei's latest letter. The philosopher was 118 now, dying naturally before the asteroid. Her teaching had spread everywhere—letters, students, conversations. Elena had never met her. Probably never would. But Wei's words had shaped the last four years more than any policy decision.
 
@@ -329,42 +325,22 @@ She opened her journal—official record, personal practice, document for archiv
 
 *Kenji writes from Mumbai. Still seeking. Still lost. Still alive. I'm proud of him. Both of us trying to face the end with clarity. Both of us failing mostly. Both of us continuing anyway.*
 
+*Daniel Okonkwo writes letters no one answers. I keep him imprisoned because justice requires consequences. But Wei's teaching doesn't tell me if I'm right. Presence as purpose doesn't solve whether mercy or justice matters more when both end the same way. I chose. I'll live with it. The wondering stays.*
+
 *Eleven years left. I'll spend them governing. Not because I'm clinging to power. Because this is my practice. Because bearing witness is purpose. Because someone should say: we were here, we mattered, we faced the end together with dignity.*
 
 *That's enough. Has to be. Is.*
 
-She closed the journal. Made more tea. Sat at her window watching the city lights. Thought about Year 6. About the election. About running unopposed, maybe. About legitimate consent versus passionate choice. About democracy in the ending.
+She closed the journal. Sat at her window watching the city lights.
 
-Would people vote? Would they care? Would electoral legitimacy matter when everything ended in eleven years?
+Morning would bring another briefing. Five people. Same reports. Infrastructure failing. Deaths rising. She'd document it. They'd respond to crises. They'd maintain what they could. They'd continue.
 
-She didn't know. But she'd hold the election anyway. Because ritual mattered. Because process mattered. Because maintaining the forms—even when the substance seemed gone—was itself a form of witness.
+Because Elena was mayor. Because being mayor meant showing up.
 
-Morning would bring another briefing. Five people. Same reports. Infrastructure failing. Deaths rising. Population declining. She'd document it. They'd respond to crises. They'd maintain what they could. They'd continue.
+Four years down. Eleven to go.
 
-Because what else? Because this was governance. Because someone should do it. Because Elena was mayor and being mayor meant showing up.
+Purpose or habit, it didn't matter.
 
-Four years down. Eleven to go. She'd spend them bearing witness. Maintaining dignity. Continuing.
-
-Purpose or habit, it didn't matter. She'd show up.
-
-That was enough.
+She'd show up.
 
 ---
-
-**Year 4, Month 7.** The morning briefing would happen again tomorrow. And the day after. And the day after that. For eleven more years.
-
-Elena Torres would be there. Marcus Rivera would be there. Chen, Kowalski, Dr. Ade would be there.
-
-Five people governing 2.2 billion. Maintaining order in collapse. Bearing witness to the ending.
-
-Not because it changed anything.
-
-Because someone should.
-
-Because presence was purpose.
-
-Because governance, in the end, was just: showing up.
-
-And Elena kept showing up.
-
-The work continued.
