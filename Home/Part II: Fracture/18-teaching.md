@@ -10,7 +10,7 @@ Wei noticed this first thing, wheeling herself onto the balcony at dawn. Yesterd
 
 That was truth. Beautiful, simple truth.
 
-She maneuvered her wheelchair carefully among the raised beds. Movement required concentration now. Her body was 118 years old and reminded her constantly—hands shaking, vision blurring at the edges, breath shorter than it used to be. The wheelchair had been necessary for six months. Before that, a walker. Before that, a cane. The progression was predictable, mathematical, honest.
+She maneuvered her wheelchair carefully among the raised beds. Movement required concentration now. Her body was 119 years old and reminded her constantly—hands shaking, vision blurring at the edges, breath shorter than it used to be. The wheelchair had been necessary for six months. Before that, a walker. Before that, a cane. The progression was predictable, mathematical, honest.
 
 Her mind remained sharp. That's what mattered. Let the body dissolve. Let the machine fail. Consciousness persisted until it didn't, and she would use it while she had it.
 
@@ -239,7 +239,7 @@ Her teaching was the same. Brief blooming. It would end with the asteroid. No pe
 
 That was enough.
 
-Wei felt her body settling toward sleep. 118 years old. Consciousness flickering. Tomorrow she would wake (probably). Tend the garden (if her hands permitted). Write more letters (if her eyes focused). Teach Maya and Kofi (who would arrive like clockwork). Continue the practice until practice ended.
+Wei felt her body settling toward sleep. 119 years old. Consciousness flickering. Tomorrow she would wake (probably). Tend the garden (if her hands permitted). Write more letters (if her eyes focused). Teach Maya and Kofi (who would arrive like clockwork). Continue the practice until practice ended.
 
 Simple. Perfect. Complete.
 
@@ -263,7 +263,7 @@ Voices at the door. Zara arriving with Maya and Kofi. Punctual. Present. Practic
 
 They settled into the garden. The teaching continued. Simple lessons about blooming and dying. About caterpillars transforming. About being present to what is. The same teaching Wei had offered for forty years, now compressed into final years, final months, final lessons.
 
-She was 118 years old. Her body was failing. Her death approached naturally. And she was teaching children who would die at seventeen and fourteen, teaching a mother who would die at forty-seven, teaching seekers who would die young, teaching a mayor who would die governing.
+She was 119 years old. Her body was failing. Her death approached naturally. And she was teaching children who would die at seventeen and fourteen, teaching a mother who would die at forty-seven, teaching seekers who would die young, teaching a mayor who would die governing.
 
 All of them temporary. All of them practicing. All of them perfect exactly as they were.
 

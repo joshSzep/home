@@ -12,7 +12,7 @@ He waters the tree carefully, watching soil absorb. The tree is fifty-one years 
 
 That's all practice is. Water the tree. Not because watering saves it. Because today it's thirsty.
 
-"Good morning, student." Wei's voice from the doorway. She's in her wheelchair, 119 years old, hands shaking as she wheels herself toward her morning position by the gardenias. Ling helped her dress an hour ago—Wei can't manage alone anymore. Body failing incrementally. Mind sharp as ever.
+"Good morning, student." Wei's voice from the doorway. She's in her wheelchair, 123 years old, hands shaking as she wheels herself toward her morning position by the gardenias. Ling helped her dress an hour ago—Wei can't manage alone anymore. Body failing incrementally. Mind sharp as ever.
 
 "Good morning, Teacher." Kenji moves to the gardenias. Checks the soil. Dry. Waters them slowly.
 
@@ -98,7 +98,7 @@ The question lands in Kenji's chest like remembered pain. Same question the Toky
 
 He prepares tea carefully. Wei's method—attention to temperature, timing, pouring. The ritual creates space. Gives people time to breathe before facing their own questions directly.
 
-When he returns to the balcony, Wei is speaking quietly with Adaeze. The other two seekers have joined Zara, who's arrived with Maya and Kofi—daily garden visit, part of the rhythm. Maya is eleven years and six months now, brilliant and serious, absorbing everything. Kofi is eight and eight months, all energy and questions.
+When he returns to the balcony, Wei is speaking quietly with Adaeze. The other two seekers have joined Zara, who's arrived with Maya and Kofi—daily garden visit, part of the rhythm. Maya is eleven years and nine months now, brilliant and serious, absorbing everything. Kofi is eight and nine months, all energy and questions.
 
 Kenji sets the tea tray beside Wei. Intends to return inside, give them privacy. But Wei catches his eye. "Stay. Sit with us."
 
@@ -178,7 +178,7 @@ Wei smiles. "Yes. When I'm too old. When I'm dead. He'll continue the practice."
 
 "Will you teach me?" Maya asks Kenji directly. "Officially? Like Wei teaches you?"
 
-Kenji looks at his young cousin. Eleven years old. Brilliant. Six years until she dies. Wanting to learn everything she can in the time remaining. How can he say no?
+Kenji looks at his young cousin. Almost twelve years old. Brilliant. Six years until she dies. Wanting to learn everything she can in the time remaining. How can he say no?
 
 "If Wei thinks I'm ready."
 
@@ -302,7 +302,7 @@ Perfect.
 
 ---
 
-Later, after everyone has left, after Wei is in bed, after the compound quiets, Kenji sits in the guest room writing to his mother. Nine years of letters between them. She's kept every one. He's kept all of hers.
+Later, after everyone has left, after Wei is in bed, after the compound quiets, Kenji sits in the guest room writing to his mother. Eight years of letters between them. She's kept every one. He's kept all of hers.
 
 *Mom,*
 
@@ -316,7 +316,7 @@ Later, after everyone has left, after Wei is in bed, after the compound quiets, 
 
 *The ox-herding pictures call this Picture Five—taming the ox. Still effort required. Still struggling. But: cooperation emerging. Practice working. Integration beginning. Wei says that's enough to teach from. Not as master. As fellow practitioner further along the path.*
 
-*I'm coming home eventually. Not yet. Wei needs help teaching. The Lagos community needs presence practice. Maya wants to learn formally—she's brilliant, Mom. Eleven years old and understands impermanence intellectually. Wants emotional integration. I think I can help her. Not because I've achieved it. Because I'm working on it. Honest struggle as teaching.*
+*I'm coming home eventually. Not yet. Wei needs help teaching. The Lagos community needs presence practice. Maya wants to learn formally—she's brilliant, Mom. Almost twelve years old and understands impermanence intellectually. Wants emotional integration. I think I can help her. Not because I've achieved it. Because I'm working on it. Honest struggle as teaching.*
 
 *Six years left. I won't spend them all here. But: some time. Continuing what Wei started. Teaching what I learned. Passing it forward.*
 
