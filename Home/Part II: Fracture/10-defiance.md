@@ -18,7 +18,9 @@ Nurse Chen appeared in the doorway—one of the three who'd stayed. Young, maybe
 
 "Contractions every four minutes," the monitoring system announced in its pleasant, inhuman voice.
 
-Nurse Chen checked the displays, nodded. "You're at eight centimeters. Almost there. I'll get Dr. Okonkwo."
+Nurse Chen checked the displays, nodded. "You're at eight centimeters. Almost there. I'll get Dr. Okonkwo." She paused at the door. "Dr. Tanaka asked to be paged when you're close—wants to do the newborn exam personally since she'll be his pediatrician."
+
+Zara managed a smile through the pain. Dr. Tanaka had been Maya's doctor since birth—Japanese-Nigerian, specialized in child development, one of the few pediatricians who'd stayed in Lagos after detection. She'd admitted in their last prenatal consult that her entire specialty felt absurd now. "I became a pediatrician to help children grow toward adulthood," she'd said quietly. "Now I watch them grow toward nothing." But she'd stayed anyway. Still showed up. Still cared.
 
 Almost there. Almost to the moment when Zara would hold her son. Her second child. Her choice. Her defiance.
 

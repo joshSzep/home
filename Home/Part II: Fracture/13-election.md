@@ -80,11 +80,11 @@ People still cared. That surprised her.
 
 Marcus Rivera stood at the other podium, looking nervous but determined. Thirty-two years old. She'd been thirty-two once—young mayor, first campaign, so certain she could fix things. Now sixty-four, fourth campaign, certain she could fix nothing.
 
-The moderator was Dr. Yuki Tanaka, former journalist, now volunteer coordinator. She'd drawn up the rules: thirty minutes each, alternating responses, one minute rebuttals, closing statements.
+The moderator was Dr. Sarah Kim, former journalist, now volunteer coordinator. She'd drawn up the rules: thirty minutes each, alternating responses, one minute rebuttals, closing statements.
 
 Democracy in form if not in function.
 
-"Mayor Torres," Tanaka began, "your first term has seen the population of Antarctica decline from four point two billion to two point four billion. Infrastructure failing. Crime rising. Suicide epidemic. Death rate six hundred percent above baseline. Why should voters give you another term?"
+"Mayor Torres," Kim began, "your first term has seen the population of Antarctica decline from four point two billion to two point four billion. Infrastructure failing. Crime rising. Suicide epidemic. Death rate six hundred percent above baseline. Why should voters give you another term?"
 
 Elena had practiced this answer. Still felt unprepared.
 

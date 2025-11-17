@@ -324,7 +324,9 @@ Amara looks uncertain. "Good things?"
 
 She moves on before Amara can respond. Simple acceptance. Simple welcome. Simple compound philosophy: Show up. Be present. Let the past be past. Six years is too short for holding grudges.
 
-After dinner, children scatter to play. Adults linger over tea. Zara finds herself in conversation with three other mothers—Adanna, Chioma, Yuki—all with children close to Maya and Kofi's ages. All facing the same mathematics: children who'll die young. Children who'll never finish growing. Children worth loving anyway.
+After dinner, children scatter to play. Adults linger over tea. Zara finds herself in conversation with three other mothers—Adanna, Chioma, Dr. Tanaka—all with children close to Maya and Kofi's ages. All facing the same mathematics: children who'll die young. Children who'll never finish growing. Children worth loving anyway.
+
+Dr. Tanaka has been Maya and Kofi's pediatrician since their births. Japanese-Nigerian, forty-two now, she specialized in child development back when that specialty had meaning. Now she comes to compound dinners more often, has started attending Wei's garden teachings. Learning presence instead of prescribing it. Zara has watched her transform over the past year—the professional mask thinning, the clinical distance dissolving into something more human. More honest.
 
 "Your sister," Chioma says quietly. "She's the one who detected it?"
 
@@ -334,9 +336,9 @@ After dinner, children scatter to play. Adults linger over tea. Zara finds herse
 
 "I think knowing made it worse. She had hours to understand before anyone else. Hours alone with the certainty."
 
-"But she told everyone," Yuki adds. "Could have hidden it. Let someone else deliver the news. She didn't."
+"But she told everyone," Dr. Tanaka adds. "Could have hidden it. Let someone else deliver the news. She didn't."
 
-Zara hasn't thought of it that way. Her sister detecting the asteroid has always felt like betrayal—as if Amara personally chose this future. But Yuki is right. Amara could have hidden it. Could have let someone else bear witness. She didn't. She stood up and said: here's what's coming. Here's the truth. Here's the countdown.
+Zara hasn't thought of it that way. Her sister detecting the asteroid has always felt like betrayal—as if Amara personally chose this future. But Dr. Tanaka is right. Amara could have hidden it. Could have let someone else bear witness. She didn't. She stood up and said: here's what's coming. Here's the truth. Here's the countdown.
 
 That took courage. Zara has spent nine years forgetting that.
 

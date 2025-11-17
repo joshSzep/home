@@ -25,6 +25,7 @@
 
 ## Key Side Characters (Selected)
 - **Asha Marin** (40→55) - Mixed-media extinction-era artist; uses religious and state imagery to expose how people project meaning onto symbols; insists that art is a mirror, not an answer; moves from global notoriety to quiet presence in Antarctica, where her late installations force characters to notice who they become in front of unsettling images.
+- **Dr. Yuki Tanaka** (38→53) - Japanese-Nigerian pediatrician; Maya and Kofi's doctor Lagos Years 0-15; trained Tokyo, specialized in child development; asteroid makes her entire specialty (growth toward adulthood) absurd; Years 0-2 struggles with purposelessness; Years 3-5 learns presence medicine from observing Zara's Wei-influenced parenting; Years 6+ becomes informal teacher to other pediatricians, transforms practice from outcomes to witness; treats children of suicide victims (possibly Daniel Okonkwo's three kids), riot injuries, migration trauma; her childlessness by choice becomes poignant—never wanted her own children, now all dying children are hers; embodies Amara's mortality statistics made visceral through clinical practice.
 
 ## Key Relationships
 - Amara & Zara: Sisters, estranged Years 0-7, reconnect Year 7+
@@ -34,6 +35,7 @@
 - Kenji & Linnea: Met at party Year 0 Day 72 (both using); encounters her Mumbai Year 5 (deep addiction); Ibrahim brings her to Kenji's teaching Years 11-12; she recovers through presence practice
 - Zara's Lagos compound community: Mr. Okonkwo (elderly farmer, rooftop gardens), Adanna (fierce mother, defender of life-choice) & Samuel (her son, 20 at impact), Tom (engineer, water systems), Ling (Wei's caregiver) - Years 0-15, Adanna and Samuel come to Antarctica for final week
 - Zara's family: Kwame (husband), Maya (17), Kofi (14 at impact)
+- Dr. Yuki Tanaka & Zara's family: Maya and Kofi's pediatrician Years 0-15; well-child visits become existential (tracking development toward no future); observes Zara's presence-focused parenting influenced by Wei; learns from Zara's approach rather than teaching it; possibly attends Wei's garden teachings Years 3+; professional witness to both children's complete lives
 - Elena & Kenji: Mother-son; both learn presence through crisis
 - Elena & Marcus Reyes (assistant): He serves her Years -6 to 2, leaves for Mumbai, maintains correspondence Years 3-15, returns final three months
 - Elena & Marcus Rivera (deputy): Opponent Year 2, then deputy Years 2-15; transforms from challenger to partner

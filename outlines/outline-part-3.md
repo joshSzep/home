@@ -148,7 +148,7 @@ Kenji: "For what?"
 
 "Perfect. You just taught from not-knowing. That's real teaching. Qualified teachers offer answers. Unqualified teachers offer presence. You offered presence."
 
-**Zara's Family Dinner**: That evening, Wei invites combined family. Seven people around small table: Wei, Kenji, Amara, David, Zara, Kwame, Maya, Kofi. Conversation flows. Stories shared. Laughter genuine.
+**Zara's Family Dinner**: That evening, Wei invites combined family. Seven people around small table: Wei, Kenji, Amara, David, Zara, Kwame, Maya, Kofi. Conversation flows. Stories shared. Laughter genuine. (Brief mention: Zara shares story from Maya's checkup earlier—Dr. Tanaka commented on how grounded Maya is becoming, learning Wei's practices. The pediatrician has started attending garden teachings herself, Year 9 Month 3.)
 
 But now Kenji sees differently. He's not just student learning. He's watching Wei AS teacher watching her. Understanding how she creates space for people to discover their own truth. Understanding that teaching is facilitating, not instructing.
 
@@ -328,11 +328,11 @@ Not neutral. Connected. That's more than he hoped for Year 6. That's everything.
 
 **Opening**: Wei is dying. Not asteroid—natural death. 125 years old. Body failing for months. Mind clear until end. Zara caring for her daily—bathing, feeding, moving. Honor and love.
 
-**The Final Days**: Wei bedridden. Zara, Maya (nearly 14), and Kofi (nearly 11) reading to her. Kenji visiting daily (he's been studying with Wei for ~3 years now). Others paying respects. Wei clear about dying: "I'm ready. Lived fully. Now: time to let go." No fear. No resistance. Just: acceptance.
+**The Final Days**: Wei bedridden. Zara, Maya (nearly 14), and Kofi (nearly 11) reading to her. Kenji visiting daily (he's been studying with Wei for ~3 years now). Others paying respects. Dr. Tanaka provides palliative care—the pediatrician who's treated Maya and Kofi for years, learned presence practice from observing Zara and Wei, now attending Wei's natural death. She's cared for terminal patients before but never one this ready, this present. Wei clear about dying: "I'm ready. Lived fully. Now: time to let go." No fear. No resistance. Just: acceptance.
 
 **Teaching Until End**: Even dying, Wei teaches. Shows Zara, Kenji, the children what readiness looks like. "See? Body fails. Mind observes. This is natural. This is right. No tragedy—just: impermanence becoming visible."
 
-**The Last Lesson**: Wei's final morning. Gathered: Zara, Kwame, Maya (nearly 14), Kofi (nearly 11), Kenji, Amara (visiting from Antarctica), David. Wei speaks slowly: "Thank you. For letting me witness your lives. For learning presence. For loving despite loss. This is everything. You will continue. You will bloom. You will matter. Then: you will fade. As I fade. As everything fades. Beautiful."
+**The Last Lesson**: Wei's final morning. Gathered: Zara, Kwame, Maya (nearly 14), Kofi (nearly 11), Kenji, Amara (visiting from Antarctica), David, Dr. Tanaka (checking vitals but mostly bearing witness). Wei speaks slowly: "Thank you. For letting me witness your lives. For learning presence. For loving despite loss. This is everything. You will continue. You will bloom. You will matter. Then: you will fade. As I fade. As everything fades. Beautiful."
 
 **The Death**: Wei closes her eyes. Breath slowing. Everyone holding hands around her bed. She speaks once more: "The flower bloomed." Then: silence. Gone.
 
@@ -376,7 +376,7 @@ Not neutral. Connected. That's more than he hoped for Year 6. That's everything.
 
 **First Vow**: Maya makes a promise to Wei's memory, to herself. She will learn everything Wei would have taught her. She will practice presence not as concept but as lived reality. She will die at seventeen, but she will die awake. She will make her brief life matter the way Wei made 125 years matter—through presence, through teaching others, through loving what she'll lose.
 
-**Kofi Arrives**: Her brother (10 years, 11 months) finds her in the garden. "Mama's worried. You've been here four hours." Maya looks at him clearly—he'll die at fourteen. Younger than her. Less time to understand. She takes his hand. "Kofi, I need to tell you something about death." He nods, serious. "I know. Wei died." "Yes. And we will too. But Wei taught me something. Want to learn?" Kofi sits beside her among the flowers. Maya begins teaching him what she's just understood. The transmission already beginning.
+**Kofi Arrives**: Her brother (10 years, 11 months) finds her in the garden. "Mama's worried. You've been here four hours." Maya looks at him clearly—he'll die at fourteen. Younger than her. Less time to understand. She takes his hand. "Kofi, I need to tell you something about death." He nods, serious. "I know. Wei died." "Yes. And we will too. But Wei taught me something. Want to learn?" Kofi sits beside her among the flowers. Maya begins teaching him what she's just understood. The transmission already beginning. (Note: Dr. Tanaka, on a follow-up visit days later, observes this changed Maya—no longer child patient but young practitioner. The shift is medically irrelevant but humanly profound.)
 
 **End**: That evening, Maya tells Mama and Papa: "I want to study with Uncle Kenji. Formally. Everything he learned from Wei. I don't want to waste the time I have left." Zara seeing her daughter's face—something changed. Something awakened. Maya isn't a child anymore. Hasn't been since Wei died. Now: young practitioner. Brief life. Fierce commitment. Beginning.
 
@@ -458,7 +458,7 @@ Wei's legacy: not immortality. Transmission. Person to person. Until there are n
 
 **The Move**: Kenji settles in. Elena helps establish teaching space—community center room, simple, open. Kenji announces twice-weekly gatherings. Elena uncertain if people will come. They do. Thirty people first session.
 
-**Who Comes**: Maintenance workers (including Ibrahim). Refugees. Administrative staff. Elders. A few young people. Everyone seeking something. Kenji offers: presence practice. Being here. Facing end together. Same teaching Wei gave him. Passing it forward. Among them: Asha Marin (45, recently relocated from global circuit to Antarctica). The controversial extinction-era artist attends occasionally, skeptical but curious. After one session, she asks Kenji directly: "Isn't sitting still while the world ends just another form of passivity?" Kenji: "Is making art while the world ends active or passive?" Asha: "Depends whether you're trying to change something or witness it." "Same with presence." They recognize each other—different methods, same interest in what's real.
+**Who Comes**: Maintenance workers (including Ibrahim). Refugees. Administrative staff. Elders. A few young people. Everyone seeking something. Kenji offers: presence practice. Being here. Facing end together. Same teaching Wei gave him. Passing it forward. Among them: Asha Marin (45, recently relocated from global circuit to Antarctica). The controversial extinction-era artist attends occasionally, skeptical but curious. After one session, she asks Kenji directly: "Isn't sitting still while the world ends just another form of passivity?" Kenji: "Is making art while the world ends active or passive?" Asha: "Depends whether you're trying to change something or witness it." "Same with presence." They recognize each other—different methods, same interest in what's real. Also present: Dr. Sarah Kim (44), the former journalist who moderated the Year 2 election debate, now volunteer coordinator. She'd spent ten years organizing logistics—crisis response, resource distribution, practical matters. But Year 12, watching community fracture despite her efforts, she came seeking something deeper than efficiency. Sits quietly, learning presence as antidote to burnout.
 
 **Elena Attending**: Elena comes to second session. Sits in back. Tries to meditate. Mind spinning—governance problems, infrastructure failures. Kenji patient with everyone, including his mother: "That's normal. Notice thinking. Return to breath. Practice isn't stopping thoughts. It's noticing without hooking."
 
@@ -538,6 +538,8 @@ Wei's legacy: not immortality. Transmission. Person to person. Until there are n
 **Meeting with Kenji**: After group practice. Maya stays back. "Uncle Kenji, I need to ask something." He waits. "The practice—it's supposed to help, right? Make facing death easier?" "It makes life clearer. Death remains hard." "But I don't feel clearer. I feel... more confused. More aware of how much I'm losing."
 
 **The Realization**: Kenji explains: "That's progress. You're seeing clearly. Before, death was abstract. Now: real. That's harder. But also: honest. You're not bypassing grief with philosophy. You're feeling it."
+
+**Professional Observation**: Later that week, Maya has routine checkup with Dr. Tanaka (her pediatrician for fifteen years). The doctor notices something: "You seem different. Older, maybe. Or just... more present." Maya: "I'm practicing meditation. Trying to face what's coming." Dr. Tanaka (who attends Wei's teachings herself): "How's it going?" "It's hard. I'm more confused than before." "Good. Confusion is honest. Keep practicing." The medical professional and the young practitioner recognize each other—both learning to witness what they can't change.
 
 **What Maya Questions**:
 - Will the practice actually help when the moment comes?
@@ -658,7 +660,7 @@ That's everything.
 
 **Opening**: Lagos. Final weeks before migration to Antarctica (Year 15, Month 1). Maya almost seventeen years old. Four months until she dies. Something has shifted—the practice is deepening. Less questioning, more presence. Not because she has answers. Because she's stopped needing them.
 
-**Two Years of Practice**: Since Wei's death (Year 11, Month 8), Maya has practiced presence: 2 years, 4 months. Daily meditation. Weekly teachings with Kenji. Studying Buddhist texts. The questioning phase (Chapter 39, Year 13) was hard. But she stayed with it. Now: different. The practice working not because it's easier, but because she's meeting it honestly.
+**Two Years of Practice**: Since Wei's death (Year 11, Month 8), Maya has practiced presence: 2 years, 4 months. Daily meditation. Weekly teachings with Kenji. Studying Buddhist texts. The questioning phase (Chapter 39, Year 13) was hard. But she stayed with it. Now: different. The practice working not because it's easier, but because she's meeting it honestly. (Note: Dr. Tanaka has observed this transformation across checkups—watching her patient evolve from questioning child to young practitioner, medically irrelevant but humanly profound.)
 
 **Morning Practice Alone**: Maya in Wei's garden. Predawn. Alone. She comes here most mornings now—before family wakes, before compound activity. Sitting where Wei sat. Meditating. Not fighting her mind. Not seeking peace. Just: sitting. Breathing. Being present to whatever arises. Fear. Grief. Love. All of it.
 
@@ -713,7 +715,7 @@ Sleep comes. Tomorrow: more practice. Eventually: migration. Then: final months.
 
 **Kenji's Circle**: Ibrahim attends Kenji's teaching weekly (Kenji returned Year 12, now Year 14 = two years of Kenji's teachings). Before that, attended other meditation groups Years 6-12. Still silent mostly. But: belonging. Community. People facing doom together. Ibrahim stopped fighting others. Learning to stop fighting himself. Slow progress.
 
-**Old Friends Present**: Min-seo still attends—seventy now, frailer, but still growing mint on her balcony. Derek comes sometimes—quiet Marine, aging, still understands Ibrahim's silences. Fatima hosts dinners still—smaller now, but faithful. These three kept Ibrahim alive Years 3-7. Now: they practice presence together. Witnessing each other's survival.
+**Old Friends Present**: Min-seo still attends—seventy now, frailer, but still growing mint on her balcony. Derek comes sometimes—quiet Marine, aging, still understands Ibrahim's silences. Fatima hosts dinners still—smaller now, but faithful. These three kept Ibrahim alive Years 3-7. Now: they practice presence together. Witnessing each other's survival. Dr. Sarah Kim (46) attends regularly now—two years of practice since Year 12. The former journalist transformed: from documenting others' crises to sitting with her own. From organizing logistics to accepting what can't be organized. She nods at Ibrahim's words—recognizing truth when she hears it, journalist instinct meeting practitioner wisdom.
 
 **The Students**: Young people attend circle. Children born pre-detection, now teenagers. Fifteen years old maximum. All facing death before adulthood. Ibrahim watches them: scared, brave, angry, peaceful, confused, clear. All of it. Real.
 
@@ -824,7 +826,7 @@ Maya whispers to the night: "Thank you. For seventeen years. Not enough. But: so
 
 **Why Return**: Amara asks to be together for final months. David wants to be near his arrays. Elena invited them—community forming in Antarctica for the end. Zara hesitates (Lagos is home) but agrees (family matters most).
 
-**Compound Farewell**: The community gathers—Mr. Okonkwo (now 80+, still tending the rooftop gardens he helped design), Adanna (her son now 20, both staying in Lagos for the end), Tom (quiet as ever, still maintaining water systems), Ling (who cared for Wei through her final year). Fifteen years of shared meals, rooftop gardens, greywater systems, collective childcare. The community that voted unanimously Year 6 to plant gardens despite having only 9 years left.
+**Compound Farewell**: The community gathers—Mr. Okonkwo (now 80+, still tending the rooftop gardens he helped design), Adanna (her son now 20, both staying in Lagos for the end), Tom (quiet as ever, still maintaining water systems), Ling (who cared for Wei through her final year), Dr. Tanaka (who's treated Maya and Kofi for fifteen years, watched them grow knowing they'd never finish growing). Fifteen years of shared meals, rooftop gardens, greywater systems, collective childcare. The community that voted unanimously Year 6 to plant gardens despite having only 9 years left.
 
 Mr. Okonkwo: "You taught us gardens matter. We're still tending them. Right to the end."
 
@@ -833,6 +835,8 @@ Adanna embraces Zara: "Thank you for showing us life was worth choosing. Kofi's 
 Tom, awkward but sincere: "The water systems still work. Your engineering. Fifteen years of clean water because you cared." 
 
 Ling: "Professor Wei loved your family. Said you understood impermanence better than most philosophers. She was right."
+
+Dr. Tanaka speaks last, professional mask dropped: "I became a pediatrician to help children grow toward adulthood. The asteroid made that absurd. But watching Maya and Kofi—they taught me something. Growth isn't about reaching some endpoint. It's about being fully alive in each stage. They've been fully alive every moment I've known them. That's complete. Thank you for letting me witness it."
 
 They stand together—compound residents, neighbors who became chosen family. Zara realizes: they built community. Not forever. For fifteen years. That was the point. Duration irrelevant.
 
