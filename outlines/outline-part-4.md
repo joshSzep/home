@@ -167,7 +167,7 @@ The grief wells up—anticipatory grief she's carried seventeen years. But also:
 
 **The Students**: Sixty people ranging from children (Kofi, fourteen years, three months) to elders (Elena, seventy-three; Marcus Reyes, sixty-eight, newly returned from Mumbai). Everyone practicing together. Everyone learning presence. Not for enlightenment. Not for peace. Just: for being here clearly, fully, truly.
 
-In the room: Min-seo (elderly Korean, cancer diagnosis two months ago), Derek (former Marine, quiet presence), Fatima (Jordanian host who invited Ibrahim to community), Linnea (Swedish biologist, two years into recovery from addiction), Adaeze and twelve-year-old Chioma (mother-daughter who first sought Wei Year 9, now regular students), young adults like Thabo (fourteen, brilliant and questioning), parents holding crying children, veterans with visible wounds, elders with invisible ones. Sixty stories. Sixty reasons for being here. Sixty people learning to die awake.
+In the room: Min-seo (elderly Korean, cancer diagnosis two months ago), Derek (former Marine, quiet presence), Fatima (Jordanian host who invited Ibrahim to community), Linnea (Swedish biologist, two years into recovery from addiction), Adaeze and twelve-year-old Chioma (mother-daughter who first sought Wei Year 9, now regular students), Priya Patel (forty-four, widow who still carries rage and practices anyway, bringing her daughter Aanya while her son Dev refuses to attend), young adults like Thabo (fourteen, brilliant and questioning), parents holding crying children, veterans with visible wounds, elders with invisible ones. Sixty stories. Sixty reasons for being here. Sixty people learning to die awake.
 
 **Maya's Intensity**: Kenji watching his niece—seventeen years, three months old. Three months until she dies at seventeen years, seven months. She practices with FEROCITY. Not desperation. Absolute commitment.
 
@@ -750,6 +750,52 @@ Marcus Rivera is quiet. Then: "I don't know. I challenged you on this Year 4. Yo
 
 "Yes. That's sacred too. Kenji would say: you did what you understood to be right. You learned mercy matters more than you thought. You learned too late to help Daniel. But you learned. That's also worth something."
 
+**Priya Patel Confronts Elena** (Later that afternoon): Woman at Elena's door. Mid-forties, composed but tightly wound. Elena recognizes her from Kenji's teachings—one of the newer students, Year 13 or 14.
+
+"Mayor Torres. I'm Priya Patel. Raj Patel's widow."
+
+Elena's breath catches. The woman whose husband Daniel killed. The woman who received 217 letters and never answered.
+
+Priya continues: "Prison services sent me Daniel's final letters yesterday. The ones that never reached me during the system collapse. Fifty letters from Year 14. Including one that mentioned you might learn of his death." Her voice is steady, controlled. "I need to talk to you about justice."
+
+Elena invites her in. They sit in her office—the same office where she denied Daniel's pardon three times.
+
+Priya: "I never read his letters. Not one. For thirteen years, they arrived. For thirteen years, I refused. My daughter Aanya—she's nineteen now—she begged me Year 13 to read them. Said I was carrying rage that was eating me alive. I refused. Called it principle. Called it honoring Raj. Called it justice." She pauses. "I was wrong."
+
+Elena listens, seeing herself in this woman's words.
+
+"Year 14 Month 9, prison services notified me he was dead. Suicide. I felt... nothing. Numb. Like I'd won something. Then the final letters arrived. And I read them. All 217. Took me three months." Priya's hands shake slightly. "He was genuinely remorseful. His children—motherless after his wife's suicide Year 3. His guilt consuming him. Every letter an attempt at accountability, at connection, at somehow making amends for something that can't be amended."
+
+She meets Elena's eyes. "You kept him imprisoned. I kept him imprisoned. Your walls were concrete. Mine were silence. We both chose consequence over compassion. We both thought justice mattered more than mercy. And now he's dead, and Raj is still dead, and all our righteousness accomplished was more suffering."
+
+Elena feels tears. "I learned about his death this morning. I've been thinking the same thing."
+
+"Have you?" Priya's voice has edge now. "Because I've been attending Kenji's teachings for two years. Learning about presence. About bearing witness. About both/and instead of either/or. And the whole time, I was holding Daniel in a prison of my silence. Refusing forgiveness. Refusing even acknowledgment of his humanity. I thought I was honoring Raj. I was just... hardening myself."
+
+"I thought I was maintaining justice," Elena says. "Upholding consequences. Showing that actions matter even at the end. Marcus Rivera—my deputy—challenged me Year 4. Said mercy matters more when time is short. I disagreed. I was wrong."
+
+"Were you?" Priya's question is genuine. "I've been asking myself the same thing. Was I wrong to never forgive? Was I wrong to refuse his letters? Or was I... exercising my own agency? Protecting myself? Choosing not to carry his guilt on top of my grief?"
+
+They sit with this. Two women who chose consequence. Two women learning mercy too late.
+
+Priya continues: "Kenji says presence doesn't require being healed. Just being honest about where you are. I'm still angry. I'm still grieving Raj. And I also recognize I could have responded differently. Both things true. I can't forgive Daniel now—he's dead. But I can practice differently going forward. I can witness my own hardness without defending it. That's all I have."
+
+Elena: "That's what I'm learning too. I can't pardon Daniel now. Can't give him freedom with his children. Can't undo thirteen years of imprisonment. But I can acknowledge I chose wrong. Can practice mercy now, in the thirty days left. Can witness my own mistake without destroying myself with it."
+
+"Is that enough?" Priya asks.
+
+"I don't know. But it's honest. And Kenji says honest presence is everything."
+
+Priya stands to leave. Then: "I'm teaching at the community center tomorrow. About unforgiveness. About carrying rage. About learning compassion too late to undo harm. Will you come?"
+
+"Yes."
+
+"Good. You should witness this. You're part of it."
+
+She leaves. Elena sits with the parallel—Priya's silence, Elena's justice. Both women keeping Daniel imprisoned. Both learning mercy when mercy can't help anyone. Both practicing presence with their own hardness. Both teaching others through their failures.
+
+Thirty days left. Time to practice differently. Time to bear witness to having chosen wrong. Time to honor Daniel by not repeating the mistake.
+
 **Asha's Final Installation**: That afternoon, Elena walks through District 5 where Asha Marin (55) has created her final major work. It's simple—a large circular space with mirrors surrounding, countdown clock projected overhead, mannequins of all ages standing in viewing positions. No narrative. No instruction. Just: stand here. Look. Notice what you feel. The installation is called "Witness."
 
 Elena stands inside for seventeen minutes. The mirrors show her: seventy-three years old, tired, grieving, present. The countdown shows: 29 days, 14 hours. The mannequins show: everyone she's led, everyone she's lost, everyone still here. She sees herself seeing. Daniel Okonkwo in his cell, rope around his neck, finally free of guilt through death. The guard walking away from absurdity. The cellmate running toward useless freedom. Elena denying pardon three times. The projection is hers. The reaction is hers. The installation just reveals.
@@ -809,7 +855,7 @@ Elena's final journal entry for the chapter: *Day 335. Thirty days. Daniel Okonk
 
 **Elena**: Writing final documents. Attending community practice. Being present. Leading by witnessing. Satisfied with how she spent fifteen years.
 
-**Kenji**: Teaching daily at community center. Two hundred people now, filling the space to capacity. Maya his star student—eighty-five days of intensive training complete, five days remaining. Ibrahim co-teaching the morning sessions. Derek leading walking meditation for the veterans. Linnea teaching the recovery group. Fatima organizing the hospitality. Marcus Reyes sharing Christian contemplation. Hassan leading evening prayer. Adaeze coordinating the parent circles. The young adults—Thabo, Amara, Jamal—organizing peer sessions for their generation.
+**Kenji**: Teaching daily at community center. Two hundred people now, filling the space to capacity. Maya his star student—eighty-five days of intensive training complete, five days remaining. Ibrahim co-teaching the morning sessions. Derek leading walking meditation for the veterans. Linnea teaching the recovery group. Fatima organizing the hospitality. Marcus Reyes sharing Christian contemplation. Hassan leading evening prayer. Adaeze coordinating the parent circles. Priya Patel teaching sessions on unforgiveness and living with unresolved grief. The young adults—Thabo, Amara, Jamal—organizing peer sessions for their generation.
 
 Everyone learning presence. Everyone practicing. Everyone preparing by not preparing—just being present. The community center has become heart of District 5. Two hundred people, sixty core students, twenty teachers emerging from the practice. The lineage spreading: Wei → Kenji → Maya → Thabo → others. Transmission continuing until it can't.
 
@@ -831,7 +877,7 @@ Twenty-six days until the light takes everything. But today: everyone here, ever
 
 **End**: All perspectives held together. All lives witnessed. All presences honored. Twenty-six days. Then: countdown begins in earnest. Then: final day approaches. Then: physics.
 
-Final image: Community center at sunset. Kenji teaching. Two hundred people practicing. Maya beside him, nearly ready to teach alone. Ibrahim and Hassan co-facilitating. Derek's steady presence. Fatima's hospitality. Linnea's transformation. Marcus Reyes witnessing what he came back for. Elena bearing witness to witness. The young adults—Thabo, Amara, Jamal—front row, fierce and present despite everything. The parents holding children. The elders holding wisdom. The veterans holding each other. Everyone holding this moment together.
+Final image: Community center at sunset. Kenji teaching. Two hundred people practicing. Maya beside him, nearly ready to teach alone. Ibrahim and Hassan co-facilitating. Derek's steady presence. Fatima's hospitality. Linnea's transformation. Priya's honest witness to unforgiveness. Marcus Reyes witnessing what he came back for. Elena bearing witness to witness. The young adults—Thabo, Amara, Jamal—front row, fierce and present despite everything. The parents holding children. The elders holding wisdom. The veterans holding each other. Everyone holding this moment together.
 
 Twenty-six days. Then: seven. Then: one. Then: forty-seven seconds. Then: light.
 
@@ -968,7 +1014,7 @@ Day 4 Young Adults Rage & Gratitude: 50 people ages 14-25; MAYA CO-TEACHES; scre
 
 Day 5 Interfaith Gathering: 80 people; Hassan, Marcus Reyes, Kenji, Ibrahim co-teach; shared practice of all faiths; end in silence understanding same mystery
 
-Day 6 Elders & Legacy: 35 people ages 60+; Fatima and Um-Hassan (Hassan's wife) lead; life review without regret; Dr. Mbeki (78): "I've lived 78 years. That's extraordinary. I'm ready."
+Day 6 Unforgiveness & Living With Hardness: 40 people; PRIYA PATEL TEACHES; her first full session; tells story of receiving 217 letters over 13 years, never reading them; Daniel's death Year 14 M8; finally reading letters Year 15 M2; realizing her silence was violence; confronting Elena; learning mercy too late; teaches: "You don't have to forgive to practice presence; you practice presence to become *capable* of forgiveness"; reads one of Daniel's letters aloud (his apology to his children); cries while reading; teaches that transformation can happen even in final week; Aanya (19) sits beside her mother, witnessing; Dev (17) refuses to attend; Priya models that family doesn't have to be on same path; Elena attends, sitting in back, witnessing the woman who held same hardness she did; parallel journeys visible; both learning mercy when mercy can't help anyone; teaching ends with Priya saying: "I still carry rage. I also carry compassion now. Both true. I couldn't do this alone. Practice made space for both. That's enough. That's everything." Session profound—people learning that presence doesn't require being healed, just being honest about where you are.
 
 Day 7 Open Practice (as described above): 200 people; everyone together; final hour of silence; transmission complete
 
@@ -987,7 +1033,7 @@ Day 7 Open Practice (as described above): 200 people; everyone together; final h
 
 **Platform 73 — Amara & David**: Climbing up together. Final maintenance. Final work. Final presence. Systems functioning. Robots working. Everything continuing until it can't. Breakfast on platform. Tea. Bread. Ritual. Presence. Love.
 
-**Community Center — Elena**: Final gathering. Everyone together. Min-seo, Derek, Fatima among the faces—nine years of community, final hours together. Adanna and Samuel here too—left Lagos last week, mother and son together, couldn't bear to be apart from the family that taught them life was worth choosing. Not teaching. Not leading. Just: being together. Witnessing together. Elena satisfied. Complete. Present until the end.
+**Community Center — Elena**: Final gathering. Everyone together. Min-seo, Derek, Fatima among the faces—nine years of community, final hours together. Adanna and Samuel here too—left Lagos last week, mother and son together, couldn't bear to be apart from the family that taught them life was worth choosing. Priya Patel sitting with her daughter Aanya (19), both present, both practicing—Priya still carrying rage and compassion both, still being honest about her hardness, still here. Her son Dev chose to face the end elsewhere, and that's okay too. Priya modeling that family doesn't have to be on the same path. Not teaching. Not leading. Just: being together. Witnessing together. Elena satisfied. Complete. Present until the end.
 
 **Kenji's Apartment — Final Teaching**: Small group. Maya, Kofi, Ibrahim, Hassan, Min-seo, Derek, Fatima, others. The refugees who survived together. Simple practice. Breath. Body. Moment. Nothing more. Nothing less. This is enough.
 

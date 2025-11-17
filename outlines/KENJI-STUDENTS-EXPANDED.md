@@ -69,6 +69,23 @@
 - **By Year 14-15**: Clean, present, helps teach recovery sessions; embodies hope that transformation possible even after years of addiction; human face of 520% drug death increase
 - **Specialty**: Teaches "presence TO fear vs consumed BY fear" to others in early recovery
 
+#### **Priya Patel** (Raj Patel's widow)
+- **Full arc**: See AGENTS.md for complete story
+- **Age**: 29 in Year 2, 44 in Year 15
+- **Background**: Indian-British engineer; husband Raj killed Year 2 District 7 riot by Daniel Okonkwo (both refugees, both starving, fight over food)
+- **Family**: Two children—Aanya (age 4 in Year 2, 19 at impact), Dev (age 2 in Year 2, 17 at impact)
+- **Years 2-8**: Consumed by rage and grief; received Daniel's letters (217 total over 13 years), refused to read them; raised children alone; worked as water systems engineer
+- **Years 9-12**: Rage calcified into numbness; functional but empty; went through motions
+- **Year 13**: Daughter Aanya (age 18) insists she attend Kenji's teaching; begins practice reluctantly; struggles with sitting still with her rage
+- **Year 14 M9**: Learns Daniel died by suicide Month 8; realizes she could have offered forgiveness, chose not to; prison system sends her his final 50 letters (undelivered during collapse)
+- **Year 15 M2**: Finally reads all 217 letters; sees Daniel's genuine remorse, his three motherless children, his guilt consuming him; recognizes her silence was its own form of violence
+- **Year 15 M2**: Confronts Elena about Daniel's imprisonment; parallel conversation—both chose consequence over compassion, both learned mercy too late
+- **Teaching contribution**: Year 15 M3-M4: Becomes unexpected teacher about unforgiveness; tells her story at community sessions; teaches "You don't have to forgive to practice presence; practice presence to become capable of forgiveness"; shows that transformation can happen even in final weeks
+- **Character significance**: Embodies cost of righteous anger, weight of withheld mercy, reality that some people never forgive AND that's part of the human story too; her presence in Kenji's circle challenges easy narratives about healing; she's still angry, still grieving, still present
+- **Relationship with Elena**: Two women who chose justice/consequence, both learning mercy too late to undo harm, both bearing witness to their own hardness, both practicing differently in final weeks
+- **Children's role**: Aanya attends teachings with her; Dev refuses (still too angry); Priya models that family members don't have to be on same path
+- **Final weeks**: Reads Daniel's letters aloud at community session; teaches others that carrying unforgiveness is exhausting and sometimes forgiveness comes too late and that's reality and you still practice with what is
+
 ---
 
 ### LAGOS COMPOUND COMMUNITY (Connect to Kenji through Zara/Maya)
@@ -440,6 +457,23 @@
 - Decide to all attend Kenji's teaching together; three Marcuses sitting in row, confusing everyone
 - Kenji uses this: "Three people, same name, different paths. See how identity is constructed? None of them IS 'Marcus.' They're each themselves. Name is just sound."
 
+### **Priya Patel and Elena's Parallel Hardness**
+- Year 15 M2: After Priya learns of Daniel's death, she confronts Elena
+- Two women who chose consequence over compassion—Priya through silence, Elena through imprisonment
+- Both learning mercy too late to help Daniel; both practicing differently in final weeks
+- Elena attends Priya's teaching session Day 6 of final week
+- Priya reads Daniel's letters aloud, cries, teaches that unforgiveness exhausts, that transformation can happen even in final days
+- After session: Elena and Priya embrace—no words, just recognition of shared hardness, shared learning
+- Both attend final community gathering together, both still carrying what they chose, both present anyway
+- Teaching: Presence doesn't require being healed; practice presence to become *capable* of forgiveness
+
+### **Priya and Her Children's Different Paths**
+- Aanya (19): Insisted mother attend teachings Year 13; accompanies her Year 13-15; practices alongside her; witnesses her mother's transformation
+- Dev (17): Refuses to attend; still too angry at Daniel, angry at mother for withholding forgiveness, angry at everything; chooses to face end separately
+- Priya models: "My children chose different paths. Both valid. I can't make Dev practice. Can only practice myself. Both/and."
+- Final week: Aanya sits with Priya at community center; Dev elsewhere (possibly with friends, possibly alone); Priya grieves but accepts
+- Teaching: Family members don't have to be on same path; you practice with what is, not what you wish was
+
 ---
 
 ## FINAL WEEK TEACHINGS (Year 15 Month 4, Days 1-7)
@@ -474,7 +508,18 @@
 - Shared practice: Islamic prayer, Buddhist meditation, Christian contemplation, Jewish chant, all together
 - End in silence; everyone understanding they touched same mystery through different doors
 
-### **Day 6**: Elders and Legacy
+### **Day 6**: Unforgiveness and Living With Hardness
+- 40 people
+- Priya Patel teaches her first full session
+- Tells story: 217 letters over 13 years, never reading them; Daniel's death; finally reading letters; realizing silence was violence
+- Reads one letter aloud (Daniel's apology to his children); cries while reading
+- Teaches: "You don't have to forgive to practice presence; practice presence to become *capable* of forgiveness"
+- Models: Still carrying rage and compassion both; transformation happening even in final week
+- Aanya (19) sits beside mother; Dev (17) absent; Priya teaches that family doesn't have to be on same path
+- Elena attends, sitting in back, witnessing parallel journey
+- Profound session—people learning presence doesn't require being healed, just being honest
+
+### **Day 6 (Evening)**: Elders and Legacy
 - 35 people (ages 60-100)
 - Fatima and Um-Hassan lead
 - Practice: life review without regret; gratitude for long life; readiness
@@ -504,6 +549,7 @@
 - Adaeze (parenting with presence)
 - Hassan (Islamic practice integration)
 - Marcus Reyes (Christian contemplation)
+- Priya Patel (unforgiveness, living with unresolved grief, becoming capable of compassion)
 
 **The 200 students include** multiple lineage holders who would have taught others if time continued:
 - Thabo (14, brilliant young teacher)
