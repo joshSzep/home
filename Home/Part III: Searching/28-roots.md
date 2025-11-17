@@ -324,11 +324,15 @@ Amara looks uncertain. "Good things?"
 
 She moves on before Amara can respond. Simple acceptance. Simple welcome. Simple compound philosophy: Show up. Be present. Let the past be past. Six years is too short for holding grudges.
 
-After dinner, children scatter to play. Adults linger over tea. Zara finds herself in conversation with three other mothers—Adanna, Chioma, Dr. Tanaka—all with children close to Maya and Kofi's ages. All facing the same mathematics: children who'll die young. Children who'll never finish growing. Children worth loving anyway.
+After dinner, children scatter to play. Adults linger over tea. Zara finds herself in conversation with three other mothers—Adanna, Adaeze, Dr. Tanaka—all with children close to Maya and Kofi's ages. All facing the same mathematics: children who'll die young. Children who'll never finish growing. Children worth loving anyway.
 
 Dr. Tanaka has been Maya and Kofi's pediatrician since their births. Japanese-Nigerian, forty-two now, she specialized in child development back when that specialty had meaning. Now she comes to compound dinners more often, has started attending Wei's garden teachings. Learning presence instead of prescribing it. Zara has watched her transform over the past year—the professional mask thinning, the clinical distance dissolving into something more human. More honest.
 
-"Your sister," Chioma says quietly. "She's the one who detected it?"
+Adaeze is another regular at Wei's garden—mother to six-year-old Chioma. Zara remembers when she first arrived at the compound Year 3, terrified, seeking wisdom about parenting toward death. Wei had taught her presence. Now, five years later, she's become part of the teaching circle herself, helping newer parents find their way.
+
+Adanna's son Samuel sits with the other children, nine years old, all confidence and curiosity. Adanna was one of the first to welcome Zara's choice to have Kofi—defended life-choice fiercely when others questioned it. Now she helps anchor the compound's community of parents, showing others that loving children who'll die young is still loving completely.
+
+"Your sister," Adaeze says quietly. "She's the one who detected it?"
 
 "Yes."
 

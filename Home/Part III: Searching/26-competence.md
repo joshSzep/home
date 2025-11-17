@@ -116,6 +116,12 @@ When did that change?
 
 Ibrahim understands. He nearly chose that. Years 3 through 6, especially. The numbness was complete. Death would have been easier than continuing. He stayed alive through inertia more than choice. Existed because dying required effort he didn't have. Spent four years wandering the city, counting stairs, drinking tea with Min-seo, attending Fatima's dinners, walking with Derek in silence. Small human connections that kept him breathing without giving him reason to breathe.
 
+Min-seo, the Korean elder in Unit 204 who grows mint on her tiny balcony. She'd given him his first cutting Year 3—showed him how the plant thrives even in Antarctic winter darkness, hardy and persistent. Taught him that tending living things matters even when nothing lasts. Every week for four years he'd stopped by her door. She'd offer tea. He'd help water her pots. She never asked about his faith or his brokenness. Just: showed him that showing up matters. That green things growing matters. That small acts of care compound into something larger than despair.
+
+Derek, the former Marine, American veteran who'd lost his faith somewhere between Kandahar and Antarctica. They recognized each other immediately—soldiers always know soldiers. Derek never pushed conversation. Just: walked with Ibrahim through the city. Fifty-three steps up. Fifty-three steps down. Sometimes hours of walking without speaking. Presence without words. Companionship without explanation. Keeping each other alive through simple proximity.
+
+And Fatima's dinners. Jordanian woman, devout Muslim who never lost faith but never judged Ibrahim for losing his. Once a month she'd organize gatherings—Eid celebrations, community meals, refugee solidarity. Ibrahim attended reluctantly at first. Now: regularly. Not for the faith. For the food, the faces, the routine. The reminder that community exists even when belief doesn't.
+
 "You ever think about it?" Ibrahim asks. "Ending early?"
 
 David considers. Honest consideration, not polite deflection. "Yes. Year 1 through Year 3, especially. When the work felt pointless. When my marriage was dying. When every day was just... waiting for the asteroid." He sips his tea. "But I kept showing up. And somewhere along the way, showing up became enough."

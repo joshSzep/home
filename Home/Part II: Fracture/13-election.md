@@ -230,6 +230,18 @@ Tears now. "I didn't mean to kill him. I swear. I just wanted food. I just wante
 
 Elena watched this man dissolve into grief. The statistics were real now. Murder rate up 500%. This is what that meant. Desperate people killing each other. Friends turning on friends. Humanity fracturing under the weight of extinction.
 
+Marcus—assistant Marcus—stood in the corridor outside. He'd followed her despite the danger. When she emerged, his face was troubled.
+
+"That man," he said quietly. "Daniel. I heard the story. Three starving children. Desperate act. Immediate remorse." He paused. "This is exactly the kind of case that needs mercy, not punishment."
+
+"He killed someone, Marcus."
+
+"Over food. During a distribution failure. Under conditions of extraordinary duress. If the allocation system had worked—if we'd governed better—Raj Patel would still be alive." His voice was urgent but not accusatory. "Elena, we only have thirteen years. Imprisoning him for that entire time... what does that accomplish? His children lose their father. He dies in a cell. Justice becomes cruelty."
+
+Elena felt the weight of it. Marcus was right about the circumstances. The system had failed. The allocation center running out three times in one week was governance failure. Daniel's crime was born from that failure, from desperation, from the unraveling of everything.
+
+But Raj Patel was still dead. His family still destroyed. Justice still mattered. Even—especially—when time was short.
+
 "What happens to me?" Daniel asked.
 
 "Trial. Probably conviction. Probably prison."
@@ -240,7 +252,7 @@ Elena watched this man dissolve into grief. The statistics were real now. Murder
 
 "So I'll die in prison. Away from my children. Never seeing them again. Because I killed my friend over food." His laugh was broken. "Justice, I guess."
 
-Elena had no answer. Justice did require consequence. Even when—especially when—nothing lasted. But standing here, looking at this grieving killer, she felt the weight of what would come. Someone would need to sentence him. Someone would need to decide what punishment meant when everyone was already condemned.
+Elena had no answer. Justice did require consequence. Even when—especially when—nothing lasted. But standing here, looking at this grieving killer, hearing Marcus's plea for mercy, she felt the weight of what would come. Someone would need to sentence him. Someone would need to decide what punishment meant when everyone was already condemned.
 
 Marcus—assistant Marcus—drove her home at dawn. "That was insane," he said.
 
