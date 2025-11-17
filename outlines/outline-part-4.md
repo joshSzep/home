@@ -114,7 +114,19 @@ They drink tea and talk about fifteen years—governance, transformation, servic
 
 **Wei's Influence**: Grandmother Wei (honorary grandmother) taught her presence. From age two to Wei's death. The garden. The flowers. The impermanence made visible. Wei dying naturally before the asteroid—mercy and loss both.
 
-**Lagos Community**: Maya reflects on leaving the compound. Mr. Okonkwo teaching her about soil, showing her that tending gardens matters even when nothing lasts. Adanna's fierce love—defending Mama's choice to have children, defending Maya's right to exist. Tom's quiet engineering wisdom, teaching her systems thinking alongside Mama. Ling's gentle care for Wei, showing Maya that tending the dying is sacred work. Dr. Tanaka (her pediatrician all fifteen years) who transformed from treating-toward-adulthood to witnessing-complete-lives—watching Maya grow knowing she'd never finish growing, learning presence practice alongside the family. Fifteen years of neighbors becoming family. Community that built rooftop gardens Year 6 despite having only 9 years left—they taught her that brief doesn't mean meaningless.
+**Lagos Community**: Maya reflects on leaving the compound three months ago. Each person shaped her understanding:
+
+*Mr. Okonkwo* (elderly farmer, late 70s when she last saw him): Taught her about soil. Every morning Year 3-9, she'd find him on the rooftop garden at dawn, tending plants that would die in years but needed water today. "You plant what won't harvest, Maya. That's faith. Not religious faith—presence faith. Today matters."
+
+*Adanna* (fierce mother): Defended Mama's choice Year 0 when neighbors accused. "Your family matters. Your life matters. Brief doesn't mean worthless." Adanna's son Samuel (20 now) who played with Maya when she was small, taught her card games, treated her like person not tragedy. They're coming to Antarctica for final week.
+
+*Tom* (engineer, water systems): Quiet wisdom. Taught Maya systems thinking alongside Mama. Showed her how complex infrastructure depends on small daily maintenance. "See how this valve matters? Small. Humble. Essential. Like moments. Like presence."
+
+*Ling* (Wei's caregiver, Chinese-Nigerian): Gentle care for dying teacher. Maya watched Ling tend Wei Years 6-11, learning that caretaking is sacred. Ling taught her: "Wei teaches me while I care for her. Teacher and student both. Always both."
+
+*Dr. Tanaka* (pediatrician, Japanese-Nigerian): Well-child visits all fifteen years. Watched Maya grow knowing she'd never finish growing. Transformed her practice from outcomes to witness. Last visit, Year 15 Month 0, before migration: "Maya, treating you taught me presence medicine. You've been my teacher." Maya crying: "I'm just a patient." Dr. Tanaka: "No. You're complete. Right now. That's what you taught me."
+
+Fifteen years of neighbors becoming family. Community that built rooftop gardens Year 6 despite having only 9 years left—they taught her that brief doesn't mean meaningless. That presence matters even when, especially when, nothing lasts.
 
 **Kofi**: Her brother. Fourteen years, three months old (born Year 0, Month 10). Brilliant, curious, kind. She raised him almost as much as Mama did. Taught him reading. Taught him kindness. Taught him that brief life matters. He'll die at fourteen years, six months (in three months, impact Month 4). She'll die at seventeen years, seven months. Both too young. Both exactly the age they'll be.
 
@@ -153,7 +165,9 @@ The grief wells up—anticipatory grief she's carried seventeen years. But also:
 
 **The Practice**: Simple instructions. "Notice breath. Notice body. Notice thoughts without clinging. Notice feelings without drowning. This moment. This moment. This moment. Nothing more. Nothing less. This is enough."
 
-**The Students**: Sixty people ranging from children (Kofi, fourteen years, three months) to elders (Elena, seventy-three). Everyone practicing together. Everyone learning presence. Not for enlightenment. Not for peace. Just: for being here clearly, fully, truly.
+**The Students**: Sixty people ranging from children (Kofi, fourteen years, three months) to elders (Elena, seventy-three; Marcus Reyes, sixty-eight, newly returned from Mumbai). Everyone practicing together. Everyone learning presence. Not for enlightenment. Not for peace. Just: for being here clearly, fully, truly.
+
+In the room: Min-seo (elderly Korean, cancer diagnosis two months ago), Derek (former Marine, quiet presence), Fatima (Jordanian host who invited Ibrahim to community), Linnea (Swedish biologist, two years into recovery from addiction), Adaeze and twelve-year-old Chioma (mother-daughter who first sought Wei Year 9, now regular students), young adults like Thabo (fourteen, brilliant and questioning), parents holding crying children, veterans with visible wounds, elders with invisible ones. Sixty stories. Sixty reasons for being here. Sixty people learning to die awake.
 
 **Maya's Intensity**: Kenji watching his niece—seventeen years, three months old. Three months until she dies at seventeen years, seven months. She practices with FEROCITY. Not desperation. Absolute commitment.
 
@@ -163,15 +177,17 @@ She's been studying with him for three years (Year 12 to Year 15). Started when 
 
 **David and Amara**: Quiet engineer and calculated scientist both practicing. David comes irregularly—not natural for him but trying. Amara more regular now. Both softened over years. More present. More human. That's enough.
 
-**Question from Young Student**: A teenager (fourteen) asks, "Kenji, does this practice make dying easier?" 
+**Question from Young Student**: Thabo—fourteen years old, born Year 1, never knew pre-detection world—raises their hand. Voice clear despite trembling: "Kenji, does this practice make dying easier?" 
 
-Kenji pauses. Truth: "No. Death is hard regardless. This practice doesn't make death easier. It makes life clearer. Makes this moment fuller. Makes presence possible. That's all. That's everything."
+The room goes quiet. Sixty people lean forward. This is everyone's question.
 
-Student: "Is that enough?"
+Kenji pauses. Considers lying, offering comfort. Chooses truth: "No. Death is hard regardless. This practice doesn't make death easier. It makes life clearer. Makes this moment fuller. Makes presence possible. That's all. That's everything."
 
-Kenji: "I don't know. Ask me in three months."
+Thabo nods slowly, processing. "Is that enough?"
 
-Everyone laughs. Dark humor. True humor. They're all asking the same question.
+Kenji meets their eyes. "I don't know. Ask me in three months."
+
+Silence. Then: laughter. Sixty people laughing—dark humor, true humor, the laughter of people facing the same impossible question together. Thabo laughs too, and the tension breaks. They're all in this. All practicing. All learning to die awake even though awake means scared.
 
 **Maya hearing this**: She understands suddenly. She won't be ready to die. No one will. But she can be PRESENT while dying. That's different. That's possible. That's what she's learning.
 
@@ -419,9 +435,23 @@ Min-seo cries. "You heard this? Really heard it?"
 
 She squeezes his hand. "Thank you, Ibrahim. For praying. For hearing. For telling me. That's gift."
 
-**Min-seo Dies**: Three days later. Peaceful. Not afraid. Derek, Fatima, and Ibrahim with her. Her last words: "Tell Kenji—the mint kept growing. Garden doesn't end."
+**Min-seo Dies**: Three days later. Year 15, Month 0, Day 21. Peaceful. Not afraid. Derek, Fatima, and Ibrahim with her in her tiny apartment. The mint on her balcony still growing despite winter, green and alive and defiant.
 
-After she dies, Ibrahim sits with her body for an hour. Feels: peace. Not happiness. Not relief. But peace. She didn't die alone. She didn't die into nothing. God was with her. Ibrahim knows this—not believes, *knows*—because he heard God say it.
+Her breathing slows. Becomes shallow. She opens her eyes one final time, looks at each of them. "Thank you. Nine years you kept me alive. Now you help me die. Perfect."
+
+Ibrahim holds her hand. "The mint is still growing."
+
+"Yes." She smiles. "Tell Kenji—the mint kept growing. Garden doesn't end."
+
+Her final breath. Peaceful. Present. Complete.
+
+Derek weeps quietly—former Marine who hasn't cried in twenty years. Fatima recites Quranic verses for the dead, even though Min-seo wasn't Muslim. Ibrahim just sits, holding Min-seo's hand as it cools, feeling the presence that told him *Do you really think I brought you here to forget about you?* still here, still real, still accompanying Min-seo into whatever comes next.
+
+After an hour, Linnea arrives with tea. She's been clean eight months now, still fragile but present. "I heard," she says quietly. Sets the tea down. Sits with them. The four of them—Derek, Fatima, Ibrahim, Linnea—bearing witness to Min-seo's completed life. Nine years of keeping each other alive. Now: keeping each other company in death.
+
+They sit until dawn. Then notify hospice. Then begin arrangements.
+
+But Ibrahim feels: peace. Not happiness. Not relief. But peace. She didn't die alone. She didn't die into nothing. God was with her. Ibrahim knows this—not believes, *knows*—because he heard God say it.
 
 **The Transformation**: Ibrahim returns to mosque that evening. Hassan is there with twenty others—old believers, uncertain pray-ers, people reaching toward something. 
 
@@ -455,11 +485,11 @@ Maya overhears. Approaches. "Ibrahim, will you teach us to pray? The Islamic way
 
 "You heard God's voice. That makes you qualified."
 
-**Both/And Teaching**: Over the next weeks (Month 2), Ibrahim and Kenji co-teach. Morning: Islamic prayer with Hassan at mosque (thirty people now, growing). Afternoon: Buddhist meditation with Kenji (two hundred people). Evening: integrated sessions where both practices meet.
+**Both/And Teaching**: Over the next weeks (Month 2), Ibrahim and Kenji co-teach. Morning: Islamic prayer with Hassan at mosque (thirty people now, growing—Fatima, Adaeze, some of the young adults, even Derek experimenting with prostration despite no faith). Afternoon: Buddhist meditation with Kenji (two hundred people—the veterans, the parents, the elders, the young adults like Thabo and Amara and Jamal, everyone). Evening: integrated sessions where both practices meet (twenty-five core students including Maya, Kofi, Linnea, Elena, Marcus Reyes).
 
-Maya learns *salat*—the five prayers. Kofi learns *dhikr*—remembrance of God. Some of Kenji's Buddhist students start attending mosque. Some of Hassan's Muslims start attending meditation.
+Maya learns *salat*—the five prayers. Bows toward Mecca alongside Muslim students. Kofi learns *dhikr*—remembrance of God, counting ninety-nine names on beads Ibrahim gives him. Some of Kenji's Buddhist students start attending mosque (Dr. Tanaka if she's in Antarctica, several parents, Thabo who wants to try everything). Some of Hassan's Muslims start attending meditation (Fatima who embodies both naturally, Adaeze seeking all available wisdom, young Muslims questioning).
 
-Not conversion. Not syncretism. Both/and. Different doors into the same mystery.
+Not conversion. Not syncretism. Both/and. Different doors into the same mystery. Islamic prayer teaching surrender. Buddhist meditation teaching presence. Christian contemplation (Marcus Reyes sharing his practice) teaching love. Jewish chant (if Rabbi Goldstein present) teaching memory. All of it pointing to the same wordless truth.
 
 Marcus Reyes (Elena's former assistant, returned from Mumbai) joins the teaching circle. He's Christian—evangelical, like the church that saved Josh's father. He shares his story: hearing God's call to serve. Leaving comfort to teach refugee children. Finding Christ in the desperate and dying.
 
@@ -556,6 +586,8 @@ That's enough.
 
 **Daniel's Death**: Morning report arrives—prison notification. Daniel Okonkwo died seven months ago. Year 14, Month 8. Suicide. Guards found him peaceful, sitting in meditation posture, note beside him: "I wanted to die present, not guilty. Tell my children I tried. Tell the mayor she was right about justice. Wrong about mercy. Both true. Forgive me. —Daniel"
 
+**NOTE**: Daniel Okonkwo, prisoner who killed Raj Patel Year 2. Possible relation to Dr. Okonkwo (Nigerian physician, Chapter 14) who treated Ibrahim's wounds in UN Medical Facility, New Jerusalem Zone, Year 2. If same family: tragic dimension—father saves lives (Ibrahim), son takes life (Raj Patel), father perhaps tries to save son through medical/psychological intervention but fails. Dr. Okonkwo's quote to Ibrahim: "Thirteen years is still thirteen years. That's the position we're all in."—possibly speaking from experience of son in prison. If they're related, Dr. Okonkwo likely died by natural causes or suicide himself after son's death Year 14. This connection adds layer: Elena's justice decision affected entire family. Doctor who saves became father of killer. Cycle of trauma visible.
+
 Elena reads this three times. Thirteen years she kept him imprisoned. Thirteen years he wrote letters. Thirteen years he carried guilt. And six months ago—six months before everyone would die anyway—he chose to end it. Chose to die present rather than wait for the asteroid guilty.
 
 She never pardoned him. Never offered mercy. Justice upheld. Consequence maintained. And now: too late. He died alone in a cell. His children grew up without him. Raj Patel still dead. Justice served. Mercy denied. Nothing changed except more suffering added to the sum.
@@ -622,17 +654,29 @@ Elena smiles through tears. "Wise son."
 
 "Exactly."
 
-**The Young Gathering**: Elena notices something. The young adults (18-25) gathering separately. Processing differently. They're angry in ways elders aren't. They should have had full lives. Should have had futures. Should have had everything. Instead: ending at beginning.
+**The Young Gathering**: Elena notices something. The young adults (18-25) gathering separately in the community center's side room. Processing differently. They're angry in ways elders aren't. They should have had full lives. Should have had futures. Should have had everything. Instead: ending at beginning.
 
-Elena approaches them. "Can I sit with you?"
+Elena approaches the doorway. Twelve young people inside. She recognizes some from Kenji's teachings. Spots Thabo (14, technically not in age range but included), Amara (21, chemistry student), Jamal (23, engineer), others.
 
-Suspicious looks. Then: "Why?"
+Elena knocks. "Can I sit with you?"
 
-"Because you're right to be angry. Because your loss is different than mine. Because I want to witness your truth."
+Suspicious looks. Amara speaks first: "Why? So you can tell us it'll be okay? That presence makes dying at twenty-one acceptable?"
 
-They let her sit. They share their rage. Their grief. Their stolen futures. Elena listens. Doesn't placate. Doesn't minimize. Just: witnesses. Honors. Acknowledges.
+"No. Because you're right to be angry. Because your loss is different than mine. Because I want to witness your truth without platitudes."
 
-One young man (23): "It's not fair."
+Silence. Then Thabo: "You can sit."
+
+She enters. Sits on floor with them—seventy-three-year-old mayor sitting cross-legged with the young adults who'll die before living.
+
+They share their rage. Amara: "I studied chemistry for three years. I'll never publish research. Never contribute. Never matter scientifically. What was the point?" 
+
+Jamal: "I learned engineering to build things. Infrastructure that lasts. Bridges. Systems. Everything I learned is useless. I'll die having built nothing permanent."
+
+A young woman (19, named Keiko): "I wanted children. Wanted to be mother. I'm nineteen. That's never happening. That entire life path—gone."
+
+Elena listens. Doesn't placate. Doesn't minimize. Just: witnesses. Honors. Acknowledges each stolen future as real loss, not abstract tragedy.
+
+Jamal finally asks directly: "It's not fair."
 
 Elena: "No. It's not."
 
@@ -644,9 +688,25 @@ Elena: "No. It's not."
 
 "It's all we have."
 
-Later, young woman from earlier approaches: "Thank you. For not pretending it's okay. For not offering false comfort. For just... being honest."
+Silence. Then Thabo: "Mayor Torres—Elena—do you think we wasted our time? Learning things we'll never use?"
+
+Elena considers carefully. "No. Learning made you who you are right now. That's not waste. That's becoming. You became chemists and engineers and artists and thinkers. That happened. That's real. Brief doesn't erase accomplished."
+
+Amara wipes eyes. "I want to believe that."
+
+"I know. Me too."
+
+Later, after Elena leaves, Amara approaches her in the hallway. "Thank you. For not pretending it's okay. For not offering false comfort. For just... being honest."
 
 Elena: "Honest is all I can be anymore."
+
+Amara: "That's enough. That's... thank you." She pauses. "I go to Kenji's teachings. He says the same thing—honest presence is enough. I'm starting to understand what that means."
+
+"Good. Keep practicing. Keep raging. Keep being here. All of it matters."
+
+"Even the rage?"
+
+"Especially the rage. That's honest too."
 
 **Daniel's Full Story Revealed**: Marcus Rivera arrives mid-morning with prison records. "Elena, you need to see this. About Daniel Okonkwo."
 
@@ -749,7 +809,11 @@ Elena's final journal entry for the chapter: *Day 335. Thirty days. Daniel Okonk
 
 **Elena**: Writing final documents. Attending community practice. Being present. Leading by witnessing. Satisfied with how she spent fifteen years.
 
-**Kenji**: Teaching daily. Maya his star student. Ibrahim almost co-teaching. Everyone learning presence. Everyone practicing. Everyone preparing by not preparing—just being present.
+**Kenji**: Teaching daily at community center. Two hundred people now, filling the space to capacity. Maya his star student—eighty-five days of intensive training complete, five days remaining. Ibrahim co-teaching the morning sessions. Derek leading walking meditation for the veterans. Linnea teaching the recovery group. Fatima organizing the hospitality. Marcus Reyes sharing Christian contemplation. Hassan leading evening prayer. Adaeze coordinating the parent circles. The young adults—Thabo, Amara, Jamal—organizing peer sessions for their generation.
+
+Everyone learning presence. Everyone practicing. Everyone preparing by not preparing—just being present. The community center has become heart of District 5. Two hundred people, sixty core students, twenty teachers emerging from the practice. The lineage spreading: Wei → Kenji → Maya → Thabo → others. Transmission continuing until it can't.
+
+Twenty-six days until everyone dies. Twenty-six days of practice. Twenty-six days of being here, together, awake.
 
 **Ibrahim**: Seven years of presence practice. Reconciled with Hassan. Part of community. Teaching emerging. No faith in God but faith in people. That's enough.
 
@@ -759,9 +823,21 @@ Elena's final journal entry for the chapter: *Day 335. Thirty days. Daniel Okonk
 
 **Convergence**: Everyone in their chosen places. Everyone with chosen companions. Everyone present. Everyone witnessing. Everyone waiting for the end that's coming regardless.
 
+At community center: Kenji's two hundred students gathering daily. At the mosque: Hassan's fifty faithful. At Fatima's apartment: twenty people sharing meals. At Asha Marin's "Witness" installation: viewers standing in mirrors, seeing themselves see, understanding they're already disturbed. Derek and his veteran group walking meditations through frozen streets, counting steps together. Linnea with her recovery group, breathing through craving one more day. Adaeze with Chioma and the other parents, witnessing their children be present. The young adults—Thabo organizing peer discussions, Amara processing rage, Jamal questioning everything, all of them practicing despite or because of their stolen futures.
+
+Twenty-six days. The web of connection visible now. Min-seo's mint cuttings growing in forty apartments. Ibrahim's fifty-three steps walked by dozens who learned from him. Wei's garden teachings transmitted through Kenji, through Maya, through Thabo, through everyone. Community practicing presence together.
+
+Twenty-six days until the light takes everything. But today: everyone here, everyone witnessed, everyone mattering.
+
 **End**: All perspectives held together. All lives witnessed. All presences honored. Twenty-six days. Then: countdown begins in earnest. Then: final day approaches. Then: physics.
 
-**Key beats**: Multiple brief POVs • Everyone present • Work continuing • Family time • Teaching continuing • Reconciliation complete • Maya learning • Kofi playing • Convergence happening • Twenty-six days • Countdown visible now
+Final image: Community center at sunset. Kenji teaching. Two hundred people practicing. Maya beside him, nearly ready to teach alone. Ibrahim and Hassan co-facilitating. Derek's steady presence. Fatima's hospitality. Linnea's transformation. Marcus Reyes witnessing what he came back for. Elena bearing witness to witness. The young adults—Thabo, Amara, Jamal—front row, fierce and present despite everything. The parents holding children. The elders holding wisdom. The veterans holding each other. Everyone holding this moment together.
+
+Twenty-six days. Then: seven. Then: one. Then: forty-seven seconds. Then: light.
+
+But today: practice. Community. Presence. Together.
+
+**Key beats**: Multiple brief POVs • Everyone present • Work continuing • Family time • Teaching continuing two hundred strong • Reconciliation complete • Maya learning final lessons • Kofi playing final games • Convergence visible now • Named students in their roles • Community web complete • Twenty-six days • Countdown visible now • Practice continuing until it can't
 
 ---
 
@@ -778,27 +854,31 @@ She looks at Maya (17 years, 6 months) and Kofi (14 years, 5 months) sleeping. Y
 
 Breakfast together. Maya going to Kenji's teaching. Kofi exploring with friends. Kwame working in community kitchen. Zara maintaining water systems (they still need maintenance). They walk past Asha's "Witness" installation—still standing in District 5, mirrors catching final week light. Maya pauses: "Mama, should we go in?" Zara: "Do you want to?" "I want to see myself before I'm gone." They stand inside together, mother and daughter, seeing themselves seeing. Seven days left reflected infinitely. Maya: "We're here. That's real." Zara: "Yes. That's everything." 
 
-**Marcus Reyes and Maya**: After teaching session, Zara finds Maya talking with an older man—Marcus Reyes, Elena's former assistant. He's teaching refugee children alongside Ibrahim at the community center.
+**Marcus Reyes and Maya**: After teaching session, Zara finds Maya talking with an older man—Marcus Reyes, Elena's former assistant, returned from Mumbai after thirteen years. He's teaching refugee children alongside Ibrahim at the community center. Gray-haired, sixty-eight, peaceful in ways that suggest hard-won wisdom.
 
 Reyes: "Your daughter is remarkable. Sharp mind. Wei must have loved teaching her."
 
 Maya: "Did you know Grandmother Wei?"
 
-"Through her letters. Through her influence on people I respected. She reached far beyond her garden."
+"Through her letters. Your grandmother corresponded with many people—Elena, your mother, me in Mumbai. Through her influence on people I respected. She reached far beyond her garden. I learned from her words even though we never met."
 
-"I'm trying to learn everything before—" Maya stops.
+"I'm trying to learn everything before—" Maya stops, catches herself.
 
-"Before time runs out. I understand. I spent thirteen years learning who I was beyond service. You're learning who you are within brevity. Different projects. Same urgency."
+"Before time runs out. I understand." His voice gentle, no pity. "I spent thirteen years learning who I was beyond service. You're learning who you are within brevity. Different projects. Same urgency. Both valid."
 
-Maya considers. "Did you succeed? Learning who you were?"
+Maya considers this. "Did you succeed? Learning who you were?"
 
-"Yes. I'm someone who served faithfully, left gracefully, lived fully, and came back to witness the end with family. That's complete."
+"Yes. I'm someone who served faithfully, left gracefully, lived fully in solitude, and came back to witness the end with family. That's complete. Not perfect. But complete."
 
-"I wish I had thirteen years."
+"I wish I had thirteen years." The grief raw in her voice.
 
-"I wish you did too. But you have seventeen. Brief doesn't mean empty. You'll know yourself by the end. That's what matters."
+"I wish you did too. But you have seventeen. Brief doesn't mean empty. You'll know yourself by the end. That's what matters. Wei knew herself at 125. You'll know yourself at seventeen. Same accomplishment, different timeline."
 
-Zara watching this exchange feels gratitude—another elder witnessing Maya, honoring her, seeing her as person not tragedy. That's gift.
+Maya's eyes fill. "How do you not rage at the unfairness?"
+
+"I do rage. Some days. But rage and gratitude can coexist. You taught me that—watching you practice with such intensity. You're furious and present. That's honest. That's complete."
+
+Zara watching this exchange feels gratitude—another elder witnessing Maya, honoring her, seeing her as person not tragedy, learning FROM her even while offering wisdom. That's the both/and Wei taught. That's transmission in all directions. That's gift.
 
 **Adanna Arrives**: At community center, Zara encounters someone unexpected: Adanna. From Lagos compound. The fierce mother who defended Zara's choice Year 0. Who said "Your family mattered." And with her: her son Samuel, now 20 years old.
 
@@ -860,13 +940,37 @@ They make love. Final days. Final intimacy. Final connection. Not desperate. Not
 
 They walk together. Talk together. Eat together. Play games. Tell stories. Be together. Normal and final. Everything and nothing. Just: family until the end.
 
-**Day 7 — Gathering**: Community gathering. Everyone present. Kenji leading final group practice before countdown. 1,200 people. Everyone here. Everyone chosen. Everyone together.
+**Day 7 — Gathering**: Community center. Final open practice before countdown. Everyone welcome. 200 people pack the space—maximum capacity, people sitting shoulder to shoulder, some standing along walls, children on parents' laps.
 
-Zara sitting with her family. Amara and David nearby. Elena and Kenji present. Ibrahim and Hassan. Everyone gathered. Everyone witnessing. Everyone facing together.
+Kenji, Maya, Ibrahim co-teach. Simple practice: breath, body, presence, this moment.
 
-**End**: That night, Zara can't sleep. Final week complete. Tomorrow: final countdown begins. She watches her family sleep. Maya restless. Kofi peaceful. Kwame breathing steady.
+Kenji's final teaching before the end: "This is all we've ever had. This moment. The asteroid didn't change that. Just made it visible. Be here. Be here. Be here."
+
+They sit together for final hour of practice. Silence except for breathing—200 people, 200 breaths, one silence. The young adults (Thabo, Amara, Jamal) in front row. The parents (Adaeze and Chioma, Pavel and his children, others) holding their families. The veterans (Derek, others) sitting steady. The elders (Elena, Marcus Reyes, Dr. Mbeki if present) witnessing everything. Ibrahim and Hassan side by side, Muslim and presence teacher both. Fatima organizing hospitality even now. Linnea two years clean, teaching by being present. The whole community. Wei's garden fully grown.
+
+Then: dinner, community, presence until dark. Everyone fed by Fatima's organization, Marcus Reyes and Kwame coordinating distribution. Laughter. Stories. Tears. Life.
+
+Zara sitting with her family in this gathering. Amara and David nearby. Elena and Kenji present. Ibrahim and Hassan. Adanna and Samuel. Dr. Tanaka if she came. All the named ones and unnamed ones together. Everyone witnessed. Everyone mattering.
+
+**End**: That night, Zara can't sleep. Final week complete. Tomorrow: final countdown begins. She watches her family sleep. Maya restless—85 days of intensive training complete, mind still racing. Kofi peaceful—fourteen years of presence without knowing he practiced. Kwame breathing steady—fifteen years of partnership complete.
 
 Fifteen years. Final week. Tomorrow begins the end. But tonight: breathing. Tonight: together. Tonight: alive. That's everything.
+
+**FINAL WEEK TEACHING SESSIONS - Detailed Schedule** (can be expanded in actual writing):
+
+Day 1 General Session: 120 people; Amara (21) asks about countdown obsession; Pavel asks about explaining to young children; Dr. Mbeki asks about fairness; Kenji teaches both/and presence
+
+Day 2 Parents & Children Together: 60 people (30 parents, 30 children); Adaeze and Zara co-teach; children's meditation led by Maya; practice of watching children be present
+
+Day 3 Veterans & Trauma Survivors: 45 people; Ibrahim and Derek lead; practice of bearing witness to own violence; Kenji teaches about carrying what you did vs who you were
+
+Day 4 Young Adults Rage & Gratitude: 50 people ages 14-25; MAYA CO-TEACHES; screaming meditation then silence; teaching that rage and gratitude coexist; Maya's first full session leading; Thabo, Amara, Jamal, Kofi present
+
+Day 5 Interfaith Gathering: 80 people; Hassan, Marcus Reyes, Kenji, Ibrahim co-teach; shared practice of all faiths; end in silence understanding same mystery
+
+Day 6 Elders & Legacy: 35 people ages 60+; Fatima and Um-Hassan (Hassan's wife) lead; life review without regret; Dr. Mbeki (78): "I've lived 78 years. That's extraordinary. I'm ready."
+
+Day 7 Open Practice (as described above): 200 people; everyone together; final hour of silence; transmission complete
 
 **Key beats**: Seven days reflected • Fifteen years of choices • Day 1 normal • Day 2 with Amara • Sisters finally • Day 3 Maya's question • Glad you had us? Yes. • Day 4 Kofi's grace • Day 5 with Kwame • Would you do it again? Yes. • Day 6 family together • Day 7 final gathering • Zara watching family sleep • Tomorrow final countdown begins
 

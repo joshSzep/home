@@ -102,9 +102,11 @@ When he returns to the balcony, Wei is speaking quietly with Adaeze. The other t
 
 Kenji sets the tea tray beside Wei. Intends to return inside, give them privacy. But Wei catches his eye. "Stay. Sit with us."
 
-He sits on the bench opposite Adaeze and Chioma. The child is playing with a toy, oblivious. The mother's hands shake as she lifts the tea cup.
+He sits on the bench opposite Adaeze and Chioma. The child—six years old, dark eyes wide with curiosity—is playing with a toy, oblivious to her mother's anguish. The mother's hands shake as she lifts the tea cup.
 
 "How do I do it?" Adaeze asks quietly. "How do I love her knowing I'll lose her? How do I parent her toward a future that won't exist? How do I—" Her voice breaks. "How do I not spend every moment terrified?"
+
+Kenji feels the question land in his chest. This woman. This child. This unbearable math. Chioma will be twenty-one when the asteroid hits. Never twenty-two. Never fully adult. Childhood and adolescence and then: nothing.
 
 Wei is silent. Not avoiding the question. Creating space for it to sit. Kenji has watched this technique dozens of times now. Silence as teaching. Let the question breathe before attempting answer.
 
@@ -136,15 +138,23 @@ Adaeze is crying. "I'm so afraid."
 
 "No. Nothing fixes this. The asteroid still comes. Your daughter still dies young. But you can be present to her life instead of absent to her death. That's all anyone can do. Ever. It's not enough. It's also everything."
 
-Silence. Adaeze holds her daughter closer. Chioma squirms, wants down. Adaeze releases her. The child runs to the garden, attracted by butterflies. Six years old. Fifteen years remaining. Brief and complete.
+Silence. Adaeze holds her daughter closer. Chioma squirms, wants down. Adaeze releases her. The child runs to the garden, attracted by butterflies. Six years old. Fifteen years remaining. Brief and complete. Beautiful and temporary and here.
 
 "Thank you," Adaeze says quietly. Not healed. Not fixed. But: seen. Heard. Given permission to grieve and love simultaneously. She stands. "I should—we should go. Thank you, Professor Wei. Thank you—I'm sorry, I don't know your name."
 
 "Kenji."
 
-"Thank you, Kenji."
+"Thank you, Kenji." She pauses at the doorway. "Will you... could I come back? To learn more? To practice this?"
+
+Kenji glances at Wei, who nods almost imperceptibly. "Yes. Come to the garden. Bring Chioma. Learn presence together."
+
+"I will. Thank you."
 
 They leave. Adaeze and Chioma descending the stairs. The two young seekers following. The balcony quiet except for Zara's children playing in the garden and Wei sitting in her wheelchair watching Kenji with expression he can't read.
+
+But Kenji knows what just happened. His first teaching. Not Wei teaching through him. Not Wei's words repeated. His own presence meeting another's presence. His own practice—incomplete, imperfect, still learning—offered honestly to someone desperate.
+
+And it helped. Maybe. Possibly. Enough.
 
 "You watched," Kenji says. "How long?"
 
