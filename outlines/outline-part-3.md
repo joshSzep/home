@@ -193,7 +193,7 @@ Actually—that might be everything.
 
 **The Realization**: She's been governing wrong question. "Am I effective?" No. "Am I present?" Yes. That's enough. That's everything. Burden doesn't lighten (still crushing) but changes shape. Becomes sustainable. Becomes choice instead of trap.
 
-**Daniel's Weight**: Wei's words about mercy surface Daniel Okonkwo—eight years in prison now, still writing letters, still separated from his children. Was she wrong? Should she have chosen compassion over consequence? The question has no answer. But it stays with her. Justice upheld. Mercy denied. Both choices had cost.
+**Daniel's Weight**: Wei's words about mercy surface Daniel Okonkwo—eight years in prison now (Year 2-10), still writing letters, still separated from his children. Was she wrong? Should she have chosen compassion over consequence? The question has no answer. But it stays with her. Justice upheld. Mercy denied. Both choices had cost. His sentence is fifteen years—five more years until Year 17, four years past impact. The absurdity of that hasn't escaped her notice. But she made her choice Year 2, defended it Year 4, questioned it Year 6. Now Year 10, still questioning. Wei says the weight itself is practice. Elena carries it.
 
 **Decision**: She'll continue. Not as elected mayor (those days ended Year 6). Not as interim mayor (pretending democracy matters). As chosen witness. As person who shows up. For five more years. Until the end. Because someone should.
 

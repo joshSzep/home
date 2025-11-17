@@ -648,9 +648,51 @@ Later, young woman from earlier approaches: "Thank you. For not pretending it's 
 
 Elena: "Honest is all I can be anymore."
 
+**Daniel's Full Story Revealed**: Marcus Rivera arrives mid-morning with prison records. "Elena, you need to see this. About Daniel Okonkwo."
+
+Elena's chest tightens. Daniel—prisoner since Year 2. Killed his friend Raj Patel during the District 7 riot. She denied him pardon thirteen years ago. Denied it again when Marcus Rivera challenged her Year 4. Visited him Year 6, saw his devastation—three children motherless after his wife's suicide. Doubt has haunted her for years but she never changed course.
+
+Marcus hands her the file. "He died seven months ago. Year 14, Month 8."
+
+"How?"
+
+"Suicide. Hung himself in his cell."
+
+Elena's hands shake. "Why am I only learning this now?"
+
+"Prison system collapsed Year 14. Records lost. Guard finally brought his file yesterday—thought you'd want to know."
+
+She reads: Daniel Okonkwo, age 35 at sentencing, sentenced to 15 years for manslaughter. Model prisoner. Wrote 217 letters to Raj Patel's widow—none answered. Three children visited twice (Year 3, Year 5). Wife died by suicide Year 3. Continued serving sentence despite early pardon recommendations (Year 4, Year 6, Year 8, Year 10). Final note attached.
+
+The note, written by Daniel, dated Year 14 Month 7 (one month before his death):
+
+*"To whoever reads this after: I killed my friend Raj over a bag of rice. Fifteen years of guilt haven't changed that. The guard said I could leave—another prisoner's release date is one day after impact, and the guard found the absurdity unbearable, helped him escape, abandoned his post, left my cell open too. I stayed. I deserve these walls. I wanted to die present, not guilty, but I can't separate the two. Raj's widow never answered my letters. My children have forgotten me. I have served my time in years but not in redemption. If Elena Torres ever learns of this—tell her she was right to keep me here. Justice matters. Even when mercy would have been kinder. Especially then."*
+
+Elena can't breathe. The prison guard's abandonment—Year 13 M9, she realizes from the date on the attached incident report. The cellmate with release date one day after impact—freed by a guard who couldn't bear the absurdity. And Daniel, given the same chance, staying. Choosing his cell because guilt wouldn't let him leave.
+
+She asks Marcus: "Why didn't anyone tell me about the guard? About the escape?"
+
+"Prison system barely functioning by then. Guard never reported. Just disappeared. The escapee was flagged but—priorities, Elena. No one cared. Month 9 of Year 13, we had worse problems."
+
+Elena sits heavily. "I should have pardoned him. Year 2. Year 4. Year 6. Any time. I chose justice over mercy. I chose principle over humanity. And he died believing I was right."
+
+Marcus Rivera: "He also died having served his sentence. Having taken responsibility. Having tried to reach Raj's family. Having stayed when he could have run. That's also dignity."
+
+"He wanted to die present, not guilty. I kept him guilty. For thirteen years. And he died guilty. Because of me."
+
+"No. He died guilty because he killed his friend. You kept him accountable. There's difference."
+
+"Is there? When time is short? When everyone's dying anyway? Is justice worth more than mercy when mercy could have given him three years of freedom with his children?"
+
+Marcus Rivera is quiet. Then: "I don't know. I challenged you on this Year 4. You chose justice. Maybe you were wrong. Maybe you were right. Maybe both. Maybe neither. But beating yourself with it now—what does that serve?"
+
+"Honesty. Witness. Facing what I did."
+
+"Yes. That's sacred too. Kenji would say: you did what you understood to be right. You learned mercy matters more than you thought. You learned too late to help Daniel. But you learned. That's also worth something."
+
 **Asha's Final Installation**: That afternoon, Elena walks through District 5 where Asha Marin (55) has created her final major work. It's simple—a large circular space with mirrors surrounding, countdown clock projected overhead, mannequins of all ages standing in viewing positions. No narrative. No instruction. Just: stand here. Look. Notice what you feel. The installation is called "Witness."
 
-Elena stands inside for seventeen minutes. The mirrors show her: seventy-three years old, tired, grieving, present. The countdown shows: 29 days, 14 hours. The mannequins show: everyone she's led, everyone she's lost, everyone still here. She sees herself seeing. The projection is hers. The reaction is hers. The installation just reveals.
+Elena stands inside for seventeen minutes. The mirrors show her: seventy-three years old, tired, grieving, present. The countdown shows: 29 days, 14 hours. The mannequins show: everyone she's led, everyone she's lost, everyone still here. She sees herself seeing. Daniel Okonkwo in his cell, rope around his neck, finally free of guilt through death. The guard walking away from absurdity. The cellmate running toward useless freedom. Elena denying pardon three times. The projection is hers. The reaction is hers. The installation just reveals.
 
 She finds Asha outside. "That's the most honest thing I've experienced in fifteen years."
 
@@ -678,7 +720,7 @@ Elena smiles—that's what Wei taught. What Zara lived. What they're all learnin
 
 "All our journeys are strange."
 
-They part. Elena returns to her apartment carrying image of herself in mirror—old, present, complete. Daniel's death haunts her. But Asha's installation reminded her: witness yourself honestly. That's sacred work too.
+They part. Elena returns to her apartment carrying image of herself in mirror—old, present, complete, wrong about Daniel. Daniel's death haunts her. The guard's abandonment. The absurdity of a sentence ending one day after everyone ends. Daniel choosing to stay imprisoned by guilt even when the door opened. But Asha's installation reminded her: witness yourself honestly, even the failures. That's sacred work too.
 
 **Final Week Meeting**: Elena calls final community gathering. Not governance. Not leadership. Just: togetherness. 1,200 people in community center. Everyone fitting barely.
 
@@ -688,9 +730,9 @@ Silence. Then: applause. Not celebratory. Acknowledging. Honoring.
 
 **End**: Elena in her apartment. Marcus Rivera nearby (lives close, visits daily). Kenji stopping by. Small family. Chosen family. Thirty days left.
 
-Elena's final journal entry for the chapter: *Day 335. Thirty days. Daniel Okonkwo died seven months ago. I learned about it today. Thirteen years I kept him imprisoned. He wanted to die present, not guilty. I denied him mercy until it was too late. I was wrong. I carry this. I'll die carrying this. That's justice. That's also learning. I'm satisfied with showing up, with bearing witness, with facing this honestly. I'm not satisfied with every choice. Daniel deserved mercy. His children deserved their father. I chose principle over humanity. I learned. Too late for Daniel. Not too late to practice differently now. Thirty days left. I'll practice mercy. I'll practice forgiveness—of myself, of others, of everything. That's all I have left to give. That's everything.*
+Elena's final journal entry for the chapter: *Day 335. Thirty days. Daniel Okonkwo died seven months ago. I learned about it today. Thirteen years I kept him imprisoned. Year 13 Month 9: prison guard helped Daniel's cellmate escape—release date one day after impact, the absurdity unbearable. Guard abandoned his post. Left Daniel's cell open too. Daniel stayed. Chose to serve his sentence even when the walls disappeared. Still consumed by guilt. Couldn't separate presence from guilt. Year 14 Month 8: Daniel died by suicide. His note said I was right to keep him imprisoned. Justice matters. But I was wrong. Mercy would have been wiser. His children could have had their father for three final years. He could have died free, not imprisoned by both walls and guilt. I chose principle over humanity. I learned. Too late for Daniel. Not too late to practice differently now. Thirty days left. I'll practice mercy. I'll practice forgiveness—of myself, of others, of Daniel, of everything. That's all I have left to give. That's everything.*
 
-**Key beats**: Daniel's death (7 months ago, suicide) • Elena learns too late • Grief and guilt • Marcus witnessing her pain • Thirty days left • Community reduced to chosen 1,200 • Teaching through modeling • Young woman's question • Still documenting • Conversation with Kenji about regret and Daniel • Learning mercy too late • The angry young gathering • Elena witnessing their rage • Honesty as gift • Final community gathering • Her speech • Both/and, not either/or • Satisfied with living, not all choices • Carrying Daniel until the end • Practicing mercy now
+**Key beats**: Daniel's death (7 months ago, suicide Year 14 M8) • Prison guard abandonment Year 13 M9 • Guard helps cellmate escape (release date one day after impact, absurdity unbearable) • Guard abandons post, leaves Daniel's cell open • Daniel refuses to leave, stays imprisoned by guilt • Daniel's final note praising Elena's justice • Elena learns too late • Full weight of choosing justice over mercy • Grief and guilt • Marcus witnessing her pain • Thirty days left • Community reduced to chosen 1,200 • Teaching through modeling • Young woman's question • Still documenting • Conversation with Kenji about regret and Daniel • Learning mercy too late • The angry young gathering • Elena witnessing their rage • Honesty as gift • Final community gathering • Her speech • Both/and, not either/or • Satisfied with living, not all choices • Carrying Daniel until the end • Practicing mercy now
 
 ---
 
