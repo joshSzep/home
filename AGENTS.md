@@ -9,7 +9,7 @@
   - `Part II: Fracture/` - Chapters 10-24 (Years 1-7) - 15 chapters complete  
   - `Part III: Searching/` - Chapters 25-44 (Years 8-15 Month 1) - 3 chapters complete (25-27)
   - `Part IV: Convergence/` - Chapters 45-56 (Year 15) - Not yet written
-- **`v3/`** - Detailed outlines for Parts III & IV (work-in-progress planning)
+- **`outlines/`** - Detailed outlines for Parts III & IV (work-in-progress planning)
 - **`README.md`** - Novel premise, world, characters, themes
 - **`AGENTS.md`** - Complete project guide with chapter outline (this file)
 
