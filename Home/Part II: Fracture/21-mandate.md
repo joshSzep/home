@@ -93,13 +93,21 @@ It felt wrong even if it was earned. Even if Wei said it was legitimate.
 
 Silence. Then Chen spoke. "What's to discuss? No one else wants the job. You've been doing it for six years. You'll keep doing it for nine more. Seems straightforward."
 
+He looked different than he had Year 4. Still thin. Still stubborn. But: less hollow. More grounded. He'd gotten a message from his wife yesterday—first in three months. She and their daughter were alive in New Zealand. Growing vegetables. Teaching children. Living. He'd written back: *I'm still maintaining systems. Someone has to. I'm glad you're living. That matters.* No resentment. Just: recognition that they'd made different choices, both valid.
+
+"I count you in my population reports," Chen added. "Six years of morning briefings. Six years of 7 AM sharp. Six years of 'same as yesterday.' You've proven consistency. That's a vote. That's legitimacy. Maybe better than voting."
+
 "That's not democracy," Elena said.
 
 "Isn't it?" Dr. Ade leaned forward. Sixty-five years old, exhausted, still showing up daily to tend the dying. "Democracy is about consent of the governed. We consent. Two billion people consent. They could have filed opposition. They didn't. That's a choice."
 
 "Democracy requires alternatives."
 
-"And you provided them. Open filing. Public process. Three months to register. Eight hundred million qualified people could run." Kowalski's gruff voice was surprisingly gentle. "They looked at what you do every day and said: no thanks. That's not your fault."
+"And you provided them. Open filing. Public process. Three months to register. Eight hundred million qualified people could run." Kowalski's gruff voice was surprisingly gentle. 
+
+He'd been different since their coffee two years ago—that awkward first conversation with Chen that had become a weekly ritual. Thursday mornings, after briefings, before crises. They'd talk about families, about maintenance work, about enforcing order in chaos. About showing up. Kowalski had learned things from Chen about maintenance as practice. Chen had learned things from Kowalski about duty without certainty. Both of them learning from Elena about presence as purpose.
+
+"They looked at what you do every day and said: no thanks. That's not your fault," Kowalski continued. "I've spent thirty-five years enforcing authority. Seen good leaders and bad leaders. Know the difference. Good leaders earn trust through consistency. You've done that. Six years. Two thousand, one hundred and ninety days. I count them—occupational habit. You've shown up all two thousand days. That's legitimacy the old world would've envied."
 
 Marcus had been quiet. Now he spoke. "Elena, four years ago I ran against you. Called your governance 'empty symbolism.' Lost. Learned I was wrong. You taught me that witness matters. That showing up is everything. Now I sit beside you every morning and help you bear this burden."
 
@@ -150,6 +158,60 @@ Mixed. Mostly relieved. Some criticism—justified criticism. But the dominant r
 Elena read them all. Filed them carefully. Someone should document public response. Someone should record how democracy evolved—or failed, depending on interpretation—in the final years.
 
 That someone was her.
+
+---
+
+---
+
+**Two hours later — District 5 café**
+
+Chen and Kowalski sat in a mostly-empty café. Thursday morning coffee had become Thursday lunch when time allowed. Two years of weekly meetings. Two men who'd worked together six years and been strangers until Year 4 when they'd accidentally revealed their humanity in a morning briefing.
+
+"She's struggling with it," Chen said. He was drinking tea—switched from coffee Year 5 when his hands started shaking. Stress or age or just: six years bearing weight. "The unopposed election. Thinks it delegitimizes her authority."
+
+"Opposite," Kowalski said. His coffee was black, always. Military habit. "Most legitimate she's ever been. Proven through practice instead of promised through campaign."
+
+"You should tell her that."
+
+"I did. She heard me. Didn't believe me. Believes you more—infrastructure mind recognizes infrastructure mind. You tell her."
+
+Chen smiled slightly. "I told her too. She didn't believe me either. Believes Wei more than any of us."
+
+"Wei's a hundred and eighteen. Dying naturally. Smart as hell. Makes sense Elena listens to her."
+
+They sat in comfortable silence. Chen checked his messages—nothing from New Zealand today, but yesterday's note from his wife: *Growing food. Teaching kids. Thinking of you. Still proud you stayed.* He'd read it twelve times.
+
+"Your family good?" Kowalski asked. He always asked.
+
+"Good. Yours?"
+
+"Don't have family. You know that."
+
+"Got us," Chen said. Casual. Honest. "Me, Elena, Marcus, Dr. Ade. Briefing family. Morning ritual family. Coffee Thursday family. That counts."
+
+Kowalski's face did something complicated. "Yeah. That counts." He was quiet for a moment. "Daniel Okonkwo's still writing letters. Four years now. Over two hundred letters to Raj's widow. She's never answered. Not once."
+
+"You still think Elena should pardon him?"
+
+"I think mercy matters more than justice when everyone dies anyway. But: not my decision. Elena chose justice. I enforce her choice. That's my job."
+
+"You sleep better?"
+
+"No. You?"
+
+"No." Chen smiled without humor. "Count statistics instead of sheep. Population, infrastructure, maintenance schedules. All of it failing. All of it maintained anyway. Absurd work."
+
+"Necessary work," Kowalski corrected.
+
+"Both. Absurd and necessary. Meaningful and futile. Present and ending." Chen set down his tea. "I've been reading philosophy. Wei's letters to Elena—she shares them sometimes. Wei talks about presence. About impermanence. About continuing despite futility. Makes sense to me. Maintenance work is the same. Fix today what breaks today. Tomorrow breaks tomorrow. Keep showing up. That's all."
+
+"Enforcement too," Kowalski admitted. "Arrest criminals knowing we all die anyway. Maintain order knowing order ends. Keep showing up. Same lesson, different job."
+
+They finished their drinks. Went back to work. Infrastructure coordination. Security enforcement. The daily impossible work of maintaining civilization in collapse.
+
+But Thursday coffee—Thursday lunch now—that was their work too. Presence to each other. Witness to each other's struggle. Friendship formed in apocalypse, maintained until the end.
+
+That mattered. Maybe more than statistics.
 
 ---
 
@@ -383,13 +445,37 @@ The person who showed up.
 
 The morning briefing felt different. Same people—Chen, Kowalski, Dr. Ade, Marcus. Same room. Same time. But something had shifted. Elena felt it in the way they looked at her. Not with deference exactly. With something else. Recognition maybe. Or respect earned rather than assumed.
 
+Chen and Kowalski sat next to each other now—had for two years, since their first coffee. Weekly Thursday ritual had become daily proximity. Two men who'd been functional colleagues for four years, then accidentally became friends. Infrastructure coordinator and security chief. Maintenance and order. Both learning the same lesson: presence as practice. Both teaching it to each other.
+
+Elena had watched their friendship develop. Had seen them transform from hollow professionals to present humans. Chen had stopped seeing his family as loss, started seeing them as living elsewhere—still counted, still loved, still real. Kowalski had stopped losing sleep over Daniel Okonkwo, started accepting that enforcing imperfect justice was still necessary work. Both of them practicing Wei's philosophy without reading Wei directly—learning through doing, through showing up, through morning briefings and Thursday coffee and two thousand days of impossible work.
+
+They were ready, Elena thought. When Kenji returned—if Kenji returned—they'd be ready for his teaching. They'd already learned the foundation. Already practiced presence. Already understood impermanence through daily confrontation with failing systems and dying civilization.
+
+But that was years away. Maybe. If Kenji ever came home.
+
 "Population report," Elena said, starting as always.
 
-"Two point one billion," Chen reported. "Down from two point two last month. Down from four point two at detection. Fifty percent loss in six years."
+"Two point one billion," Chen reported. He'd spent an hour this morning doing something new—meditating. Not formal. Just: sitting quietly before the briefing. Breathing. Being present to the day before the day's demands consumed him. Kowalski had noticed, asked about it. Chen had shrugged: "Seems useful. Try it." Maybe Kowalski would. Maybe not. But Chen would continue. Five minutes of presence before reporting population decline felt... right. Necessary. Like maintenance work for himself.
+
+"Down from two point two last month. Down from four point two at detection. Fifty percent loss in six years."Fifty percent loss in six years."
+
+He paused, did something unusual—smiled slightly. "My wife and daughter are still counted in there. New Zealand population. Still alive. They sent pictures yesterday—garden they're growing. Tomatoes. Lettuce. Living things for temporary time. Made me think: that's what we all do. Maintain temporary things. Gardens. Infrastructure. Democracy. All of it ending. All of it worth maintaining."
+
+Elena felt unexpected emotion. Chen had changed so much from the hollow man in Year 4 who'd first mentioned his missing family. He'd found peace with their choice. Found meaning in his own. Found presence in the work of counting them even though they'd left.
+
+"Your wife sounds wise," Elena said.
+
+"She is. Told me Year 1: 'Go maintain your systems. Someone has to. I'll maintain life. Both necessary.' She was right." Chen met Elena's eyes. "You maintain democracy. I maintain infrastructure. Kowalski maintains order. Marcus maintains practical care. We're all gardening temporary things. All of it matters precisely because none of it lasts."
 
 Two point one billion. Half gone. Half remaining. Elena wrote this carefully. Someone should document.
 
-"Infrastructure at forty-eight percent. Security at twelve percent. Health services at thirty-one percent." The reports continued. Everything failing. Everything maintained as long as possible. Everything witnessed.
+"Infrastructure at forty-eight percent," Chen said. "Security at twelve percent," Kowalski added. His voice had changed over six years—less grim, more accepting. Still carried weight. But: carried it differently. Like maintenance instead of burden. Like practice instead of punishment.
+
+He'd made a decision last month, hadn't told anyone yet. Year 10—four years from now—he'd recommend pardons for everyone serving sentences ending after Year 15. Including Daniel Okonkwo. Including all of them. Not because justice didn't matter. Because mercy mattered more when time was short. Elena might refuse. Probably would. But he'd recommend it anyway. His job was to enforce her justice. Also to challenge it when challenge was needed. Four more years of sitting with the discomfort. Then: act.
+
+For now: report. Maintain. Show up.
+
+"Health services at thirty-one percent." The reports continued. Everything failing. Everything maintained as long as possible. Everything witnessed.
 
 "Orders, Mayor?" Marcus asked. The same question as always. The ritual that structured their work.
 

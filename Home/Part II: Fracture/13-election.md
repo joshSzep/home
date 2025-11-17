@@ -48,11 +48,13 @@ Elena had refused both options.
 
 "We're holding the election as scheduled," she'd announced at the morning briefing. Five people in attendance—the number had plateaued there. Marcus, Chen, Kowalski, Dr. Ade. All of them staring at her like she'd lost her mind.
 
-"Why?" Chen had asked.
+"Why?" Chen had asked. Sixty years old, infrastructure coordinator since Year -4. He'd watched his department shrink from eight hundred people to twelve. Watched systems he'd built for millennia fail in months. His question wasn't challenging—genuinely confused. "Power grid's at sixty-two percent. Water at sixty-nine. We're barely maintaining basics. Election takes resources. Staff. Energy. Why spend it on symbolism?"
 
 "Because if we abandon democracy, we abandon everything that made us worth saving in the first place. Because governance without accountability is tyranny. Because someone needs to maintain the forms even if—especially if—the substance seems meaningless."
 
-"But who'll run against you?" Kowalski had looked genuinely confused. "Who'd want this job?"
+Chen's face had done something complicated. Not agreement exactly. More like: understanding he'd been wrong to ask. He'd nodded slowly. "Democracy as maintenance work. I get that. I don't like it. But I get it."
+
+"But who'll run against you?" Kowalski had looked genuinely confused. Fifty-six years old, security chief, former military. Three decades of service. He'd buried fourteen officers this year—four suicides, six killed in riots, four from illness. His force was at twenty-three percent capacity. "Who'd want this job? Who'd want any of our jobs? We're governing collapse. Documenting disaster. Bearing witness to the end. I do it because someone has to. You do it because you're stubborn. But who else would volunteer?"
 
 That question had been answered three weeks later when Marcus Rivera filed his candidacy.
 
@@ -323,6 +325,10 @@ She'd won.
 
 The victory felt hollow. Four more years governing extinction. Four more years of briefings for five people. Four more years bearing witness to collapse. This was what she'd fought for?
 
+Chen was staring at his own screen, his thin face unreadable. Then: "Sixty-one percent voted for witness over pragmatism. For forms over comfort. That's... unexpected. I would've voted Rivera. Pragmatic care makes sense. But." He looked up at Elena. "They chose you. Chose this. Maybe symbols matter more than I thought."
+
+Kowalski grunted. "Rivera had the right ideas. Wrong timing. People don't want comfort. They want someone to say: this matters. You matter. We're not giving up." His gruff voice softened. "Four more years of 7 AM briefings, Mayor. I'll be there. Someone has to witness you witnessing us."
+
 "Congratulations, Madam Mayor," Marcus said softly.
 
 "Thank you."
@@ -449,11 +455,27 @@ Or just: nowhere else to go. Hard to say.
 
 "Infrastructure," Elena prompted.
 
-Chen continued. "Power grid at sixty-two percent. Water at sixty-nine. Transit at forty-one. Communications stable. Maintenance crews still critically low but: two dozen new hires this week. First increase in eighteen months."
+Chen continued, and something in his voice had changed—less hollow, more present. "Power grid at sixty-two percent. Water at sixty-nine. Transit at forty-one. Communications stable. Maintenance crews still critically low but: two dozen new hires this week. First increase in eighteen months."
+
+He paused, set down his tablet—unusual for him. "I've been thinking about maintenance differently since the election. Year 0 to 2, I thought: why maintain systems that end anyway? Why fix infrastructure with no future? Felt absurd." He met Elena's eyes. "But you maintain democracy. Rivera maintains pragmatic care. Kowalski maintains security. We all maintain things that end. Maybe maintenance isn't about duration. Maybe it's about... I don't know. Presence? Showing up? The systems work today because we fixed them yesterday. That matters today. Tomorrow too. Until it doesn't. But today it does."
+
+Elena felt unexpected warmth. Chen was learning the same lesson she'd been struggling with. Presence over outcome. Process over result. Today mattering precisely because tomorrow was temporary.
+
+"That's exactly right," she said quietly. "Thank you for seeing it."
 
 "Security."
 
 Kowalski: "Crime down slightly—eight percent decrease from last month. Not sure if that's enforcement working or criminals dying or people giving up. Murder rate still elevated but stabilizing. No major riots since District 7."
+
+He grimaced—the expression that had become permanent. "I arrested Daniel Okonkwo last month. Good man. Refugee. Killed his friend Raj Patel over food during the District 7 riot. Came with me quietly. Kept saying: 'I killed him. I killed him.' Horror in his eyes. Not criminal. Just: desperate man who did desperate thing." Kowalski's voice went quiet. "Thirty years in enforcement. I know the difference between predators and people who broke. Okonkwo broke. System broke him. Riot broke him. Hunger broke him. Now he's facing fifteen years for manslaughter when we all die in thirteen. Justice or cruelty? Don't know anymore."
+
+The room was silent. Elena thought about Daniel Okonkwo in holding. About Raj Patel dead. About three children without their father. About systems failing so badly that friends killed friends over food.
+
+"You're recommending pardon?" she asked carefully.
+
+Kowalski shook his head. "I'm recommending nothing. I'm just saying: enforcement used to be clear. Crime. Punishment. Justice. Now?" He spread his hands. "Everything's complicated. Everything's impossible. I enforce the law because someone has to. But the law doesn't account for apocalypse. Doesn't account for good people doing terrible things because systems failed them."
+
+Elena made a note. Daniel Okonkwo. Pardon request likely forthcoming. Decision she'd have to make: justice or mercy. Both had costs.
 
 "Health."
 

@@ -165,9 +165,11 @@ The grief wells up—anticipatory grief she's carried seventeen years. But also:
 
 **The Practice**: Simple instructions. "Notice breath. Notice body. Notice thoughts without clinging. Notice feelings without drowning. This moment. This moment. This moment. Nothing more. Nothing less. This is enough."
 
-**The Students**: Sixty people ranging from children (Kofi, fourteen years, three months) to elders (Elena, seventy-three; Marcus Reyes, sixty-eight, newly returned from Mumbai). Everyone practicing together. Everyone learning presence. Not for enlightenment. Not for peace. Just: for being here clearly, fully, truly.
+**The Students**: Sixty people ranging from children (Kofi, fourteen years, three months) to elders (Elena, seventy-three; Marcus Reyes, sixty-eight, newly returned from Mumbai; Chen, seventy-five; Kowalski, seventy-one). Everyone practicing together. Everyone learning presence. Not for enlightenment. Not for peace. Just: for being here clearly, fully, truly.
 
-In the room: Min-seo (elderly Korean, cancer diagnosis two months ago), Derek (former Marine, quiet presence), Fatima (Jordanian host who invited Ibrahim to community), Linnea (Swedish biologist, two years into recovery from addiction), Adaeze and twelve-year-old Chioma (mother-daughter who first sought Wei Year 9, now regular students), Priya Patel (forty-four, widow who still carries rage and practices anyway, bringing her daughter Aanya while her son Dev refuses to attend), young adults like Thabo (fourteen, brilliant and questioning), parents holding crying children, veterans with visible wounds, elders with invisible ones. Sixty stories. Sixty reasons for being here. Sixty people learning to die awake.
+In the room: **Chen and Kowalski**—three years of formal practice with Kenji (Year 12-15), fifteen years of Thursday ritual (Years 0-15), lifelong friends now. They sit together always. Both assist with teaching—Chen offers wisdom about maintenance as meditation, Kowalski about duty without certainty. Natural elders in the practice community. When young people struggle, Chen and Kowalski model: presence doesn't require perfection, just persistence. "We showed up to morning briefings fifteen years," Kowalski tells a teenager. "Still don't know if it mattered. But we showed up. That's the practice."
+
+Also present: Min-seo (elderly Korean, cancer diagnosis two months ago), Derek (former Marine, quiet presence), Fatima (Jordanian host who invited Ibrahim to community), Linnea (Swedish biologist, two years into recovery from addiction), Adaeze and twelve-year-old Chioma (mother-daughter who first sought Wei Year 9, now regular students), Priya Patel (forty-four, widow who still carries rage and practices anyway, bringing her daughter Aanya while her son Dev refuses to attend), young adults like Thabo (fourteen, brilliant and questioning), parents holding crying children, veterans with visible wounds, elders with invisible ones. Sixty stories. Sixty reasons for being here. Sixty people learning to die awake.
 
 **Maya's Intensity**: Kenji watching his niece—seventeen years, three months old. Three months until she dies at seventeen years, seven months. She practices with FEROCITY. Not desperation. Absolute commitment.
 
@@ -794,7 +796,49 @@ Priya stands to leave. Then: "I'm teaching at the community center tomorrow. Abo
 
 She leaves. Elena sits with the parallel—Priya's silence, Elena's justice. Both women keeping Daniel imprisoned. Both learning mercy when mercy can't help anyone. Both practicing presence with their own hardness. Both teaching others through their failures.
 
-Thirty days left. Time to practice differently. Time to bear witness to having chosen wrong. Time to honor Daniel by not repeating the mistake.
+**Chen and Kowalski Arrive** (Evening): Elena hasn't left her office. Sitting with Daniel's file. Marcus Rivera must have called them—Chen and Kowalski enter quietly, sit without asking permission. Fifteen years of morning briefings taught them when Elena needs presence, not words.
+
+Finally, Kowalski speaks: "Heard about Daniel Okonkwo."
+
+Elena nods.
+
+"I arrested him. Year 2. District 7 riot. He came quietly. Kept crying. I put him in that cell. You kept him there."
+
+Elena looks up, surprised. "You never said—"
+
+"What would I have said? I'm security chief. I enforce law. That was law. You were mayor. That was justice." He pauses. "But I didn't sleep well. Thirteen years of not sleeping well. Good man broken by system failure. I locked him up anyway. You kept him locked up. We both chose duty over compassion."
+
+Chen adds: "I counted him in my reports. Prisoner population. One man. Fifteen-year sentence. Died Year 14 Month 8—one of the suicide statistics. I recorded it. Filed it. Moved to next data point." His voice cracks slightly. "The numbers are people. I try to remember that. But I forgot Daniel was a person. He was just: one prisoner. One statistic. One consequence of your justice decision and Kowalski's enforcement."
+
+Elena feels tears. "I was wrong. I should have chosen mercy."
+
+"Maybe," Kowalski says. "Maybe not. I've carried this thirteen years. Here's what I know: justice matters. Consequences matter. You chose honestly—believed accountability mattered even at the end. That's not evil. That's... one valid response to impossible situation."
+
+"But mercy—"
+
+"Also valid. Also necessary. Both/and, not either/or. Ibrahim taught me that through his teaching. You can hold both: you chose justice sincerely, AND mercy would have been wiser. You did what you understood to be right, AND you learned too late. You carry the weight, AND you practice differently now."
+
+Chen: "Fifteen years of morning briefings. Fifteen years of Thursday coffee turned Thursday practice. We've been learning same thing—maintenance isn't about perfect outcomes. It's about showing up honestly. You showed up. Made choice. Learned from it. That's complete."
+
+Elena: "He died believing he deserved imprisonment. My note said I was right."
+
+Kowalski: "And he also died having served his time. Having taken responsibility. Having tried to make amends. That's dignity too. Imperfect dignity. But real."
+
+"I should have pardoned him."
+
+"Yes," Kowalski says bluntly. "Probably. But you didn't. And you can't change it. You can witness it. You can practice presence with the guilt. You can teach others through your mistake. That's all anyone can do with past choices. I locked him up—I carry that. You kept him there—you carry that. Priya never answered—she carries that. We all chose consequence over compassion. We all learned mercy too late. We practice now. That's the work."
+
+Chen adds: "My wife left Year 1. I chose systems maintenance over following her. Thought duty mattered more than presence. I was wrong. But I can't undo it. I can only be present now. Count her in my reports as alive elsewhere. Honor the choice even while recognizing it cost something. You do the same with Daniel. Count him as someone who mattered. Honor him by practicing differently. Thirty days left—practice mercy now."
+
+They sit together. Three government officials who governed collapse with as much integrity as they could manage. All of them carrying impossible choices. All of them learning mercy when mercy can't save anyone. All of them practicing presence anyway.
+
+Kowalski stands. "Priya's teaching tomorrow. I'll be there. You should come. Witness her witness. Learn from her learning."
+
+Chen: "And next briefing—whenever you're ready—we'll be there. Fifteen years of morning briefings. Thirty days left. We'll show up. That's what we do."
+
+They leave. Elena alone with Daniel's file. But not alone—held by community. Witnessed by Chen and Kowalski who carry their own weight. Practice family. Thursday practice. Briefing family. All the same thing: people showing up for each other when showing up is all that's left.
+
+Thirty days left. Time to practice differently. Time to bear witness to having chosen wrong. Time to honor Daniel by not repeating the mistake. Time to show up for others learning the same lesson: mercy matters more than we thought, learned too late to fix the past, practiced now anyway.
 
 **Asha's Final Installation**: That afternoon, Elena walks through District 5 where Asha Marin (55) has created her final major work. It's simple—a large circular space with mirrors surrounding, countdown clock projected overhead, mannequins of all ages standing in viewing positions. No narrative. No instruction. Just: stand here. Look. Notice what you feel. The installation is called "Witness."
 
@@ -1066,6 +1110,8 @@ Day 7 Open Practice (as described above): 200 people; everyone together; final h
 
 **Ibrahim, Hassan, Min-seo, Derek, Fatima, Linnea**: Six refugees. Nine years of keeping each other alive (Years 6-15). Former fighter. Former imam. Grieving teacher. Broken Marine. Faithful host. Recovering addict. Together in final moments. No longer just surviving—witnessing. Faith in people. Faith in presence. Faith in this moment. Min-seo's hand in Ibrahim's. Derek steady beside them. Fatima praying quietly. Hassan uncertain but present. Linnea clean for the first time in fifteen years, shaking but here. Together until the end.
 
+**Chen & Kowalski — Community Center**: Twenty people remain with them—those who chose to face the end here. Chen teaching one last time, forty-seven seconds left: "You maintained well. Systems worked because you fixed them. That's enough. That's everything." Kowalski with his arm around Chen's shoulders—fifteen years of Thursday coffee, fifteen years of briefings, fifteen years of chosen family. Not speaking now. Just presence. Final teaching: showing up until the light. Two men who discovered Buddhism through bureaucracy. Two men who practiced presence through impossible work. Two men who became friends through apocalypse. Together until the end.
+
 **Maya & Kofi**: Sister and brother. Seventeen and fourteen. Brief lives. Real lives. Loved lives. Together until the end.
 
 **The Light**: Impact. Pacific Ocean. Energy released. Physics fulfilling itself. Light consuming everything. Heat. Blast. Ending.
@@ -1095,7 +1141,7 @@ Day 7 Open Practice (as described above): 200 people; everyone together; final h
 
 **Physics Continues**: Earth wounded but continuing. Matter persists. Energy transforms. Universe indifferent. But consciousness: ended.
 
-**What Ends**: Wei's teaching. Zara's defiance. Amara's calculations. David's maintenance. Elena's witness. Kenji's presence. Ibrahim's journey. Maya's brilliance. Kofi's wonder. The rooftop gardens. The refugee dinners. The community circles. Min-seo's mint. Adanna's fierce love. Everything. Everyone. All at once.
+**What Ends**: Wei's teaching. Zara's defiance. Amara's calculations. David's maintenance. Elena's witness. Kenji's presence. Ibrahim's journey. Maya's brilliance. Kofi's wonder. Chen and Kowalski's Thursday coffee—fifteen years of friendship, five thousand four hundred seventy-five morning briefings, twelve years of discovering presence through bureaucracy. The rooftop gardens. The refugee dinners. The community circles. Min-seo's mint. Adanna's fierce love. Everything. Everyone. All at once.
 
 **What Persists**: Nothing conscious. Nothing aware. But: matter. Energy. Physics. Earth eventually recovering (millions of years). Life eventually returning (maybe). But human consciousness: ended. Forever.
 

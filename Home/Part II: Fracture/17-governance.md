@@ -12,21 +12,43 @@ Elena knew this. Marcus knew this. Chen, Kowalski, and Dr. Ade knew this. They s
 
 "Population report," she said, starting with Chen as always.
 
-Chen pulled up his datapad. Sixty-two years old now, thin as wire, stubborn as bedrock. "Two point two billion as of this morning. Down from four point two billion at detection. Down from three point one billion last year. We're losing approximately fifteen percent population annually—some departure, mostly deaths."
+Chen pulled up his datapad. Sixty-two years old now, thin as wire, stubborn as bedrock. He'd lost weight—not from illness, from carrying too much. Wife and daughter left for New Zealand Year 1. They'd asked him to come. He'd said: someone has to maintain the systems. They'd gone anyway. He didn't blame them. Got quarterly messages. They were alive. That was enough.
+
+"Two point two billion as of this morning. Down from four point two billion at detection. Down from three point one billion last year. We're losing approximately fifteen percent population annually—some departure, mostly deaths." His voice was steady. Professional. The voice of a man who'd reported infrastructure statistics for thirty-six years. "My wife and daughter are in that fifteen percent. Not dead. Just: gone. Counted as population loss in my reports."
+
+Elena looked up sharply. Chen had never mentioned his family before. Four years of morning briefings. This was new.
+
+"I'm sorry," she said quietly.
+
+Chen shrugged. "Don't be. They made the right choice. Left Year 1 when leaving made sense. I made my choice too. Stayed. Maintained systems. Someone has to." He met her eyes. "But I count them every morning. Two point two billion includes everyone who left. My family. Everyone's family. The numbers are people. I try to remember that."
 
 Elena wrote this in her notes. Old habit. The notes lived in a secure archive somewhere, categorized under "Historical Record" as if history would survive the asteroid. Someone at the archive still backed them up daily. Someone still believed documentation mattered.
 
-Maybe they were right.
+Maybe they were right. Maybe Chen's wife and daughter in New Zealand would die with everyone else, but right now the numbers in the archive said: they existed. They mattered. Someone counted them.
 
-"Infrastructure," Elena prompted.
+"Infrastructure," Elena prompted gently.
 
-"Power grid at fifty-three percent capacity," Chen continued. "Water systems forty-eight percent. Waste management thirty-nine percent. Transport twenty-six percent. Communications holding at ninety-two percent—automation handles that. Everything else requires human maintenance we don't have."
+"Power grid at fifty-three percent capacity," Chen continued, professional voice returning. "Water systems forty-eight percent. Waste management thirty-nine percent. Transport twenty-six percent. Communications holding at ninety-two percent—automation handles that. Everything else requires human maintenance we don't have."
+
+He paused, then added something unusual for him. "The systems are dying like everything else. But today they work. Today people have power and water. Today matters. That's why I'm here instead of New Zealand. Someone has to make today work."
 
 Everything failing. Not catastrophically—not yet. Just: slowly. The megacity was like a body with failing organs, compensating until it couldn't, systems shutting down one by one in a process everyone could see but no one could stop.
 
 "Security," Elena said.
 
-Kowalski grimaced. He always grimaced now. Fifty-eight years old, former military, current witness to civilization's unraveling. "Crime stable at four hundred percent above baseline. Murder rate five hundred percent. Enforcement capacity at fifteen percent—we respond to maybe one in seven calls. The force is down to skeleton crew. People don't want to be police when police work ends in ten years."
+Kowalski grimaced. He always grimaced now. Fifty-eight years old, former military, current witness to civilization's unraveling. No family—never married, married to the work. Thirty-three years in security. Started as beat cop in Warsaw, ended as chief of police for a dying world. Funny how careers worked.
+
+"Crime stable at four hundred percent above baseline. Murder rate five hundred percent. Enforcement capacity at fifteen percent—we respond to maybe one in seven calls. The force is down to skeleton crew. People don't want to be police when police work ends in ten years."
+
+He set down his tablet—unusual for him, like Chen. Something had shifted in these morning briefings. Less reporting, more presence. More honesty.
+
+"I've been thinking about Daniel Okonkwo," Kowalski said. "Two years into a fifteen-year sentence. Killed his friend over food. Year 2, District 7 riot. I was there. I arrested him. He came quietly. Kept crying. Kept saying: 'Raj was my friend. Raj was my friend.'"
+
+Kowalski's voice went rough. "Thirty-three years enforcement. I know criminals. Know violence. Know the difference between predators and broken people. Okonkwo's not a predator. He's a man who snapped. System failed him—we failed him—and he killed his friend in a moment of desperate insanity."
+
+He looked at Elena directly. "He writes letters. Two hundred plus now, all to Raj's widow Priya Patel. She never answers. His own three kids are motherless—wife killed herself Year 3, couldn't handle her husband being a killer. So Okonkwo sits in a cell, writing letters that get no response, raising no children, serving justice that feels increasingly like cruelty."
+
+The room was heavy. Kowalski continued. "I enforce the law. That's my job. Always has been. But the law was written for a world that had futures. For a justice system that believed in rehabilitation, restitution, protection. What's the law for now? Punishment for its own sake? Consequence without purpose? I lock people up because that's what justice demands. But I don't sleep well anymore."
 
 "Recommendations?"
 
@@ -42,7 +64,17 @@ Elena looked at her deputy mayor. Thirty-five years old, brilliant, pragmatic, c
 
 "Same as yesterday," Elena said. Her voice was steady, practiced. "Maintain what we can. Document what we can't. Prioritize life-sustaining systems. Continue essential services as long as staffing allows. We keep showing up. That's the goal."
 
-Chen and Kowalski nodded, collected their notes, left. Dr. Ade lingered a moment—"Take care of yourself, Mayor"—then followed. Marcus stayed. He always stayed.
+Chen and Kowalski stood to leave, but Chen paused at the door. "Kowalski. Coffee?"
+
+Kowalski looked surprised. "Now?"
+
+"Now. Before next crisis. Five minutes."
+
+They left together—the infrastructure coordinator who counted his missing family in population reports, and the security chief who couldn't sleep because justice felt like cruelty. Two men who'd worked together four years and never had coffee. Two men who'd just revealed more about themselves than they'd intended.
+
+Elena watched them go and felt: recognition. They were doing what she did. Bearing unbearable weight. Maintaining impossible systems. Showing up when showing up seemed meaningless. She governed collapse. Chen maintained it. Kowalski enforced order in it. All of them trying to make today work despite tomorrow.
+
+Dr. Ade lingered a moment—"Take care of yourself, Mayor"—then followed. Marcus stayed. He always stayed.
 
 "Four years," he said when they were alone.
 
@@ -112,7 +144,9 @@ She started a reply:
 
 *I'm glad you're in Mumbai. Glad you're seeking, even if finding seems impossible. Maybe seeking IS the answer. Maybe there's no destination, just: the practice of looking.*
 
-*Professor Wei writes to me too, through your letters mostly. Her philosophy spreads like seeds—I see it everywhere now. In Marcus's understanding. In Chen's persistence. In the way Dr. Ade keeps showing up to tend the dying. We're all practicing presence without knowing that's what we're doing.*
+*Professor Wei writes to me too, through your letters mostly. Her philosophy spreads like seeds—I see it everywhere now. In Marcus's understanding. In Chen's persistence even while counting his missing wife and daughter in population statistics. In Kowalski's moral struggle with enforcing justice that feels like cruelty. In the way Dr. Ade keeps showing up to tend the dying. We're all practicing presence without knowing that's what we're doing.*
+
+*Chen told us about his family today. Four years of morning briefings and he'd never mentioned them. Kowalski talked about sleepless nights, about Daniel Okonkwo in prison, about the weight of enforcing laws written for a world with futures. They're changing, Kenji. Or maybe they're finally saying aloud what they've been feeling all along. Witness matters. Even reporting infrastructure failures. Even arresting desperate people. Even showing up to govern collapse. All of it matters because we're present to it. Because we're honest about it. Because we bear witness even when witness changes nothing.*
 
 *Does Wei's teaching help me? Yes. Not the way answers help. More the way company helps. Knowing someone else sees what I'm doing. Sees that it matters even when it accomplishes nothing. That's enough most days.*
 
@@ -321,7 +355,9 @@ She opened her journal—official record, personal practice, document for archiv
 
 *I govern because someone should. I bear witness because witness is purpose. I show up because showing up is everything when showing up is all we have.*
 
-*Marcus stays. Chen stays. Kowalski and Dr. Ade stay. Fifty thousand public servants across Antarctica stay. Not because we can save anyone. Because presence matters. Because witness matters. Because continuing matters even when continuation changes nothing.*
+*Marcus stays. Chen stays despite his family in New Zealand, despite counting them as population loss in his own reports. Kowalski stays despite sleepless nights, despite moral confusion about justice versus mercy. Dr. Ade stays. Fifty thousand public servants across Antarctica stay. Not because we can save anyone. Because presence matters. Because witness matters. Because continuing matters even when continuation changes nothing.*
+
+*Chen maintains infrastructure not for permanence but for today. Kowalski enforces law not because it's clear but because someone must. I govern not to save people but to honor them. We're all learning the same lesson from different angles: showing up is everything when showing up is all we have.*
 
 *Kenji writes from Mumbai. Still seeking. Still lost. Still alive. I'm proud of him. Both of us trying to face the end with clarity. Both of us failing mostly. Both of us continuing anyway.*
 
