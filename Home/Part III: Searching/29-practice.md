@@ -92,7 +92,7 @@ Kenji is sweeping the balcony—another practice, another meditation—when he h
 
 Wei nods, gestures to the garden bench. "Sit. My student will make tea."
 
-Kenji moves to the kitchen. Through the doorway he hears the woman's story—same story with different details: Daughter will die at twenty-one, never have full adult life. Mother is terrified. Seeking wisdom, comfort, anything. How do I watch my child grow knowing she'll never finish growing?
+Kenji moves to the kitchen. Through the doorway he hears the woman's story—same story with different details: Daughter will die at twelve, barely into adolescence. Never become a teenager. Never finish growing. Mother is terrified. Seeking wisdom, comfort, anything. How do I watch my child grow knowing she'll never finish growing?
 
 The question lands in Kenji's chest like remembered pain. Same question the Tokyo mother asked Wei about her son. Same question every parent in Year 9 carries. The asteroid doesn't discriminate. Children die young.
 
@@ -106,7 +106,7 @@ He sits on the bench opposite Adaeze and Chioma. The child—six years old, dark
 
 "How do I do it?" Adaeze asks quietly. "How do I love her knowing I'll lose her? How do I parent her toward a future that won't exist? How do I—" Her voice breaks. "How do I not spend every moment terrified?"
 
-Kenji feels the question land in his chest. This woman. This child. This unbearable math. Chioma will be twenty-one when the asteroid hits. Never twenty-two. Never fully adult. Childhood and adolescence and then: nothing.
+Kenji feels the question land in his chest. This woman. This child. This unbearable math. Chioma will be twelve when the asteroid hits. Never thirteen. Never a teenager. Childhood barely begun and then: nothing.
 
 Wei is silent. Not avoiding the question. Creating space for it to sit. Kenji has watched this technique dozens of times now. Silence as teaching. Let the question breathe before attempting answer.
 
@@ -122,11 +122,11 @@ Panic rises. He's not qualified. He's student, not teacher. He doesn't have answ
 
 Adaeze blinks. "What?"
 
-Kenji continues, surprising himself with certainty he doesn't intellectually possess: "Your daughter has fifteen years. Not enough. But also—not nothing. If you're present for those fifteen years, really present, you'll know her fully. Not the adult she might have been. But the person she is. Completely. That matters more than duration."
+Kenji continues, surprising himself with certainty he doesn't intellectually possess: "Your daughter has six years. Not enough. But also—not nothing. If you're present for those six years, really present, you'll know her fully. Not the teenager she might have been. Not the adult. But the person she is. Completely. That matters more than duration."
 
 "But she'll never—"
 
-"She'll never be twenty-two. Never be thirty. Never be old. True. Also true: she's six now. Alive. Here. Real. That's not less valuable because it's temporary. It's more precious."
+"She'll never be a teenager. Never be an adult. Never be old. True. Also true: she's six now. Alive. Here. Real. That's not less valuable because it's temporary. It's more precious."
 
 The words are Wei's teaching, filtered through his own seeking, emerging as something new. Not expertise. Not wisdom earned through years of practice. Just: presence speaking to presence. One human to another. Both facing the same unbearable truth. Both trying to be here anyway.
 
@@ -138,7 +138,7 @@ Adaeze is crying. "I'm so afraid."
 
 "No. Nothing fixes this. The asteroid still comes. Your daughter still dies young. But you can be present to her life instead of absent to her death. That's all anyone can do. Ever. It's not enough. It's also everything."
 
-Silence. Adaeze holds her daughter closer. Chioma squirms, wants down. Adaeze releases her. The child runs to the garden, attracted by butterflies. Six years old. Fifteen years remaining. Brief and complete. Beautiful and temporary and here.
+Silence. Adaeze holds her daughter closer. Chioma squirms, wants down. Adaeze releases her. The child runs to the garden, attracted by butterflies. Six years old. Six years remaining. Brief and complete. Beautiful and temporary and here.
 
 "Thank you," Adaeze says quietly. Not healed. Not fixed. But: seen. Heard. Given permission to grieve and love simultaneously. She stands. "I should—we should go. Thank you, Professor Wei. Thank you—I'm sorry, I don't know your name."
 
