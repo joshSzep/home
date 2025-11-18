@@ -6,6 +6,8 @@
 
 Platform 73. Morning light breaking pale across the ice. Ibrahim clips his harness at 6:51 AM—one minute late, which is early enough. Fourteen months of this routine. Nearly five years since arrival as wounded refugee in Year 3, but only fourteen months since he started this job. Fourteen months of maintenance work that seemed pointless at first and now seems... less pointless. Maybe.
 
+His shoulders ache slightly—good ache, the kind that comes from use rather than injury. Pool this morning. Tuesday and Thursday routine he started seven months ago when Derek finally wore down his resistance. Twenty laps today. Started at three, could barely manage that. Now: twenty. Different kind of competence emerging.
+
 "Morning." He nods to David Chen, already inspecting connection housing at the platform's edge.
 
 "Morning, Ibrahim." David doesn't look up. Focused. Present. Always present in the way Ibrahim is learning to be.
@@ -198,7 +200,13 @@ The shift ends at 4:47 PM. David and Ibrahim ride the platform elevator down tog
 
 "Good work today," David says. "The platform forty-seven repair was solid."
 
-"Thank you."
+"Thank you." Ibrahim pauses. "It's strange. A year ago I could barely get out of bed. Now I repair voltage regulators two hundred meters up and swim twenty laps in the morning."
+
+David considers this. "Competence builds competence. You showed up. Kept showing up. Eventually showing up becomes being present. Being present becomes capable."
+
+"Is that what happened?"
+
+"I think so. For both of us, maybe. Different timelines. Same process."
 
 "Same time tomorrow?"
 
@@ -207,6 +215,110 @@ The shift ends at 4:47 PM. David and Ibrahim ride the platform elevator down tog
 They separate at the transport station. David toward residential district. Ibrahim toward his building. Different directions. Parallel lives intersecting at work.
 
 The walk home is familiar. Twenty minutes through the city. Building 12 visible from three blocks away. Standard refugee housing. His home for nearly five years.
+
+---
+
+## Morning Earlier — Pool Session
+
+Building 9. Basement level. 0545 hours.
+
+The pool is thirty meters, four lanes, designed for rehabilitation. Steam rises from heated water into cold air. Eight people present—five in water, three on deck preparing. Derek moves between them, checking form, offering adjustments. Not drill sergeant. Not therapist. Just: present coach.
+
+Ibrahim sits at pool edge, dangling his legs in water. Seven months since Derek finally convinced him to try. Seven months since he watched paraplegics and amputees and chronic pain cases moving through water with grace impossible on land.
+
+"Ready?" Derek surfaces beside him, water streaming from gray-stubbled hair. Forty-five years old, Marine tattoo visible on his shoulder. Former warrior teaching adaptive movement to broken soldiers.
+
+"Twenty today?"
+
+"If you can. No pressure. Fifteen is fine."
+
+Ibrahim slides into water. The immediate relief as weight lifts from his damaged leg. In water: buoyant, supported, capable. On land: limping, aching, permanently broken. Same body. Different medium. Different possibilities.
+
+He pushes off. First lap: front crawl, modified. His right leg doesn't kick properly—never will. But Derek taught him to compensate. More left leg. More upper body. Different technique for different body.
+
+Breath. Stroke. Breath. Stroke. The rhythm is meditative. Can't think about anything else while swimming. Must be here. Present. Counting strokes, managing breath, moving through water.
+
+Two laps. Four. Six.
+
+Another swimmer passes him—woman, Somali refugee, missing her left arm below the elbow. She glides past with one-armed stroke that's more efficient than Ibrahim's two-armed effort. He's learned not to be embarrassed. Everyone here adapts. Everyone finds their own way through water.
+
+Ten laps. Twelve. Fourteen.
+
+His shoulders burn. Good burn. Effort, not injury. His leg aches but doesn't matter the same way it matters on stairs. In water: the ache is just sensation. On land: the ache is limitation.
+
+Sixteen laps. Eighteen.
+
+Derek surfaces beside him at the wall. "Two more?"
+
+Ibrahim nods. Can't speak yet. Breathing too hard.
+
+Nineteen. Twenty.
+
+Done.
+
+Ibrahim hangs at the wall, breathing heavily, muscles trembling. Twenty laps. Six hundred meters. Seven months ago he managed three laps and thought he might drown. Now: twenty. Competent. Capable. Strong in way that doesn't require the body he used to have.
+
+"Well done," Derek says. Simple acknowledgment. No false praise. Just: recognition of work completed.
+
+Another veteran pulls himself up on deck—bilateral leg amputee, powerful arms, moving with practiced efficiency. "Ibrahim, you're keeping up with us now. Remember your first day? Three laps and you looked like you'd run a marathon."
+
+Ibrahim remembers. Year 7, Month 10. Derek had brought him here after months of invitation. Ibrahim had resisted—pride, shame, the certainty he was too broken. But Derek's consistency had worn him down. Just: come see. Just: try once.
+
+That first day: three laps. Thought his lungs would burst. Thought his leg would tear apart. Wanted to quit.
+
+Derek had said: "Three laps is three laps. Tomorrow we try four. Or three again. Doesn't matter. Just: show up."
+
+Seven months of showing up. Three laps became five became ten became twenty.
+
+"Your form's good," Derek observes. "Compensating well for the leg. You've built real shoulder strength."
+
+Ibrahim pulls himself out. His right leg protests the movement—always will. But he manages. Sits on the deck, toweling off. Around him, other swimmers continue. Old man doing backstroke. Young woman with prosthetic leg doing butterfly. The amputee doing laps with perfect underwater form.
+
+All of them broken. All of them moving. All of them finding capability in bodies that don't work the way bodies are supposed to work.
+
+"Same time Thursday?" Derek asks.
+
+"Yes."
+
+"Good. We're getting two new people. Syrian refugees. War injuries. I might ask you to help orient them. Show them it's possible."
+
+Ibrahim pauses. Him? Helping? Teaching? "I don't know anything about teaching."
+
+"You know about showing up with a broken body and discovering you can still move. That's what they need to see. Not inspiration—just: evidence that adaptive is possible."
+
+"Okay. I can do that."
+
+"Good."
+
+Ibrahim dresses slowly. His body tired but satisfied. The same feeling he gets after good work shift on the platforms. Competence. Effort. Purpose through practice.
+
+Seven months of swimming. Fourteen months of array maintenance. Before that: four years of nothing. The contrast is stark. Not healed. Not fixed. Just: different. Better. Real.
+
+He walks toward the exit, cane in hand, limp unchanged. But his shoulders are stronger. His breathing is deeper. His body—still broken—is also capable.
+
+Derek calls after him: "Ibrahim?"
+
+He turns.
+
+"You're doing good. Really good. Not just the swimming. Everything. I see the difference from a year ago."
+
+Ibrahim doesn't know what to say. So he just nods. Acknowledgment. Gratitude. The understanding that Derek kept him alive through simple consistency. Pool sessions. Silent walks. Being present without demanding conversation or change.
+
+"Thank you," Ibrahim manages. "For not giving up on me."
+
+"Marines don't leave people behind," Derek says. Then smiles slightly. "Even broken Muslims who count stairs obsessively."
+
+Ibrahim almost laughs. First time in years. "I still count stairs."
+
+"I know. But now you also swim. That's progress."
+
+Progress. Yes. Slow. Fragile. Real.
+
+Ibrahim leaves Building 9. The morning is cold, dark, typical Antarctic winter. He has two hours before his work shift starts. Time for shower, breakfast, the commute to Platform 73.
+
+Time to prepare for another day of maintenance. Another day of showing up. Another day of being present with broken body and lost faith and uncertain purpose.
+
+Another day of discovering that somehow, impossibly, that's enough.
 
 He enters the building. Faces the stairwell. Fifty-three steps to the fourth floor. Ibrahim grips the handrail. Begins climbing.
 

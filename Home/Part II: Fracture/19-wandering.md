@@ -14,6 +14,28 @@ His mind wandered—always wandered. Supposed to focus on breath. In, out. Simpl
 
 The bell rang. Meditation ended. Forty people stood, bowed, dispersed. Kenji unfolded his legs—they'd gone numb again. Poor circulation from sitting incorrectly. Poor form from thinking too much about form. Everything in his practice was like this: understanding the mechanics, missing the essence.
 
+Yoga came next. Morning asana practice in the courtyard. Kenji had started attending three months ago—Year 5, Month 6—thinking maybe the problem was too much stillness. Maybe he needed movement. Physical practice to anchor awareness in body instead of head.
+
+Didn't work.
+
+He moved through sun salutations analyzing each pose. *Downward dog: are my heels down? That woman's form is better. I should engage my shoulders more. The teacher said root through hands. Am I rooting? What does rooting feel like? This is thinking again. Just feel the pose. But how do I feel without thinking about feeling?*
+
+Warrior Two. His legs burned—good burn, effort made visible. But instead of being present to the burn, he analyzed it: *This is physical sensation. Muscle fatigue. The Buddha taught that sensation arises and passes. I'm experiencing arising. Soon it will pass. I should be present to the arising. But analyzing arising isn't being present to it. I need to just feel. Not think about feeling. Just feel.*
+
+The recursive trap consumed him even in physical practice. Especially in physical practice. His body was doing yoga. His mind was doing philosophy about yoga. The gap between them absolute.
+
+The session ended. Forty people bowed to the teacher—elderly Indian woman who moved with grace Kenji couldn't imagine achieving. She caught his eye as people dispersed: "You're thinking too much."
+
+"I know."
+
+"Then stop."
+
+"I don't know how."
+
+She smiled sadly. "Neither do I. But keep practicing anyway. Maybe one day the body teaches the mind what the mind can't teach itself."
+
+Kenji bowed and left. The same advice in different words. Tokyo: just sit. Cairo: just think clearly. Mumbai: just move with awareness. All saying the same thing. All equally inaccessible. His body had sat, thought, and moved for nearly four years across three continents. His mind remained locked in analysis. Physical practice hadn't helped any more than stillness. The problem wasn't the practice. It was him.
+
 Outside, Mumbai morning was beginning. Year 5 of the apocalypse. The city looked normal—or as normal as anywhere looked now. People walked to work. Vendors set up stalls. Traffic moved through reconfigured streets. The mundane persistence of life in the face of guaranteed death. Kenji watched it every morning, still unable to integrate the contradiction.
 
 "You're thinking again."

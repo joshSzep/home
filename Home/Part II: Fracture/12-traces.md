@@ -14,6 +14,14 @@ The temperature was below freezing outside, barely warmer inside the unheated ha
 
 Bodies rose in unison. Kenji unfolded his legs. Numb again. Poor circulation from sitting incorrectly despite correct form. Everything in his practice was like this: technically perfect, essentially missing.
 
+The monks formed a line for kinhin—walking meditation between sitting periods. Kenji joined the circuit around the zendo. Left foot, right foot, synchronized breathing. Ten steps per exhale. The walking should anchor awareness in the body, pull consciousness out of the head and into feet meeting floor, weight shifting, breath moving.
+
+Instead: Kenji analyzed the walking. *Am I walking too fast? Too slow? Is my posture correct? That monk's form is better. I should adjust my pace. No, wait—thinking about adjusting is the problem. Just walk. But how do I just walk without thinking about walking? The instruction is to feel feet on floor. I'm feeling them now. Or am I thinking about feeling them? Is there a difference?*
+
+The circuit continued. The monks walked in perfect silence. Kenji walked in perfect noise—mental chatter disguised as practice. His body moved correctly. His mind was elsewhere. Gap between physical form and embodied presence. Seventeen months of this gap.
+
+Kinhin ended. They returned to cushions for another sitting period. Kenji's legs were less numb from the walking, but his mind was just as scattered. Maybe more scattered—now he was thinking about how walking meditation should have helped but didn't.
+
 He bowed to his cushion and filed out with the others into the grey morning.
 
 ---

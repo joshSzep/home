@@ -299,6 +299,10 @@ Min-seo: "Ibrahim, when you first knocked on my door Year 6, asking about mintâ€
 
 Ibrahim: "Yes. Kept me showing up."
 
+Derek: "You looked dead in the water too. Year 7, first pool session. Three laps and ready to quit. Now you swim twenty laps and help with new refugees. That's progress."
+
+Ibrahim hadn't thought about it that way. Three years of swimming (Year 7 Month 10 to Year 10 Month 8). Started because Derek wouldn't stop inviting. Continued because water made the limp irrelevant. Now: teaches others. Shows them that broken bodies can still move. Different competence emerging.
+
 Derek: "You understood silence. When I couldn't talk about my wars, you didn't make me. Just walked beside me. That mattered."
 
 Fatima: "You kept coming to dinners even when faith was gone. That was brave. Most people, they lose faith, they abandon everything. You stayed. You let yourself be part of something."

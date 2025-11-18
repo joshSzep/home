@@ -247,6 +247,34 @@ He waters the gardenias. Then the herbs. Then the vegetables. Moving through the
 
 "Yes. About whether I'm doing this right."
 
+He pauses, watering can suspended over the gardenias. Something shifts. The question lands differently than it should.
+
+"I spent seventeen months in Tokyo," Kenji says slowly. "Doing zazen. Walking meditation. Perfect form. The teacher kept saying: be in your body. Feel your feet walking. Feel breath moving. I couldn't. Just kept analyzing the feeling instead of feeling it."
+
+Wei nods. Listening.
+
+"Then Mumbai. Year 5. I tried yoga. Thought physical practice would help where stillness failed. Every asana, I'd think: am I present now? Is this embodied awareness? Am I doing it right? The yoga teacher said my body teaches what the mind can't learn. But my body just moved through poses while my mind analyzed movement."
+
+He waters the gardenias. Continues.
+
+"But this—watering plants—I keep forgetting to analyze. Keep just... doing it. Then I remember I'm supposed to be learning something and the thinking starts again. But there are moments—just watering. Just here. Not trying to be present. Just: present. By accident."
+
+"Not accident," Wei says. "Different entry. You tried to force presence through technique—meditation, yoga, philosophy. Forcing is obstacle. But gardens need watering. Plants don't care if you're enlightened. Just: thirsty. So you water them. While watering, sometimes: present. Not because you achieved it. Because task required it."
+
+Kenji sets down the watering can. Stares at his hands. "You're teaching me through gardening what meditation teachers couldn't teach through meditation."
+
+"I'm not teaching. Garden is teaching. You're learning. Different thing." Wei smiles. "Mind seeks presence as achievement. Body just does what needs doing. Sometimes while doing: presence emerges. Not goal. Side effect."
+
+"So all the practices I tried—zazen, kinhin, yoga—I was approaching them wrong?"
+
+"Not wrong. Just backwards. You tried to use body to achieve mental state. Better: use body to do task. Mental state takes care of itself. Or doesn't. Either way: plants get watered."
+
+Kenji thinks about this. Then catches himself thinking and laughs—actual laugh, surprising himself. "I'm analyzing your teaching about not analyzing."
+
+"Yes. That's okay. Mind does that. Eventually tires itself out. Then: just watering. Just being. Not because you stopped analyzing. Because analyzing became boring. The ox catches itself. You can't catch it by chasing."
+
+She gestures to the herbs. "Keep watering. We'll talk later. Or not talk. Doesn't matter. Plants need water either way."
+
 "Are the plants getting water?"
 
 "Yes."

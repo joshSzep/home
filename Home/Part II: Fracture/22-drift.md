@@ -280,7 +280,17 @@ One afternoon, Derek spoke: "I started going to group therapy. Veteran thing. Ta
 
 "Liar." Derek smiled slightly. "But the offer stands."
 
-They walked in silence for a block. Then Derek added: "Linnea's getting worse. Haven't seen her in three days. Fatima's been checking on her. Bringing food. But..." He trailed off.
+They walked in silence for a block. Then Derek said: "I run. Mornings. 0530. Old habit—Marines, you know. Can't seem to stop." He paused. "Also help with the adaptive PT program. Pool, mostly. Veterans, refugees. People with injuries."
+
+Ibrahim glanced at his cane. The limp that would never heal. "I can barely walk fifty-three steps."
+
+"I know. That's why it's in water." Derek's voice was matter-of-fact. "Buoyancy. Takes the weight off. Leg doesn't have to work the same way." He shrugged. "Just saying. Tuesdays and Thursdays. Building 9, basement level. If you ever want to see what it's about."
+
+Ibrahim said nothing. The idea seemed absurd. Him, swimming? He could barely manage stairs.
+
+Derek didn't press. Just: "Offer stands. No pressure."
+
+They walked another block in silence. Then Derek added: "Linnea's getting worse. Haven't seen her in three days. Fatima's been checking on her. Bringing food. But..." He trailed off.
 
 Ibrahim understood. There were things food couldn't fix. Things presence couldn't reach. But you kept trying anyway. Kept showing up. Kept offering what you could.
 
