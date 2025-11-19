@@ -166,7 +166,9 @@ Fatima spotted him immediately. Her face lit up. "Ibrahim! You came!"
 
 "Come sit. Eat. Meet people."
 
-She guided him to a table. Introduced him to others. Names blurred—too many, too fast. But faces were kind. Welcoming. No one asked about his faith or lack thereof. No one pressed him to pray. Just: sit, eat, be here.
+She guided him to a table. Introduced him to others. Names blurred—too many, too fast. But faces were kind. Welcoming. One man caught Ibrahim's attention—signing to someone across the room, hands moving in fluid conversation. Syrian, Ibrahim thought, recognizing something in his face. Deaf, clearly. The man noticed Ibrahim watching, signed something brief. Ibrahim didn't understand but nodded acknowledgment.
+
+No one asked about his faith or lack thereof. No one pressed him to pray. Just: sit, eat, be here.
 
 He filled a plate. Ate slowly. The food was good. Real. Made with care by people who still bothered to cook despite everything.
 
@@ -185,6 +187,20 @@ Ibrahim glanced at his cane. "That obvious?"
 "Militia. Jerusalem."
 
 They sat in silence. Understanding passing between them without words. Both fighters. Both broken. Both here in this strange refugee community, eating Eid dinner despite neither being particularly devout.
+
+The Deaf man from earlier approached their table, carrying a plate of flatbread—homemade, Ibrahim could tell. The man set it down, signed something. Derek signed back—basic, halting, but functional. The man smiled, pointed to himself, then signed letters: S-A-M-I-R.
+
+"Samir," Derek said aloud, then signed again. "Damascus?"
+
+Samir nodded, signed something elaborate. Derek looked apologetic. "I don't... sorry."
+
+Samir waved it off—universal gesture. Drew letters in the air with his finger. Damascus. Teacher. Here Year 3.
+
+"Ibrahim," Ibrahim said, pointing to himself. Then in Arabic: "Ana min Suriya aydan." I'm from Syria too.
+
+Samir's face lit up. He signed rapidly in what must be Arabic Sign Language, then caught himself, slowed down. Pointed to both of them—Damascus, Syria, home. Then to the room—here, now, together. His hands made the concept clear even without words.
+
+Ibrahim found himself nodding. Understanding without language. Two Syrians who'd lost everything, eating Eid dinner in Antarctica. The absurdity and rightness of it both.
 
 A woman approached their table—blonde, Swedish accent, rail-thin. Ibrahim recognized her vaguely from the building. Unit 418, maybe? She held a plate but hadn't put much food on it. Hands shaking slightly.
 
@@ -205,6 +221,10 @@ Ibrahim understood immediately, even without details. Understood the shaking. Th
 Derek caught his eye. Silent communication: *She's part of this. We keep her alive. That's what we do here.*
 
 Ibrahim nodded. Acceptance without judgment.
+
+Samir was watching Linnea too. Signed something to Derek, who nodded. "He's been checking on her," Derek said quietly. "Brings food. Doesn't need words to notice when someone's struggling."
+
+Samir caught Ibrahim looking, signed something simple—tapping his eyes, then pointing to Linnea, then to his heart. *I see. I care.* Universal.
 
 "Do you believe anymore?" Derek asked quietly, returning to their conversation.
 
@@ -270,6 +290,8 @@ Min-seo considered. "Sometimes. Most times. But then the mint grows. Or the sun 
 
 Derek became a fixture in Ibrahim's walks. They'd pass each other on the street. Nod. Sometimes walk together in silence. Former fighters who understood that companionship didn't require conversation. Just: presence. Acknowledgment. Not-being-alone.
 
+Sometimes Samir joined them. He'd appear from a side street, wave, fall into step. The three of them walking—two hearing men who barely spoke, one Deaf man who communicated in other ways. Samir would point out things: a bird, a child playing, the way light hit ice. Drawing their attention to what was present. Ibrahim found himself noticing more when Samir walked with them. Seeing instead of just looking.
+
 One afternoon, Derek spoke: "I started going to group therapy. Veteran thing. Talking about war, trauma, all that. You should come."
 
 "I don't talk."
@@ -299,6 +321,12 @@ Ibrahim understood. There were things food couldn't fix. Things presence couldn'
 "Just notice her. When you see her. Nod. Let her know someone sees she's here. That's all. That's enough."
 
 It didn't feel like enough. But maybe Derek was right. Maybe noticing was something. Maybe acknowledgment mattered.
+
+Samir started teaching basic sign language in the community room. Tuesday evenings. Free. Open to anyone. Ibrahim attended twice, awkwardly. Learning to sign *hello*, *thank you*, *I see you*. His hands felt clumsy, but Samir was patient. Showed him again and again. The practice was meditative—hands moving in space, attention required, communication beyond words.
+
+After the second session, Samir approached him. Signed slowly: *You notice things. Good for signing. Signing is seeing.* Then in written Arabic on paper: "Deaf people pay attention different. Vision, not sound. You learning this—how to be present with eyes, not just ears. Good practice."
+
+Ibrahim hadn't thought of it that way. But Samir was right. When you couldn't hear, you watched. Really watched. Noticed details others missed. Presence through vision.
 
 Fatima continued inviting Ibrahim to things. Community dinners. Prayer groups (which he declined). Movie nights (which he attended once, awkwardly). She never pressured. Never judged. Just: kept offering. Kept including him.
 

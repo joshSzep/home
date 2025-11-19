@@ -271,11 +271,11 @@ Five years left. Three maintaining arrays. Then: two years together in Lagos wit
 
 **Attending Meditation Practice**: Ibrahim goes to weekly community meditation circle (local group—Kenji doesn't return until Year 12). Started attending Year 6 when local group formed. Four years now. Still mostly silent. But: belonging. Derek there—former Marine, 51 now, still processing his own wars. They sit together. No words. Warrior solidarity.
 
-**The Invitation**: After practice, Fatima approaches—she's hosted community dinners since Year 3 (Ibrahim's first was Year 6). But today different: "Ibrahim. I'm making dinner tomorrow. Real dinner. Not just you dropping by. I want you, Min-seo, Derek—all together. Intentional. Family dinner."
+**The Invitation**: After practice, Fatima approaches—she's hosted community dinners since Year 3 (Ibrahim's first was Year 6). But today different: "Ibrahim. I'm making dinner tomorrow. Real dinner. Not just you dropping by. I want you, Min-seo, Derek, Samir—all together. Intentional. Family dinner."
 
 Ibrahim surprised: "Why?"
 
-"Because we've kept each other alive four years (Year 6 to Year 10). Didn't realize it at the time. But: you checking on Min-seo. Min-seo giving you mint. Derek walking with you in silence. Me inviting you when you had nowhere to go. We built something. I want to honor that. Five years left. Time to be intentional."
+"Because we've kept each other alive four years (Year 6 to Year 10). Didn't realize it at the time. But: you checking on Min-seo. Min-seo giving you mint. Derek walking with you in silence. Samir teaching us to see differently. Me inviting you when you had nowhere to go. We built something. I want to honor that. Five years left. Time to be intentional."
 
 **David's News**: That evening, Ibrahim visits David's apartment. David tells him: leaving Year 13 for Lagos. Three years, then gone.
 
@@ -289,9 +289,9 @@ David: "You have others. Min-seo, Derek, Fatima. They're your people. I taught y
 
 Ibrahim realizes: true. David taught him competence. But those three taught him connection.
 
-**The Dinner**: Next evening. Fatima's apartment. Four people: Ibrahim, Min-seo, Derek, Fatima. First time gathered intentionally as group. Not coincidence. Not overlap. Deliberate.
+**The Dinner**: Next evening. Fatima's apartment. Five people: Ibrahim, Min-seo, Derek, Samir, Fatima. First time gathered intentionally as group. Not coincidence. Not overlap. Deliberate.
 
-Fatima cooks traditional meal. Min-seo brings mint tea. Derek brings nothing but presence (his way). Ibrahim brings bread from community kitchen.
+Fatima cooks traditional meal. Min-seo brings mint tea. Derek brings nothing but presence (his way). Samir brings homemade flatbread (Damascus recipe). Ibrahim brings bread from community kitchen.
 
 **Sharing Stories**: Around table, they talk—not small talk. Real talk.
 
@@ -307,6 +307,10 @@ Derek: "You understood silence. When I couldn't talk about my wars, you didn't m
 
 Fatima: "You kept coming to dinners even when faith was gone. That was brave. Most people, they lose faith, they abandon everything. You stayed. You let yourself be part of something."
 
+Samir (signing, Fatima interpreting): "You learned to listen without hearing. When we sit together, you watch. Really watch. Most hearing people don't. They wait for sound. You learned presence through silence. That's rare."
+
+Ibrahim hadn't thought of it that way. Samir teaching sign language informally Years 7-10—not just communication, but attention. How to be present through vision instead of sound. Ibrahim learning slowly, motivated by Samir's patience. Now: basic conversation possible. Different way of being together.
+
 **The Realization**: Ibrahim sees it clearly for first time: Four years ago (Year 6), he was drowning. Counting stairs obsessively. Wanting to die but lacking energy for suicide. Then: these three. Not saving him dramatically. Just: showing up. Being present. Offering connection without demanding anything.
 
 Min-seo needed someone to share mint with. Derek needed someone who understood silence. Fatima needed someone to feed. Ibrahim needed all of them. They kept each other alive.
@@ -317,13 +321,13 @@ Min-seo touches his hand: "We kept each other alive."
 
 Fatima: "That's what community is. Not grand purpose. Just: showing up for each other. Day after day. Until showing up becomes living."
 
-**End**: Walking home with Min-seo (same building). Derek walking with them partway (Building 7, different direction). Fatima waving from her window (Building 9, across courtyard). Four refugees who found each other. Four years of unintentional community becoming intentional.
+**End**: Walking home with Min-seo (same building). Derek walking with them partway (Building 7, different direction). Samir heading to Building 8 (waves goodbye in International Sign). Fatima waving from her window (Building 9, across courtyard). Five refugees who found each other. Four years of unintentional community becoming intentional.
 
-Ibrahim on balcony that night. Mint growing (from Min-seo's cuttings, replanted years ago, still thriving). Building 12 around him. Min-seo below. Derek within walking distance. Fatima's light visible across courtyard. Five years left. No grand purpose. But: roots. People. Chosen family. Community.
+Ibrahim on balcony that night. Mint growing (from Min-seo's cuttings, replanted years ago, still thriving). Building 12 around him. Min-seo below. Derek within walking distance. Samir's apartment visible. Fatima's light visible across courtyard. Five years left. No grand purpose. But: roots. People. Chosen family. Community.
 
 Not neutral. Connected. That's more than he hoped for Year 6. That's everything.
 
-**Key beats**: Seven years in Antarctica • Morning tea with Min-seo • Her sharing photos/grief • Attending meditation circle • Derek's silent solidarity • Fatima's intentional invitation • David leaving Year 13 • The deliberate dinner together • Sharing stories of connection • Realizing they kept each other alive four years • From unintentional to intentional community • Four refugees as chosen family • Ibrahim connected, not just neutral
+**Key beats**: Seven years in Antarctica • Morning tea with Min-seo • Her sharing photos/grief • Attending meditation circle • Derek's silent solidarity • Fatima's intentional invitation • David leaving Year 13 • The deliberate dinner together • Sharing stories of connection • Realizing they kept each other alive four years • Samir teaching presence through visual attention and sign language • From unintentional to intentional community • Five refugees as chosen family • Ibrahim connected, not just neutral
 
 ---
 
@@ -467,6 +471,8 @@ Wei's legacy: not immortality. Transmission. Person to person. Until there are n
 **Chen and Kowalski's Arrival**: Both come to first session separately, don't know the other will be there. Chen arrives first, sits in back corner—his habit from twelve years of morning meditation. Then Kowalski enters, scans room, sees Chen. Their eyes meet. Both smile. Kowalski sits beside Chen (of course). After session, they laugh: "Thursday practice now. Makes sense." Kenji recognizes something immediately—these two have been practicing for years without knowing it. They're not beginners. They're elders who just found their sangha.
 
 Among them: Asha Marin (45, recently relocated from global circuit to Antarctica). The controversial extinction-era artist attends occasionally, skeptical but curious. After one session, she asks Kenji directly: "Isn't sitting still while the world ends just another form of passivity?" Kenji: "Is making art while the world ends active or passive?" Asha: "Depends whether you're trying to change something or witness it." "Same with presence." They recognize each other—different methods, same interest in what's real. Also present: Dr. Sarah Kim (44), the former journalist who moderated the Year 2 election debate, now volunteer coordinator. She'd spent ten years organizing logistics—crisis response, resource distribution, practical matters. But Year 12, watching community fracture despite her efforts, she came seeking something deeper than efficiency. Sits quietly, learning presence as antidote to burnout.
+
+Also attending: Samir Khalil (40), the Deaf Syrian refugee who's been teaching sign language informally since Year 4. He sits near the front, watching Kenji's teaching with complete visual attention. After second session, Samir approaches (signing, Ibrahim interpreting): "This practice—it's what Deaf people already know. Presence through vision. Attention without sound. I can help teach this." Kenji sees immediately: Samir isn't learning presence. He's offering a different modality of it. "Yes. Please. Teach us how you practice." The teaching circle expands—not just one method, but multiple ways of being present.
 
 **Elena Attending**: Elena comes to second session. Sits in back. Tries to meditate. Mind spinning—governance problems, infrastructure failures. Kenji patient with everyone, including his mother: "That's normal. Notice thinking. Return to breath. Practice isn't stopping thoughts. It's noticing without hooking."
 

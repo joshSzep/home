@@ -210,7 +210,7 @@ He counted them. Needed to. Needed something to focus on besides the emptiness.
 
 One. Two. Three. Left leg strong, right leg weak, cane compensating. Four. Five. Six. The physics of walking remade. Seven. Eight. Nine. Pain manageable, breathing steady. Ten.
 
-A family passed him going down—mother, father, two children. The children stared at his cane. The mother pulled them along quickly. Don't stare at the broken man.
+A family passed him going down—mother, father, two children. The children stared at his cane. The mother pulled them along quickly. Don't stare at the broken man. A moment later, another man descended—Syrian features, moving with purpose, hands signing something to himself or to no one. Ibrahim registered it distantly: another refugee. Another Syrian. Another broken person in a building full of them.
 
 Fifteen. Sixteen. Seventeen. Halfway. His leg was screaming now. Ibrahim paused on the landing. Caught his breath. The stairwell was empty except for him. Everyone else probably used elevator. But he needed to know: fifty-three steps. This specific number. This specific pain. Something concrete. Something real.
 

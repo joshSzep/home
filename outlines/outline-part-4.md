@@ -169,7 +169,7 @@ The grief wells up—anticipatory grief she's carried seventeen years. But also:
 
 In the room: **Chen and Kowalski**—three years of formal practice with Kenji (Year 12-15), fifteen years of Thursday ritual (Years 0-15), lifelong friends now. They sit together always. Both assist with teaching—Chen offers wisdom about maintenance as meditation, Kowalski about duty without certainty. Natural elders in the practice community. When young people struggle, Chen and Kowalski model: presence doesn't require perfection, just persistence. "We showed up to morning briefings fifteen years," Kowalski tells a teenager. "Still don't know if it mattered. But we showed up. That's the practice."
 
-Also present: Min-seo (elderly Korean, cancer diagnosis two months ago), Derek (former Marine, quiet presence), Fatima (Jordanian host who invited Ibrahim to community), Linnea (Swedish biologist, two years into recovery from addiction), Adaeze and twelve-year-old Chioma (mother-daughter who first sought Wei Year 9, now regular students), Priya Patel (forty-four, widow who still carries rage and practices anyway, bringing her daughter Aanya while her son Dev refuses to attend), young adults like Thabo (fourteen, brilliant and questioning), parents holding crying children, veterans with visible wounds, elders with invisible ones. Sixty stories. Sixty reasons for being here. Sixty people learning to die awake.
+Also present: Min-seo (elderly Korean, cancer diagnosis two months ago), Derek (former Marine, quiet presence), Samir (Deaf Syrian, teaching presence through visual attention), Fatima (Jordanian host who invited Ibrahim to community), Linnea (Swedish biologist, two years into recovery from addiction), Adaeze and twelve-year-old Chioma (mother-daughter who first sought Wei Year 9, now regular students), Priya Patel (forty-four, widow who still carries rage and practices anyway, bringing her daughter Aanya while her son Dev refuses to attend), young adults like Thabo (fourteen, brilliant and questioning), parents holding crying children, veterans with visible wounds, elders with invisible ones. Sixty stories. Sixty reasons for being here. Sixty people learning to die awake.
 
 **Maya's Intensity**: Kenji watching his niece—seventeen years, three months old. Three months until she dies at seventeen years, seven months. She practices with FEROCITY. Not desperation. Absolute commitment.
 
@@ -409,9 +409,9 @@ Hassan: "Tell Min-seo. Tell her what you heard. Tell her she's not dying into no
 
 "Doesn't matter. You'll speak truth anyway. God spoke to you so you could speak to her. That's the whole point."
 
-**Visiting Min-seo**: Later that morning. Ibrahim goes to Min-seo's room (hospice area, Building 23). She's awake. Barely. Derek and Fatima are there—they've been rotating shifts, keeping vigil.
+**Visiting Min-seo**: Later that morning. Ibrahim goes to Min-seo's room (hospice area, Building 23). She's awake. Barely. Derek, Samir, and Fatima are there—they've been rotating shifts, keeping vigil.
 
-Ibrahim sits beside her bed. Takes her hand. Derek and Fatima step out to give privacy.
+Ibrahim sits beside her bed. Takes her hand. Derek, Samir, and Fatima step out to give privacy.
 
 "Min-seo. I need to tell you something."
 
@@ -437,7 +437,7 @@ Min-seo cries. "You heard this? Really heard it?"
 
 She squeezes his hand. "Thank you, Ibrahim. For praying. For hearing. For telling me. That's gift."
 
-**Min-seo Dies**: Three days later. Year 15, Month 0, Day 21. Peaceful. Not afraid. Derek, Fatima, and Ibrahim with her in her tiny apartment. The mint on her balcony still growing despite winter, green and alive and defiant.
+**Min-seo Dies**: Three days later. Year 15, Month 0, Day 21. Peaceful. Not afraid. Derek, Samir, Fatima, and Ibrahim with her in her tiny apartment. The mint on her balcony still growing despite winter, green and alive and defiant.
 
 Her breathing slows. Becomes shallow. She opens her eyes one final time, looks at each of them. "Thank you. Nine years you kept me alive. Now you help me die. Perfect."
 
@@ -447,7 +447,7 @@ Ibrahim holds her hand. "The mint is still growing."
 
 Her final breath. Peaceful. Present. Complete.
 
-Derek weeps quietly—former Marine who hasn't cried in twenty years. Fatima recites Quranic verses for the dead, even though Min-seo wasn't Muslim. Ibrahim just sits, holding Min-seo's hand as it cools, feeling the presence that told him *Do you really think I brought you here to forget about you?* still here, still real, still accompanying Min-seo into whatever comes next.
+Derek weeps quietly—former Marine who hasn't cried in twenty years. Samir signs to Ibrahim (tears streaming): "She was bridge. Taught us all to tend small things." Fatima recites Quranic verses for the dead, even though Min-seo wasn't Muslim. Ibrahim just sits, holding Min-seo's hand as it cools, feeling the presence that told him *Do you really think I brought you here to forget about you?* still here, still real, still accompanying Min-seo into whatever comes next.
 
 After an hour, Linnea arrives with tea. She's been clean eight months now, still fragile but present. "I heard," she says quietly. Sets the tea down. Sits with them. The four of them—Derek, Fatima, Ibrahim, Linnea—bearing witness to Min-seo's completed life. Nine years of keeping each other alive. Now: keeping each other company in death.
 
@@ -487,11 +487,13 @@ Maya overhears. Approaches. "Ibrahim, will you teach us to pray? The Islamic way
 
 "You heard God's voice. That makes you qualified."
 
-**Both/And Teaching**: Over the next weeks (Month 2), Ibrahim and Kenji co-teach. Morning: Islamic prayer with Hassan at mosque (thirty people now, growing—Fatima, Adaeze, some of the young adults, even Derek experimenting with prostration despite no faith). Afternoon: Buddhist meditation with Kenji (two hundred people—the veterans, the parents, the elders, the young adults like Thabo and Amara and Jamal, everyone). Evening: integrated sessions where both practices meet (twenty-five core students including Maya, Kofi, Linnea, Elena, Marcus Reyes).
+**Both/And Teaching**: Over the next weeks (Month 2), Ibrahim and Kenji co-teach. Morning: Islamic prayer with Hassan at mosque (thirty people now, growing—Fatima, Adaeze, some of the young adults, even Derek experimenting with prostration despite no faith). Afternoon: Buddhist meditation with Kenji (two hundred people—the veterans, the parents, the elders, the young adults like Thabo and Amara and Jamal, everyone). Evening: integrated sessions where both practices meet (twenty-five core students including Maya, Kofi, Linnea, Elena, Marcus Reyes, Samir).
 
 Maya learns *salat*—the five prayers. Bows toward Mecca alongside Muslim students. Kofi learns *dhikr*—remembrance of God, counting ninety-nine names on beads Ibrahim gives him. Some of Kenji's Buddhist students start attending mosque (Dr. Tanaka if she's in Antarctica, several parents, Thabo who wants to try everything). Some of Hassan's Muslims start attending meditation (Fatima who embodies both naturally, Adaeze seeking all available wisdom, young Muslims questioning).
 
-Not conversion. Not syncretism. Both/and. Different doors into the same mystery. Islamic prayer teaching surrender. Buddhist meditation teaching presence. Christian contemplation (Marcus Reyes sharing his practice) teaching love. Jewish chant (if Rabbi Goldstein present) teaching memory. All of it pointing to the same wordless truth.
+Samir brings a unique dimension to the integrated sessions—teaching presence through visual attention, showing how Deaf prayer and meditation work through embodied sign rather than spoken words. His teaching illuminates that the divine speaks in many languages, including silence, including visual beauty, including the attention of hands moving in space. He signs to the group (Ibrahim interpreting): "God speaks without sound. Always has. The hearing world just forgot to listen with their eyes."
+
+Not conversion. Not syncretism. Both/and. Different doors into the same mystery. Islamic prayer teaching surrender. Buddhist meditation teaching presence. Christian contemplation (Marcus Reyes sharing his practice) teaching love. Jewish chant (if Rabbi Goldstein present) teaching memory. Deaf presence (Samir's teaching) showing attention beyond words. All of it pointing to the same wordless truth.
 
 Marcus Reyes (Elena's former assistant, returned from Mumbai) joins the teaching circle. He's Christian—evangelical, like the church that saved Josh's father. He shares his story: hearing God's call to serve. Leaving comfort to teach refugee children. Finding Christ in the desperate and dying.
 
@@ -1108,7 +1110,7 @@ Day 7 Open Practice (as described above): 200 people; everyone together; final h
 
 **Elena & Kenji**: Mother and son. Together. Present. Complete. Bearing witness until the end. Together.
 
-**Ibrahim, Hassan, Min-seo, Derek, Fatima, Linnea**: Six refugees. Nine years of keeping each other alive (Years 6-15). Former fighter. Former imam. Grieving teacher. Broken Marine. Faithful host. Recovering addict. Together in final moments. No longer just surviving—witnessing. Faith in people. Faith in presence. Faith in this moment. Min-seo's hand in Ibrahim's. Derek steady beside them. Fatima praying quietly. Hassan uncertain but present. Linnea clean for the first time in fifteen years, shaking but here. Together until the end.
+**Ibrahim, Hassan, Derek, Samir, Fatima, Linnea**: Six refugees. Nine years of keeping each other alive (Years 6-15, Min-seo died Month 0). Former fighter. Former imam. Broken Marine. Deaf teacher. Faithful host. Recovering addict. Together in final moments. No longer just surviving—witnessing. Faith in people. Faith in presence. Faith in this moment. Derek steady. Samir signing prayers in space—silent worship, visual devotion. Fatima praying quietly. Hassan uncertain but present. Linnea clean for the first time in fifteen years, shaking but here. Ibrahim carrying Min-seo's memory, the voice he heard: *Do you really think I brought you here to forget about you?* Together until the end.
 
 **Chen & Kowalski — Community Center**: Twenty people remain with them—those who chose to face the end here. Chen teaching one last time, forty-seven seconds left: "You maintained well. Systems worked because you fixed them. That's enough. That's everything." Kowalski with his arm around Chen's shoulders—fifteen years of Thursday coffee, fifteen years of briefings, fifteen years of chosen family. Not speaking now. Just presence. Final teaching: showing up until the light. Two men who discovered Buddhism through bureaucracy. Two men who practiced presence through impossible work. Two men who became friends through apocalypse. Together until the end.
 
@@ -1141,7 +1143,7 @@ Day 7 Open Practice (as described above): 200 people; everyone together; final h
 
 **Physics Continues**: Earth wounded but continuing. Matter persists. Energy transforms. Universe indifferent. But consciousness: ended.
 
-**What Ends**: Wei's teaching. Zara's defiance. Amara's calculations. David's maintenance. Elena's witness. Kenji's presence. Ibrahim's journey. Maya's brilliance. Kofi's wonder. Chen and Kowalski's Thursday coffee—fifteen years of friendship, five thousand four hundred seventy-five morning briefings, twelve years of discovering presence through bureaucracy. The rooftop gardens. The refugee dinners. The community circles. Min-seo's mint. Adanna's fierce love. Everything. Everyone. All at once.
+**What Ends**: Wei's teaching. Zara's defiance. Amara's calculations. David's maintenance. Elena's witness. Kenji's presence. Ibrahim's journey. Maya's brilliance. Kofi's wonder. Chen and Kowalski's Thursday coffee—fifteen years of friendship, five thousand four hundred seventy-five morning briefings, twelve years of discovering presence through bureaucracy. The rooftop gardens. The refugee dinners. The community circles. Min-seo's mint. Samir's sign language teachings—showing that presence speaks in more than words, that attention transcends sound, that the divine manifests in visual beauty and embodied prayer. Adanna's fierce love. Everything. Everyone. All at once.
 
 **What Persists**: Nothing conscious. Nothing aware. But: matter. Energy. Physics. Earth eventually recovering (millions of years). Life eventually returning (maybe). But human consciousness: ended. Forever.
 
