@@ -86,7 +86,11 @@ Not question. Statement. She's right. Kenji misses his mother—they write weekl
 
 The visitors arrive mid-morning.
 
-Kenji is sweeping the balcony—another practice, another meditation—when he hears voices. Wei wheels herself to the doorway. Three people enter: two young seekers he recognizes from previous visits, and a woman he doesn't know. Mid-thirties, carrying a small child. Her face carries the specific desperation Kenji remembers from his own seeking years. The look that says: *Please have answers. Please fix this. Please make it bearable.*
+Kenji is sweeping the balcony—another practice, another meditation—when he hears voices. Wei wheels herself to the doorway. Four people enter: two young seekers he recognizes from previous visits, a woman he doesn't know carrying a small child, and Chen Liwei.
+
+Chen—the former UN Secretary General, sixty-one years old now, living two buildings away with his wife and grandchildren. He's been attending Wei's garden sessions for a year, since arriving in Lagos Year 8. Quiet presence. Steady. Always listening more than speaking. Kenji has shared tea with him several times. They don't talk much—both learning the same lesson: less talking, more being.
+
+The woman—mid-thirties, carrying the child—has the specific desperation Kenji remembers from his own seeking years. The look that says: *Please have answers. Please fix this. Please make it bearable.*
 
 "Professor Wei," the woman begins, voice tight. "Thank you for seeing me. I'm Adaeze. This is my daughter, Chioma. She's six years old."
 
@@ -202,13 +206,13 @@ Maybe Wei is right. Maybe he's ready. Not because he has answers. Because he's l
 
 That evening, Wei invites combined family for dinner.
 
-Zara's whole household arrives—Kwame, Maya, Kofi. Amara and David are visiting from Antarctica, staying two weeks. Seven people crowded around Wei's small table. More people than the apartment comfortably holds. Perfect.
+Zara's whole household arrives—Kwame, Maya, Kofi. Amara and David are visiting from Antarctica, staying two weeks. Chen and his wife Mei stop by as well—they live two buildings away, and Wei has been teaching Chen since he arrived Year 8. Eight people crowded around Wei's small table. More people than the apartment comfortably holds. Perfect.
 
 Kenji helps prepare food. Simple meal—vegetables from the garden, rice, tea. The domesticity is grounding. Chopping, stirring, serving. Actions complete in themselves.
 
-During dinner, conversation flows. Zara tells stories about compound improvements. David describes solar array maintenance. Amara shares asteroid trajectory updates—unchanged, perfect, final. Kwame talks about his work coordinating Lagos food distribution. The children compete for attention, showing off knowledge.
+During dinner, conversation flows. Zara tells stories about compound improvements. David describes solar array maintenance. Amara shares asteroid trajectory updates—unchanged, perfect, final. Kwame talks about his work coordinating Lagos food distribution. The children compete for attention, showing off knowledge. Chen speaks little but listens completely—a skill from his diplomatic years, now deepened through practice. When he does speak, it's to ask clarifying questions that help others think more clearly.
 
-But Kenji watches differently now. He's not just participating. He's watching Wei AS teacher watching her. Understanding how she creates this space. How she asks questions that open instead of close. How she listens completely. How her presence allows everyone to be themselves fully.
+But Kenji watches differently now. He's not just participating. He's watching Wei AS teacher watching her. Understanding how she creates this space. How she asks questions that open instead of close. How she listens completely. How her presence allows everyone to be themselves fully. Chen does something similar—his decades of patient negotiation transformed into presence practice. Not leading. Facilitating.
 
 This is teaching. Not lecturing. Not instructing. Creating space for people to discover their own truth. Facilitating instead of directing. Reflecting instead of imposing.
 

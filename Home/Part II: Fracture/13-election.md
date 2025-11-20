@@ -46,7 +46,7 @@ Her first term ended Year 2, Month 9. Most people assumed she'd step down—spen
 
 Elena had refused both options.
 
-"We're holding the election as scheduled," she'd announced at the morning briefing. Five people in attendance—the number had plateaued there. Marcus, Chen, Kowalski, Dr. Ade. All of them staring at her like she'd lost her mind.
+"We're holding the election as scheduled," she'd announced at the morning briefing. Five people in attendance—the number had plateaued there. Marcus Reyes (her assistant), Chen (infrastructure coordinator), Kowalski, Dr. Ade. All of them staring at her like she'd lost her mind.
 
 "Why?" Chen had asked. Sixty years old, infrastructure coordinator since Year -4. He'd watched his department shrink from eight hundred people to twelve. Watched systems he'd built for millennia fail in months. His question wasn't challenging—genuinely confused. "Power grid's at sixty-two percent. Water at sixty-nine. We're barely maintaining basics. Election takes resources. Staff. Energy. Why spend it on symbolism?"
 

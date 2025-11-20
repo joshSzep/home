@@ -35,11 +35,27 @@ Everyone gathers. Final moments. Presence until the end. Together into the light
 
 **Her Family**: Kenji stayed. Teaching until the end. Marcus Rivera stayed—fourteen years, first as opponent (Year 2), then deputy (Year 2-14), now friend and chosen family. Elena's government ended Year 14, but her witness continues. She's not mayor anymore. Just: Elena. Present with her people. The electoral journey complete.
 
-**The Arrivals**: Last ships arriving. Zara's family (Amara's sister). Ibrahim's former imam (seeking reconciliation). Wei's former students (honoring dead teacher). Everyone converging. Everyone choosing Antarctica as final place.
+**The Arrivals**: Last ships arriving. Zara's family (Amara's sister). Ibrahim's former imam (seeking reconciliation). Wei's former students (honoring dead teacher). Chen Liwei and his extended family (wife Mei, children, grandchildren—three generations). Everyone converging. Everyone choosing Antarctica as final place.
+
+**Chen Family Arrives**: Chen (67), Mei (64), their two adult children with spouses, three grandchildren (now 15, 16, 17—same ages as Maya, Kofi, others). Multi-generational migration. Chen coming not as Secretary General but as grandfather, as witness among witnesses. The voice from Year 0 broadcast returning as human presence.
 
 **Brief Note - Barak Naveh**: Among the dispersed population are those who found unexpected freedom. Barak Naveh, 48, released when his prison guard abandoned post Year 13 M9 (finding the absurdity of his scheduled release—one day after impact—unbearable). His cellmate Daniel Okonkwo refused to leave despite open cell, consumed by guilt. Barak respected that choice, walked out quietly. Eighteen months free now (Year 13 M9 to Year 15 M1), living simply in District 9, appreciating sunlight and space after years confined. Has begun attending community gatherings, drawn by Kenji's teaching circle. Doesn't speak much. Listens deeply. People feel steadied around him without knowing why.
 
-**MARCUS REYES RETURNS**: Mid-month, Marcus Rivera approaches Elena with unusual expression. "Someone's here to see you. Says he's family."
+**CHEN-ELENA FIRST MEETING**: Mid-month, before Reyes arrives. Elena receives message: "Secretary General Chen requesting meeting." She goes to his temporary housing—small apartment, multi-generational family crowded but warm.
+
+Chen greets her: "Just Chen now. Not Secretary General. Just: person who witnessed."
+
+Elena: "Just Elena. Not mayor. Just: person who showed up."
+
+They embrace—fifteen years of correspondence, first time meeting in person. Recognition immediate and deep. "You governed continent," Chen says. "I failed to govern world. We learned same lesson—witness matters more than control."
+
+"Five years of letters," Elena says. "Feels like we've known each other forever."
+
+"We have. Through the work. Through Wei's teaching. Through choosing presence when presence seemed futile."
+
+They spend two hours talking—two leaders reflecting on fifteen years of impossible positions, learning governance as witness, accepting powerlessness as form of power. Chen's grandchildren playing in background (15, 16, 17 years old). Elena mentions Kenji teaching. Chen: "I'd like to attend. Learn from Wei's lineage continued." "He'd be honored."
+
+**MARCUS REYES RETURNS**: Later that week, Marcus Rivera approaches Elena with unusual expression. "Someone's here to see you. Says he's family."
 
 Elena confused—Kenji's teaching at community center. Then Marcus Reyes stands in her doorway. Sixty-eight years old (same as Rivera). Thirteen years since he left Antarctica (Year 2 to Year 15). Thirteen years in Mumbai teaching children, practicing presence, becoming himself. He looks peaceful. Solid. Complete.
 
@@ -96,6 +112,8 @@ They drink tea and talk about fifteen years—governance, transformation, servic
 **Final Bureaucracy**: Elena filing final reports. Not for anyone. For completion. For dignity. Someone should document. Someone should say: we were here. Even if no one reads it.
 
 **Conversation with Kenji**: Her son asks, "Mom, are you satisfied?" "With what?" "With how you led. With fifteen years as mayor." Elena thinks. "I was elected twice (Year -2 and Year 2). Then no one opposed me (Year 6). Then no one wanted the job (Year 10+). I went from wielding power to bearing witness. I didn't save anyone. But I showed up. I maintained dignity. I did the work until there was no work left. The transformation from mayor to witness—that was the real work. Yes. That's enough."
+
+**Brief mention—Chen parallel**: Elena reflects on Chen's similar journey—eight years trying to coordinate humanity (Years 0-8), authority eroding constantly, learning leadership without power. They took different paths (she stayed, he left for family) but arrived at same understanding: witness is the work. She's grateful for his presence now—two people who bore impossible weight, supporting each other at the end.
 
 **Soso's Dogs**: Brief scene—Elena passes Soso Kim tending the twelve dogs near community center. Mochi (16 years, blind), Scout (three legs), Luna (deaf), and nine others. Soso sitting with them, not doing anything, just present. Elena pauses, watches. Soso notices: "Mayor." "Not mayor anymore. Just Elena." "These are the forgotten ones. Couldn't be adopted. But they're here. Being witnessed." Elena understands: that's everyone now. Not achieving, not saving, not building. Just: being witnessed. "Thank you for bringing them." "They lived with us. They should be seen too."
 
@@ -169,9 +187,11 @@ The grief wells up—anticipatory grief she's carried seventeen years. But also:
 
 **The Practice**: Simple instructions. "Notice breath. Notice body. Notice thoughts without clinging. Notice feelings without drowning. This moment. This moment. This moment. Nothing more. Nothing less. This is enough."
 
-**The Students**: Sixty people ranging from children (Kofi, fourteen years, three months) to elders (Elena, seventy-three; Marcus Reyes, sixty-eight, newly returned from Mumbai; Chen, seventy-five; Kowalski, seventy-one). Everyone practicing together. Everyone learning presence. Not for enlightenment. Not for peace. Just: for being here clearly, fully, truly.
+**The Students**: Sixty people ranging from children (Kofi, fourteen years, three months) to elders (Elena, seventy-three; Marcus Reyes, sixty-eight, newly returned from Mumbai; Chen Liwei, sixty-seven, former UN Secretary General; Kowalski, seventy-one). Everyone practicing together. Everyone learning presence. Not for enlightenment. Not for peace. Just: for being here clearly, fully, truly.
 
-In the room: **Chen and Kowalski**—three years of formal practice with Kenji (Year 12-15), fifteen years of Thursday ritual (Years 0-15), lifelong friends now. They sit together always. Both assist with teaching—Chen offers wisdom about maintenance as meditation, Kowalski about duty without certainty. Natural elders in the practice community. When young people struggle, Chen and Kowalski model: presence doesn't require perfection, just persistence. "We showed up to morning briefings fifteen years," Kowalski tells a teenager. "Still don't know if it mattered. But we showed up. That's the practice."
+In the room: **Chen Liwei**—attending since arriving Antarctica Year 15 Month 1, two months of practice with Kenji (recognizing Wei's teaching lineage), brings perspective of global witness to local practice. His grandchildren (15, 16, 17) also attend—sitting with Maya, Kofi, other youth. Chen watches them practice together, multi-generational learning.
+
+**Kowalski** (seventy-one)—longtime attendee, steady presence, embodies duty without certainty. They sit together always. Both assist with teaching—Chen offers wisdom about maintenance as meditation, Kowalski about duty without certainty. Natural elders in the practice community. When young people struggle, Chen and Kowalski model: presence doesn't require perfection, just persistence. "We showed up to morning briefings fifteen years," Kowalski tells a teenager. "Still don't know if it mattered. But we showed up. That's the practice."
 
 Also present: Min-seo (elderly Korean, cancer diagnosis two months ago), Derek (former Marine, quiet presence), Samir (Deaf Syrian, teaching presence through visual attention), Fatima (Jordanian host who invited Ibrahim to community), Linnea (Swedish biologist, two years into recovery from addiction), Adaeze and twelve-year-old Chioma (mother-daughter who first sought Wei Year 9, now regular students), Priya Patel (forty-four, widow who still carries rage and practices anyway, bringing her daughter Aanya while her son Dev refuses to attend), **Soso Kim** (fifty, Dog Adoption Center administrator, six years of practice, now guides caretaking-as-presence at her center), **Barak Naveh** (forty-eight, newly freed from prison Year 13 M9, sits quietly in back, listens more than speaks, creates grounded presence that helps others be honest), young adults like Thabo (fourteen, brilliant and questioning), parents holding crying children, veterans with visible wounds, elders with invisible ones. Sixty stories. Sixty reasons for being here. Sixty people learning to die awake.
 

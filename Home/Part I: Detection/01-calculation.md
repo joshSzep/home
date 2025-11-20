@@ -141,11 +141,11 @@ Her comm system lit up. Incoming calls. Fifteen. Twenty. Thirty. Everyone with c
 
 She answered the first call. UN Emergency Coordinator, face grainy on the small screen. "Dr. Okafor, we've received your alert. Please confirm the data."
 
-"The chair of the IAU Working Group for Small Body Nomenclature cleared his throat from the screen. "Dr. Okonkwo, for the record, please provide the formal designation and classification."
+Behind him, she could see others moving urgently—one face she recognized: Secretary General Chen Liwei himself, watching from the edge of the screen. The man who would have to tell the world.
 
 "Confirmed," Amara said. Her voice sounded strange to her own ears. Flat. Clinical. Professional. "Object designated 3025-AZ1. Mass one point five times ten to the fifteenth kilograms. Diameter ten to fifteen kilometers. Impact probability ninety-nine point nine seven percent. Time to impact fifteen years, two months, fourteen days."
 
-Someone was crying. She couldn't tell who."
+Someone was crying. She couldn't tell who. Chen had moved closer, listening intently.
 
 "Are you certain?" The coordinator's face was pale.
 
@@ -159,7 +159,7 @@ Someone was crying. She couldn't tell who."
 
 Amara looked at the list of failed scenarios on her screen. "No. The object is too massive, too fast, and we have insufficient time. Every deflection scenario fails."
 
-The coordinator's face seemed to age a decade in real-time. "I see. Thank you, Dr. Okafor. Stand by for further instructions."
+The coordinator's face seemed to age a decade in real-time. Chen's expression behind him was unreadable—the diplomatic mask of a man absorbing catastrophe. "I see. Thank you, Dr. Okafor. Stand by for further instructions."
 
 The call ended.
 

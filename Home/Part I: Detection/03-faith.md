@@ -68,7 +68,7 @@ The prayer dissolved. Forty fighters looking at each other, confused. In three y
 
 They moved quickly, abandoning their prayer mats. The evening light was fading to dusk. The camp sprawled across the hillside—a hundred and fifty fighters total, mix of tents and prefab structures. Jerusalem visible in the valley below, glowing in the twilight. Holy city. Contested city. Their city to defend.
 
-The command tent was designed for thirty. A hundred and fifty fighters packed inside, standing shoulder to shoulder. The air was close and tense. Someone had pulled up a screen—UN broadcast, paused on the face of Secretary General Chen.
+The command tent was designed for thirty. A hundred and fifty fighters packed inside, standing shoulder to shoulder. The air was close and tense. Someone had pulled up a screen—UN broadcast, paused on the face of Secretary General Chen Liwei.
 
 "Brothers," the imam said, moving to stand beside the screen. "The Commander has received news. Significant news. We will watch together and pray together. Whatever comes, we face it with faith."
 
@@ -76,7 +76,7 @@ That was concerning. The imam's face was composed, but Ibrahim could see tension
 
 Hassan activated the broadcast.
 
-Ibrahim watched as Secretary General Chen explained: Near-Earth object detected. Collision course. Ninety-nine point nine seven percent impact probability. Fifteen years. Deflection impossible. Extinction inevitable. The screen showed a new calendar notation—Year 0—as if time itself had been reset to count down toward oblivion.
+Ibrahim watched as Secretary General Chen explained—a Chinese diplomat, career bridge-builder, chosen to lead the UN three years ago for his patient negotiation. Now chosen by fate to announce extinction. Near-Earth object detected. Collision course. Ninety-nine point nine seven percent impact probability. Fifteen years. Deflection impossible. Extinction inevitable. The screen showed a new calendar notation—Year 0—as if time itself had been reset to count down toward oblivion.
 
 The tent was silent except for the Secretary General's voice. A hundred and fifty men listening to the calm explanation of the end of everything.
 

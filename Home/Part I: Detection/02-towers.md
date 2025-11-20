@@ -30,9 +30,9 @@ Her tablet chimed. Emergency alert—priority level. Rare. Maybe twice a year, u
 
 Every screen in the apartment lit up simultaneously.
 
-Emergency broadcast override. UN Security Council. The kitchen screen. The living room screen. Her tablet. Kwame's wrist display. Even Maya's toy screen. All showing the same thing: blue emergency banner, UN seal, the face of Secretary General Chen.
+Emergency broadcast override. UN Security Council. The kitchen screen. The living room screen. Her tablet. Kwame's wrist display. Even Maya's toy screen. All showing the same thing: blue emergency banner, UN seal, the face of Secretary General Chen Liwei.
 
-"This is not a drill," the Secretary General said. Her face was composed but pale. "A near-Earth object has been detected on collision course with Earth. International verification is complete. Impact probability is ninety-nine point nine seven percent. Time to impact is fifteen years."
+"This is not a drill," Secretary General Chen said. His face was composed but pale—the face of someone who'd been told an hour ago that he had to tell eight billion people they were dying. "A near-Earth object has been detected on collision course with Earth. International verification is complete. Impact probability is ninety-nine point nine seven percent. Time to impact is fifteen years."
 
 Zara's coffee cup was halfway to her lips. It stopped. Hovered. The words were processing through her mind but not connecting to meaning yet. Near-Earth object. Collision course. Fifteen years.
 
@@ -52,7 +52,7 @@ The coffee cup slipped from Zara's hand. It hit the table, tipped, spilled. Hot 
 
 Seventeen years old. Never eighteen. Never an adult. Never falling in love, getting married, having children. Never anything past seventeen. Just: childhood, adolescence, then nothing. Fifteen years of life left.
 
-"The UN Security Council is coordinating with all member nations," the Secretary General said. "Further information will be provided as it becomes available. We ask for calm. We ask for cooperation. We ask—"
+"The UN Security Council is coordinating with all member nations," Chen continued, his diplomatic training maintaining his composure. "Further information will be provided as it becomes available. We ask for calm. We ask for cooperation. We ask—"
 
 Zara wasn't listening anymore. She was looking at her daughter, watching Maya place the eighth block, watching her accomplish something she couldn't have done yesterday. Growing. Learning. Becoming. All of it temporary now. All of it with an expiration date: fifteen years.
 

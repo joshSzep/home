@@ -92,6 +92,14 @@ Kenji blinks. "My mother?"
 
 The words sting. Kenji has spent six years seeking while his mother just... showed up. Daily. Doing her work. Being present. He'd thought of it as stubbornness. Denial. Not wisdom.
 
+"Another man arrived yesterday," Wei says. "Chen Liwei. Former UN Secretary General. Eight years trying to coordinate humanity. Nations ignored him. Authority eroded. He thought he failed." She pauses. "He didn't fail. He witnessed. Your mother witnesses Antarctica. Chen witnessed humanity. Both necessary. Both choosing presence when power disappeared."
+
+"The Secretary General is here?" Kenji didn't expect that. The voice from the Year 0 broadcast. The face everyone saw when the world learned it was ending.
+
+"Not Secretary General anymore. Just Chen. Resigned two weeks ago. Came to be with his family. His wife has been here six years while he stayed in Geneva doing work that mattered to no one." Wei's look is pointed. "Sound familiar?"
+
+It does. Kenji realizes: he's been doing the same thing. Seeking instead of being present. Running instead of staying. Work that matters to no one, including himself.
+
 "You've been traveling," Wei continues. "Tokyo. Cairo. Mumbai. Now here. Looking for answer."
 
 "How did you—"

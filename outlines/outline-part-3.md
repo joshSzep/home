@@ -66,6 +66,8 @@ Reconnection. Teaching. Healing. Awakening. The scattered begin to gather. The b
 
 **Six Years of Searching**: Flashback montage—Buddhist monasteries, Stoic communities, Existentialist cafes, secular philosophy groups. Tokyo, Mumbai, Cairo. Met hundreds of seekers. Heard thousands of answers. Intellectual understanding abundant. Emotional integration: zero.
 
+**Note**: Chen Liwei (60) has just resigned as UN Secretary General (served Years -3 to 8) and moved to Lagos to reunite with wife Mei and family. Eight years of choosing duty over family. Now: choosing presence. Different timing than Kenji but parallel journeys—both arriving in Lagos Year 8, both seeking transformation.
+
 **Exhaustion**: Kenji is tired. Thirty years old. Spent ages 23-30 traveling. Learned everything. Integrated nothing. Beginning to think: maybe there's no answer. Maybe seeking is pointless. Maybe he should just... stop.
 
 **The Garden**: Walking Lagos District, lost, considering booking transport home (giving up). Passes small apartment building. Sees balcony garden—extraordinary beautiful. Flowers blooming despite autumn. Someone tending them slowly.
@@ -77,6 +79,8 @@ Reconnection. Teaching. Healing. Awakening. The scattered begin to gather. The b
 **The Garden Conversation**: Kenji waters plants while Wei supervises. She doesn't teach directly. Just: comments. "This flower bloomed yesterday. Tomorrow, gone. But today—beautiful." "You see lemon tree? Fifty years old. Traveled with me from Beijing. Will die when I die. Maybe before. Maybe after. Doesn't matter—still gives fruit."
 
 **The Question**: Kenji finally asks: "How do you live knowing everything ends?" Wei: "Everything always ended. Asteroid just makes it visible. But visibility is gift—now you know your time is short. Can stop wasting it seeking answers and start living presence."
+
+**Brief mention**: Wei notes another recent arrival—Chen Liwei, former UN Secretary General, now living nearby with his family. "Eight years he tried to lead world. Now learning to be grandfather. Same lesson you're learning—power matters less than presence."
 
 **Not Understanding Yet**: Kenji's mind resists. "But what's the POINT if nothing lasts?" Wei: "What's the point of flower? Of fruit? Of morning? They don't last either. Do they have less value?" Kenji: "That's not the same." Wei: "Isn't it?"
 
@@ -183,13 +187,19 @@ Actually—that might be everything.
 
 *"Elena—You asked if witness matters when no one remains to remember. Wrong question. Witness doesn't matter BECAUSE someone remembers. Witness matters BECAUSE it happens. You show up. You document. You say: we existed, we mattered, we tried. That's everything. Not for future. For now. Presence doesn't require permanence. Meaning doesn't require memory.*
 
-*You also asked about mercy versus justice. About the prisoner you refused to pardon eight years ago. I cannot tell you if you were right or wrong—both matter. But I will say: when time is short, compassion often serves better than consequence. Not because justice doesn't matter. Because presence matters more. A man dying guilty in a cell cannot practice presence with his children. You chose principle. Perhaps mercy would have been wiser. But the choosing itself—the weight you carry—that is also practice. That is also presence. Do not punish yourself for choosing what you believed was right."*
+*You also asked about mercy versus justice. About the prisoner you refused to pardon eight years ago. I cannot tell you if you were right or wrong—both matter. But I will say: when time is short, compassion often serves better than consequence. Not because justice doesn't matter. Because presence matters more. A man dying guilty in a cell cannot practice presence with his children. You chose principle. Perhaps mercy would have been wiser. But the choosing itself—the weight you carry—that is also practice. That is also presence. Do not punish yourself for choosing what you believed was right.*
+
+*Chen Liwei arrived in Lagos this month. Same struggle as yours—eight years bearing weight of impossible position, learning authority without power means presence without control. You and he governed at different scales but learned same lesson. Perhaps you should write to each other directly—two leaders discovering witness as purpose."*
 
 **Letter from Reyes**: Also waiting—quarterly letter from Marcus Reyes in Mumbai. Seven years of correspondence now (Year 3 to Year 10). His words different from Wei's—less philosophy, more grounded presence:
 
 *"Elena—Year 10, still teaching children in Mumbai. Still practicing daily. Still grateful for eight years of service beside you. You asked last letter if you've become what you didn't want to be—leader without mandate, witness without audience. I understand the fear. But I watched you transform Year 0 to Year 2. You didn't cling to power. You evolved into what was needed. Your work was complete when I left Year 2. My leaving was right. Your continuing was right. Different callings. Both valid. Five years left. You'll show up all five years. That's your nature. Not failure. Completion. —Marcus"*
 
-**Understanding**: Elena reads both letters again. And again. Something shifts. She's not failing at governance. She's succeeding at witness. Different purpose. Different measure. Not about outcomes (no good outcomes exist). About presence itself.
+**Note from Chen**: Third message waiting—first direct correspondence from Chen Liwei. Brief note:
+
+*"Mayor Torres—Wei suggested we correspond. Eight years I coordinated nothing, convinced no one, led nowhere. Thought I failed. Wei teaches me: I witnessed. You witness Antarctica. I witnessed humanity. Both necessary. Both complete. Perhaps we can support each other—two people who showed up when showing up seemed meaningless. —Chen"*
+
+**Understanding**: Elena reads all three messages again. And again. Something shifts. She's not failing at governance. She's succeeding at witness. Different purpose. Different measure. Not about outcomes (no good outcomes exist). About presence itself. Chen understands this. Reyes understands this. Wei teaches this.
 
 **The Realization**: She's been governing wrong question. "Am I effective?" No. "Am I present?" Yes. That's enough. That's everything. Burden doesn't lighten (still crushing) but changes shape. Becomes sustainable. Becomes choice instead of trap.
 
