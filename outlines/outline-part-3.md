@@ -124,7 +124,7 @@ Reconnection. Teaching. Healing. Awakening. The scattered begin to gather. The b
 
 **The Practice**: Wei doesn't teach philosophy. Teaches action. "Water plants." "Prepare tea." "Sweep floor." "Watch sunset." "Notice breath." Kenji frustrated at first—"This isn't teaching!" Wei: "Exactly. Now you begin learning."
 
-**The Students**: Others visit Wei—neighbors seeking wisdom, young people needing guidance, elders wanting conversation. Kenji watches her with each: never preaching, always present. Meeting people where they are. Reflecting truth back. (Background: Asha Marin sometimes attends—the controversial artist, quiet in these sessions, observing how Wei creates space. Not seeking teaching, seeking understanding of presence versus provocation. Kenji notices her but they don't interact yet.)
+**The Students**: Others visit Wei—neighbors seeking wisdom, young people needing guidance, elders wanting conversation. Kenji watches her with each: never preaching, always present. Meeting people where they are. Reflecting truth back. (Background: Asha Marin sometimes attends—the controversial artist, quiet in these sessions, observing how Wei creates space. Not seeking teaching, seeking understanding of presence versus provocation. Kenji notices her but they don't interact yet. Soso Kim, Dog Adoption Center administrator from Antarctica, mentioned briefly—a volunteer who attends Wei's teachings brings stories of the center becoming community space, people tending dogs not for adoption but for presence.)
 
 **The Moment**: A young mother arrives—similar situation to Zara Year 0. Her daughter is six years old. The asteroid means she'll die at twenty-one. Never have full adult life. The mother is terrified, seeking wisdom, comfort, anything.
 
@@ -250,6 +250,8 @@ David smiles. "See? Even 47B understands."
 
 **Understanding**: They see each other clearly for first time in years. Both chose maintenance. Both chose presence. Now: both choosing connection. David leaving his arrays to be with Amara. Amara accepting that love matters more than work. Different path forward. Same destination.
 
+(Brief mention: As they descend, they pass someone walking toward District 12 Dog Adoption Center. David notes it's always busy now—volunteers coming not to adopt but to sit with dogs, practice presence with life. Even in Antarctica's dark, people finding ways to tend what remains.)
+
 **Sunrise Together**: They sit on platform knowing in three years, David leaves this forever. The arrays will continue. He can let go. Permission granted—by the work, by 47B, by himself. And Amara beside him, choosing family over isolation.
 
 Five years left. Three maintaining arrays. Then: two years together in Lagos with family. That's plan. That's commitment. That's love.
@@ -302,6 +304,8 @@ Ibrahim: "Yes. Kept me showing up."
 Derek: "You looked dead in the water too. Year 7, first pool session. Three laps and ready to quit. Now you swim twenty laps and help with new refugees. That's progress."
 
 Ibrahim hadn't thought about it that way. Three years of swimming (Year 7 Month 10 to Year 10 Month 8). Started because Derek wouldn't stop inviting. Continued because water made the limp irrelevant. Now: teaches others. Shows them that broken bodies can still move. Different competence emerging.
+
+Fatima mentions a volunteer from the dog center joined their community gatherings—talks about tending animals as presence practice, how the center transformed from adoption metrics to being-with-life. Similar to their own transformation: from surviving to practicing presence together.
 
 Derek: "You understood silence. When I couldn't talk about my wars, you didn't make me. Just walked beside me. That mattered."
 
@@ -738,6 +742,8 @@ Sleep comes. Tomorrow: more practice. Eventually: migration. Then: final months.
 Dr. Sarah Kim (46) attends regularly now—two years of practice since Year 12. The former journalist transformed: from documenting others' crises to sitting with her own. From organizing logistics to accepting what can't be organized. She nods at Ibrahim's words—recognizing truth when she hears it, journalist instinct meeting practitioner wisdom.
 
 **The Students**: Young people attend circle. Children born pre-detection, now teenagers. Fifteen years old maximum. All facing death before adulthood. Ibrahim watches them: scared, brave, angry, peaceful, confused, clear. All of it. Real.
+
+Among the regulars: **Soso Kim** (49), District 12 Dog Adoption Center administrator. She's attended since Year 9 (five years now). Sits toward back, still carrying grief for extinct species she never witnessed, but transformed—her grief no longer for what never was, but presence with what remains. Her center has become satellite teaching space (Year 14+). After sessions, she sometimes shares stories: volunteers tending unadoptable dogs not for outcomes but for being-with-life, how caretaking became embodied practice. Ibrahim recognizes kinship—both maintain what won't be saved, both finding meaning in tending.
 
 **Linnea Arrives**: Ibrahim brings someone new—blonde woman, Swedish, rail-thin, thirty-six years old. She sits at the edge, shaking slightly. Ibrahim introduced her quietly: "This is Linnea. She's part of our community. Years 6-14. She's been... struggling. I thought the practice might help."
 

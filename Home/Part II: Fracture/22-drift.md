@@ -62,7 +62,17 @@ The cold hit immediately. Ibrahim pulled his jacket tighter. Antarctic winter me
 
 He had no destination. Never did. Just walked. Same route every day, more or less. Past Building 11. Past the communal garden—dormant now, winter killing everything. Past the transit stop where people waited for trains to somewhere else.
 
-His leg ached with each step. Cane striking pavement. One step. Another. Another. The rhythm was meditative without him meaning it to be. Just: walk, ache, breathe, continue.
+District 12 Dog Adoption Center came into view. Ibrahim had passed it hundreds of times. Never paid attention. But today—something different. Movement in the outdoor runs. Volunteers. Several people sitting with dogs, walking them, just... being there. Not adoptions. Just presence.
+
+He paused. Watched. Elderly woman on a bench, ancient three-legged dog beside her. They sat in comfortable silence. The woman wasn't doing anything. Just sitting. The dog wasn't doing anything. Just existing. But something about the scene felt purposeful. Present.
+
+Through the window, Ibrahim could see the administrator—Korean woman, thirties maybe, checking kennel doors. She moved with practiced efficiency. Same routine he recognized in his own stair-counting. Maintenance as practice. Tending as purpose.
+
+The center was beyond capacity. He could tell from the crowding. Too many dogs, too little space. But the volunteers kept coming. The administrator kept working. Everyone showing up despite futility. Or maybe—not despite. Maybe showing up was the point.
+
+Ibrahim didn't understand it. But watching them, he felt something. Recognition, maybe. Or envy. They had something to tend. Something that needed them. Something that gave structure to the aimless days.
+
+He moved on. His leg ached with each step. Cane striking pavement. One step. Another. Another. The rhythm was meditative without him meaning it to be. Just: walk, ache, breathe, continue.
 
 A small grocery was open on the corner. Ibrahim went inside. Warm air. Fluorescent lights. Automated checkout. Shelves half-stocked but adequate.
 
