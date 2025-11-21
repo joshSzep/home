@@ -228,41 +228,31 @@ She calls them to the table. They gather—five chairs, five place settings, fiv
 
 They eat. The food is extraordinary. Fatima has cooked for hours to create this meal. Real ingredients where possible, synthesized where necessary, skill compensating for limitation.
 
-After several minutes of eating, Fatima raises her glass. "I want to say something. Ibrahim—when you first knocked on Min-seo's door Year 6, asking about mint, you looked dead inside."
+After several minutes of eating, Fatima raises her glass. "I want to say something. We've kept each other alive four years. I don't think we understood what we were doing until now."
 
-Min-seo nods. "I gave you cuttings because you needed something alive to tend. Did it help?"
+Min-seo nods slowly. "Ibrahim, when you first knocked on my door Year 6, asking about mint—I gave you cuttings because you needed something alive to tend. But also: I needed someone to give them to."
 
-"Yes," Ibrahim admits. "Kept me showing up. Something to care for. Small responsibility. Alive thing needing me."
+Derek meets Ibrahim's eyes. "Three laps. That's all you could do Year 7. Now you're helping orient new refugees."
 
-Derek sets down his fork. "You looked dead in the water too. Year 7. First pool session. Three laps and ready to quit. Now you swim twenty-five laps. Tomorrow you're helping orient new refugees. That's progress."
+Ibrahim hadn't thought of it that way. The transformation gradual. Invisible daily. Visible only in accumulation.
 
-Ibrahim hadn't thought of it that way. Three years of swimming—from barely managing to competent to teaching others. The transformation gradual. Invisible daily. Visible in accumulation.
+Samir signs something. Fatima smiles. "He says we all learned to see each other. Different ways. That's what family does."
 
-"You understood silence," Derek continues. "When I couldn't talk about my wars, you didn't make me. Just walked beside me. That mattered."
+The words land quietly. Not grand declarations. Just: recognition. They helped each other without knowing it. Small acts compounding into survival.
 
-Fatima speaks next. "You kept coming to dinners even when faith was gone. That was brave. Most people, they lose faith, they abandon everything. You stayed. Let yourself be part of something."
+"There's someone else," Fatima says quietly. "Linnea. Unit 418. Swedish woman."
 
-Samir signs. Fatima interprets: "You learned to listen without hearing. When we sit together, you watch. Really watch. Most hearing people don't. They wait for sound. You learned presence through silence. That's rare."
+Ibrahim knows her vaguely. Sees her sometimes in the stairwell—blonde, thin, shaking hands. Never speaks.
 
-The words accumulate. Each person naming something Ibrahim did—small things, barely noticed things—that mattered to them. He helped them the way they helped him. Not dramatically. Just: showing up. Being present. Witnessing each other.
+"She's struggling," Derek adds. "Has been for years. We've been trying. Bringing food. Checking in. But it's not enough yet."
 
-"There's someone else," Fatima adds quietly. "Linnea. Unit 418. Swedish woman. You know her?"
+Ibrahim understands that struggle. Lived with it for years.
 
-Ibrahim knows her vaguely. Blonde, thin, shaking hands. Sees her occasionally. Never speaks. "A little."
+"She's part of this," Fatima says. "Even if she doesn't know it yet. The way Ibrahim was part of it before he knew."
 
-"She's been struggling. Badly. Eight years now. We've tried to help—Derek brings food, Min-seo invites her for tea, I stop by her door. Samir checks on her with visual attention, noticing when she disappears for days. But it's not enough. She's—" Fatima pauses, choosing words. "—she's barely surviving. Addiction. Grief. Wanting to die."
+Ibrahim nods slowly. "I'll check on her too."
 
-Ibrahim understands that want. Lived with it for years.
-
-"I don't know if we can help her," Fatima continues. "But we're trying. The way we tried with each other. Showing up. Not giving up. That's what we do."
-
-Derek nods. "She's part of this. Part of us. Even if she doesn't know it yet."
-
-Ibrahim thinks about Linnea. Another refugee. Another broken person. Another survivor who shouldn't have survived. Like him. Like all of them.
-
-"I'll check on her too," he offers. Not knowing if it will help. But willing to try.
-
-"Thank you." Fatima refills their glasses. "To five years left. To chosen family. To showing up."
+"Thank you." Fatima raises her glass. "To five years left. To chosen family. To showing up."
 
 They raise their glasses. The toast is simple but profound. Five years. Chosen family. Showing up. Everything that matters contained in those phrases.
 
@@ -280,9 +270,9 @@ Samir signs his story—Fatima interpreting, though Ibrahim catches some words d
 
 Samir smiles. Signs back: *You learned well. Most people never try.*
 
-The evening extends. They talk until 10 PM. Then 11 PM. Time becomes irrelevant. Five people who found each other accidentally. Who kept each other alive unintentionally. Who now recognize what they built.
+The evening extends. They talk until 10 PM. Stories emerging naturally—not confessions, just sharing. Min-seo's Seoul. Derek's Kandahar. Fatima's Jordan. Samir's Damascus. Ibrahim's Jerusalem. Different wars. Different losses. Same survival.
 
-Finally, reluctantly, they prepare to leave. Ibrahim helps Fatima clean dishes. Min-seo packs leftovers carefully—enough for everyone to take home. Derek and Samir arrange the furniture back to normal. Small tasks done together. Practice of community made visible.
+Finally, reluctantly, they prepare to leave. Ibrahim helps Fatima clean dishes. Min-seo packs leftovers carefully. Derek and Samir arrange furniture. Small tasks done together. Practice of community made visible.
 
 At the door, Fatima hugs each person. When she reaches Ibrahim, she holds on slightly longer. "Thank you for coming. For being here. For being family."
 
@@ -338,58 +328,24 @@ Ibrahim makes tea with Min-seo's mint. The plant on his windowsill is thriving�
 
 He drinks the tea slowly. Tastes it. Really tastes it.
 
-Tomorrow: work on Platform 73. Morning swim with Derek and new refugees. Friday: tea with Min-seo. Saturday: meditation circle. Sunday: whatever needs doing. The weeks repeat. The patterns hold. Five years of this stretching ahead.
+Tomorrow: work on Platform 73. Morning swim with Derek and new refugees. Friday: tea with Min-seo. The weeks repeat. The patterns hold. Five years of this stretching ahead.
 
 Not grand purpose. Not restored faith. Not cosmic meaning.
 
-Just: community. Chosen family. People who show up. People who witness each other's survival. People who keep each other alive through simple presence.
+Just: community. Chosen family. People who show up.
 
-Four years of doing this unknowingly. Now: seeing it clearly. Naming it. Claiming it.
+Four years of doing this unknowingly. Now: seeing it clearly.
 
 Ibrahim finishes his tea. Looks at his prayer beads on the shelf—ninety-nine beads he doesn't use but can't discard. They sit there as reminder: faith mattered once even if it doesn't matter now.
 
-But community matters now. People matter now. Min-seo and Derek and Fatima and Samir—and Linnea, struggling somewhere in Unit 418, not knowing yet that she's part of something.
+But community matters now. Min-seo and Derek and Fatima and Samir—and Linnea, struggling somewhere in Unit 418, not knowing yet that she's part of something.
 
-Five refugees in Antarctic winter. Four years of unintentional connection becoming intentional family. Not dramatic salvation. Quiet solidarity. The kind that happens when broken people keep showing up for each other.
+Five refugees in Antarctic winter. Four years of unintentional connection becoming intentional family.
 
 Ibrahim stands at his window, looking at the buildings that house his people. The lights blazing. The structures standing. The community visible.
 
-Five years left. No certainty what they'll bring. But this—this he has. This is real.
+Five years left. But this—this he has.
 
 Community. Family. Home.
 
-Not neutral anymore. Not alone anymore. Not just surviving anymore.
-
-Connected. Rooted. Here.
-
-That's more than he hoped for Year 6. That's more than he thought possible Year 3.
-
 That's everything.
-
-Ibrahim closes the curtain. Prepares for sleep. Tomorrow he'll wake at 5:45 AM. Fifty-three steps down. Tea with Min-seo. Swim with Derek. Work with David. Helping new refugees discover their bodies can still move. Being present. Showing up.
-
-The routine continues. But different now. Not empty ritual. Not automatic motion. Intentional practice. Conscious choice.
-
-He's not walking through life alone anymore.
-
-He has people. They have him. They have each other.
-
-Five years. Whatever comes. They'll face it together.
-
-That's enough.
-
-Has to be enough.
-
-*Is* enough.
-
-Ibrahim sleeps. Building 12 around him. Min-seo two floors below. Derek within walking distance. Samir across the courtyard. Fatima's light visible through the window. Linnea struggling somewhere above.
-
-Five refugees who found each other.
-
-Chosen family who keeps showing up.
-
-Community built through shared brokenness.
-
-Real. Present. Here.
-
-Everything.
