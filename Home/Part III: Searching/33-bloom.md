@@ -124,6 +124,8 @@ Wei turns to Zara. "You've been practicing eleven years. Since detection. Every 
 
 Zara is crying. "I don't feel ready."
 
+Her chest tightens. An image flashes—Maya at seventeen, standing in this garden, facing the asteroid. Zara can't breathe around it. Can't make it okay. Can't fix it. Just: witness it.
+
 "No one does. Ready doesn't mean unafraid. Means willing to be present despite fear. You are that. You've been that for eleven years."
 
 Wei looks at Amara and David. "You two reconnected. Three years now. Marriage healing. Soon you'll migrate to Lagos together—Year 13. Final two years with family instead of alone. This is wisdom. Choosing connection over work. Choosing presence over purpose. Proud of you both."
@@ -162,7 +164,13 @@ Wei pauses. Breathing carefully. The room completely silent. Everyone holding th
 
 "You'll know Picture Seven when you stop noticing you're practicing. When sitting is just sitting. Walking is just walking. Teaching is just teaching. No meta-awareness. No self-consciousness about being present. Just: here. That might take years. Or might happen suddenly. Doesn't matter. The pictures aren't achievement ladder. They're description of what naturally unfolds through practice."
 
-"Picture Eight," she continues. "Both Ox and Self Forgotten. Empty circle. No boy, no ox, no landscape. Pure presence without subject or object. Cannot describe. Cannot explain. Cannot teach. You'll know it if you reach it. Most don't. I haven't. That's okay. Picture Six is enough. Picture Seven is enough. Eight is possibility, not requirement."
+Wei closes her eyes. Breath laboring. The teaching taking everything.
+
+Maya shifts on the bed. Kofi wipes his face. The room breathes with Wei—everyone synchronized to her rhythm, her pauses, her presence.
+
+Wei opens her eyes. Looks at Kenji once more.
+
+"Picture Eight," she continues quietly. "Both Ox and Self Forgotten. Empty circle. No boy, no ox, no landscape. Pure presence without subject or object. Cannot describe. Cannot explain. Cannot teach. You'll know it if you reach it. Most don't. I haven't. That's okay. Picture Six is enough. Picture Seven is enough. Eight is possibility, not requirement."
 
 Kenji listens. Not trying to grasp. Just: receiving.
 
@@ -185,6 +193,10 @@ She looks at Kenji. "You're already doing this. Teaching in Antarctica now—you
 Kenji can't speak. Just bows. Hands in gassho. Receiving. Honoring. Understanding.
 
 "The teaching is complete," Wei says. "You have everything you need. Teach it. Share it. Help others wake up. For four years. Then everyone dies. But those four years—make them count. Make them presence. Make them home."
+
+She looks at Maya and Kofi. Final words for them.
+
+"Don't rush to be older," Wei says. "Practice being exactly the age you are. Youth is not incomplete. It's complete for its length. Fourteen is whole. Seventeen is whole. However many days you have—they're enough if you're present to them."
 
 ---
 
@@ -252,7 +264,7 @@ Kenji speaks from the other side of the bed. "She gave us everything. The framew
 
 Ling returns, sees what happened, sits down and cries. She's cared for Wei three years. Fed her. Bathed her. Changed her. Loved her. Loss is real even when expected.
 
-The funeral service arrives. Respectful. Quiet. They've been doing this work for eleven years—preparing bodies, handling death, witnessing humanity's grief. Wei's death is unique—natural, peaceful, old. Most deaths they handle are suicides, violence, accidents. This one is almost beautiful by comparison.
+The funeral service arrives. Respectful. Quiet. The smell of antiseptic follows them in—medical soap, disinfectant, the clinical scent of death-work. They've been doing this for eleven years—preparing bodies, handling death, witnessing humanity's grief. Wei's death is unique—natural, peaceful, old. Most deaths they handle are suicides, violence, accidents. This one is almost beautiful by comparison.
 
 ---
 
@@ -320,17 +332,15 @@ The garden is dark. Silent. The lemon tree a shadow against the night sky. Wei's
 
 Zara thinks about Maya's question: "Will we be ready?"
 
-She doesn't know. Wei had 124 years. Zara will have forty-nine. Maya will have seventeen. Kofi will have fourteen. Ready feels impossible. Not enough time to integrate practice. Not enough time to become like Wei—peaceful, present, unafraid.
+She doesn't know. Wei had 124 years. Zara will have forty-nine. Maya will have seventeen. Kofi will have fourteen. Ready feels impossible.
 
 But Wei said something else: "Present—that we can be."
 
-Ready is different from present. Ready means prepared. Present means here. Zara can't prepare for the asteroid. Can't make seventeen years enough for Maya. Can't make death okay. But she can be present. Can practice with her children. Can witness their complete lives fully. Can love them until love ends.
+Ready is different from present. Ready means prepared. Present means here. Zara can't prepare for the asteroid. Can't make seventeen years enough for Maya. But she can be present. Can practice with her children. Can witness their complete lives fully. Can love them until love ends.
 
-That's what Wei taught. That's what the eleven years in this garden meant. Not escape from death. Presence to life. Presence that includes death, encompasses death, isn't defeated by death.
+Zara looks at the lemon tree. In the darkness she can barely see it. But she knows it's there. Knows Wei's ashes feed it now. Knows it will bloom again next season. Four more years of growth before the asteroid.
 
-Zara looks at the lemon tree. In the darkness she can barely see it. But she knows it's there. Knows Wei's ashes feed it now. Knows it will bloom again next season. Knows it has four more years of growth before the asteroid.
-
-Four years. That's quite a lot of time. Enough time for the tree to fruit multiple times. Enough time for new gardenias to bloom. Enough time for presence. For practice. For teaching Maya and Kofi what Wei taught her.
+Four years. Enough time for the tree to fruit multiple times. Enough time for new gardenias to bloom. Enough time for presence. For practice. For teaching Maya and Kofi what Wei taught her.
 
 Not enough time for everything. But enough time for what matters.
 
