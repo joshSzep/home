@@ -799,14 +799,14 @@ Among the regulars: **Soso Kim** (49), District 12 Dog Adoption Center administr
 
 ---
 
-## Chapter 43: Year 14 — Readiness
-**POV: Maya Okafor-Mensah (17 years, 0 months) | Year 14, Month 15 (Year 15, Month 3 technically) | ~4,000 words**
+## Chapter 43: Year 15 — Readiness
+**POV: Maya Okafor-Mensah (16 years, 10 months) | Year 15, Month 1 (Week 1) | ~4,000 words**
 
 **FOURTH MAYA POV - Final Reflection Before Migration**
 
-**Opening**: Lagos compound. One week before family migrates to Antarctica. Maya's seventeenth birthday was two weeks ago (Year -2, Month 9 to Year 15, Month 2 = 17 years, 2 months old now). Two months until she dies. Final reflection on her seventeen years.
+**Opening**: Lagos compound. One week before family migrates to Antarctica (departure Day 14). Maya's seventeenth birthday is six months away (will turn 17 Year 15, Month 7). Five months until she dies (impact Year 15, Month 6, Day 14). Final reflection on her nearly-seventeen years.
 
-**Seventeen Years**: Maya sitting alone in Wei's garden. Her whole life compressed into seventeen years, two months. She makes a list in her mind—not morbid, just honest accounting. What did she experience?
+**Nearly Seventeen Years**: Maya sitting alone in Wei's garden. Her whole life—nearly seventeen years, will die at sixteen years, eleven months. She makes a list in her mind—not morbid, just honest accounting. What did she experience?
 
 **What She Had:**
 - Loving parents who chose her despite doom
@@ -819,11 +819,12 @@ Among the regulars: **Soso Kim** (49), District 12 Dog Adoption Center administr
 - Mathematics—beauty of patterns, elegance of physics
 - Books—especially the butterfly book Wei gave her
 - Gardens—watching flowers bloom and die, learning impermanence directly
-- 2 years, 8 months of formal presence practice (Year 11 Month 8 to Year 15 Month 4)
+- 2 years, 5 months of formal presence practice (Year 11 Month 8 to Year 15 Month 1)
 - The ability to teach—she taught those two girls basic meditation
-- Complete knowledge of her death date (age 17 years, 7 months—five more months from now)
+- Complete knowledge of her death date (age 16 years, 11 months—five more months from now)
 
 **What She Never Had:**
+- Seventeenth birthday (six months away—will never reach it)
 - Eighteenth birthday
 - University
 - Career
@@ -835,19 +836,19 @@ Among the regulars: **Soso Kim** (49), District 12 Dog Adoption Center administr
 - Independence from parents
 - Time to become whoever she might have been
 
-**The Grief**: It hits her fresh today. She'll never know who adult Maya would have been. What she'd choose. Where she'd go. Who she'd love. All the possible Mayas—erased. Only this seventeen-year-old version exists. Brief. Incomplete. Final.
+**The Grief**: It hits her fresh today. She'll never know who adult Maya would have been. She won't even reach seventeen. Will die at sixteen years, eleven months. All the possible Mayas—erased. Only this nearly-seventeen-year-old version exists. Brief. Incomplete. Final.
 
-**The Rage**: For the first time in months, Maya feels anger. Not at her parents (they gave her life, brief as it is). Not at the universe (the asteroid is just physics). But: anger at the unfairness. She did nothing wrong. She practiced presence. She loved openly. She faced death with courage. And still: she dies at seventeen. No reward for goodness. No exception for the young. Just: physics.
+**The Rage**: For the first time in months, Maya feels anger. Not at her parents (they gave her life, brief as it is). Not at the universe (the asteroid is just physics). But: anger at the unfairness. She did nothing wrong. She practiced presence. She loved openly. She faced death with courage. And still: she dies at sixteen, never even reaching seventeen. No reward for goodness. No exception for the young. Just: physics.
 
 **Sitting with Rage**: Maya practices what Kenji taught—presence includes rage. She doesn't have to be peaceful Buddhist practitioner. She can be angry seventeen-year-old dying too soon AND present. Both. She sits in garden, breathes with the rage, lets it be there. It doesn't dissolve. Just: coexists with everything else.
 
 **What Wei Would Say**: Maya imagines Wei (dead now three years, seven months). Wei would say: "Good. Anger is honest. Feel it. Don't drown in it. But don't bypass it with philosophy. You're seventeen. You're dying. Anger is appropriate." Maya smiles—she can still hear Wei's voice. The teaching lives in her.
 
-**Kofi Finds Her**: Her brother (14 years, 2 months) sits beside her. He sees she's been crying. "You okay?" "No. Not okay. Angry." "At what?" "At dying before I get to live." Kofi quiet. Then: "Me too. I'll only be fourteen. You at least get to be seventeen." They sit together—sister and brother, both dying too young, both angry, both present.
+**Kofi Finds Her**: Her brother (13 years, 4 months) sits beside her. He sees she's been crying. "You okay?" "No. Not okay. Angry." "At what?" "At dying before I get to live." Kofi quiet. Then: "Me too. I'll be thirteen. You'll be almost seventeen. Neither of us enough." They sit together—sister and brother, both dying too young, both angry, both present.
 
 **The Realization**: Sitting with Kofi, Maya realizes: the practice didn't fix anything. She's still terrified. Still angry. Still grieving unlived life. But: she's present TO all of it. That's different from numb. Different from hiding. Different from pretending it's okay.
 
-The practice gave her: ability to be with what is. To not look away. To love her brief life while grieving its brevity. To hold paradox—grateful for seventeen years AND enraged they're only seventeen years. Both true.
+The practice gave her: ability to be with what is. To not look away. To love her brief life while grieving its brevity. To hold paradox—grateful for nearly seventeen years AND enraged she won't even reach seventeen. Both true.
 
 **What Readiness Means**: People keep asking if she's ready. Mama, Aunt Amara, compound neighbors. "Are you ready?" She understands now: No. Never ready. But: present. Awake. Willing to face it without looking away. That's not readiness. That's something else. Presence maybe. Courage maybe. Just: not running.
 
@@ -857,17 +858,17 @@ Maya honest: "No. I'm still terrified. But: the practice means I'm terrified AND
 
 The girls understand. Or don't. Either way: transmission happened. Wei→Kenji→Maya→them. Brief chain. Real chain. Enough.
 
-**Final Night in Garden**: Alone again. Maya says goodbye to this place. Every flower. Every stone. Every shadow. This is where she learned to be present. Where Wei taught her. Where she became herself—brief self, young self, aware self. Seventeen years finding out who Maya Okafor-Mensah was. Now: five months to BE that person fully. Then: nothing.
+**Final Night in Garden**: Alone again. Maya says goodbye to this place. Every flower. Every stone. Every shadow. This is where she learned to be present. Where Wei taught her. Where she became herself—brief self, young self, aware self. Nearly seventeen years finding out who Maya Okafor-Mensah was. Now: five months to BE that person fully. Then: nothing.
 
-**The Promise**: Maya makes final vow (updating her first vow from Chapter 34). "I will die at seventeen years, seven months. Two months from now. I will die terrified, grieving, angry at unfairness. AND I will die awake. Present. Loving what I'm losing. Not because it makes death okay. Because it makes life real. For Wei. For those two girls. For Kofi. For Mama and Papa. For myself. I will die well. That's all I can promise."
+**The Promise**: Maya makes final vow (updating her first vow from Chapter 34). "I will die at sixteen years, eleven months. Five months from now. I won't even reach seventeen. I will die terrified, grieving, angry at unfairness. AND I will die awake. Present. Loving what I'm losing. Not because it makes death okay. Because it makes life real. For Wei. For those two girls. For Kofi. For Mama and Papa. For myself. I will die well. That's all I can promise."
 
 **End**: Walking back to apartment. Final week in Lagos. Then: Antarctica. Then: Uncle Kenji's intensive ninety-day teaching (he promised when she arrives). Then: final days. Then: asteroid. Then: nothing.
 
 But tonight: here. Tomorrow: packing. Next week: migration. Being present to each step. Not ready. Never ready. But: present. That's her practice. That's her life. That's enough.
 
-Maya whispers to the night: "Thank you. For seventeen years. Not enough. But: something. Thank you." And means it. Despite everything. Really means it.
+Maya whispers to the night: "Thank you. For nearly seventeen years. Not enough. Won't even be enough to reach seventeen. But: something. Thank you." And means it. Despite everything. Really means it.
 
-**Key beats**: One week before migration • Seventeenth birthday recent (17 years, 2 months old) • Two months until death • Accounting of what she had and never had • The grief for unlived life • Rage emerging (honest anger) • Sitting with rage as practice • Imagining Wei's response • Kofi joining her in anger • Understanding practice didn't fix anything, just enables presence • Redefining readiness (present, not ready) • Final teaching session with two girls • Honesty about still being terrified • Final goodbye to garden • Updated vow—will die awake despite terror • Gratitude despite everything • Not ready but present
+**Key beats**: One week before migration • Almost seventeen (16y 10m), six months until birthday she'll never reach • Five months until death • Accounting of what she had and never had • The grief for unlived life, won't even become seventeen • Rage emerging (honest anger) • Sitting with rage as practice • Imagining Wei's response • Kofi joining her in anger • Understanding practice didn't fix anything, just enables presence • Redefining readiness (present, not ready) • Final teaching session with two girls • Honesty about still being terrified • Final goodbye to garden • Updated vow—will die awake despite terror • Gratitude despite everything • Not ready but present
 
 ---
 
