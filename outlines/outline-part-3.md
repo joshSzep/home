@@ -417,7 +417,9 @@ Not neutral. Connected. That's more than he hoped for Year 6. That's everything.
 
 **The Grief**: Different from other losses. Wei was first person Kenji truly loved in adult life. First person who saw him completely. Taught him everything meaningful. Now: gone. Four years before everyone else dies. But this death: individual. Specific. Real.
 
-**The Teaching Circle**: Wei asked Kenji to continue teaching. He's trying. Twice weekly gatherings in Lagos. Mix of ages, backgrounds. Twenty people usually. Kenji leading presence practice—meditation, gardening, shared meals, discussion. But: feeling fraudulent. Who is he to teach without Wei?
+**The Teaching Circle**: Wei asked Kenji to continue teaching. He's trying. Twice weekly gatherings in Lagos. Mix of ages, backgrounds. Twenty-three people usually. Kenji leading presence practice—meditation, gardening, shared meals, discussion. But: feeling fraudulent. Who is he to teach without Wei?
+
+**Obi Nwosu Present**: Among attendees is Obi (42), former Lagos infrastructure manager. He's been coming two months (since Year 12 Month 1), sits with arms crossed, never speaks, radiates skepticism. Kenji can feel the resistance. It mirrors his own doubt. Unsettling.
 
 **Doubting**: Months 1-4 after Wei's death. Kenji considers stopping. He's not qualified. Wei was wisdom itself. He's just: student who learned some things. Imposter syndrome crushing.
 
@@ -425,9 +427,13 @@ Not neutral. Connected. That's more than he hoped for Year 6. That's everything.
 
 **Reframing**: Kenji realizes: he's not teaching because he has wisdom. Teaching because practicing together matters. Creating space for presence matters. Building community facing doom matters. He doesn't have answers. But: neither does anyone. At least they can not-have-answers together.
 
-**Maya Arrives**: Month 6, a new student walks in. Maya Okafor-Mensah. Nearly fourteen years old. Zara's daughter. Wei's informal student since age two. 
+**Obi Erupts**: Month 3 session. Kenji teaching about presence as response to mortality. Obi finally speaks, calls it "bullshit" and "spiritual bypassing"—argues presence is just surrender for people too tired to rage. Forces Kenji into defensive reaction ("You don't know what you're talking about"). Immediately regrets it. Has to admit uncertainty, admit maybe Obi's right. That honesty cracks something. Obi doesn't leave. His skepticism becomes question instead of attack: "Can doubt practice together be better than doubt alone?" Kenji: "That's all I'm offering."
 
-Kenji knows her—met her at family dinners. But now she's seeking him out independently. Sits in back. Practices with fierce concentration. After session, approaches.
+**Obi Returns**: Month 4, Obi comes back. Sits less defensively. Speaks occasionally—still challenging but constructively. Kenji realizes: Obi's resistance is honest. Most people here want comfort. Obi wants truth. That matters. His engineering mind recognizes patterns Kenji misses. Starts contributing questions that help others voice their own doubts.
+
+**Maya Arrives**: Month 3 (same session as Obi's eruption), a new student walks in. Maya Okafor-Mensah. Nearly fourteen years old. Zara's daughter. Wei's informal student since age two. 
+
+Kenji knows her—met her at family dinners. But now she's seeking him out independently. Sits in back. Practices with fierce concentration. After Obi's challenge and Kenji's messy response, she approaches.
 
 "Uncle Kenji, can I learn from you? Like you learned from Grandmother Wei?"
 
@@ -435,11 +441,15 @@ Kenji surprised: "You called her grandmother?"
 
 "She taught me from when I was little. Mama brought me to the garden. Wei showed me flowers blooming and dying. Taught me impermanence before I knew the word. She died before teaching me everything. You can teach me what she would have taught."
 
+Kenji: "You saw me get defensive today. Mess up. Admit I don't know. That doesn't worry you?"
+
+Maya: "That's why I'm asking you. Wei said struggling teachers are better teachers. You're real. I need real."
+
 **Kenji Sees Wei**: In Maya's eyes. Same sharp intelligence. Same deep consideration. Same hunger for truth. Wei's teaching continuing through generations: Wei → Zara → Maya. And now: Wei → Kenji → Maya. Multiple lines of transmission.
 
 Maya: "I'm thirteen years, eight months old. I'll die at seventeen years, seven months. Less than four years. I want to learn everything I can. Not because it'll save me. Because learning is how I want to spend my time."
 
-**The Doubt Lifts**: Not because Kenji suddenly feels confident. Because there's a specific person needing specific teaching. Maya asking to learn. Wei would have wanted this. Kenji can honor Wei by teaching Maya what Wei taught him.
+**The Doubt Lifts**: Not because Kenji suddenly feels confident. Because there's specific person needing specific teaching. Maya asking to learn. Obi asking to doubt together. Both choosing him despite imperfection. Wei would have wanted this. Kenji can honor Wei by teaching what Wei taught him—including the uncertainty.
 
 Kenji: "I'll teach you everything I know. It won't be enough. But we'll try."
 
@@ -488,7 +498,9 @@ Wei's legacy: not immortality. Transmission. Person to person. Until there are n
 
 **Chen and Kowalski's Arrival**: Both come to first session separately, don't know the other will be there. Chen arrives first, sits in back corner—his habit from twelve years of morning meditation. Then Kowalski enters, scans room, sees Chen. Their eyes meet. Both smile. Kowalski sits beside Chen (of course). After session, they laugh: "Thursday practice now. Makes sense." Kenji recognizes something immediately—these two have been practicing for years without knowing it. They're not beginners. They're elders who just found their sangha.
 
-Among them: Asha Marin (45, recently relocated from global circuit to Antarctica). The controversial extinction-era artist attends occasionally, skeptical but curious. After one session, she asks Kenji directly: "Isn't sitting still while the world ends just another form of passivity?" Kenji: "Is making art while the world ends active or passive?" Asha: "Depends whether you're trying to change something or witness it." "Same with presence." They recognize each other—different methods, same interest in what's real. Also present: Dr. Sarah Kim (44), the former journalist who moderated the Year 2 election debate, now volunteer coordinator. She'd spent ten years organizing logistics—crisis response, resource distribution, practical matters. But Year 12, watching community fracture despite her efforts, she came seeking something deeper than efficiency. Sits quietly, learning presence as antidote to burnout.
+Among them: **Obi Nwosu** (44), former Lagos infrastructure manager. He'd quit Year 10, stayed in Lagos through Year 11 isolated and bitter. Started attending Year 11 Month 10 (one month before Wei died). Been coming fifteen months now (still in Lagos—he won't migrate to Antarctica until Year 14). Still skeptical but no longer silent—asks hard questions, names doubts others hide. After session, approaches Kenji: "I called your teaching bullshit eight months ago. You got defensive, then admitted uncertainty. That honesty—that's why I'm still here. Most teachers pretend to have answers. You admit you don't. That's real." Kenji: "You helped me see I was performing instead of being present. Thank you." Obi nods: "Still not sure this matters. But doubt together beats doubt alone." His engineering mind connects maintenance work across contexts—Lagos water systems, David's arrays, Ibrahim's presence. Gradually becoming valuable voice in Lagos circle.
+
+Also among them: Asha Marin (45, recently relocated from global circuit to Antarctica). The controversial extinction-era artist attends occasionally, skeptical but curious. After one session, she asks Kenji directly: "Isn't sitting still while the world ends just another form of passivity?" Kenji: "Is making art while the world ends active or passive?" Asha: "Depends whether you're trying to change something or witness it." "Same with presence." They recognize each other—different methods, same interest in what's real. Also present: Dr. Sarah Kim (44), the former journalist who moderated the Year 2 election debate, now volunteer coordinator. She'd spent ten years organizing logistics—crisis response, resource distribution, practical matters. But Year 12, watching community fracture despite her efforts, she came seeking something deeper than efficiency. Sits quietly, learning presence as antidote to burnout.
 
 Also attending: Samir Khalil (40), the Deaf Syrian refugee who's been teaching sign language informally since Year 4. He sits near the front, watching Kenji's teaching with complete visual attention. After second session, Samir approaches (signing, Ibrahim interpreting): "This practice—it's what Deaf people already know. Presence through vision. Attention without sound. I can help teach this." Kenji sees immediately: Samir isn't learning presence. He's offering a different modality of it. "Yes. Please. Teach us how you practice." The teaching circle expands—not just one method, but multiple ways of being present.
 
@@ -752,6 +764,8 @@ Sleep comes. Tomorrow: more practice. Eventually: migration. Then: final months.
 **Old Friends Present**: Min-seo still attends—seventy now, frailer, but still growing mint on her balcony. Derek comes sometimes—quiet Marine, aging, still understands Ibrahim's silences. Fatima hosts dinners still—smaller now, but faithful. These three kept Ibrahim alive Years 3-7. Now: they practice presence together. Witnessing each other's survival.
 
 **Elder Practitioners**: Chen (75) and Kowalski (71) sit near the front now—two years of formal practice with Kenji (Year 12-14), but twelve years of informal practice before that (Thursday coffee Years 4-14, morning meditation since Year 5). They've become natural teachers. When Ibrahim offers wisdom to young people, they nod recognition—they learned the same lesson through briefings and infrastructure reports. After Ibrahim speaks, Chen adds quietly: "Maintenance work taught me that. Fix today what breaks today. That's presence. That's complete." Three generations of practice visible: Ibrahim (young teacher, 33), Chen and Kowalski (elders, 75 and 71), teenagers learning.
+
+**Obi Nwosu Present**: Obi (56) sits mid-circle—three years of Lagos practice now (Year 11 Month 10 to Year 14 Month 9). He's transformed from cynic to essential voice. When Ibrahim finishes speaking, Obi adds: "I spent nine years maintaining infrastructure, then quit because it felt pointless. Listening to Ibrahim—I realize I was already doing this practice through maintenance. Just didn't know it." His engineering mind connects David's arrays, Ibrahim's work, his own Lagos water systems—all the same practice. When young people seem skeptical, Obi speaks: "Three years ago I called this bullshit. Still not certain it matters. But I keep showing up." His honesty creates permission for others' doubt.
 
 Dr. Sarah Kim (46) attends regularly now—two years of practice since Year 12. The former journalist transformed: from documenting others' crises to sitting with her own. From organizing logistics to accepting what can't be organized. She nods at Ibrahim's words—recognizing truth when she hears it, journalist instinct meeting practitioner wisdom.
 
