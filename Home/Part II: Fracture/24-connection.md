@@ -353,3 +353,25 @@ She closed her eyes and slept—not well, not deeply, but better than she had in
 Present. Alive. Real.
 
 Waiting for their aunt to finally come home.
+
+---
+
+**END PART II: FRACTURE**
+
+Seven years of isolation completed. Years 1-7 covered. The fracture deepened exactly as predicted. Everyone reached their lowest point. Amara disappeared into calculation and solitude. Kenji wandered continents seeking answers he couldn't integrate. Ibrahim lost faith and purpose. Elena governed emptiness. David maintained arrays alone.
+
+But underneath the fracture: Wei taught in Lagos. Zara built family and community. Practice spread quietly. Seeds planted. Presence maintained despite despair.
+
+Chapter 24 marks the hinge. Amara's call to Zara—first real reconnection after seven years apart. The armor cracking. The isolation becoming unbearable. The movement toward gathering beginning.
+
+Not convergence yet. Just: first crack in seven years of ice.
+
+Part III awaits. Years 8-15. The searching that finds. The scattered gathering. The broken healing. Kenji will find Wei's garden and stay. Amara will visit Lagos. Ibrahim will discover competence through work. David and Amara will reconnect. Elena will understand her role. Maya will awaken to practice. Everyone moving toward Antarctica. Toward family. Toward presence. Toward home.
+
+Eight years remain. The transformation beginning. The reconnection real. The fracture healing.
+
+Not fixed. Just: less alone.
+
+The isolation ending.
+
+The searching begins.

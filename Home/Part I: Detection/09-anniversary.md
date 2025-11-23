@@ -367,3 +367,21 @@ But not yet.
 *That's what remains.*
 
 *How will they spend them?*
+
+---
+
+**END PART I: DETECTION**
+
+One year completed. Eight characters. Eight paths. All diverging. Isolation beginning—will deepen for seven more years before the first crack appears.
+
+Amara chose calculation. Zara chose defiance. Elena chose witness. David chose maintenance. Kenji chose seeking. Ibrahim chose hollowness. Wei chose teaching. Soso chose standards despite absurdity.
+
+None complete yet. All beginning. The fracture just starting.
+
+Part II awaits. Years 1-7. The deepening. The searching without finding. The isolation maximized. Kenji will wander five continents. Ibrahim will be wounded and evacuated. Amara will divorce and disappear completely. Elena will govern emptiness. But Wei will teach in Lagos. Zara will build community. Small seeds planted. Barely visible. Real.
+
+Fourteen years remain. Long enough for everything to change. Long enough for nothing to change. Long enough to lose everything. Long enough to find what matters.
+
+The detection complete.
+
+The fracture begins.
