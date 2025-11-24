@@ -12,7 +12,7 @@ The math comes automatically. Seventeen years, four months old. Three months rem
 
 She'll never be eighteen.
 
-Maya sits up carefully, trying not to wake her brother. The room is dark except for the faint glow from the heating vent—red light pulsing, the building's infrastructure groaning as it fights Antarctic cold. Through the small window she can see lights from other buildings. Two million people gathered here. Everyone who chose to die together, or at least witnessed.
+Maya sits up carefully, trying not to wake her brother. The room is dark except for the faint glow from the heating vent—red light pulsing, the building's infrastructure groaning as it fights Antarctic cold. Through the small window she can see lights from other buildings. Two million people gathered here. Everyone who chose to die together. Or at least to be witnessed.
 
 She climbs down quietly. Kofi doesn't stir. His face is peaceful, mouth slightly open, completely himself even in sleep. In three months that face will be gone. That specific expression—the one that's purely Kofi, purely her brother—will be vaporized alongside everything else.
 
@@ -138,7 +138,7 @@ Maya smiles despite everything. "He wants to plant mint from Wei's garden. In An
 
 "Everything here."
 
-They turn back toward the building. The cold has seeped through Maya's jacket. Her hands are numb. Her face hurts. But she's felt it. Been present to it. Witnessed this moment—midnight, first night in Antarctica, standing with her aunt under brilliant stars, three months from dying.
+They turn back toward the building. The cold has seeped through Maya's jacket. Her hands are numb. Her face hurts. But she's felt it. Been present to it. Witnessed this moment. Midnight in Antarctica. Her aunt beside her under brilliant stars.
 
 At the door, Maya pauses. Looks back at the stars once more.
 
@@ -258,15 +258,13 @@ Maya breathes. Feels the cold air in her lungs. Feels her fear. Feels her intent
 
 She's seventeen years, four months old. She'll die in three months. Before death, she'll practice. She'll learn. She'll transmit what she learns to others. She'll die awake.
 
-That's all she can do. That's everything.
+It isn't enough. It's all there is.
 
 "I'm ready," Maya says.
 
 She's not ready. Will never be ready. But she's here. Present. Choosing.
 
-That's enough.
-
-That's everything.
+It isn't enough. It's all there is.
 
 They enter the community center together. Family. Learning. Practicing. Present.
 
@@ -484,7 +482,7 @@ But right now: beginning.
 
 Night returns.
 
-Maya lies in the top bunk listening to Kofi breathe. First full day in Antarctica complete. Met Uncle Kenji. Started practice. Arranged intensive training. Explored the district with family. Planted mint with Kofi (miracle—Uncle David found soil somewhere, built a small box, helped Kofi plant the cutting from Wei's garden carefully).
+Maya lies in the top bunk listening to Kofi breathe. Another full day in Antarctica complete. Met Uncle Kenji. Started practice. Arranged intensive training. Explored the district with family. Planted mint with Kofi (miracle—Uncle David found soil somewhere, built a small box, helped Kofi plant the cutting from Wei's garden carefully).
 
 Three months begins now.
 
@@ -538,8 +536,6 @@ She thinks of Wei's final words: *The flower bloomed.*
 
 Yes. Maya will bloom. For three more months. Seventeen years, seven months total. Brief. Complete. Here.
 
-The flower is blooming.
-
 Fourteen. In.
 
 Fifteen. Out.
@@ -549,8 +545,4 @@ Sleep takes her gently. Tomorrow waits. Practice continues. Life persists until 
 But tonight: rest. Presence even to that.
 
 Seventeen breaths into sleep. The number of years she'll never exceed. The number she'll be. Exactly. Precisely. Here.
-
-Maya counts seventeen breaths into sleep.
-
-The flower is blooming.
 
