@@ -1,380 +1,287 @@
 # Chapter 48: Moment
 
-**Kenji Torres | Year 15, Month 2 | Antarctica**
+**Kenji Torres | Year 15, Month 1 | Antarctica**
 
 ---
 
-The community center fills before dawn.
+The community center holds sixty people.
 
-Kenji arrives at 5:47 AM—three minutes early, habit from years of practice—and sixty people are already gathering. Cushions arranged in concentric circles. Chairs along the back wall for those who can't sit on the floor. The space holds maybe seventy comfortably. They're approaching capacity.
+Kenji counts them without meaning to—old habit from years of teaching, tracking who shows up, who returns, who stays. Sixty bodies on cushions, chairs, the floor. Sixty stories converging in this prefab building that used to be a storage warehouse. Ages seven to seventy-three. Children to elders. All here because something in them recognized: presence matters. Being awake matters. Even now. Especially now.
 
-He sets down his bag. Removes Wei's bell—the small brass bell she used in Lagos, passed to him when she died. Four years carrying it. Antarctica to Lagos and back. The metal is worn smooth from his hands, from her hands before that. Transmission made physical.
+Three months until everyone in this room dies.
 
-People settle into their spots. Kenji recognizes most faces now—three years teaching here since returning Year 12. Some have attended every session. Some come sporadically. All seeking the same impossible thing: how to be present when presence means witnessing your own extinction.
+Kenji sits at the front, not quite centered—he learned that from Wei. Don't put yourself at the exact center. Sit slightly off, making space. Teaching isn't performance. It's invitation.
 
-His mother enters quietly, takes her usual chair near the back. Seventy-three years old. Still governing though government ended months ago. Still showing up. Elena catches his eye, nods once. Her presence steadies him. Always has.
+"Good morning," he says. Simple greeting. Not trying for profundity. Just: here. Present.
 
-Chen Liwei settles onto a cushion in the second row, moving with the careful deliberation of sixty-seven years. His grandchildren sit nearby. Two months of practice for Chen, years of informal meditation before that. His face carries that quality Kenji recognizes: someone who bore impossible weight, let it go, became lighter without becoming less serious.
+"Good morning," sixty voices respond. Some strong, some tentative, some barely audible. His mother Elena in the third row, seventy-three years old, fifteen years of witnessing complete. Beside her: Marcus Reyes, newly returned from Mumbai after thirteen years away. And Marcus Rivera, the other Marcus, who stayed when Reyes left. Both Marcuses present now. Both chosen family.
 
-Beside Chen: Kowalski. Seventy-one years old, back straight despite age. These two men who governed and secured together for fifteen years. Thursday morning coffee became Monday meditation.
+Chen Liwei sits near them—sixty-seven, former UN Secretary General, two months of practice since arriving Antarctica. His grandchildren scattered among the young people—ages fifteen, sixteen, seventeen. Same ages as the teenagers dying young. Multi-generational learning. Multi-generational ending.
 
-Obi Nwosu sits mid-circle, arms uncrossed today. Fifty-seven years old. Three years, four months of practice now. Kenji remembers his arrival—Year 11, Month 10, barely one month before Wei died. Skeptical. Resistant. Calling the teaching "spiritual bypassing" within weeks. But he stayed. Kept showing up. Transformed doubt into discernment. Now he teaches alongside Kenji occasionally, voices uncertainty others hide. Essential presence.
+Kowalski beside Chen—seventy-one, security chief, practicing fifteen years in one form or another. Steady. Present. Embodying duty without certainty. When Kenji first returned Year 12, Kowalski was already practicing alone, Thursday morning meditations that preceded formal teaching. Now: natural elder in the community.
 
-Ibrahim sits left side near the window—his spot, always. Thirty-four years old. Eight years of stairs and swimming and solar array maintenance. Thirteen years since Jerusalem. Co-teaching for nearly two years now. Last week he spoke to the young people about practicing without faith, about maintenance as meditation. The teenagers listened like he was speaking their language. Maybe he was.
+"We'll begin with sitting practice," Kenji says. "Thirty minutes. Simple instructions. Notice breath. Notice body. Notice thoughts without clinging to them. Notice feelings without drowning in them. This moment. Then this moment. Then this moment. Nothing more. Nothing less. This is enough."
 
-Min-seo, Derek, Samir, Fatima—the refugee community that kept Ibrahim alive. Linnea beside them, two years into recovery. The woman Kenji met at a Lagos party Year 0, both using. Fourteen years later: both practicing.
-
-Dr. Yuki Tanaka near the front—forty-eight years old, pediatrician who transformed outcomes medicine into witness medicine. Priya Patel and her daughter Aanya several rows back—widow still carrying rage, practicing anyway. Soso Kim from the Dog Adoption Center. Barak Naveh sitting quietly, creating grounded presence just by being here. The twelve-year-old Chioma and her mother Adaeze, who first sought Wei Year 9, now regular students.
-
-Marcus Reyes enters, moving carefully. Sixty-eight years old. Returned from Mumbai five weeks ago after thirteen years teaching refugee children there. His Christian contemplative practice weaving naturally into the Buddhist-influenced teaching Kenji offers. Different doors, same house. Both/and instead of either/or.
-
-And Maya.
-
-Seventeen years, three months old. Kenji's niece. Wei's student. His student for three years now. She sits in the front row, spine straight, face composed, carrying that intensity that both inspires and worries him. Three months until she dies at seventeen years, seven months. Ninety days. She knows the math precisely. Has calculated it down to hours.
-
-Kofi beside her—fourteen years, four months old. Learning from his sister, learning from everyone. The youngest regular practitioner. Six months until impact.
-
-Everyone choosing to be here. Sixty people facing extinction together. Not fixing it. Not solving it. Just: being present to it.
-
-Kenji rings the bell.
-
----
-
-The sound settles into silence. Sixty people finding stillness. Or finding chaos and being present to chaos. Both are practice.
-
-"Good morning," Kenji says quietly. "Thank you for being here."
-
-A murmur of response. Greetings. Recognition. Community.
-
-"Today we'll practice together as always. Sitting meditation. Then questions if you have them. Nothing elaborate. Nothing special. Being here." He pauses. "The practice is simple. Notice breath. Notice when mind wanders. Return gently. That's all. No achievement. No destination. Returning. Again and again. Until you can't anymore."
-
-Dark humor. Several people smile—understanding the double meaning. Until the meditation ends. Until consciousness ends. Same instruction for both.
-
-"Those new to practice: count your breaths if it helps. In-breath: one. Out-breath: two. Up to ten, then start over. When you lose count, start again. It's normal to lose count constantly. That's not failure. That's the practice—noticing you lost count, returning to one."
-
-He looks around the circle. Sees the young faces. The old faces. Everyone temporary. Everyone here.
-
-"For everyone: this practice won't make dying easier. Won't make it okay. But it makes this moment clearer. Makes presence possible." He meets Thabo's eyes—fourteen years old, brilliant, questioning everything. "Ready?"
-
-Thabo nods. Not ready to die. Ready to practice. Different question. Better question.
-
-"Thirty minutes," Kenji says. "We'll sit together."
-
-He rings the bell again. The sound fading into silence. Into breath. Into presence.
-
----
+He rings the bell Wei gave him. The sound is clear and complete. Sixty people settle into practice.
 
 Kenji closes his eyes. Returns to breath.
 
-One. In.
+One.
 
-Two. Out.
+Two.
 
-His mind is quiet this morning. Not peaceful—there's fear underneath, always fear with three months left. But steady. Present. He notices breath without analyzing breathing. Notices thoughts without following thoughts. The gap between noticing and naming has narrowed.
+Three.
 
-Three. In.
+His mind wanders immediately—always does. Thinks about the journey that brought him here. Thirty-seven years old. Fifteen years since detection. Left Antarctica Year 1, age twenty-three, desperately seeking answers. Wandered seven years—Tokyo, Cairo, Mumbai, Jerusalem. Seeking, seeking, always seeking. Found Wei in Lagos Year 8, age thirty. Learned to stop seeking. Learned to be present. Studied three years. Wei died Year 11. Continued teaching. Returned to Antarctica Year 12. Teaching three years now.
 
-Four. Out.
+Everything Wei gave him, he's passing forward. Person to person. Until there are no persons left.
 
-He thinks about the teaching. Three years in Antarctica now. Six years before that seeking across the world. Tokyo, Cairo, Mumbai, Lagos. Picture One through Picture Four—seeking, finding traces, glimpsing, catching the ox with tremendous struggle. Then Lagos Year 8, finding Wei's garden. Three years learning through watering plants, making tea, being present to simple tasks. Picture Five: taming the ox. Still effort but cooperation emerging.
+He notices the thought spiral. Returns to breath.
 
-Five. In.
+Four.
 
-Six. Out.
+Five.
 
-He returned to Antarctica Year 12. Started teaching almost immediately. Not because he felt ready. Because people asked. Because his mother said there was space. Because Wei's teaching needed transmitting and he was the one who could do it.
+Around him, sixty people practicing. He can hear them breathing. The slight shifts of bodies on cushions. A child whimpering—parent holding them closer. The community center creaks in Antarctic wind. All of it: presence. All of it: practice.
 
-Picture Six, Wei had said in her final teaching. Riding the ox home. No rope needed. No struggle. Teaching naturally because practice became natural.
+Six.
 
-Seven. In.
+Seven.
 
-Eight. Out.
+His niece Maya sits in the second row. Seventeen years, four months old. Three months until she dies at seventeen years, seven months. She practices with a ferocity he's never seen in anyone. Not desperation—absolute commitment. Her spine straight. Face concentrated. Completely absorbed.
 
-But something's different today. Kenji notices it peripherally—a quality of attention he hasn't felt before. He's sitting, breathing, being present. But there's no effort. No technique. No Kenji-watching-himself-practice. Breathing. Here.
+She'd been studying with him for almost three years now. Started at thirteen, not long after Wei died. That awakening transformed her. Made her old before her years. Made her serious in ways that break his heart.
 
-The ox is gone.
+But also: made her ready. For what? For this. For being present. For dying awake.
 
-The thought arrives without drama. Picture Seven. Teaching so internalized it becomes invisible. The separation between practitioner and practice dissolving.
+Notice. Return.
 
-Nine. In.
+Eight.
 
-Ten. Out.
+Nine.
 
-Is this it? Is this Picture Seven? Kenji almost follows the thought, almost analyzes whether he's achieved something. But the thinking dissolves before it fully forms. Returns to breath naturally.
+Ibrahim is co-teaching now. Former fighter, faithless for thirteen years, recently found something. Not the old faith—something deeper. Direct encounter. He sits beside Kenji at these sessions, offers wisdom from his journey. His presence helps people—especially the broken ones, the doubters, the ones who lost belief and found presence instead.
 
-One. In.
+Ten.
 
-Two. Out.
+Kenji opens his eyes slightly. Looks at the room without really seeing it. Just: awareness. Sixty people breathing together. Community practicing together. Everyone learning to die awake even though awake means scared.
 
-The room breathes with him. Sixty people. Sixty breaths. Separate and not separate. Individual practice and collective practice simultaneously. Both/and.
+His mind quiets. Not achieving stillness—just less noise. The returning, the noticing, the practice working. Not perfect. Never perfect. Just: practice.
 
-He thinks about Maya. Three years teaching her. Watching her transform from awakened thirteen-year-old to fierce seventeen-year-old practitioner. She's ready to teach. Has been teaching already—those two girls, her brother, others he doesn't know about. The transmission continuing through her.
+Fifteen.
 
-Three. In.
+Twenty.
 
-Four. Out.
+Time passes. Breath continues. The practice simple and impossibly difficult. Be here. Notice. Return. It sounds small. It isn't.
 
-Wei taught him. He teaches Maya. Maya will teach others for three months. Then: nothing. The lineage ending with the species. But while it exists: real. Transmission happening person to person until there are no more persons.
+Thirty minutes later, Kenji rings the bell.
 
-That's enough. That has to be enough.
+Sixty people open their eyes. Some look peaceful. Some frustrated. Some crying. All present. All showed up. That matters.
 
-Five. In.
+"How was that?" Kenji asks. Not rhetorical. Genuinely asking.
 
-Six. Out.
+Obi Nwosu speaks from the middle—forty-seven, former Lagos infrastructure manager, three years of practice, still skeptical, still showing up. "Hard. Mind went everywhere. Kept thinking about my daughter." Pause. "She'll be twenty-six when this ends. I kept seeing her face instead of noticing breath."
 
-Something releases in his chest. Not peace. Not enlightenment. Acceptance. Of the three months. Of the teaching. Of his own limitations and capacities both. He's thirty-seven years old. Will die at thirty-seven years, four months. Young by historical standards. Enough time to have learned something. Enough time to transmit it.
+"That's practice," Kenji says. "Noticing what's actually here—including thoughts of people you love. You noticed. You didn't get lost. That's enough."
 
-Brief doesn't mean incomplete.
+Chen Liwei adds quietly: "I counted breaths. Got to forty-three. Then realized counting was avoiding feeling. Stopped counting. Just felt. Fear, mostly. That was harder than counting."
 
-Wei's words. Always Wei's words underneath his own understanding.
+"Yes," Kenji says. "Counting is technique. Feeling is practice. Both useful. Both necessary. Sometimes you need technique to build capacity. Sometimes you need to let technique go and just feel."
 
-Seven. In.
+Kowalski: "Thirty-seven years I showed up to work I wasn't sure mattered. This feels similar. Showing up to practice I'm not sure helps. But I show up anyway. That's what I know how to do."
 
-Eight. Out.
+Several people nod. Recognition. Showing up is the practice. Not achieving. Not fixing. Just: here.
 
-The separation between breathing and being-breathed thins. Breath breathes itself. Awareness witnesses itself. No Kenji directing it. Happening.
+A young voice from the back. Thabo—fourteen years old, born Year 1, never knew pre-detection world. Brilliant, questioning, struggling. Their hand tentatively raised.
 
-Is this Picture Eight?
+"Kenji, can I ask something?"
 
-The question surfaces and dissolves. Can't think about Picture Eight while experiencing Picture Eight. The empty circle. Both ox and self forgotten.
+"Always."
 
-Maybe. Maybe not. Doesn't matter. This breath. This moment. This room full of people practicing together.
+The room goes quiet. Sixty people lean forward. Thabo's voice clear despite trembling: "Does this practice make dying easier?"
 
-Nine. In.
+There it is. Everyone's question. The one they're all carrying. The one Kenji asks himself every morning.
 
-Ten. Out.
+He pauses. Considers lying. Offering comfort. Promising peace. The compassionate answer would be: yes, practice helps, you'll be ready, it gets easier.
 
-The bell will ring soon. Thirty minutes approaching. Then questions. Then conversation. Then everyone returning to their lives for another day, another practice session, another moment of choosing presence over numbing.
+But Wei taught him: honesty over comfort. Truth over consolation. Presence over bypassing.
 
-Three months of this remaining. Ninety days. Then: silence. No more teaching. No more transmission. No more Kenji sitting in this room bearing witness to humanity's final practice.
+"No," Kenji says. The word lands hard in the silence. "Death is hard regardless. This practice doesn't make death easier. It makes life clearer. Makes this moment fuller. Makes presence possible. It won't save anyone. It just lets you actually live the time you have."
 
-But right now: here. Teaching. Being taught. Both simultaneously. The marketplace with gift-bestowing hands. Picture Ten arriving while Picture Eight persists. Not linear progression. Spiral. All pictures present simultaneously depending on what's needed.
+Thabo nods slowly, processing. Their face shows disappointment and recognition both. "Is that enough?"
 
-One. In.
+Kenji meets their eyes. Holds their gaze. This fourteen-year-old child about to die. This brilliant young person asking if clarity is worth it when clarity doesn't prevent pain.
 
-Two. Out.
+"I don't know," Kenji admits. "Ask me in three months."
 
-Kenji returns to counting. The simplest practice. Beginner's practice. The practice he'll teach until teaching ends. Everything Wei gave him, condensed into this: notice breath, notice wandering, return gently.
+Silence. Long silence. Sixty people sitting with the honesty. The refusal to pretend. The acknowledgment that practice doesn't save anyone.
 
-That's all.
+Then: laughter. It starts with Obi—a single bark of surprised recognition. Spreads to Chen, to Kowalski, to Elena. Dark humor. True humor. The laughter of people facing the same impossible question together. Thabo laughs too, tension breaking. They're all in this. All practicing. All learning to die awake even though awake means scared.
 
-That's everything.
+The laughter fades into silence again. But different silence. Lighter. More honest.
+
+Maya hasn't moved. Kenji watches her process his words. Sees something click in her face. Understanding. She won't be ready to die. No one will. But she can be present while dying. That's different. That's possible. That's what she's learning.
+
+"Thank you," Thabo says quietly. "For not lying."
+
+"You're welcome."
 
 ---
 
-The bell rings.
+After practice, people linger. Not rushing out. Staying, talking, being together. Community forming around shared practice, shared questions, shared mortality.
 
-Thirty minutes complete. Sixty people opening eyes, returning from wherever minds go during meditation. Some peaceful. Some frustrated. Some crying. All here. All witnessed.
+Kenji facilitates but doesn't lead. Moves through the room, listening more than speaking. Watching connections form.
 
-Kenji lets the silence settle. Doesn't rush into teaching. Lets the practice hold itself. This is what he's learned—the space after meditation matters as much as the meditation. The returning to ordinary consciousness, seeing what changed and what didn't.
+In one corner, Obi and David Chen are talking—first time they've really spoken. Kenji edges closer, curious.
 
-Finally he speaks. "How was that?"
+"You maintained solar arrays fourteen years?" Obi asks.
 
-Silence. Then a young woman—maybe sixteen—raises her hand. "Hard. My mind went everywhere."
+"Yes," David says. Quiet as always. Present as always. "You?"
 
-"Good. That's honest. Anyone else?"
+"Lagos water treatment. Nine years. Quit Year 10 when I realized everyone dies regardless."
 
-An older man near the back: "Peaceful for once. I don't know why. Just was."
+David nods. No judgment. "I almost quit Year 7. Kept going because: what else? Despair?"
 
-"Thank you for sharing."
+"Exactly." Obi leans forward. "Spent Year 10-11 despairing. Then came here, started practicing. Realized I was already practicing Years 1-10—through maintenance. Just didn't know it."
 
-Others speak. Different experiences. Different struggles. All valid. All practice. Kenji holds space for each voice. Doesn't correct. Doesn't judge. Witnesses.
+David smiles—rare expression for him. "Maintenance is meditation. Every connection checked. Every system tested. That's presence."
 
-When the sharing quiets, Thabo raises his hand. Fourteen years old. Here every week. Always asking the hardest questions.
+"You taught me that without teaching me." Obi's voice carries wonder. "Hearing about your arrays—I realized my Lagos work was sacred. Just didn't see it."
 
-"Kenji, does this practice make dying easier?"
+They sit in silence. Two engineers who maintained impossible systems until systems weren't needed anymore. Both understanding: the work mattered because they showed up. Not outcomes. Process. Presence.
 
-The room goes silent. Everyone leaning forward. This is the question underneath all questions. The reason they're here. The hope they barely admit to themselves.
+Ibrahim joins them briefly. "I maintain arrays now. David taught me." He gestures at both. "You both taught me that systems can still function when they're falling apart. Bodies too. Faith too. All still capable of presence."
 
-Kenji pauses. Feels the weight of sixty people waiting for answer. Considers lying. Offering comfort. But Wei taught honesty. And honesty is all he has to give.
+Three maintenance workers. Different systems. Same practice. Engineering as prayer. Work as witness.
 
-"No," he says simply. "Death is hard regardless. This practice doesn't make death easier. It makes life clearer. Makes this moment fuller. Makes presence possible. That's all. That's everything."
+Kenji watches them connect. Teaching happening naturally. Not through him—through shared experience. Through recognition. This is how transmission works when it's real.
 
-Thabo processes this. Face showing disappointment and relief simultaneously. "Is that enough?"
+In another corner, Barak Naveh sits with three young people struggling. One veteran with visible tremor. One parent whose child won't stop crying. One teenager—Thabo again—wrestling with existential terror.
 
-Kenji meets their eyes. Holds the question. Feels its weight. The inadequacy of any answer. Finally: "I don't know. Ask me in three months."
+Barak doesn't give advice. Just sits. Listens. His presence solid, grounded, calm. When the veteran's hand shakes uncontrollably, Barak places his own hand steady on the table—not touching, just present.
 
-Silence. Then: laughter. Sixty people laughing—dark humor, true humor, the laughter of people facing the same impossible question together. Thabo laughs too, tension breaking. They're all in this. All practicing. All learning to die awake even though awake means scared.
+"My hand shakes too sometimes," Barak says quietly. "After years inside. Body remembers confinement. Presence doesn't fix it. Just holds it."
 
-The laughter settles. Kenji watches it happen. This community. These people. Three years of gathering. Teaching each other. Holding each other. Not fixing anything. Being together while being is possible.
+The veteran nods. The crying child calms. Thabo asks: "How do you sit with fear?"
 
-Maya is watching him. He sees it in his peripheral vision. That intensity. That focus. She's understood something. Heard something in his answer that others didn't.
+"I don't make it go away. I just don't run. That's all. Staying is enough."
 
-Ibrahim speaks from the side. "I want to add—practice doesn't take away fear. I'm terrified. Every day. Thirteen years since I lost faith and I'm still terrified. But I'm terrified AND present. Not numb. Not hiding. Here, feeling everything. That's different from drowning in terror."
+Simple. Grounded. True. People around him settle into their own experience, permission granted to be exactly where they are.
 
-Several young people nod. Recognition. Permission to be scared and practicing simultaneously.
+Kenji moves on. Lets the teaching happen. Watches Obi and David and Ibrahim connecting over maintenance. Watches Barak teaching through stable presence. Different paths. Same understanding. They're all teaching what he teaches, but through their own languages.
 
-Obi adds: "I called this bullshit three years ago. Thought presence was surrender. Now I think—maybe surrender is wiser than fighting. Fighting the asteroid doesn't work. Fighting death doesn't work. But being present to your actual experience? That's possible. That's real."
+Valuable. Real.
 
-Chen speaks for the first time this session. Voice quiet but clear. "I coordinated humanity for eight years. Tried to fix the unfixable. Failed completely. But I showed up. That was my practice before I knew what practice was. Governance as meditation. Witness as purpose. You don't need Buddhism to practice presence. You just need—" He pauses. "You just need to show up. That's all. That's enough."
+Wei's teaching spreading not because he's replicating her exactly, but because the truth she pointed to is discoverable from infinite directions. Maintenance. Steadiness. Presence. Faith and faithlessness both. All of it pointing toward the same thing.
 
-Kowalski: "Thirty-seven years security work. Showed up every morning. Still don't know if it mattered. But I showed up. That's the practice. That's what we're doing here."
+The room gradually empties. People leaving with quiet goodbyes, plans to return, gratitude. Sixty people down to thirty, to twenty, to ten.
 
-The room is charged. Something happening. Not through Kenji's formal teaching. Through community teaching itself. Worker speaking to worker. Broken speaking to broken. Elder speaking to youth. Everyone offering what they have.
+Maya lingers briefly. Catches his eye across the room. She'd asked him yesterday for intensive training—daily sessions, everything he knows, ninety days. He'd agreed. They start tomorrow at six AM.
 
-This is Picture Ten. The marketplace. Gift-bestowing hands. Not solitary enlightenment. Collective presence. Teaching spreading naturally because presence calls to presence.
+She doesn't need to say anything now. Just: acknowledgment. Gratitude in her expression. Then she leaves with her family.
 
-Kenji watches it happen. Feels himself dissolving into it. Not directing anymore. Part of. One practitioner among sixty. The teacher-student distinction thinning. Everyone teaching. Everyone learning. The transmission happening in all directions simultaneously.
+Alone now. Kenji remains in the empty space. Cushions scattered. The smell of sixty people—sweat, breath, humanity. All temporary. All precious.
 
-Is this what Wei meant? The ox forgotten, self forgotten, teaching becoming natural as breathing?
+He starts straightening cushions. Simple task. Meditation through action. Wei taught him this—cleaning as practice, tidying as presence. The work doesn't matter for its outcome. Matters for the doing.
 
-Maybe.
+As he works, something shifts. He notices he's not thinking about tomorrow's session with Maya. Not planning curriculum. Not worrying about qualification. Just: straightening cushions. Completely absorbed.
 
----
+Then he realizes: when Thabo asked if practice makes dying easier, he didn't reach for Wei's words. Didn't reach for doctrine. Didn't reach for the right thing to say. Just the true thing. No teacher, no student. Just the moment answering itself.
 
-After practice, people linger. Talking quietly. Connecting. Being together.
+An empty circle. No performance. No separation between the teaching and the being.
 
-Kenji moves through the room. Not leading anymore. Present. Listening. Witnessing. Several people thank him. He deflects: "Thank Ibrahim. Thank Chen. Thank each other. The teaching isn't mine to give. It belongs to everyone."
+He stands very still. Cushion in hands.
 
-Obi and David Chen would have appreciated this moment. Kenji wishes his first teacher were here to see it. Seven years of partnership. David teaching maintenance as meditation without knowing he was teaching. Now David's in Lagos with Amara. The teaching continuing there. Same practice, different location. Seeds scattered, some taking root.
+Wei had always said she was somewhere around Picture Six or Seven, never beyond. Most people never get past chasing the ox. Somehow, through teaching, through stopping the search, something else arrived. Not an achievement. Just presence without trying.
 
-In one corner, Obi and Chen are talking—first time they've really spoken despite sitting near each other for weeks. Kenji catches fragments: "...maintained water systems nine years..." "...coordinated governments eight years..." "...same work, different scale..." They're recognizing each other. Engineers understanding engineers. Maintenance workers understanding that fixing today what breaks today is complete work regardless of scale.
+Kenji finishes straightening cushions. Doesn't tell anyone about the recognition. Doesn't need to. Whatever this is, it isn't a badge. It's just how he moves now.
 
-Ibrahim joins them. Three maintenance practitioners comparing notes. David would smile at this—his teaching spreading through people who never met him. Transmission beyond direct contact. Practice infecting practice.
+He locks the community center. Walks home through Antarctic evening. Polar summer means sunlight even at eight PM. The city sprawls around him—one point eight million people, all counting down.
 
-Barak Naveh sits with three young people struggling—one veteran with visible tremor, Priya Patel's son Dev (sixteen, first time attending), Thabo wrestling with existential terror. Barak doesn't give advice. Just sits. Listens. When the veteran's hand shakes uncontrollably, Barak places his own hand steady on the floor beside them—not touching, just present. "My body remembers confinement," he says quietly. "Years inside. Presence doesn't fix it. Just holds it." Simple. Grounded. True. The young people settle into their own experience, permission granted to be exactly where they are.
+Tomorrow: the first intensive session with Maya. Ninety mornings. Everything he knows offered in three months. She'll absorb what she can. Let go of the rest. But she'll die awake. Present. Clear.
 
-Kenji watches from distance. Barak teaching what Kenji teaches, but through his own language. Different door. Same house. Valuable. Real.
+That's his gift to her. Wei's gift through him. The transmission continuing.
 
-But Maya waits. Standing slightly apart. Patient but purposeful. She has something to ask. Kenji can see it in her posture. The way she's gathered herself. This is important.
-
-He moves toward her. "Maya."
-
-"Uncle Kenji." Her voice is steady. Certain. "Can we talk? Privately?"
-
-"Of course."
-
-They move to the small side room—storage space converted to meditation room two years ago. Quiet. Private. The sounds of community muffled through the door.
-
-Maya doesn't waste time. "I want to learn everything Wei taught you."
-
-"You've been learning for three years."
-
-"I mean EVERYTHING." The intensity sharpens. "Daily. Intensive. Everything you know. I have three months left. Ninety days. I want to spend them learning."
-
-Kenji feels something in his chest. Recognition. Fear. Pride. This is what he did—Year 8, exhausted from seeking, asking Wei to teach him everything. But he'd had years. Maya has ninety days.
-
-"That's impossible," he says gently. "Wei taught me over three years. I can't compress—"
-
-"So teach me anyway." Maya's voice doesn't waver. "Not because it's possible. Because it's what I want. Daily sessions. One-on-one. Everything. Please."
-
-Kenji looks at his niece. Seventeen years, three months old. Knows exactly how much time she has left. Wants to spend it learning presence, learning wisdom, learning how to die well. Not morbid. Intentional. Fierce. Beautiful.
-
-Fear surfaces—not of teaching, but of failing her. Of wasting her final ninety days on his inadequate understanding. Wei had decades. He has years. What if it's not enough?
-
-But this is what Wei would have wanted. What Wei would have done if she'd lived to teach Maya directly. The transmission continuing. The final teaching. Grandmother to uncle to niece. Three generations.
-
-"Okay," he says. "We start tomorrow. Every day. One hour minimum. Sometimes more. I'll teach you everything—meditation techniques, presence practice, how to sit with pain, how to witness impermanence, how to face fear, how to die consciously."
-
-Maya's face shows relief and determination together. "Thank you."
-
-"But Maya—" He needs to say this clearly. "You understand? This won't make dying easier. Won't make it okay. You'll still die terrified. You'll still die at seventeen. This just makes the ninety days clearer."
-
-"I know." Her voice is fierce and gentle simultaneously. "But clear is better than numb. Present is better than hiding. I want to be awake until the end. Even if awake means scared."
-
-Kenji feels tears threatening. She understands. Completely. At seventeen. What took him thirty years to learn, she grasps intuitively. What Wei spent seventy years teaching, Maya embodies naturally.
-
-"Wei would be proud of you," he says.
-
-"Then let's honor her. Teach me. Everything. Starting tomorrow."
+Wei → Kenji → Maya. Three generations. Same wisdom.
 
 ---
 
-That evening, Kenji sits in his apartment alone.
+His apartment is small. Functional. One room, shared bathroom down the hall. He's lived here three years—since returning to Antarctica. Before that: Wei's garden in Lagos. Before that: wandering. Before that: the dissertation he never finished, the deflection expertise that became useless.
 
-Small space. Two rooms. Enough for one person. The simplicity he learned from Wei—need less, notice more. His mother's building is visible from his window. Five blocks away. Close enough. Connected.
+Kenji makes tea. Wei's method—precise temperature, careful timing. The making itself is meditation. Not preparation for something else. Complete in itself.
 
-He pulls out his journal. The one he's kept since Tokyo—Year 2, Month 11, when Roshi taught him the ox-herding pictures. Fifteen years of entries. Seeking, failing, seeking more, finding Wei, learning, teaching. All documented.
+He sits at the small table. Drinks the tea. Thinks about Maya.
 
-He writes:
+Seventeen years old. Three months left. Wants to learn everything. Impossible request. Impossible timeline. But they'll try anyway.
 
-*Year 15, Month 2. Three months left.*
+Not because it will work. Because it's what there is to do.
 
-*Today during teaching—something shifted. Not dramatic. Not lightning-strike enlightenment. Just: noticed I was teaching without trying to teach. Sitting without trying to sit. The ox disappeared. Maybe Picture Seven. Maybe just good day. But different.*
+The tea is good. Simple green tea, synthesized but close enough to real. He drinks slowly. Savoring. Not because tomorrow is uncertain—tomorrow is certain. Everyone dies. But because this tea, this moment, this presence—it's here now. Real now.
 
-*More importantly: Maya asked for intensive training. Ninety days. Everything I know. I said yes. How can I refuse? She's ready. More than ready. Has been ready. Just needs transmission. Formal acknowledgment that what she knows, she knows deeply.*
+After tea, Kenji prepares for bed. Brushes teeth. Changes clothes. Simple routines that ground him. Wei taught him this too—sacred in the mundane. Enlightenment in ordinary actions.
 
-*Wei taught me three years. Maya wants ninety days. Impossible to transmit everything. But maybe the point isn't transmitting everything. Maybe the point is bearing witness to her practice. Being present while she completes her journey. She doesn't need me to teach her much. Just needs me to see her. Really see her. Confirm what she already knows.*
+He sits on his meditation cushion—the same cushion Wei gave him Year 9. Worn now. Compressed from six years of practice. But still functional. Still here.
 
-*That I can do.*
+Kenji closes his eyes. Returns to breath.
 
-*Ninety days. Then impact. Then silence. But these ninety days—they'll be full. Complete. Sacred. Maya learning. Me teaching. The transmission continuing until transmission ends.*
+One.
 
-*Wei taught me that completion isn't about duration. If these ninety days are fully present, they're complete. The ending doesn't negate the practice.*
+Two.
 
-*Three months left. For everyone. For teaching. For being here together. Not enough time. Never enough time. But: the time we have.*
+Tomorrow: first intensive session. Six AM. Begin transmitting what can't be taught, only discovered.
 
-He closes the journal. Sits in silence. His apartment quiet except for the perpetual wind outside. Antarctica humming below. One point eight million people. All temporary. All here now.
+Three.
 
-Tomorrow he'll teach Maya. Hour one of ninety. Everything he learned from Wei, passed forward. The ox-herding pictures. The understanding that home was always here. The practice of returning, again and again, until returning ends.
+Four.
 
-He thinks about the moment during meditation. The ox disappearing. The self thinning. Maybe Picture Seven. Maybe Picture Eight briefly. Whatever it was—real. Different. A glimpse of what Wei pointed toward.
+Wei died well. Conscious until the end. Present to her own dying. That's what Kenji wants for Maya. Not peace. Not acceptance. Just: awareness. Presence. Being awake for her final moments even if awake means terrified.
 
-Kenji is somewhere in that space now. Pictures Six through Ten spiraling together. Not linear. Not staged. Unfolding naturally through years of practice. Through showing up. Through teaching what he barely understands but lives anyway.
+Five.
 
-Tomorrow Maya begins her intensive. Ninety days of learning. Then six months of teaching others what she learned. Then: nothing.
+Six.
 
-But nothing comes after something. And the something—these three months of teaching, these years of practice, these moments of presence—matters. Not because it lasts. Because it happened. Because consciousness witnessed itself. Because humans facing extinction chose awareness over numbing.
+He's ready? No. Present? Yes. That's the same answer he gave Thabo. Not ready, but present. Not certain, but here.
 
-That's enough. That has to be enough.
+Seven.
 
----
+Eight.
 
-Before sleep, Kenji sits zazen one final time.
+Teaching presence until he can't. Teaching Maya until she can't learn. Then: physics. Then: silence. But these ninety days—complete.
 
-Cushion on floor. Spine straight. Hands in cosmic mudra. Breath.
+Nine.
 
-One. In.
+Ten.
 
-Two. Out.
+Breath continues. Body breathes. Mind quiets slightly. The apartment silent except for breathing and the distant hum of failing infrastructure—power grid degrading, water systems strained, everything maintained just barely. David's arrays still functioning. Testament to persistence. Everything working just long enough.
 
-The apartment quiet. The city humming. The asteroid approaching—invisible, inevitable, indifferent. Three months. Ninety days. 2,160 hours. Then: silence. Complete silence. All consciousness ending. All teaching stopping. All practice impossible.
+Fifteen.
 
-But right now: this breath. This moment. This practice.
+Twenty.
 
-Three. In.
+Kenji's breath slows. Practice settling him. Not achieving anything. Just: here. Present. Clear.
 
-Four. Out.
+He thinks about the moment in the community center. The recognition. Responding without reaching. Teaching without performing.
 
-He thinks about everyone in that room today. Sixty people choosing presence. Chen and Kowalski showing up despite futility. Obi questioning despite uncertainty. Ibrahim teaching despite having no faith. Barak creating space despite carrying guilt. Soso tending animals despite environmental collapse. All the young people—Thabo, Dev, Aanya, Maya, Kofi—facing death at fourteen, fifteen, sixteen, seventeen.
+Wei would be proud. Not because he achieved something. Because he stopped seeking achievement and found presence instead.
 
-Everyone practicing together. Everyone holding each other. Everyone bearing witness to the impossible.
+Tomorrow begins the ninety days. Maya's intensive training. Her final months spent learning what can't be taught, only discovered. He'll point. She'll look. The transmission will happen or it won't. Either way: complete.
 
-Five. In.
+Thirty.
 
-Six. Out.
+Kenji opens his eyes. The apartment is quiet. Antarctic evening light filtering through the small window. Three months until everyone in this building dies. Three months until the city vaporizes. Three months until consciousness ends and the universe continues without humans to witness it.
 
-This is what the teaching is for. Not individual enlightenment. Collective presence. Being here together. Facing extinction awake instead of asleep. Conscious instead of numb. Present instead of hiding.
+But today—today he taught sixty people. Today Thabo asked the hard question. Today Ibrahim helped. Today community formed. Today presence happened.
 
-That's Picture Ten. The marketplace. Laughing Buddha carrying gifts. Not withdrawing from the world. Entering it fully. Teaching naturally. Offering presence because presence is what you have.
+That's enough. That has to be enough. There's nothing else.
 
-Seven. In.
+Kenji stands. Prepares for bed. Tomorrow: six AM. First intensive session with Maya.
 
-Eight. Out.
+He lies down. Closes his eyes. Breath continues without effort. Body relaxing into sleep. Mind quiet enough.
 
-The ox is gone. The self is thinning. The separation between meditation and life dissolving. Kenji sits but doesn't feel like he's sitting. Breathes but doesn't feel like he's breathing. Witnesses but doesn't feel like he's witnessing. Happening. All of it. Simultaneously.
+The last thought before sleep: *Ninety days. Make them count. Make them presence. Make them home.*
 
-Maybe this is it. Maybe this is what Wei tried to describe. The empty circle. The natural world being itself. The recognition that you never left home because home is presence, and presence is always available.
+Then: darkness. Rest. The preparation for tomorrow's teaching already complete because there is no preparation. Just: showing up. Being present. Transmitting what Wei gave him to Maya who will die at seventeen but will die awake.
 
-Nine. In.
+That's the practice. That's the point. Not immortality. Transmission. Person to person.
 
-Ten. Out.
-
-Tomorrow he teaches Maya. Tomorrow the practice continues until practice ends.
-
-Ninety days. Then: nothing.
-
-But right now: this.
-
-This breath.
-
-This moment.
-
-This practice continuing until it can't.
-
-That's all.
-
-That's everything.
-
-That's complete.
-
+Until the end.
