@@ -61,6 +61,8 @@ Manual calculation. She had to do the math herself, verify the AI's work with he
 
 The math was elegant. Beautiful, even. Orbital mechanics always was—pure physics, no ambiguity, no interpretation. Just Newton and Kepler and Einstein, working in perfect harmony to describe how objects moved through space.
 
+The object's orbit was a long ellipse, currently 2.4 AU out—between Mars and Jupiter—but phase-locked with Earth in a slow gravitational dance. Not a bullet racing toward them. Worse: an appointment. The orbital resonance meant fifteen years of patient circling before the two paths finally intersected at the same place, the same moment.
+
 The object would intercept Earth's orbit in exactly 15 years, 2 months, and 14 days.
 
 Cross-section analysis: direct impact. Not a near-miss. Not a close approach. Direct.
