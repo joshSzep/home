@@ -98,7 +98,9 @@ Zara was crying again, but quieter. Not hysteria now. Just: grief. "Fifteen year
 
 Maya squirmed down from Zara's lap, toddled over to the gardenias. Reached out with small fingers. "Pretty!"
 
-"Gentle," Zara said automatically. Maya touched the bloom carefully, delicately. Wei watched the two-year-old examine the flower with complete focus. That was presence. That was what everyone needed to relearn.
+"Gentle," Zara said automatically. Maya touched the bloom carefully, delicately—her whole attention on the flower, nothing else existing for her in that moment. Wei watched the two-year-old examine the petals with complete focus. No worry about tomorrow. No memory of yesterday. Just: here, now, this flower.
+
+That was presence. That was what adults spent decades trying to relearn. Children had it naturally. Then life taught them to live elsewhere—in fear, in planning, in anywhere but here. Maya would lose this too, eventually. But maybe, if Zara brought her here often enough, some of it would stay.
 
 "Come to my garden every day," Wei said to Zara. "Bring Maya. Watch the flowers bloom and die. Watch the lemon tree fruit and rest. Practice seeing impermanence. Practice being present anyway. Won't make the asteroid disappear. But might make fifteen years richer than most people's eighty."
 

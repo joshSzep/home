@@ -116,6 +116,10 @@ Zara considered this. How did Maya seem? Serious. Calm. Too calm sometimes. Eigh
 
 "Just living," Wei completed. "Children do that naturally. Adults have to relearn it. Maya's practicing presence because that's her nature. When she's older, the fear will come. Then she'll need the practice she's building now."
 
+Zara glanced at her daughter, who was examining a gardenia with complete focus—the same attention she'd brought to flowers since she was two years old. Wei had noticed it even then. "This one sees what's actually there," Wei had said when Maya was barely talking. "Most people stop looking that carefully by age five. Watch her. She might keep it."
+
+At eight, Maya still looked that carefully. Still gave things her full attention. Zara didn't know if that was Wei's teaching or Maya's nature or both. But it meant something. It had to mean something.
+
 "Nine years," Zara whispered. "Maya will be seventeen. Kofi will be fourteen."
 
 "Yes. Not enough time. Never enough time. But right now—" Wei gestured at the children. Kofi crouched by the herb garden, talking to the mint. Maya reading her book in the shade. "Right now, alive. Right now, here. That's all time ever is."

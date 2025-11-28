@@ -72,6 +72,52 @@ Kofi pointed at a butterfly—a swallowtail, black and orange, landing on the ga
 
 Maya returned to reading. Wei watched the children, watched Zara tending vegetables. This was teaching. Not lectures. Just presence.
 
+Later, while Kofi napped on a blanket in the shade and Zara pruned the mint, Maya came back to the bench. She'd finished the butterfly book. Her face was thoughtful—that particular expression Wei had learned to recognize as meaning she was working something out.
+
+"Professor Wei?" Maya's voice was careful. "Can I ask you something?"
+
+"Always."
+
+"Why do you teach us about dying? Mama says most children don't learn this."
+
+Wei considered the question. Seven years old and already asking the real questions. This one had depth. "Do you want me to stop?"
+
+"No." Maya shook her head firmly. "I want to understand. But I want to know why you think it matters."
+
+Wei smiled. Children were honest. Adults wrapped their questions in politeness. Maya just asked.
+
+"Let me tell you a story," Wei said. "About a prince named Siddhartha, a very long time ago. His father kept him in a beautiful palace, protected from everything difficult. Beautiful gardens. Perfect life. Never saw sickness, or old age, or death. Completely sheltered."
+
+"Why?" Maya's eyes were intent.
+
+"His father wanted him happy. Thought if Siddhartha never saw suffering, he'd never suffer." Wei shook her head. "But you can't be awake while sheltered from truth."
+
+"What happened?"
+
+"He left the palace. Saw four sights. First: a sick person. Second: an old person. Third: a dead body. Fourth: a wandering seeker—someone who'd given up everything to find truth." Wei paused. "Those four sights changed everything."
+
+"Why?" Maya repeated.
+
+"Because he saw what his father had been hiding. Everyone gets sick. Everyone gets old. Everyone dies. The truth everyone pretends isn't real." Wei touched Maya's shoulder lightly. "Seeing it—really seeing it, not just knowing about it—that awakened him. He couldn't go back to pretending once he'd seen."
+
+Maya was quiet for a long moment. Processing. Wei waited.
+
+"But I already know everyone dies," Maya said finally. "The asteroid. Mama told me."
+
+"Yes. You know it." Wei nodded. "But knowing and seeing aren't the same. Knowing is here." She tapped her head. "Seeing is here." She touched her heart. "Someday, you'll understand the difference. When you see something that makes the knowing become real. That's when practice starts mattering."
+
+Maya's face was serious. "When will that happen?"
+
+"I don't know. Different for everyone. Maybe not until you're much older." Wei smiled. "But when it happens, remember this story. Remember that the prince became the Buddha because he saw truth and didn't look away."
+
+Maya nodded slowly. Filed it away. Wei could see her storing it—the way children stored important things, not always understanding but keeping them safe for later.
+
+"Can I water the lemon tree?" Maya asked.
+
+"Please."
+
+Maya took the watering can—too heavy, but she managed—and carefully watered the tree. Complete focus. Present to the task. Wei watched her and thought: this one will remember. When the time comes, she'll remember.
+
 ---
 
 After the family left—promising to return tomorrow, as always—Wei wheeled herself inside. Her apartment was small, carefully organized for wheelchair access. Zara had helped with that too, understanding before Wei asked that mobility was failing.

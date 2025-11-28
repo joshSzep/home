@@ -71,6 +71,13 @@ This document tracks the revision pass following the editorial letter. The goal 
 | 23 - Arrays | David | Major compression: cut repetitive "enough/almost enough" ending (~100 lines cut), showed through physical work not abstract thought |
 | 31 - Sunrise | David | Light compression of ending, kept strong 47B emotional core |
 
+**Maya Early Seeding — COMPLETE:**
+| Chapter | Age | Seed Planted |
+|---------|-----|--------------|
+| 5 - Garden | 2 | Emphasized her natural presence/attention with flowers; Wei observes "children have it naturally, then life teaches them to live elsewhere" |
+| 18 - Teaching | 7 | **BUDDHA'S FOUR SIGHTS STORY** planted here (referenced in Ch 34 awakening); Wei tells Maya about Siddhartha, explains difference between "knowing" and "seeing" death; Maya files it away for later |
+| 20 - Community | 8 | Added Wei's early observation: "This one sees what's actually there. Most people stop looking that carefully by age five. Watch her." Connects to her capacity for presence |
+
 **Pattern Fixes Applied:**
 - Broke "Short sentence. Another. Emotional beat." overuse
 - Cut repetitive philosophical conclusions
