@@ -108,27 +108,17 @@ David walked the familiar route. Building seventeen, apartment 4C. Key card. Ele
 
 The apartment was dark.
 
-Of course it was dark. Amara was at the monitoring station. Always at the monitoring station. David turned on one light—kitchen, not bedroom. Made more tea, even though he'd had four cups already. Sat at the small table and looked at nothing.
+Of course it was dark. Amara was at the monitoring station. David turned on one light—kitchen, not bedroom. Made more tea, even though he'd had four cups already. The kettle was his. Her coffee maker sat on the counter, unplugged, dust on the reservoir. Hadn't been used in months.
 
-When did this happen?
+Her jacket wasn't on its hook. Her tablet wasn't on the charging pad. The apartment felt less like a home and more like a hotel room—functional, clean, occupied by someone who was almost never there.
 
-The thought arrived unbidden. When did we stop being married?
+David sat at the small table with his tea and looked at nothing.
 
-Not officially. They hadn't discussed separation, divorce, ending it. Just: stopped. Stopped talking beyond logistics. Stopped eating together. Stopped sleeping in the same bed—Amara on the couch when she came home, if she came home. Stopped touching. Stopped asking how the other's day went. Stopped caring.
+They hadn't talked about it. Hadn't officially ended anything. Just: stopped. She slept at the station now more often than not. They communicated in fragments—"Working late" and "OK" and nothing else. When was the last time they'd eaten together? Last month? The month before?
 
-When?
+He should talk to her. Should say something. *This isn't working* or *I miss you* or *we have twelve years left, what are we doing?*
 
-David tried to remember. Traced back. Year three, definitely distant. Year two, getting worse. Year one, after detection—that's when it broke. Amara retreating into data. David retreating into maintenance. Both of them choosing work over connection, choosing numbness over feeling, choosing isolation over the vulnerability of being together when everything was ending.
-
-He should talk to her. Should say: this isn't working. Should say: I miss you. Should say: we have twelve years left, let's not spend them as strangers.
-
-He didn't say anything.
-
-Because what would change? She'd still choose data. He'd still choose maintenance. They'd still be two people who used to love each other, now sharing space out of inertia.
-
-Easier not to talk about it. Easier to let it continue. Easier to maintain the fiction that they were still married, still partners, still something more than roommates waiting for the end.
-
-David drank his tea. Looked at the dark apartment. Listened to the silence.
+His tea was cold. His shoulders were tight. He hadn't said any of those things in three years. Wasn't going to start tonight.
 
 A memory surfaced, unbidden: Year minus fourteen. Solar energy conference in Singapore. He'd been presenting on tracker optimization algorithms—dry technical stuff, audience of twelve. Amara was there for the astrophysics panel. They'd ended up at the same networking reception, same table, same bottle of wine.
 
@@ -184,49 +174,15 @@ Platform seventy-three. 6:47 AM. Three minutes early.
 
 "Good morning, Colleague Chen. Platform eight requires recalibration. Connection housing integrity at eighty-one percent."
 
-David smiled. Same greeting. Same reliability. Same comfortable partnership with a machine that never judged, never left, never asked for more than he could give.
+David clipped his harness. Breathed the thin, cold air. Felt the familiar creak of metal under his boots.
 
 "Let's take a look."
 
-They moved across the platform together. The work began. Platform eight, connection housing. He'd done this repair forty-seven times.
+They moved across the platform together. The sun was rising. The arrays were warming. The work was waiting.
 
-Forty-eighth now.
+Eleven years, four months left.
 
-The motion was automatic. Extraction tool, seal removal, housing inspection, moisture cleaning, new seals, reassembly, diagnostic check. Green across the board. Good for another six months.
+David didn't think about it. Thinking didn't help.
 
-"Repair complete," 47B announced.
-
-"Good work."
-
-*Beep beep.*
-
-They moved to the next repair. And the next. And the next. The morning passed. Lunch on platform seventy-three. Afternoon inspections. Break room tea. Technical manuals. Home at 8:45 PM. Dark apartment. Tea. Bed. Sleep.
-
-Repeat.
-
-This was maintenance. This was David's life. This was how he spent Year three of humanity's countdown: showing up, fixing things that would break again, maintaining systems that would end anyway, partnering with a robot because robots didn't leave.
-
-Was it enough?
-
-He didn't ask.
-
-Twelve years, four months left.
-
-He'd spend them maintaining. Because that's what he did. Because work was better than feeling. Because routine was better than chaos. Because showing up was better than giving up.
-
-Even if it meant spending those years alone.
-
-Even if it meant his marriage was already over.
-
-Even if it meant maintaining the fiction along with the solar arrays—keeping both running through repetition and denial and the simple act of showing up every morning at 6:47 AM.
-
-Platform seventy-three.
-
-*Beep beep.*
-
-"Good morning, Colleague Chen."
-
-Good morning, 47B.
-
-Let's get to work.
+He got to work.
 
