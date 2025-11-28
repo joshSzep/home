@@ -4,11 +4,11 @@
 
 ---
 
-The contractions came in waves—building, cresting, receding. Zara breathed through them the way the pre-recorded instructor had taught her, focusing on the count. In, two, three, four. Out, two, three, four. Between contractions, she stared at the delivery room ceiling, noting its clinical blankness. Someone had removed the calming nature images that used to be standard. Why pretend at serenity when everyone was dying?
+The contractions came in waves—building, cresting, receding. Zara breathed through them, focusing on the count. In, two, three, four. Out, two, three, four. The delivery room smelled of antiseptic and the faint sweetness of synth-fruit from someone's breakfast down the hall. Between contractions, she stared at the ceiling—clinical blank white where calming nature images used to be. Someone had removed them. Why pretend at serenity?
 
-"You're doing great," Kwame said beside her, his hand warm in hers. His voice was steady, but she could feel his palm sweating.
+"You're doing great." Kwame's hand was warm and sweating in hers.
 
-The delivery ward was half-empty. Through the observation window, Zara could see three other rooms occupied out of sixteen. Two years ago, all sixteen would have been full, with a waiting list. Now: the maternity staff had been reduced to a skeleton crew of three nurses and one doctor covering the entire floor. Automation handled the monitoring—sensors tracking her vitals, the baby's heartbeat, contraction intervals. The machines didn't judge. The humans did.
+Through the observation window, three rooms occupied out of sixteen. Two years ago, all sixteen full with a waiting list. Now: skeleton crew. One doctor, three nurses. The monitoring machines hummed their quiet assessments—her vitals, the baby's heartbeat, contraction intervals. Machines didn't judge. The humans did.
 
 Another contraction. Worse this time. Zara squeezed Kwame's hand hard enough that he gasped. "Sorry," she managed.
 
@@ -28,23 +28,19 @@ The messages had started the moment she announced the pregnancy six months ago. 
 
 Zara had thought about it. Had thought about nothing else for months before they'd made the decision. The question Kwame had asked that first night, sitting on their balcony while the world processed its extinction: *Should we have another child?*
 
-They'd talked for hours. Days. Weeks. The arguments against were obvious, numerous, compelling. Fourteen years of life instead of eighty. Fourteen years of knowing the end was coming. The cruelty of consciousness given and then taken. The selfishness of creating life for their own comfort. The burden on Maya of having a sibling in the apocalypse.
+They'd talked for hours. Days. Weeks. The arguments against were obvious—fourteen years instead of eighty, the cruelty of consciousness given and taken, the burden on Maya.
 
-But Wei's words kept returning to Zara: *Was Maya not always going to die? Was her life not always temporary?*
+But Wei's words kept returning: *Was Maya not always going to die? Was her life not always temporary?*
 
-Everything was temporary. That had always been true. The asteroid just made it visible.
-
-Fourteen years of consciousness was more than infinite non-existence. Fourteen years of love, of experience, of mattering. Brief didn't mean meaningless. Wei taught her that in the garden, watching flowers bloom and fall, watching the lemon tree fruit and rest. Impermanence and beauty weren't opposites. They were partners.
+The asteroid just made it visible. That's what Zara kept coming back to. Everything was always ending. Now everyone knew.
 
 Another contraction. The worst yet. Zara cried out despite herself.
 
 "Almost there," Kwame repeated, his own face pale. "You're so strong. Almost there."
 
-Dr. Okonkwo arrived—mid-fifties, steady hands, eyes that had delivered thousands of babies and now delivered almost none. She checked Zara's progress with practiced efficiency. "Ten centimeters. Ready to push."
+Dr. Okonkwo arrived—mid-fifties, steady hands. She checked Zara's progress with practiced efficiency. "Ten centimeters. Ready to push."
 
-Ready. Zara wasn't sure about ready. Ready to bring a child into a world with an expiration date? Ready to love someone completely while knowing exactly when she'd lose him? Ready to watch her son grow up under a countdown?
-
-But ready or not, he was coming.
+Zara gripped the bed rails. Her body knew what to do even if her mind was still arguing with itself.
 
 "Next contraction, I want you to push," Dr. Okonkwo said. "Big push. Channel everything into it."
 
@@ -56,15 +52,13 @@ Push. Breathe. Push. The room narrowed to just this—the effort, the pain, the 
 
 "I can see the head! One more big push!"
 
-Zara pushed with everything she had. Felt something shift, release, complete. Then: a sound. A cry. Thin and indignant and absolutely, perfectly alive.
+Zara pushed with everything she had. Felt something shift, release, complete. Then: a sound. A cry. Thin and indignant and absolutely alive.
 
-"It's a boy," Dr. Okonkwo said, but Zara already knew. Had known for months. Had chosen his name months ago. "Healthy. Perfect."
+"It's a boy. Healthy. Perfect."
 
-Perfect. Doomed. Both true.
+They placed him on her chest—wet, warm, squirming, lighter than she'd expected. His skin was slick against hers. He smelled like iron and salt and something underneath that was just *him*. Kofi Okafor-Mensah. Six pounds, four ounces. Eyes squeezed shut, mouth open in protest.
 
-They placed him on her chest—wet, warm, squirming. Kofi Okafor-Mensah. Six pounds, four ounces. Fourteen years of life ahead of him. Right now: brand new. Right now: here.
-
-Zara looked at her son's face—eyes squeezed shut, mouth open in protest at being born. She felt the fierce love she'd felt with Maya, that overwhelming protective instinct that made everything else secondary. You will matter, she thought. Your brief life will matter. I promise.
+Zara's arms knew what to do before her mind caught up. She curved around him, her body making a shelter. Fourteen years. But he was here *now*, warm and real against her heart.
 
 Kwame was crying, his hand gentle on Kofi's tiny head. "He's beautiful."
 
@@ -164,21 +158,17 @@ Zara looked at this stranger, this woman carrying her own impossible choice, and
 
 "Come in," Zara said, stepping aside.
 
-They sat in the living room—plants everywhere, morning light streaming through windows, the ordinary domestic space where Zara had learned she was dying two years ago. Aisha held her daughter, maybe two years old, while Zara held Kofi.
+They sat in the living room—plants everywhere, morning light through windows. Aisha held her daughter while Zara held Kofi.
 
-"I can't tell you what's right," Zara said after a long silence. "I can only tell you what I believe. I believe consciousness matters. I believe thirteen years of life is more valuable than infinite non-existence. I believe brief doesn't mean meaningless."
+"I can't tell you what's right," Zara said after a long silence. "I can only tell you what I believe. Brief doesn't mean meaningless. Everyone has always known life was temporary. The asteroid just makes the timeline visible."
 
 "But they'll know," Aisha said. "They'll grow up knowing."
 
-"They'll grow up knowing what everyone has always known and pretended otherwise. That life is temporary. That nothing lasts forever. That everyone dies eventually. The asteroid just makes the timeline visible."
+"They'll grow up knowing what everyone pretended otherwise about. That nothing lasts."
 
-"That's what you tell yourself?"
+"Do you think they'll hate us?"
 
-"That's what I learned from a very wise woman," Zara said, thinking of Wei in her garden. "She's been preparing for death her whole life. She taught me that impermanence and beauty aren't opposites. That presence matters precisely because nothing lasts."
-
-Aisha was quiet, processing. "Do you think they'll hate us? When they're older? When they understand?"
-
-"Maybe," Zara admitted. "I think about that. Kofi will be fourteen when he dies. Maya seventeen when she dies. Will she hate me for giving her a brother she'll lose? For bringing him into a world where he knows exactly when he'll die? I don't know. Maybe."
+"Maybe." Zara looked at Kofi, sleeping against her. "I think about that. Will Maya hate me for giving her a brother she'll lose? I don't know."
 
 "Then how do you justify it?"
 
@@ -244,9 +234,11 @@ Had to be enough.
 
 ---
 
-The hardest moment came unexpectedly, month four. Zara was scrolling through her contacts—something mundane, looking for a colleague's information—when she saw her sister's name. Amara Okafor. Astrophysicist. The woman who'd detected the asteroid. The woman who'd calculated everyone's death, including her own family's.
+The hardest moment came unexpectedly, month four. Zara was scrolling through her contacts—looking for a colleague's information—when she saw her sister's name. Amara Okafor. Astrophysicist.
 
-Zara hadn't spoken to her sister in over two years. Not since the argument before Maya's first birthday. Amara had been too busy with work to attend. Zara had been hurt, had said things. Amara had responded with cold logic. They'd stopped talking.
+Outside, Lagos District hummed with afternoon traffic. Someone's music drifted up from the courtyard—old Afrobeat, the kind their grandmother used to play. Kofi slept in the carrier against Zara's chest, his breath warm through her shirt.
+
+Two years since she'd spoken to Amara. The argument before Maya's first birthday—Amara too busy with work, Zara hurt, words exchanged that couldn't be taken back.
 
 Then: the detection. Amara's face on every screen, explaining the calculations, confirming the timeline. Zara had tried to call—sent voice messages, texts, photos. No response. Sent Kofi's birth announcement four months ago: *"You have a nephew. His name is Kofi. Please respond."*
 

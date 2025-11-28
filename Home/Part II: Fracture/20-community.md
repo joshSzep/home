@@ -12,21 +12,15 @@ The word "butterfly" was giving Kofi trouble.
 
 "Good! Now you've got it." Maya beamed at her brother. "See? You can read it."
 
-Zara watched from the kitchen table, engineering schematics glowing on her display. The greywater reclamation system for their compound—fifty units, two hundred people, thirty thousand liters daily throughput. The calculations were straightforward. Design the filtration cascade, map the distribution network, optimize for pressure differentials. Work she'd done a hundred times before.
+Zara watched from the kitchen table, engineering schematics glowing on her display. The greywater system for their compound—fifty units, two hundred people, thirty thousand liters daily throughput. She traced the filtration cascade with her finger, feeling the logic of it: primary settling, bio-filter, UV treatment, pressure equalization. The system would outlast them all, probably keep working decades after impact. Good engineering lasted.
 
-Work that would last maybe nine years.
-
-But people needed clean water now. That was enough.
+The morning air through the open window was humid, carrying the smell of frying plantains from two floors down and the faint diesel note that never quite left Lagos, even now. Someone's radio played news she'd learned to tune out.
 
 "Mama!" Kofi called. "I can read 'butterfly'!"
 
 "I heard, baby. You're doing so well."
 
-Kwame emerged from the bedroom, hair still damp from the shower, moving toward the kitchen with the easy comfort of someone who'd lived in this space for eight years. Their apartment—seventy square meters of manufactured domesticity—had absorbed their lives completely. Plants everywhere (Kwame's doing), children's drawings on the walls (Maya's artistic phase), engineering models scattered on surfaces (Zara's inability to leave work at work). Home. Real home. Temporary home.
-
-Nine years left.
-
-Zara pushed the thought away. Not now. Right now: Kofi learning to read. Maya teaching. Kwame making breakfast. Family existing in the present moment. That's all she could control.
+Kwame emerged from the bedroom, hair still damp from the shower. Their apartment—seventy square meters, plants everywhere (Kwame's doing), children's drawings on walls (Maya), engineering models scattered on surfaces (Zara's inability to leave work at work).
 
 "Synth-eggs?" Kwame asked.
 
@@ -38,9 +32,9 @@ Zara pushed the thought away. Not now. Right now: Kofi learning to read. Maya te
 
 "Cat-er-pill-ar," Kofi sounded out carefully.
 
-The morning light through their windows was Lagos District perfect—engineered tropical climate, bright and humid and alive. Six years into the apocalypse, the environmental systems still functioned. The sun still rose. Life continued because what else would it do?
+The morning light through their windows was Lagos District perfect—bright, humid, the engineered tropical climate holding steady at twenty-eight degrees. Down in the courtyard, Mr. Okonkwo was already tending his tomato seedlings. She could hear his radio, the soft clatter of his watering can.
 
-Zara's wrist display chimed. Message from the compound housing committee: *Meeting tonight, 7 PM. Topic: rooftop garden expansion. Your input needed—engineering perspective.*
+Her wrist display chimed. Message from the compound housing committee: *Meeting tonight, 7 PM. Topic: rooftop garden expansion. Your input needed—engineering perspective.*
 
 She confirmed attendance. Another meeting. Another project. Another temporary thing worth doing anyway.
 
@@ -80,35 +74,25 @@ Zara looked at his simulation. Saw the problem immediately. "Increase the holdin
 
 Tom finally looked at her. "You're serious? The rooftop garden expansion?"
 
-"Why not?"
+"Why not? The load-bearing calculations work. Zara had run them twice. "We can reinforce the northeast corner with polymer beams—I've got a supplier who still has stock. Water system ties into existing infrastructure."
 
-"Nine years, Zara. The building might not last nine years. The district might not last nine years. We might not—"
+"Nine years, Zara."
 
-"We need food now," Zara interrupted. "We need community now. We need something to tend besides despair. So: yes. Serious."
-
-Tom was quiet for a moment. Then: "You're right. I'll adjust the tank specs."
-
-That was the argument Zara had been making for six years. Not: this will matter forever. Just: this matters now. The engineering work wouldn't save anyone. Wouldn't stop the asteroid. Wouldn't extend life beyond fifteen years. But people needed water now. Needed food now. Needed something to build, something to maintain, something to care about besides the countdown.
-
-Gift work, Wei called it. Labor without expectation of permanence. Zara had learned that in the garden, watching Wei tend plants that would bloom and die and bloom again. Everything temporary. Everything valuable. Engineering was just applied gardening.
+"People need food now. They need something to tend besides their screens. The engineering is sound. That's what I know."
 
 ---
 
 Lunchtime: visit to Wei's apartment.
 
-Zara brought the children twice weekly—Tuesdays and Fridays, regular as clockwork. The old professor was 119 now, body failing visibly. Needed full-time care that a young nurse named Ling provided. Wei's mind remained sharp, but her body was finishing its transformation.
+The old professor was in her wheelchair on the balcony, surrounded by the garden. Ling, her nurse, had dressed her in a blue cotton wrap that Zara remembered from years ago—faded now, soft from washing. Wei's hands shook worse than last week, the tremor visible even as they rested in her lap. 119 years old. Body finishing its transformation.
 
-Natural death would claim Wei before the asteroid. Maybe months. Maybe a year. Zara grieved this already, the way you grieve something inevitable while it's still present.
-
-They found Wei in her wheelchair on the balcony, surrounded by the garden that had become her classroom. The lemon tree fruiting. The gardenias blooming. The herbs spreading in their containers. Six years of tending, and the garden was more alive than ever.
-
-"Professor Wei!" Kofi ran ahead, all energy and affection.
+"Professor Wei!" Kofi ran ahead.
 
 "Careful," Zara called automatically.
 
-"Let him run," Wei said, her voice thinner than last week but still clear. "Gardens are for living in."
+"Let him run." Wei's voice was thinner but clear. "Gardens are for living in."
 
-Maya approached more carefully, carrying a picture she'd drawn. "I made this for you. It's the butterflies we saw last time."
+The lemon tree—Li Chen's tree, Wei always called it—was heavy with fruit this season. Maya approached carefully, carrying a drawing.
 
 Wei took the picture with shaking hands. Studied it seriously. "You remembered the wing pattern. Very precise. That's important—seeing what's actually there, not what we expect to see."
 
@@ -118,9 +102,9 @@ Wei took the picture with shaking hands. Studied it seriously. "You remembered t
 
 Zara settled on the bench while Kofi explored and Maya showed Wei her latest school work. This was the rhythm they'd established over six years—visiting, tending, being present. Wei teaching without teaching. Just: observations about flowers, butterflies, the way light shifted through leaves. Philosophy made practical.
 
-Ling brought tea. Zara helped Wei hold the cup—hands too shaky now to manage alone. The intimacy of this—helping someone drink—felt profound. Physical care as teaching. Vulnerability as wisdom.
+Ling brought tea in cups with handles wide enough for shaking hands to grip. Zara steadied Wei's cup anyway—the liquid sloshing, Wei's wrist too weak to control the tilt. The intimacy of this—wiping a drop from the old woman's chin with her sleeve, adjusting the cup so Wei could sip without straining—felt like the truest kind of learning.
 
-"Maya understands about the asteroid," Wei said quietly, watching the girl examine a beetle. "You told her Year 4?"
+"Maya understands about the asteroid," Wei said quietly. "You told her Year 4?"
 
 "Yes. She asked directly. I couldn't lie."
 
@@ -242,20 +226,10 @@ The countdown continued—nine years, eight months, eleven days. The asteroid ap
 
 That was enough. Had to be enough. Was enough.
 
-Kwame appeared beside her, wrapped his arm around her waist. They stood together, watching their sleeping children, saying nothing. What was there to say? Everything was understood. Everything was felt. Everything was present.
+Kwame appeared beside her, wrapped his arm around her waist. They stood together, watching their sleeping children.
 
-Tomorrow: engineering work would continue. Wei's garden would be visited. Compound gardens would be planned. The countdown would advance one more day. Maya would teach Kofi more words. The lemon tree would be watered. Life continuing in Lagos, in Antarctica, everywhere people remained. Everyone continuing their practice, their presence, their small defiances against ending.
-
-Life. Despite everything. Because of everything. Simple. Complex. Temporary. Eternal. Brief. Infinite.
-
-Enough.
-
-Zara closed the children's doors quietly. Followed Kwame to their room. Tomorrow would bring its own joys, its own griefs, its own moments of presence. But tonight: sleep. Rest. The temporary peace of family safe under one roof.
+Tomorrow: engineering work. Wei's garden. Compound garden planning. Maya teaching Kofi more words. The countdown advancing one more day.
 
 Nine years to make beautiful.
 
-Starting tomorrow.
-
-Again.
-
-Always.
+Starting tomorrow. Again. Always.

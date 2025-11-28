@@ -32,13 +32,9 @@ He pushed the thought away. Focus on work.
 
 The housing came free with a pneumatic hiss. David inspected the seals—cracked, brittle, exactly as expected. He removed them one by one, cleaned the channels, prepared the surface for replacement. His hands moved through the sequence automatically, muscle memory built through hundreds of repetitions.
 
-This was what he did. This was what he was good at. Maintenance. Repair. Keeping systems running that would run anyway, would have to keep running for eight more years before—
+This was what he did. This was what he was good at.
 
-Before what? Before vaporization. Before the end. Before none of this mattered.
-
-Except it mattered now.
-
-The thought arrived unexpected. David paused mid-motion, seal in hand. It mattered now. The work didn't matter for the future—there was no future. But it mattered for now. Present-moment maintenance. The act itself, not the outcome.
+The new seal slid into place with a satisfying click. David ran his thumb along the edge—smooth, aligned, correct. Something in his chest loosened. Not happiness exactly. Just: rightness. The seal was good. The housing would hold.
 
 "Colleague Chen?" 47B's sensors focused on him. "Is there a problem?"
 
@@ -82,19 +78,11 @@ The question surfaced around 2 PM, platform forty-seven. David was tightening a 
 
 So why?
 
-He handed a torque wrench to 47B, took the diagnostic probe in exchange. The movement was automatic, perfectly timed. They'd done this exact sequence hundreds of times. David ran the diagnostic—green across the board, as expected—and realized.
+He handed a torque wrench to 47B, took the diagnostic probe in exchange. Their movements synchronized without thought—hundreds of repetitions had made the exchange automatic. David ran the diagnostic. Green across the board.
 
-He was choosing this.
+His hands were warm inside the gloves. The sun had shifted, heating the platform surface. He could feel it through his boots. The wind carried ice-salt from the distant glaciers. All of it registered without interrupting the work.
 
-Not just doing it out of habit or inertia. Choosing it. Choosing maintenance as meaning. The work didn't matter for the future. The future was fixed, ending. But the work mattered for now. This moment. This repair. This partnership with a robot who treated him as colleague, not obsolete human.
-
-Purpose in the process, not the outcome.
-
-David stood very still, probe in hand, the realization settling through him like frost forming. This was what he'd been doing for seven years without quite understanding. This was why he showed up every morning at 6:47 AM. Not because the arrays needed him. Because he needed the arrays. Needed the work. Needed the presence.
-
-Maintenance as meditation.
-
-He'd heard that phrase before. Where? Wei's teaching, maybe, filtered through Zara's messages to Amara. Or just: something in the air, the collective wisdom trying to emerge as humanity faced its end. But now he understood it. Really understood. The work was the point. Not because it led somewhere. Because it was here. Now. Real.
+This was why he came back. Not for the future. For this. The weight of the probe. The vibration of the arrays. The reliable presence of 47B's treads on metal.
 
 "Colleague Chen?" 47B was waiting patiently. "Platform forty-seven inspection complete?"
 
@@ -108,17 +96,9 @@ Enough.
 
 Almost enough.
 
-He thought briefly about Amara. She calculated because what else would she do? He maintained because what else would he do? They were parallel—both choosing work over connection, process over outcome, isolation over intimacy. Both finding purpose in tasks that didn't matter for the future but mattered intensely for the present.
+Amara would be at the monitoring station now. Same routine she'd kept for three years. They'd barely spoken since the divorce—occasional messages about shared assets, nothing personal. He could picture her at her console, face lit by data, processing numbers that meant doom.
 
-Ex-spouses. Three years divorced now. Had it changed anything? They'd been emotionally separated long before the paperwork. The divorce just made official what had been true since Year 0: they'd broken, retreated to separate tasks, separate numbnesses. 
-
-Should he reach out? Try again? They still had eight years. Maybe connection was still possible, even after divorce, even after years of numbness.
-
-Maybe. But connection was hard. Connection required vulnerability, required feeling, required facing the void together instead of separately. Work was easier. Work was honest. Work asked nothing except presence and competence. David could do that. Could be present to the arrays in ways he'd never been able to be present to his wife.
-
-That was sad. He recognized that. But recognition didn't change it. He was who he was. Amara was who she was. They'd broken in the detection and never healed, divorcing three years ago without much changing except his living situation.
-
-Maybe this—maintenance, calculation, isolated purpose—was the best they could manage.
+He went back to work.
 
 4:47 PM. Last platform complete. David's tablet chimed—end of shift notification.
 
@@ -126,172 +106,26 @@ Maybe this—maintenance, calculation, isolated purpose—was the best they coul
 
 "Same time tomorrow," David confirmed.
 
-He could go home. Should go home. Instead, he went to the break room.
+He could go home. Instead, he went to the break room.
 
-Sublevel three of the array control building. Empty except for ghosts of conversations past. David made tea using the kettle in his locker. Sat at the long table. Pulled out his tablet.
+Sublevel three. Empty. David made tea from the kettle in his locker. Sat at the long table. The warmth of the cup against his palms. The faint hum of the building's ventilation.
 
-But instead of reading technical manuals like usual, he just sat. Held the warm tea. Looked at nothing.
+His tablet showed no messages. He didn't expect any.
 
-The realization from platform forty-seven was still settling. Maintenance as meaning. Present-moment purpose. He'd touched something important, something that felt like truth. But he couldn't quite articulate it. Couldn't quite believe it. Hovered at the edge of understanding.
+Eight years left. He didn't know how to spend them. Didn't know if reaching out to Amara was possible or wise or pointless. All he knew was this: today's work had felt good. Tomorrow's work would feel good too.
 
-It felt like there was more. Like this realization was doorway to something deeper. But he couldn't see through yet. Just: sensed it. Felt it waiting.
+David finished his tea. Took the transport home.
 
-The tea cooled. David drank it anyway. Made more. Sat longer.
+Building seventeen, apartment 4C. Lights off when he arrived—always off. He turned on the kitchen light. Made more tea. Sat at the small table.
 
-His tablet sat silent. No messages. Why would there be? Amara lived at the monitoring station now. Had for three years, since the divorce. They barely communicated anymore. Occasional logistics about shared assets they'd never bothered fully disentangling. Nothing personal. Nothing real.
+The apartment was silent. Amara's coffee maker still sat on the counter, unplugged. He'd never moved it. Her jacket had hung by the door for months after she left before he finally put it in a closet.
 
-He could message her. Could say... what? "I had a realization about maintenance as meditation today"? She'd process it as data, not connection. If she responded at all.
+Eight years left. He didn't know how to spend them.
 
-Three years divorced. Seven years since detection. They'd been broken long before the paperwork made it official. The divorce had changed almost nothing—he'd already been living alone, she'd already been sleeping at the station. They'd just stopped pretending.
+He went to the bedroom. Lay down alone.
 
-Should he try again? Reach out? They had eight years left. Maybe connection was still possible. Maybe people could heal, even after breaking completely.
+Tomorrow: 5:00 AM alarm. Shower. Transport. Platform seventy-three at 6:47. Greet 47B. Start repairs.
 
-But change required courage he didn't have yet. Required believing that connection was possible, that vulnerability was worth the pain, that facing the void together was better than facing it alone.
-
-He wasn't there yet. Wasn't even close. He'd touched understanding about work as meditation. But understanding about relationship as practice? That was further. Deeper. Required more than he had.
-
-So: keep maintaining. Keep showing up. Keep being present to the work, if not to his ex-wife. Keep moving through eight more years one repair at a time, one morning at a time, one platform at a time.
-
-Maybe that was enough. Had to be enough. Was all he could manage.
-
-David finished his tea. Cleaned the cup. Put away his tablet. Left the break room. Took the transport to residential district.
-
-Building seventeen, apartment 4C. His apartment now—sole occupant since the divorce three years ago. The lights were off. Always off when he came home. No one here but him. David turned on the kitchen light. Made more tea—his fifth cup of the day. Sat at the small table.
-
-The apartment was silent. Not peaceful silence. Absent silence. Void where relationship used to be. He'd kept this place after the separation, Amara taking her half of the assets and moving into the monitoring station permanently. The same furniture. The same kitchen. But emptier now. Officially empty.
-
-He thought about 47B—simple, present, functional. Never asked for more than David could give. Never judged. Never left. Perfect colleague because robots didn't need emotional connection. Just: work.
-
-He thought about himself—complicated, avoidant, functional. Capable of presence with machines. Incapable of presence with people. Had hidden in maintenance even when he was married. Now just living out that choice alone.
-
-Eight years left. Should he spend them like this?
-
-The question hung in the air. No answer came.
-
-Change required courage. Required vulnerability. Required believing that eight years of connection was better than eight years of maintenance. David wasn't sure he believed that. Wasn't sure he could believe it.
-
-But the question was there now. Present. Visible. He couldn't un-ask it.
-
-Eight years left. Spending them like this?
-
-He didn't know. Couldn't answer yet. Just: sat with the question. Let it exist. Let it be uncomfortable.
-
-Tomorrow he'd wake at 5:00 AM. Shower. Eat. Take the transport to the arrays. Clip his harness to platform seventy-three at 6:47 AM. Greet 47B. Start the day's repairs. Be present to the work because that's what he could do.
-
-But maybe—maybe—the question would keep working on him. Keep pressing. Keep asking whether maintenance was enough when connection was still possible. Theoretical possible, anyway. Even if connection seemed as impossible as deflecting asteroids.
-
-Maybe.
-
-He finished his tea. Went to the bedroom. Lay down alone in the bed he'd slept in alone for three years. The other side hadn't been occupied since before the divorce. Sometimes he still found himself avoiding it, as if Amara might return. She wouldn't.
-
-Eight years, ten months left.
-
-Maintenance as meditation. He understood that now. Work as present-moment purpose. That was real. That was true.
-
-But was it enough?
-
-He didn't know.
-
-Didn't let himself know.
-
-Because if it wasn't enough, then what? Reach out to his ex-wife who'd chosen numbness over everything? Try to rebuild what had been broken since Year 0?
-
-The question was there. He couldn't answer it yet.
+The routine held him. That had to be enough.
 
 Sleep came slowly. But it came.
-
----
-
-The next morning: 5:00 AM. Alarm. Shower. Breakfast. Transport.
-
-Platform seventy-three. 6:47 AM. Three minutes early.
-
-"Morning, 47B."
-
-*Beep beep.* "Good morning, Colleague Chen. Platform nineteen requires recalibration. Connection housing integrity at eighty-one percent. Weather conditions optimal. You are three minutes early, consistent with historical pattern."
-
-David smiled. Same greeting. Same reliability. Same comfortable partnership with a machine that never judged, never questioned, never asked for more.
-
-"Let's get started."
-
-They moved across the platform together. The work began. Another repair. Another day. Another morning of maintenance and presence and choosing to show up because showing up mattered.
-
-Purpose in the process. Meaning in the moment.
-
-Almost enough.
-
-Not quite enough.
-
-But closer than yesterday.
-
-Platform nineteen, connection housing. He'd done this repair 128 times.
-
-One hundred twenty-ninth now.
-
-His hands knew the sequence. Extraction tool. Seal removal. Housing inspection. Moisture cleaning. New seals. Reassembly. Diagnostic check.
-
-Green across the board.
-
-"Repair complete," 47B announced.
-
-"Good work."
-
-*Beep beep.* "Colleague Chen efficiency rating: optimal."
-
-David laughed. First genuine laugh in months. Not because the exchange was funny. Because it was true. He was optimal at this. At showing up. At being present to work. At maintaining what would end anyway.
-
-That was something.
-
-Maybe even enough.
-
-For now.
-
-"Thanks, 47B," he said.
-
-"Gratitude acknowledged," the robot replied. "Shall we proceed to platform twenty?"
-
-"Let's proceed."
-
-They moved together. The sun rose higher. The arrays hummed. The work continued.
-
-David was present to it.
-
-That mattered.
-
-Even if he didn't know why yet.
-
-Even if he couldn't articulate it yet.
-
-Even if reconnection with his ex-wife seemed impossible and eight years seemed both too long and too short.
-
-The work mattered.
-
-He showed up.
-
-That was enough.
-
-Had to be enough.
-
-Was enough.
-
-For now.
-
-Platform twenty. Platform twenty-one. Platform twenty-two.
-
-The morning passed.
-
-The repairs continued.
-
-The arrays functioned.
-
-The end approached.
-
-And David maintained.
-
-Present.
-
-Purpose.
-
-Almost understanding.
-
-Almost.

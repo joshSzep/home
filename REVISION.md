@@ -58,6 +58,27 @@ This document tracks the revision pass following the editorial letter. The goal 
 
 ---
 
+### Voice Revision Pass — COMPLETED CHAPTERS
+
+| Chapter | Character | Changes Made |
+|---------|-----------|--------------|
+| 2 - Towers | Zara | Added Lagos sensory (heat, humidity, pancake smell), physical motherhood, embodied processing, compressed ending |
+| 5 - Garden | Wei | Added grandmother Jiayi, husband Li Chen, dry humor, specific aging details (joints, wet slippers), shorter philosophy |
+| 10 - Defiance | Zara | Added Lagos hospital sensory, physical labor sensation, grounded Amara estrangement in physical space |
+| 15 - Maintenance | David | Cut abstract "when did we stop" monologue, added physical absence (dusty coffee maker), compressed ending |
+| 18 - Teaching | Wei | Added dry humor ("advanced technique"), physical aging specifics (glaucoma, hip), wry observations about priests and seekers |
+| 20 - Community | Zara | Added Lagos sensory (plantain smell, diesel note, Mr. Okonkwo's radio), engineer-voice specificity, physical caregiving with Wei |
+| 23 - Arrays | David | Major compression: cut repetitive "enough/almost enough" ending (~100 lines cut), showed through physical work not abstract thought |
+| 31 - Sunrise | David | Light compression of ending, kept strong 47B emotional core |
+
+**Pattern Fixes Applied:**
+- Broke "Short sentence. Another. Emotional beat." overuse
+- Cut repetitive philosophical conclusions
+- Added sensory grounding (especially Lagos)
+- Made internal monologue physical where possible
+
+---
+
 ### B. New Content (Part III Expansion)
 
 **Required New Chapters/Scenes:**

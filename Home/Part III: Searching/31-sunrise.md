@@ -254,33 +254,25 @@ David sees it clearly—Amara has changed. The woman he divorced six years ago w
 
 "We teach each other," Amara says. "That's what partnership is. Both changing. Both present. Both temporary."
 
-They kiss—long, deep, present. David feels: gratitude. For this woman. For this chance. For reconnection after years of isolation. For love emerging from ruins.
+They kiss—long, deep, present. David feels: gratitude. For this woman. For this chance. For love emerging from ruins.
 
-When they separate, Amara is crying. Happy tears. Grief tears. Both together.
+When they separate, Amara is crying.
 
-"I wasted seven years," she says. "Hiding. Numb. Refusing connection."
+"I wasted seven years," she says. "Hiding. Numb."
 
-"I wasted them too. We both did."
+"I wasted them too."
 
-"But we have five years now. Three years here, two years in Lagos. Five years of presence. Of family. Of—" She stops. "Of love. We should say it. We have it. Why not say it?"
+"But we have five years now. We should say it. We have it."
 
-David's heart cracks open. "I love you. I've always loved you. Even divorced. Even apart. Even when I didn't know how to be with you."
+David's heart cracks open. "I love you. I've always loved you."
 
-"I love you too. And I'm terrified. Because loving you means losing you. Year 15, Month 6, Day 14. We die together. Everything ends."
+"I love you too. And I'm terrified. Loving you means losing you."
 
-"Yes." David pulls her close. "Everything ends. But first: everything happens. We get five years. We get to love each other. We get to be with family. We get to be present together until we can't be present anymore."
+"Yes." David pulls her close. "But first we get five years. We get to be with family. We get to be present together until we can't."
 
-Amara nods against his chest. Outside the window, the solar arrays catch morning light. Millions of panels. Thousands of platforms. Forty-four robots maintaining everything. And on Platform 73: 47B, working alone, noticing absence, continuing anyway.
+Outside the window, the solar arrays catch morning light. On Platform 73: 47B, working, continuing anyway.
 
-Presence through maintenance.
-
-Presence through love.
-
-Both valid. Both beautiful. Both temporary.
-
-But here. Now. Real.
-
-David holds Amara and watches the sunrise complete itself. Five more years of sunrises. One thousand eight hundred twenty-five, approximately. Give or take.
+David holds Amara and watches the sunrise complete itself.
 
 He stops calculating.
 
