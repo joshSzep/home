@@ -86,29 +86,149 @@ This document tracks the revision pass following the editorial letter. The goal 
 
 ---
 
-### B. New Content (Part III Expansion)
+### B. New Content Planning — DETAILED
 
-**Required New Chapters/Scenes:**
+**CORE PROBLEM:** Fracture spans ~300 pages (Years 1-7), but reunion/convergence only ~40 pages (Year 15 final months). The togetherness needs more weight to balance the separation.
 
-1. **Amara + David Real Conversation** (Part III)
-   - Not just awkwardness — genuine processing of hurt, guilt, reconnection
-   - Location: Antarctica or Lagos
-   - Timing: Year 9-10, after initial awkward reconnection
-   - Status: [ ] Not Started
+---
 
-2. **Group Gathering Scene** (Part III)
-   - Multiple POVs in shared physical space
-   - Lagos compound meal or Antarctica community gathering
-   - Shows togetherness before impact
-   - Status: [ ] Not Started
+#### PRIORITY 1: Amara + David Real Conversation
 
-3. **Pre-Impact Quiet Moment** (Part IV)
-   - Several POVs colliding naturally
-   - Not dramatic — just presence, breathing same air
-   - Extends convergence
-   - Status: [ ] Not Started
+**Current Gap:** Ch 25 (Threshold) shows David arriving at Amara's door. They have breakfast, awkward hope. Then Ch 31 (Sunrise) jumps to Year 10 — they're already dating, already planning Lagos move. The actual emotional reckoning happened offscreen.
 
-**Status:** [ ] Not Started
+**What's Missing:**
+- How did they process the divorce? The years of silence?
+- David's hurt at being left for numbness
+- Amara's guilt at choosing isolation over him
+- The actual conversation where they decide to try again
+
+**Proposed Scene: "Reckoning" (new chapter or extended scene)**
+- **Timing:** Year 8 or 9, after initial reconnection but before they're "together"
+- **Location:** David's apartment or Amara's station — neutral ground
+- **Content:** 
+  - David finally says what he couldn't say during marriage: "You left first. Before I did."
+  - Amara acknowledges: "I know. I chose the asteroid over you."
+  - Not resolution through talking — resolution through staying in the room
+  - Physical presence as the healing act
+  - End with something simple: making a meal together, or just sitting
+- **POV:** David (underwritten — needs more interiority)
+- **Placement:** Could expand Ch 25 significantly, or new chapter between 25-28
+- **Status:** [x] COMPLETED — Created `25b-reckoning.md`
+  - Year 8, Month 8, Lagos District
+  - David POV throughout
+  - Core confrontation: Amara chose asteroid over marriage
+  - Resolution through staying in room, making rice together
+  - ~370 lines, fits between Ch 25 (Threshold) and Ch 28 (Roots)
+
+---
+
+#### PRIORITY 2: Non-Family Group Gathering
+
+**Current Gap:** The convergence focuses heavily on Okafor-Mensah family. Side characters appear in their own chapters but rarely together in shared space.
+
+**What's Missing:**
+- Kenji's teaching circle as community (not just Kenji POV)
+- Ibrahim's refugee community meeting Zara's Lagos community
+- The feeling of many people choosing to face the end together
+
+**Proposed Scene: "Gathering" (new chapter)**
+- **Timing:** Year 15, Month 2 (between Ch 46 Assembly and Ch 52 Ordinary)
+- **Location:** Antarctica communal space or Kenji's teaching circle
+- **Content:**
+  - Multi-POV chapter (like Ch 52 but earlier)
+  - Characters who've never shared scenes interact:
+    - Ibrahim meets Zara's family
+    - Derek (adaptive swimming) encounters Maya
+    - Priya Patel (Daniel's victim's widow) attends teaching
+    - Soso Kim's dogs create connection moments
+    - Barak Naveh's quiet presence
+  - Not dramatic — just: people breathing same air, becoming community
+  - Physical details: food shared, space navigated, bodies in proximity
+- **POV:** Rotating brief sections OR observer POV (Elena watching)
+- **Placement:** New chapter ~47.5 or expand Ch 46
+- **Status:** [x] COMPLETED — Created `46b-gathering.md`
+  - Year 15, Month 2, Day 18
+  - Multi-POV: Elena, Ibrahim, Priya, Soso, Barak, Maya, Elena again
+  - Shows teaching circle as community beyond family
+  - Key moments: Priya's first session, Soso's dogs/Maya connection, Barak witnessing Priya's grief
+  - ~450 lines, fits between Ch 46 (Assembly) and Ch 47 (Seventeen)
+
+---
+
+#### PRIORITY 3: Extended Final Week Content
+
+**Current Gap:** Ch 53 (Seven) is Zara's chapter about the final week. Ch 54 (Countdown) is final day. The week between Day 26 (Ch 52) and Day 7 (Ch 53) is mostly unnarrated.
+
+**What's Missing:**
+- What do people actually DO in the final weeks?
+- The mundane made sacred: cooking, sleeping, walking, talking
+- Multiple POVs experiencing the same time period
+- The slow deceleration from "life" to "presence"
+
+**Proposed Expansion:**
+- Add 1-2 short chapters showing final 2-3 weeks from different POVs
+- **Option A:** Ibrahim POV — his final reconciliation with faith, watching the teaching circle
+- **Option B:** Elena POV — governance ending, becoming pure witness
+- **Option C:** Maya POV — teaching others, becoming teacher not student
+- Focus on physical, sensory, present-moment detail
+- No drama — just: being there
+
+**Status:** [x] COMPLETED — Created `52b-last-office.md`
+  - Day 19 (fills 19-day gap between Ch 52 Day 26 and Ch 53 Day 7)
+  - Elena POV throughout
+  - Key scenes: Final constituent petition (Yolanda Chen), Marcus Reyes returns from Mumbai with students, Two Marcuses dinner reunion, Elena processing Daniel Okonkwo choice
+  - Transition from governance to witness
+  - ~480 lines
+
+---
+
+#### PRIORITY 4: Character-Specific Gaps
+
+**David Chen — Pre-Detection Flashback:**
+- One scene showing who he was before detection
+- Marriage to Amara when it worked
+- Establishes what was lost, grounds the reunion
+- Could be embedded in existing chapter (Ch 31?) as memory
+- **Status:** [ ] Not Started
+
+**Zara — Private Collapse:**
+- She's always the steady one. When does she break?
+- One scene where she privately falls apart
+- Could be Year 11 after Wei's death, or Year 15 facing Maya's death
+- Shows cost of being the anchor
+- **Status:** [x] COMPLETED — Created `33b-breaking.md`
+  - Year 11, Month 9, Day 3 (three days after Wei's death)
+  - Zara POV throughout
+  - Key scenes: Bathroom breakdown, Ling's wisdom, recovery through holding children
+  - Shows cost of being the steady one, fifteen years of holding
+  - ~280 lines
+
+**Wei — Non-Teaching Moment:**
+- One scene of Wei just being, not teaching
+- Personal memory, bodily reality, humor without lesson
+- Already partially addressed in Ch 5/18 revisions
+- Consider: Wei alone in garden at night, talking to Li Chen's tree
+- **Status:** [x] Partially Addressed (revisions to Ch 5, 18)
+
+---
+
+#### IMPLEMENTATION ORDER
+
+1. **Amara + David Reckoning** — Most critical gap, affects core relationship arc
+2. **Non-Family Gathering** — Expands world, shows community beyond family
+3. **Extended Final Week** — Earns the ending, balances fracture/reunion ratio
+4. **Character Flashbacks** — Polish, can be woven into existing chapters
+
+**Estimated New Content:** 2-3 new chapters (8,000-12,000 words), plus expansions to existing chapters
+
+**ACTUAL NEW CONTENT CREATED:**
+| File | Chapter | Words | Summary |
+|------|---------|-------|---------|
+| `25b-reckoning.md` | Reckoning | ~2,200 | David + Amara emotional reckoning, Year 8 Month 8 |
+| `46b-gathering.md` | Gathering | ~2,700 | Multi-POV teaching circle, Year 15 Month 2 Day 18 |
+| `52b-last-office.md` | Last Office | ~2,900 | Elena's transition to witness, Day 19 |
+| `33b-breaking.md` | Breaking | ~1,700 | Zara private collapse, Year 11 Month 9 Day 3 |
+| **TOTAL** | **4 chapters** | **~9,500 words** | |
 
 ---
 
