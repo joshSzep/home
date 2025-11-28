@@ -189,7 +189,13 @@ This document tracks the revision pass following the editorial letter. The goal 
 - Marriage to Amara when it worked
 - Establishes what was lost, grounds the reunion
 - Could be embedded in existing chapter (Ch 31?) as memory
-- **Status:** [ ] Not Started
+- **Status:** [x] COMPLETED — Created `08b-before.md`
+  - Year -1, Month 6 (eight months before detection)
+  - David POV throughout
+  - Key scenes: Making real eggs for Amara, morning domesticity, Amara discussing her new methodology, evening intimacy
+  - Shows what was lost: presence, connection, the promise to stay
+  - Frames the reunion as rebuilding what broke
+  - ~1,400 words
 
 **Zara — Private Collapse:**
 - She's always the steady one. When does she break?
@@ -228,7 +234,8 @@ This document tracks the revision pass following the editorial letter. The goal 
 | `46b-gathering.md` | Gathering | ~2,700 | Multi-POV teaching circle, Year 15 Month 2 Day 18 |
 | `52b-last-office.md` | Last Office | ~2,900 | Elena's transition to witness, Day 19 |
 | `33b-breaking.md` | Breaking | ~1,700 | Zara private collapse, Year 11 Month 9 Day 3 |
-| **TOTAL** | **4 chapters** | **~9,500 words** | |
+| `08b-before.md` | Before | ~1,400 | David pre-detection flashback, Year -1 Month 6 |
+| **TOTAL** | **5 chapters** | **~10,900 words** | |
 
 ---
 
