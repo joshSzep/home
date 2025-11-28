@@ -6,9 +6,9 @@
 ## Repository Structure
 - **`Home/`** - Main novel content (chapters organized by part)
   - `Part I: Detection/` - Chapters 1-9 (Year 0) - 9 chapters complete
-  - `Part II: Fracture/` - Chapters 10-24 (Years 1-7) - 15 chapters complete  
-  - `Part III: Searching/` - Chapters 25-44 (Years 8-15 Month 1) - 3 chapters complete (25-27)
-  - `Part IV: Convergence/` - Chapters 45-56 (Year 15) - Not yet written
+  - `Part II: Fracture/` - Chapters 10-25 (Years 1-7) - 16 chapters complete  
+  - `Part III: Searching/` - Chapters 26-47 (Years 8-15 Month 1) - 22 chapters complete
+  - `Part IV: Convergence/` - Chapters 48-60 (Year 15) - 13 chapters complete
 - **`outlines/`** - Detailed outlines for Parts III & IV (work-in-progress planning)
 - **`README.md`** - Novel premise, world, characters, themes
 - **`AGENTS.md`** - Complete project guide with chapter outline (this file)
@@ -67,10 +67,10 @@ Buddhist philosophy meets hard SF: impermanence, presence, meaning without perma
 - **Each chapter**: ~4,000-4,500 words typically
 
 ## Current Status (as of context)
-- **Parts I & II**: Complete (24 chapters, including new Ch 12: Traces)
-- **Part III**: 3 of 20 chapters written (25-27); includes 4 new Maya POV chapters (34, 39, 41, 43)
-- **Part IV**: Detailed outline exists; none written yet
-- **Active work area**: Part III (Chapters 28-44)
+- **Parts I & II**: Complete (25 chapters, including new Ch 10: Before and Ch 13: Traces)
+- **Part III**: 22 chapters written (26-47); includes new Ch 27: Reckoning, Ch 36: Breaking, plus 4 Maya POV chapters
+- **Part IV**: 13 chapters written (48-60); includes new Ch 50: Gathering, Ch 57: Last Office
+- **Active work area**: Revision and polish
 
 ## File Conventions
 - All content is Markdown (`.md` files only)
@@ -87,10 +87,10 @@ Buddhist philosophy meets hard SF: impermanence, presence, meaning without perma
 - **David's work history**: Solar array maintenance since before detection (~Year -1); 9+ years by Year 8
 - **Marcus Reyes arc**: Elena's assistant Years -6 to 2 (8 years service), leaves Antarctica Year 2 for Mumbai, teaches refugee children Years 3-15, maintains quarterly correspondence with Elena, encounters Kenji in Mumbai Year 5, returns to Antarctica Year 15 Month 1 (final 3 months), helps teach with Ibrahim and Kenji, witnesses end with chosen family
 - **Two Marcuses**: Marcus Reyes (assistant, then Mumbai teacher) vs. Marcus Rivera (opponent, then deputy mayor) - both the same age, different journeys, both Elena's chosen family
-- **Ten Ox-Herding Pictures**: Zen teaching introduced Ch 12 (Tokyo, Year 2 M11); maps Kenji's journey: Pic 1 (seeking-Ch11), Pic 2 (traces-Ch12), Pic 3 (glimpsing-Ch19), Pic 4 (catching-Ch27), Pic 5 (taming-Ch29), Pic 6-7 (riding/ox forgotten-Ch36), Pic 8 (self forgotten-Ch48), Pic 9 (returning to source-Ch53), Pic 10 (marketplace-Ch55); teaching transmitted to Maya; novel's title "Home" = Picture 9
+- **Ten Ox-Herding Pictures**: Zen teaching introduced Ch 13 (Tokyo, Year 2 M11); maps Kenji's journey: Pic 1 (seeking-Ch12), Pic 2 (traces-Ch13), Pic 3 (glimpsing-Ch20), Pic 4 (catching-Ch29), Pic 5 (taming-Ch31), Pic 6-7 (riding/ox forgotten-Ch39), Pic 8 (self forgotten-Ch52), Pic 9 (returning to source-Ch58), Pic 10 (marketplace-Ch60); teaching transmitted to Maya; novel's title "Home" = Picture 9
 - **Kenji's Physical Practices**: Tokyo Year 1-2: zazen and kinhin (walking meditation) intellectualized, not embodied; Mumbai Year 5: yoga/asana analyzed instead of felt; realizes pattern across cities—using body to achieve mental state instead of presence through action; Lagos Year 8: Wei's garden work finally teaches embodied presence—watering plants requires being here, not trying to be present; breakthrough understanding that presence emerges from task, not from seeking presence
-- **Maya's Four POV Chapters** (NEW): Ch 34 (Awakening - age 13, Buddha's encounter with death), Ch 39 (Questions - age 15, doubt phase), Ch 41 (Deepening - age 16, first teaching), Ch 43 (Readiness - age 17, rage and gratitude before migration); shows her journey from encountering death to embracing presence; 2 years 8 months total practice (Year 11 M8 to Year 15 M4)
-- **Daniel Okonkwo arc**: Side character making violence/suicide statistics visceral; Year 2: kills friend Raj Patel with rebar over food during District 7 riot, sentenced to 15 years; Marcus Reyes advocates pardon before leaving, Elena refuses; Year 4: Marcus Rivera challenges her decision; Year 6: Elena visits prison, sees his three children (mother died Year 3 suicide), 200+ unanswered letters to victim's widow; Year 10: Wei's letter about mercy prompts reflection; Year 11: Kenji's return surfaces unresolved guilt; Year 13 M9: Prison guard helps Daniel's cellmate (release date one day after impact) escape, finds the absurdity unbearable, abandons post; Daniel refuses to leave despite open cell, stays to serve his time, still consumed by guilt; Year 14 M8: Daniel commits suicide (wants to die present, not guilty); Year 15: Elena learns of death in Ch 51, realizes mercy would have been wiser than justice—forgiveness too late; thematic exploration of justice vs. mercy, consequence vs. compassion when time is short, absurdity of institutional time when all time ends
+- **Maya's Four POV Chapters**: Ch 37 (Awakening - age 13, Buddha's encounter with death), Ch 42 (Questions - age 15, doubt phase), Ch 44 (Deepening - age 16, first teaching), Ch 46 (Readiness - age 17, rage and gratitude before migration); shows her journey from encountering death to embracing presence; 2 years 8 months total practice (Year 11 M8 to Year 15 M4)
+- **Daniel Okonkwo arc**: Side character making violence/suicide statistics visceral; Year 2: kills friend Raj Patel with rebar over food during District 7 riot, sentenced to 15 years; Marcus Reyes advocates pardon before leaving, Elena refuses; Year 4: Marcus Rivera challenges her decision; Year 6: Elena visits prison, sees his three children (mother died Year 3 suicide), 200+ unanswered letters to victim's widow; Year 10: Wei's letter about mercy prompts reflection; Year 11: Kenji's return surfaces unresolved guilt; Year 13 M9: Prison guard helps Daniel's cellmate (release date one day after impact) escape, finds the absurdity unbearable, abandons post; Daniel refuses to leave despite open cell, stays to serve his time, still consumed by guilt; Year 14 M8: Daniel commits suicide (wants to die present, not guilty); Year 15: Elena learns of death in Ch 55, realizes mercy would have been wiser than justice—forgiveness too late; thematic exploration of justice vs. mercy, consequence vs. compassion when time is short, absurdity of institutional time when all time ends
 - **Linnea Andersson arc**: Side character making drug/addiction crisis visceral; Swedish biologist (studied trees), age 22 Year 0; meets Kenji at Lagos party Day 72, both using substances; Kenji encounters her Mumbai Year 5 (deep addiction, refugee quarter); part of Ibrahim's community Years 8-11 (Min-seo, Derek, Fatima help keep her alive); Ibrahim brings her to Kenji's teaching Year 11-12; begins recovery through presence practice; embodies hope that transformation possible even after years of addiction; human face of 520% increase in drug deaths; represents path Kenji escaped and later helps heal
 - **Soso Kim arc**: Side character making climate/extinction crisis visceral through animal care; Korean-American, age 35 Year 0, orphaned age 2 (Year -33 transport accident); District 12 Dog Adoption Center administrator, Antarctica; fierce environmentalist who grieves species humanity never witnessed; Year 0 Day 42 center sees first abandonment spike (people fleeing), Day 58 adoption spike (seeking companionship); Year 0-2 maintains standards (careful placements); Year 3-5 erosion—any home better than none; Year 6-8 center becomes community space, volunteers seeking presence with life not outcomes; Year 9 volunteer brings her to Kenji's teaching; Year 10-11 attends while grieving "born too late"—all the wilderness never seen; Year 12-13 practice transforms grief from lost past to present life; Year 14 center becomes satellite teaching space, animal care as embodied presence; Year 15 brings final twelve dogs to convergence site; teaches environmental grief, caretaking as practice, witnessing any life fully as witnessing all life; embodies Earth 3025's completed climate collapse, species loss, and transformation of ecological mourning through presence
 - **Barak Naveh arc**: Side character making justice system and personal responsibility visceral; Israeli, age 33 Year 0, imprisoned for violent crime committed during fear/chaos; served sentence with full acceptance of responsibility; scheduled release one day after impact (absurd institutional time); Year 13 M9 prison guard opens cell, Barak walks out quietly while cellmate Daniel Okonkwo refuses to leave—respects Daniel's choice; Years 13-15 lives free in Antarctica, joins Kenji's teaching circle; his presence teaches that guilt can shape rather than destroy, that accepting consequences doesn't require self-destruction, that dignity persists through and after failure; speaks simply, moves deliberately, listens deeply; creates safety through presence that lets others be honest; appreciates freedom viscerally—sunlight, space, silence, choice all sacred after confinement; embodies the wisdom that comes from years of reflection, the possibility of transformation without redemption narrative, and the quiet strength of carrying your past without being defined by it; shows difference between Daniel's guilt-consumed path and one of acceptance; teaches by being, not speaking
@@ -119,124 +119,132 @@ Buddhist philosophy meets hard SF: impermanence, presence, meaning without perma
 **Chapter 9: Anniversary** - One year after detection—seven POVs showing how each character has changed or not changed.
 
 ### PART II: FRACTURE (Years 1-7)
-**Chapters: 14**
+**Chapters: 16**
 
-**Chapter 10: Defiance** - Zara gives birth to Kofi, choosing to bring life into a world with fifteen years left.
+**Chapter 10: Before** - NEW. David pre-detection flashback (Year -1); morning domesticity with Amara, making eggs, Amara discussing new methodology that will find the asteroid; the promise to stay that didn't hold.
 
-**Chapter 11: Departure** - Kenji leaves Antarctica to search the world for philosophical answers to mortality.
+**Chapter 11: Defiance** - Zara gives birth to Kofi, choosing to bring life into a world with fifteen years left.
 
-**Chapter 12: Traces** - Kenji at Tokyo monastery Year 2 learns the Ten Ox-Herding Pictures; Roshi tells him he's still on Picture One (seeking); seventeen breaths of presence.
+**Chapter 12: Departure** - Kenji leaves Antarctica to search the world for philosophical answers to mortality.
 
-**Chapter 13: Election** - Elena runs for re-election Year 2; Marcus challenges her; democracy persists despite doom. DANIEL OKONKWO INTRODUCED: District 7 riot, Daniel kills friend Raj Patel over food, arrested in horror, Elena visits holding cell, Marcus Reyes advocates pardon before leaving for Mumbai, Elena refuses.
+**Chapter 13: Traces** - Kenji at Tokyo monastery Year 2 learns the Ten Ox-Herding Pictures; Roshi tells him he's still on Picture One (seeking); seventeen breaths of presence.
 
-**Chapter 14: Breakdown** - Ibrahim wounded in Jerusalem fighting Year 2, evacuated to Antarctica, loses everything. Arrives Year 3, Month 2.
+**Chapter 14: Election** - Elena runs for re-election Year 2; Marcus challenges her; democracy persists despite doom. DANIEL OKONKWO INTRODUCED: District 7 riot, Daniel kills friend Raj Patel over food, arrested in horror, Elena visits holding cell, Marcus Reyes advocates pardon before leaving for Mumbai, Elena refuses.
 
-**Chapter 15: Maintenance** - David finds meaning in maintaining solar arrays that will function until impact.
+**Chapter 15: Breakdown** - Ibrahim wounded in Jerusalem fighting Year 2, evacuated to Antarctica, loses everything. Arrives Year 3, Month 2.
 
-**Chapter 16: Numb** - Amara, four years after detection, completely numb and isolated; David leaves her.
+**Chapter 16: Maintenance** - David finds meaning in maintaining solar arrays that will function until impact.
 
-**Chapter 17: Governance** - Elena governs a collapsing civilization, maintaining dignity through impossible circumstances. DANIEL: Year 4 prison report, Marcus Rivera challenges Elena's decision, Elena defends choosing justice over mercy but doubt lingers.
+**Chapter 17: Numb** - Amara, four years after detection, completely numb and isolated; David leaves her.
 
-**Chapter 18: Teaching** - Wei teaches presence to Zara's family and others in Lagos as years pass.
+**Chapter 18: Governance** - Elena governs a collapsing civilization, maintaining dignity through impossible circumstances. DANIEL: Year 4 prison report, Marcus Rivera challenges Elena's decision, Elena defends choosing justice over mercy but doubt lingers.
 
-**Chapter 19: Wandering** - Kenji travels the world seeking answers, finding intellectual knowledge but no emotional integration; realizes he's on Picture Three (glimpsing the ox).
+**Chapter 19: Teaching** - Wei teaches presence to Zara's family and others in Lagos as years pass.
 
-**Chapter 20: Community** - Zara builds community in Lagos around Wei's garden and presence practice.
+**Chapter 20: Wandering** - Kenji travels the world seeking answers, finding intellectual knowledge but no emotional integration; realizes he's on Picture Three (glimpsing the ox).
 
-**Chapter 21: Mandate** - Elena runs unopposed Year 6; her authority shifts from electoral to demonstrated through presence. DANIEL: Prison visit—Elena sees his devastation, three children motherless (wife's suicide Year 3), 200+ letters to Raj's widow unanswered; Elena doesn't change decision but questions whether she was wrong.
+**Chapter 21: Community** - Zara builds community in Lagos around Wei's garden and presence practice.
 
-**Chapter 22: Drift** - Ibrahim drifts in Antarctica Year 6, unemployed, limping, faithless, counting steps, barely alive. Connects with Min-seo, Derek, Fatima.
+**Chapter 22: Mandate** - Elena runs unopposed Year 6; her authority shifts from electoral to demonstrated through presence. DANIEL: Prison visit—Elena sees his devastation, three children motherless (wife's suicide Year 3), 200+ letters to Raj's widow unanswered; Elena doesn't change decision but questions whether she was wrong.
 
-**Chapter 23: Arrays** - David maintains solar arrays with robot 47B, finding partnership and purpose.
+**Chapter 23: Drift** - Ibrahim drifts in Antarctica Year 6, unemployed, limping, faithless, counting steps, barely alive. Connects with Min-seo, Derek, Fatima.
 
-**Chapter 24: Connection** - Amara finally calls Zara after seven years of silence, beginning to reconnect.
+**Chapter 24: Arrays** - David maintains solar arrays with robot 47B, finding partnership and purpose.
+
+**Chapter 25: Connection** - Amara finally calls Zara after seven years of silence, beginning to reconnect.
 
 ### PART III: SEARCHING (Years 8-15 Month 1)
-**Chapters: 20** (includes 4 new Maya POV chapters showing her awakening and development)
+**Chapters: 22** (includes 4 Maya POV chapters and 2 new chapters: Reckoning, Breaking)
 
-**Chapter 25: Threshold** - Amara and David, divorced for four years, meet at his door to try reconnecting. David mentions Ibrahim, his work colleague.
+**Chapter 26: Threshold** - Amara and David, divorced for four years, meet at his door to try reconnecting. David mentions Ibrahim, his work colleague.
 
-**Chapter 26: Competence** - Ibrahim, fourteen months into solar array maintenance work after four years unemployed, realizes he's competent and no longer wants to die.
+**Chapter 27: Reckoning** - NEW. David and Amara's emotional confrontation (Year 8); David says "You left first. Before I did."; Amara acknowledges choosing asteroid over marriage; resolution through staying, making rice together.
 
-**Chapter 27: Stay** - Kenji, exhausted from six years of seeking, finds Wei's garden in Lagos and begins to learn presence; Wei teaches him about Picture Four (catching the ox).
+**Chapter 28: Competence** - Ibrahim, fourteen months into solar array maintenance work after four years unemployed, realizes he's competent and no longer wants to die.
 
-**Chapter 28: Roots** - Zara and family reunite with Amara in Lagos; sisters reconnect after nine years apart.
+**Chapter 29: Stay** - Kenji, exhausted from six years of seeking, finds Wei's garden in Lagos and begins to learn presence; Wei teaches him about Picture Four (catching the ox).
 
-**Chapter 29: Practice** - Kenji discovers he's ready to teach when he responds to a terrified mother seeking wisdom; Wei confirms he's reached Picture Five (taming the ox).
+**Chapter 30: Roots** - Zara and family reunite with Amara in Lagos; sisters reconnect after nine years apart.
 
-**Chapter 30: Letter** - Elena receives letter from Wei and understands her role as chosen witness, not failed governor.
+**Chapter 31: Practice** - Kenji discovers he's ready to teach when he responds to a terrified mother seeking wisdom; Wei confirms he's reached Picture Five (taming the ox).
 
-**Chapter 31: Sunrise** - David brings Amara to Platform 73 and tells her he's leaving the arrays in Year 13 to move to Lagos with her.
+**Chapter 32: Letter** - Elena receives letter from Wei and understands her role as chosen witness, not failed governor.
 
-**Chapter 32: Community** - Ibrahim realizes he has roots when Min-seo, Derek, and Fatima gather for intentional dinner together after four years of keeping each other alive.
+**Chapter 33: Sunrise** - David brings Amara to Platform 73 and tells her he's leaving the arrays in Year 13 to move to Lagos with her.
 
-**Chapter 33: Bloom** - Wei dies naturally at 125; final teaching to Kenji about Pictures 6-10; her final words are "The flower bloomed."
+**Chapter 34: Community** - Ibrahim realizes he has roots when Min-seo, Derek, and Fatima gather for intentional dinner together after four years of keeping each other alive.
 
-**Chapter 34: Awakening** - NEW MAYA POV (13 years, 11 months, Year 11 Month 9). One week after Wei's death, Maya awakens to impermanence viscerally (Buddha's encounter with death parallel); intellectual understanding becomes lived experience; makes first vow to live fully; begins teaching Kofi; requests formal study with Kenji.
+**Chapter 35: Bloom** - Wei dies naturally at 125; final teaching to Kenji about Pictures 6-10; her final words are "The flower bloomed."
 
-**Chapter 35: Legacy** - Kenji, six months after Wei's death, doubts his teaching; Maya (nearly 14) arrives asking to learn everything; Kenji accepts her as student.
+**Chapter 36: Breaking** - NEW. Zara's private collapse (Year 11 Month 9, three days after Wei's death); bathroom breakdown; Ling's wisdom; the cost of being the steady one; recovery through holding children.
 
-**Chapter 36: Return** - Kenji returns to Antarctica after 11 years; Elena reunites with her son; he establishes presence teaching there.
+**Chapter 37: Awakening** - MAYA POV (13 years, 11 months, Year 11 Month 9). One week after Wei's death, Maya awakens to impermanence viscerally (Buddha's encounter with death parallel); intellectual understanding becomes lived experience; makes first vow to live fully; begins teaching Kofi; requests formal study with Kenji.
 
-**Chapter 37: Migration** - Amara decides to move to Lagos with David for final years to be with family.
+**Chapter 38: Legacy** - Kenji, six months after Wei's death, doubts his teaching; Maya (nearly 14) arrives asking to learn everything; Kenji accepts her as student.
 
-**Chapter 38: Farewell** - David says goodbye to Platform 73 and robot 47B after twelve years of maintenance.
+**Chapter 39: Return** - Kenji returns to Antarctica after 11 years; Elena reunites with her son; he establishes presence teaching there.
 
-**Chapter 39: Questions** - NEW MAYA POV (15 years, 6 months, Year 13 Month 9). Maya questions whether practice is wasting her remaining time; feels more confused after 15 months of practice; the doubt persists; realizes questioning IS the practice; chooses presence despite uncertainty.
+**Chapter 40: Migration** - Amara decides to move to Lagos with David for final years to be with family.
 
-**Chapter 40: Transmission** - Zara watches knowledge transmit: Amara teaching Maya physics, David teaching Kofi engineering; family converges after three months together.
+**Chapter 41: Farewell** - David says goodbye to Platform 73 and robot 47B after twelve years of maintenance.
 
-**Chapter 41: Deepening** - NEW MAYA POV (16 years, 9 months, Year 14 Month 12). Practice deepening; first time teaching others; stopped needing answers; understanding presence TO fear vs consumed BY fear; preparing for migration; 2 years 8 months of total practice complete.
+**Chapter 42: Questions** - MAYA POV (15 years, 6 months, Year 13 Month 9). Maya questions whether practice is wasting her remaining time; feels more confused after 15 months of practice; the doubt persists; realizes questioning IS the practice; chooses presence despite uncertainty.
 
-**Chapter 42: Offering** - Ibrahim begins offering wisdom to young people in Kenji's circle; teaching through presence. LINNEA RETURNS: Ibrahim brings Linnea to the teaching session; Kenji recognizes her after 13-14 years—she's barely surviving years of addiction; reunion haunted by guilt and parallel paths; her recovery journey begins through presence practice.
+**Chapter 43: Transmission** - Zara watches knowledge transmit: Amara teaching Maya physics, David teaching Kofi engineering; family converges after three months together.
 
-**Chapter 43: Readiness** - NEW MAYA POV (17 years, 2 months, Year 15 Month 3). Final reflection before migration; accounting what she had and never had; rage at dying young; understanding practice didn't fix anything, just enables presence; final teaching session; updated vow to die awake; gratitude despite everything.
+**Chapter 44: Deepening** - MAYA POV (16 years, 9 months, Year 14 Month 12). Practice deepening; first time teaching others; stopped needing answers; understanding presence TO fear vs consumed BY fear; preparing for migration; 2 years 8 months of total practice complete.
 
-**Chapter 44: Journey** - Zara's family travels from Lagos to Antarctica for the final months; family converges.
+**Chapter 45: Offering** - Ibrahim begins offering wisdom to young people in Kenji's circle; teaching through presence. LINNEA RETURNS: Ibrahim brings Linnea to the teaching session; Kenji recognizes her after 13-14 years—she's barely surviving years of addiction; reunion haunted by guilt and parallel paths; her recovery journey begins through presence practice.
+
+**Chapter 46: Readiness** - MAYA POV (17 years, 2 months, Year 15 Month 3). Final reflection before migration; accounting what she had and never had; rage at dying young; understanding practice didn't fix anything, just enables presence; final teaching session; updated vow to die awake; gratitude despite everything.
+
+**Chapter 47: Journey** - Zara's family travels from Lagos to Antarctica for the final months; family converges.
 
 ### PART IV: CONVERGENCE (Year 15 - Final Year)
-**Chapters: 12**
+**Chapters: 13** (includes 2 new chapters: Gathering, Last Office)
 
-**Chapter 45: Arrival** - Amara's family arrives in Antarctica; three months until impact, family finally together.
+**Chapter 48: Arrival** - Amara's family arrives in Antarctica; three months until impact, family finally together.
 
-**Chapter 46: Assembly** - Elena observes final migration—1.8 million people choosing Antarctica as their final place.
+**Chapter 49: Assembly** - Elena observes final migration—1.8 million people choosing Antarctica as their final place.
 
-**Chapter 47: Seventeen** - Maya at seventeen years, three months in Antarctica; ninety-day intensive training with Kenji begins; fierce commitment to learning.
+**Chapter 50: Gathering** - NEW. Multi-POV teaching circle scene (Year 15 Month 2 Day 18); Elena, Ibrahim, Priya, Soso, Barak, Maya witnessing community beyond family; Priya's first session; Soso's dogs; Barak's quiet presence.
 
-**Chapter 48: Moment** - Kenji realizes he's reached Picture 8 (both ox and self forgotten) while teaching; Maya requests daily intensive sessions for remaining three months.
+**Chapter 51: Seventeen** - Maya at seventeen years, three months in Antarctica; ninety-day intensive training with Kenji begins; fierce commitment to learning.
 
-**Chapter 49: Meaning** - David and Maya on Platform 73 discuss why maintenance matters when nothing lasts.
+**Chapter 52: Moment** - Kenji realizes he's reached Picture 8 (both ox and self forgotten) while teaching; Maya requests daily intensive sessions for remaining three months.
 
-**Chapter 50: Both** - Ibrahim and Imam Hassan reconcile; "both/and instead of either/or."
+**Chapter 53: Meaning** - David and Maya on Platform 73 discuss why maintenance matters when nothing lasts.
 
-**Chapter 51: Dignity** - Elena's final lessons on facing the end with dignity; thirty days remain. DANIEL: Elena learns Daniel died by suicide Year 14 Month 8; final dignity chapter becomes about forgiveness too late, mercy would have been wiser than justice.
+**Chapter 54: Both** - Ibrahim and Imam Hassan reconcile; "both/and instead of either/or."
 
-**Chapter 52: Twenty-Six** - Twenty-six days before impact—brief vignettes from all POVs, everyone in chosen places.
+**Chapter 55: Dignity** - Elena's final lessons on facing the end with dignity; thirty days remain. DANIEL: Elena learns Daniel died by suicide Year 14 Month 8; final dignity chapter becomes about forgiveness too late, mercy would have been wiser than justice.
 
-**Chapter 53: Seven** - Zara's final week with her family; embodies Picture 9 (returning to source—home was always here); seven days lived normally, presently, fully.
+**Chapter 56: Ordinary** - Twenty-six days before impact—brief vignettes from all POVs, everyone in chosen places.
 
-**Chapter 54: Countdown** - Final day, hour by hour; everyone in their places as countdown accelerates.
+**Chapter 57: Last Office** - NEW. Elena's transition from governance to pure witness (Day 19); final constituent petition; Marcus Reyes returns from Mumbai with students; two Marcuses dinner; processing Daniel Okonkwo choice.
 
-**Chapter 55: Light** - Final forty-seven seconds; Kenji and Maya teaching others (Picture 10: marketplace with gift-bestowing hands); impact in Pacific; the light consumes everything.
+**Chapter 58: Seven** - Zara's final week with her family; embodies Picture 9 (returning to source—home was always here); seven days lived normally, presently, fully.
 
-**Chapter 56: Home** - Post-human epilogue; consciousness ended but for fifteen years they were present, together, home (Picture 9 realized at species level).
+**Chapter 59: Countdown** - Final day, hour by hour; everyone in their places as countdown accelerates.
+
+**Chapter 60: Home** - Post-human epilogue; consciousness ended but for fifteen years they were present, together, home (Picture 9 realized at species level).
 
 ### Chapter Summary
-**Total Chapters**: 56
-- **Part I (Detection)**: 9 chapters
-- **Part II (Fracture)**: 15 chapters (includes new Chapter 12: Traces)
-- **Part III (Searching)**: 20 chapters (includes 4 new Maya POV chapters: 34, 39, 41, 43)
-- **Part IV (Convergence)**: 12 chapters
+**Total Chapters**: 60
+- **Part I (Detection)**: 9 chapters (1-9)
+- **Part II (Fracture)**: 16 chapters (10-25) — includes new Chapter 10: Before
+- **Part III (Searching)**: 22 chapters (26-47) — includes new Chapters 27: Reckoning, 36: Breaking, plus 4 Maya POV chapters
+- **Part IV (Convergence)**: 13 chapters (48-60) — includes new Chapters 50: Gathering, 57: Last Office
 
 **Main Character Arcs**:
 - **Amara**: Calculation → Numbness → Reconnection → Migration → Presence
 - **Zara**: Towers → Defiance → Community → Roots → Seven Days
 - **Elena**: Witness → Mandate → Letter → Dignity → Complete
-- **David**: Maintenance → Arrays → Farewell → Meaning → Light
+- **David**: Before → Maintenance → Arrays → Farewell → Meaning
 - **Kenji**: Purpose → Wandering (Pic 1-3) → Stay (Pic 4) → Practice (Pic 5) → Moment (Pic 8)
 - **Ibrahim**: Faith → Drift → Competence → Offering → Both
 - **Wei**: Garden → Teaching → Stay → Witness → Bloom
-- **Maya**: (childhood innocence) → Awakening (Ch 34: Wei's death, age 13) → Questions (Ch 39: doubt phase, age 15) → Deepening (Ch 41: first teaching, age 16) → Readiness (Ch 43: rage and gratitude, age 17) → Seventeen (Ch 47: intensive training) → Light (Ch 55: teaching others, Pic 10)
+- **Maya**: (childhood innocence) → Awakening (Ch 37: Wei's death, age 13) → Questions (Ch 42: doubt phase, age 15) → Deepening (Ch 44: first teaching, age 16) → Readiness (Ch 46: rage and gratitude, age 17) → Seventeen (Ch 51: intensive training)
 
 ## Collaboration Guidelines
 When working on chapters or outlines:

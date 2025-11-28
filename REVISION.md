@@ -29,30 +29,31 @@ This document tracks the revision pass following the editorial letter. The goal 
 
 ### A. Part II Compression (Target: 10-15% cuts)
 
-**Chapters to Audit:**
+**Chapters to Audit (NEW NUMBERING — Part II is now Ch 10-25):**
 | Chapter | Title | Current Focus | Cut Targets |
 |---------|-------|---------------|-------------|
-| 10 | Defiance | Kofi's birth | ✅ Strong, minimal cuts |
-| 11 | Departure | Kenji leaves | Review for redundancy |
-| 12 | Traces | Tokyo monastery | ✅ Strong, keep |
-| 13 | Election | Elena's campaign | Review inner monologue |
-| 14 | Breakdown | Ibrahim wounded | Review prolonged recovery |
-| 15 | Maintenance | David's work | ✅ Strong, keep |
-| 16 | Numb | Amara's plateau | **Primary cut target** |
-| 17 | Governance | Elena governing | Review repetitive reflection |
-| 18 | Teaching | Wei teaching | ✅ Strong, keep |
-| 19 | Wandering | Kenji seeking | Review internal repetition |
-| 20 | Community | Zara's compound | Review for pace |
-| 21 | Mandate | Elena unopposed | Review pacing |
-| 22 | Drift | Ibrahim drifting | **Secondary cut target** |
-| 23 | Arrays | David + 47B | ✅ Strong, keep |
-| 24 | Connection | Amara calls Zara | ✅ Strong, keep |
+| 10 | Before | NEW - David pre-detection flashback | N/A (new content) |
+| 11 | Defiance | Kofi's birth | ✅ Strong, minimal cuts |
+| 12 | Departure | Kenji leaves | Review for redundancy |
+| 13 | Traces | Tokyo monastery | ✅ Strong, keep |
+| 14 | Election | Elena's campaign | Review inner monologue |
+| 15 | Breakdown | Ibrahim wounded | Review prolonged recovery |
+| 16 | Maintenance | David's work | ✅ Strong, keep |
+| 17 | Numb | Amara's plateau | **Primary cut target** |
+| 18 | Governance | Elena governing | Review repetitive reflection |
+| 19 | Teaching | Wei teaching | ✅ Strong, keep |
+| 20 | Wandering | Kenji seeking | Review internal repetition |
+| 21 | Community | Zara's compound | Review for pace |
+| 22 | Mandate | Elena unopposed | Review pacing |
+| 23 | Drift | Ibrahim drifting | **Secondary cut target** |
+| 24 | Arrays | David + 47B | ✅ Strong, keep |
+| 25 | Connection | Amara calls Zara | ✅ Strong, keep |
 
 **Primary Cut Targets:**
-- Chapter 16 (Numb): Amara's numbness plateau — cut repetitive internal conclusions
-- Chapter 22 (Drift): Ibrahim's drift — show more, reflect less
-- Chapter 14 (Breakdown): Condense hospital recovery
-- Chapter 19 (Wandering): Cut repetitive seeking monologue
+- Chapter 17 (Numb): Amara's numbness plateau — cut repetitive internal conclusions
+- Chapter 23 (Drift): Ibrahim's drift — show more, reflect less
+- Chapter 15 (Breakdown): Condense hospital recovery
+- Chapter 20 (Wandering): Cut repetitive seeking monologue
 
 **Status:** [ ] Not Started
 
@@ -64,19 +65,19 @@ This document tracks the revision pass following the editorial letter. The goal 
 |---------|-----------|--------------|
 | 2 - Towers | Zara | Added Lagos sensory (heat, humidity, pancake smell), physical motherhood, embodied processing, compressed ending |
 | 5 - Garden | Wei | Added grandmother Jiayi, husband Li Chen, dry humor, specific aging details (joints, wet slippers), shorter philosophy |
-| 10 - Defiance | Zara | Added Lagos hospital sensory, physical labor sensation, grounded Amara estrangement in physical space |
-| 15 - Maintenance | David | Cut abstract "when did we stop" monologue, added physical absence (dusty coffee maker), compressed ending |
-| 18 - Teaching | Wei | Added dry humor ("advanced technique"), physical aging specifics (glaucoma, hip), wry observations about priests and seekers |
-| 20 - Community | Zara | Added Lagos sensory (plantain smell, diesel note, Mr. Okonkwo's radio), engineer-voice specificity, physical caregiving with Wei |
-| 23 - Arrays | David | Major compression: cut repetitive "enough/almost enough" ending (~100 lines cut), showed through physical work not abstract thought |
-| 31 - Sunrise | David | Light compression of ending, kept strong 47B emotional core |
+| 11 - Defiance (was 10) | Zara | Added Lagos hospital sensory, physical labor sensation, grounded Amara estrangement in physical space |
+| 16 - Maintenance (was 15) | David | Cut abstract "when did we stop" monologue, added physical absence (dusty coffee maker), compressed ending |
+| 19 - Teaching (was 18) | Wei | Added dry humor ("advanced technique"), physical aging specifics (glaucoma, hip), wry observations about priests and seekers |
+| 21 - Community (was 20) | Zara | Added Lagos sensory (plantain smell, diesel note, Mr. Okonkwo's radio), engineer-voice specificity, physical caregiving with Wei |
+| 24 - Arrays (was 23) | David | Major compression: cut repetitive "enough/almost enough" ending (~100 lines cut), showed through physical work not abstract thought |
+| 33 - Sunrise (was 31) | David | Light compression of ending, kept strong 47B emotional core |
 
 **Maya Early Seeding — COMPLETE:**
 | Chapter | Age | Seed Planted |
 |---------|-----|--------------|
 | 5 - Garden | 2 | Emphasized her natural presence/attention with flowers; Wei observes "children have it naturally, then life teaches them to live elsewhere" |
-| 18 - Teaching | 7 | **BUDDHA'S FOUR SIGHTS STORY** planted here (referenced in Ch 34 awakening); Wei tells Maya about Siddhartha, explains difference between "knowing" and "seeing" death; Maya files it away for later |
-| 20 - Community | 8 | Added Wei's early observation: "This one sees what's actually there. Most people stop looking that carefully by age five. Watch her." Connects to her capacity for presence |
+| 19 - Teaching (was 18) | 7 | **BUDDHA'S FOUR SIGHTS STORY** planted here (referenced in Ch 37 awakening); Wei tells Maya about Siddhartha, explains difference between "knowing" and "seeing" death; Maya files it away for later |
+| 21 - Community (was 20) | 8 | Added Wei's early observation: "This one sees what's actually there. Most people stop looking that carefully by age five. Watch her." Connects to her capacity for presence |
 
 **Pattern Fixes Applied:**
 - Broke "Short sentence. Another. Emotional beat." overuse
@@ -94,7 +95,7 @@ This document tracks the revision pass following the editorial letter. The goal 
 
 #### PRIORITY 1: Amara + David Real Conversation
 
-**Current Gap:** Ch 25 (Threshold) shows David arriving at Amara's door. They have breakfast, awkward hope. Then Ch 31 (Sunrise) jumps to Year 10 — they're already dating, already planning Lagos move. The actual emotional reckoning happened offscreen.
+**Current Gap:** Ch 26 (Threshold) shows David arriving at Amara's door. They have breakfast, awkward hope. Then Ch 33 (Sunrise) jumps to Year 10 — they're already dating, already planning Lagos move. The actual emotional reckoning happened offscreen.
 
 **What's Missing:**
 - How did they process the divorce? The years of silence?
@@ -112,13 +113,13 @@ This document tracks the revision pass following the editorial letter. The goal 
   - Physical presence as the healing act
   - End with something simple: making a meal together, or just sitting
 - **POV:** David (underwritten — needs more interiority)
-- **Placement:** Could expand Ch 25 significantly, or new chapter between 25-28
-- **Status:** [x] COMPLETED — Created `25b-reckoning.md`
+- **Placement:** New chapter between Threshold and Roots
+- **Status:** [x] COMPLETED — Now `27-reckoning.md`
   - Year 8, Month 8, Lagos District
   - David POV throughout
   - Core confrontation: Amara chose asteroid over marriage
   - Resolution through staying in room, making rice together
-  - ~370 lines, fits between Ch 25 (Threshold) and Ch 28 (Roots)
+  - ~370 lines, fits between Ch 26 (Threshold) and Ch 30 (Roots)
 
 ---
 
@@ -132,10 +133,10 @@ This document tracks the revision pass following the editorial letter. The goal 
 - The feeling of many people choosing to face the end together
 
 **Proposed Scene: "Gathering" (new chapter)**
-- **Timing:** Year 15, Month 2 (between Ch 46 Assembly and Ch 52 Ordinary)
+- **Timing:** Year 15, Month 2 (between Assembly and Ordinary)
 - **Location:** Antarctica communal space or Kenji's teaching circle
 - **Content:**
-  - Multi-POV chapter (like Ch 52 but earlier)
+  - Multi-POV chapter (like Ordinary but earlier)
   - Characters who've never shared scenes interact:
     - Ibrahim meets Zara's family
     - Derek (adaptive swimming) encounters Maya
@@ -145,19 +146,19 @@ This document tracks the revision pass following the editorial letter. The goal 
   - Not dramatic — just: people breathing same air, becoming community
   - Physical details: food shared, space navigated, bodies in proximity
 - **POV:** Rotating brief sections OR observer POV (Elena watching)
-- **Placement:** New chapter ~47.5 or expand Ch 46
-- **Status:** [x] COMPLETED — Created `46b-gathering.md`
+- **Placement:** New chapter between Assembly and Seventeen
+- **Status:** [x] COMPLETED — Now `50-gathering.md`
   - Year 15, Month 2, Day 18
   - Multi-POV: Elena, Ibrahim, Priya, Soso, Barak, Maya, Elena again
   - Shows teaching circle as community beyond family
   - Key moments: Priya's first session, Soso's dogs/Maya connection, Barak witnessing Priya's grief
-  - ~450 lines, fits between Ch 46 (Assembly) and Ch 47 (Seventeen)
+  - ~450 lines, fits between Ch 49 (Assembly) and Ch 51 (Seventeen)
 
 ---
 
 #### PRIORITY 3: Extended Final Week Content
 
-**Current Gap:** Ch 53 (Seven) is Zara's chapter about the final week. Ch 54 (Countdown) is final day. The week between Day 26 (Ch 52) and Day 7 (Ch 53) is mostly unnarrated.
+**Current Gap:** Ch 58 (Seven) is Zara's chapter about the final week. Ch 59 (Countdown) is final day. The week between Day 26 (Ch 56) and Day 7 (Ch 58) is mostly unnarrated.
 
 **What's Missing:**
 - What do people actually DO in the final weeks?
@@ -173,8 +174,8 @@ This document tracks the revision pass following the editorial letter. The goal 
 - Focus on physical, sensory, present-moment detail
 - No drama — just: being there
 
-**Status:** [x] COMPLETED — Created `52b-last-office.md`
-  - Day 19 (fills 19-day gap between Ch 52 Day 26 and Ch 53 Day 7)
+**Status:** [x] COMPLETED — Now `57-last-office.md`
+  - Day 19 (fills 19-day gap between Ch 56 Ordinary (Day 26) and Ch 58 Seven (Day 7))
   - Elena POV throughout
   - Key scenes: Final constituent petition (Yolanda Chen), Marcus Reyes returns from Mumbai with students, Two Marcuses dinner reunion, Elena processing Daniel Okonkwo choice
   - Transition from governance to witness
@@ -188,8 +189,8 @@ This document tracks the revision pass following the editorial letter. The goal 
 - One scene showing who he was before detection
 - Marriage to Amara when it worked
 - Establishes what was lost, grounds the reunion
-- Could be embedded in existing chapter (Ch 31?) as memory
-- **Status:** [x] COMPLETED — Created `08b-before.md`
+- Could be embedded in existing chapter or standalone
+- **Status:** [x] COMPLETED — Now `10-before.md`
   - Year -1, Month 6 (eight months before detection)
   - David POV throughout
   - Key scenes: Making real eggs for Amara, morning domesticity, Amara discussing her new methodology, evening intimacy
@@ -202,7 +203,7 @@ This document tracks the revision pass following the editorial letter. The goal 
 - One scene where she privately falls apart
 - Could be Year 11 after Wei's death, or Year 15 facing Maya's death
 - Shows cost of being the anchor
-- **Status:** [x] COMPLETED — Created `33b-breaking.md`
+- **Status:** [x] COMPLETED — Now `36-breaking.md`
   - Year 11, Month 9, Day 3 (three days after Wei's death)
   - Zara POV throughout
   - Key scenes: Bathroom breakdown, Ling's wisdom, recovery through holding children
@@ -212,9 +213,9 @@ This document tracks the revision pass following the editorial letter. The goal 
 **Wei — Non-Teaching Moment:**
 - One scene of Wei just being, not teaching
 - Personal memory, bodily reality, humor without lesson
-- Already partially addressed in Ch 5/18 revisions
+- Already partially addressed in Ch 5/19 revisions
 - Consider: Wei alone in garden at night, talking to Li Chen's tree
-- **Status:** [x] Partially Addressed (revisions to Ch 5, 18)
+- **Status:** [x] Partially Addressed (revisions to Ch 5, 19)
 
 ---
 
@@ -227,14 +228,14 @@ This document tracks the revision pass following the editorial letter. The goal 
 
 **Estimated New Content:** 2-3 new chapters (8,000-12,000 words), plus expansions to existing chapters
 
-**ACTUAL NEW CONTENT CREATED:**
-| File | Chapter | Words | Summary |
-|------|---------|-------|---------|
-| `25b-reckoning.md` | Reckoning | ~2,200 | David + Amara emotional reckoning, Year 8 Month 8 |
-| `46b-gathering.md` | Gathering | ~2,700 | Multi-POV teaching circle, Year 15 Month 2 Day 18 |
-| `52b-last-office.md` | Last Office | ~2,900 | Elena's transition to witness, Day 19 |
-| `33b-breaking.md` | Breaking | ~1,700 | Zara private collapse, Year 11 Month 9 Day 3 |
-| `08b-before.md` | Before | ~1,400 | David pre-detection flashback, Year -1 Month 6 |
+**ACTUAL NEW CONTENT CREATED (NOW RENUMBERED):**
+| File | Chapter # | Words | Summary |
+|------|-----------|-------|---------|
+| `10-before.md` | Ch 10 | ~1,400 | David pre-detection flashback, Year -1 Month 6 |
+| `27-reckoning.md` | Ch 27 | ~2,200 | David + Amara emotional reckoning, Year 8 Month 8 |
+| `36-breaking.md` | Ch 36 | ~1,700 | Zara private collapse, Year 11 Month 9 Day 3 |
+| `50-gathering.md` | Ch 50 | ~2,700 | Multi-POV teaching circle, Year 15 Month 2 Day 18 |
+| `57-last-office.md` | Ch 57 | ~2,900 | Elena's transition to witness, Day 19 |
 | **TOTAL** | **5 chapters** | **~10,900 words** | |
 
 ---
