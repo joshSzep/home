@@ -188,7 +188,7 @@ Buddhist philosophy meets hard SF: impermanence, presence, meaning without perma
 
 **Chapter 41: Farewell** - David says goodbye to Platform 73 and robot 47B after twelve years of maintenance.
 
-**Chapter 42: Questions** - MAYA POV (15 years, 6 months, Year 13 Month 9). Maya questions whether practice is wasting her remaining time; feels more confused after 15 months of practice; the doubt persists; realizes questioning IS the practice; chooses presence despite uncertainty.
+**Chapter 42: Questions** - MAYA POV (15 years, 9 months, Year 13 Month 9). Maya questions whether practice is wasting her remaining time; feels more confused after 15 months of practice; the doubt persists; realizes questioning IS the practice; chooses presence despite uncertainty.
 
 **Chapter 43: Transmission** - Zara watches knowledge transmit: Amara teaching Maya physics, David teaching Kofi engineering; family converges after three months together.
 

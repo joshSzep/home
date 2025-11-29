@@ -84,7 +84,7 @@ Tom finally looked at her. "You're serious? The rooftop garden expansion?"
 
 Lunchtime: visit to Wei's apartment.
 
-The old professor was in her wheelchair on the balcony, surrounded by the garden. Ling, her nurse, had dressed her in a blue cotton wrap that Zara remembered from years ago—faded now, soft from washing. Wei's hands shook worse than last week, the tremor visible even as they rested in her lap. 119 years old. Body finishing its transformation.
+The old professor was in her wheelchair on the balcony, surrounded by the garden. Ling, her nurse, had dressed her in a blue cotton wrap that Zara remembered from years ago—faded now, soft from washing. Wei's hands shook worse than last week, the tremor visible even as they rested in her lap. 120 years old. Body finishing its transformation.
 
 "Professor Wei!" Kofi ran ahead.
 

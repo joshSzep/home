@@ -152,7 +152,7 @@ He'd stayed fourteen months in Cairo. Longer than he should have. The desert sil
 
 So: Mumbai. Year 5, Month 4. Back to embodied practice. The ashram's Hindu-Buddhist hybrid approach—maybe mixing traditions would help where each alone had failed. Five months now of meditation and manual labor and watching himself fail at presence. Same pattern. Different location.
 
-And now: Lagos. One more city. One more teacher. Professor Wei—118 years old, correspondent with his mother, teaching presence and impermanence to anyone who asked. Maybe she'd be different. Maybe age brought wisdom that younger teachers lacked. Maybe meeting someone who'd actually lived with death for over a century would teach him something the books and practices couldn't.
+And now: Lagos. One more city. One more teacher. Professor Wei—119 years old, correspondent with his mother, teaching presence and impermanence to anyone who asked. Maybe she'd be different. Maybe age brought wisdom that younger teachers lacked. Maybe meeting someone who'd actually lived with death for over a century would teach him something the books and practices couldn't.
 
 Or maybe he'd arrive, learn nothing new, leave again. Another stop on the wandering that defined him. Tokyo, Cairo, Mumbai, Lagos. Always moving. Never arriving. Seeking as identity. Avoidance as practice.
 
@@ -322,7 +322,7 @@ He started a reply:
 
 *Nearly four years wandering now. Tokyo taught me I can't stop thinking long enough to meditate properly. Cairo taught me Western philosophy handles death no better than Eastern practice—just different vocabulary for the same failure. Mumbai teaching me the same lessons again. The pattern is exhausting.*
 
-*But Professor Wei writes to you? I'd like to meet her. Zara mentions her sometimes—neighbor, teacher, 118 years old. Maybe she can teach me how to move from glimpsing to catching. How to hold onto the ox when it struggles. Planning to go to Lagos soon. Want to learn from her directly before she dies. Or before I'm too closed off to learn. Whichever comes first.*
+*But Professor Wei writes to you? I'd like to meet her. Zara mentions her sometimes—neighbor, teacher, 119 years old. Maybe she can teach me how to move from glimpsing to catching. How to hold onto the ox when it struggles. Planning to go to Lagos soon. Want to learn from her directly before she dies. Or before I'm too closed off to learn. Whichever comes first.*
 
 *Maybe Lagos will be different. Maybe I'll just keep glimpsing until I die. Both seem possible. Picture Three continuing—seeing but not holding, understanding but not embodying. Four years of wandering. Four years of glimpses. Maybe that's all I'll ever get.*
 
@@ -526,7 +526,7 @@ He was part of that seeking. One seeker among millions. Nothing special. Nothing
 
 The transport climbed. Sky opened. Earth curved below—beautiful, doomed, indifferent.
 
-Kenji thought about Professor Wei. 118 years old. Spent lifetime practicing impermanence. Teaching presence. Offering wisdom to anyone who sought it. She was dying naturally—body failing while mind remained clear. Lucky death. Old death. The kind most humans wouldn't get.
+Kenji thought about Professor Wei. 119 years old. Spent lifetime practicing impermanence. Teaching presence. Offering wisdom to anyone who sought it. She was dying naturally—body failing while mind remained clear. Lucky death. Old death. The kind most humans wouldn't get.
 
 What would she teach him? Same things the ashram taught, probably. Presence. Acceptance. Letting go. The gap between intellectual understanding and embodied experience. But: maybe hearing it from someone who'd actually embodied it would help.
 

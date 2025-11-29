@@ -24,7 +24,7 @@ The station was almost empty now. Amara and two others. Dr. Kim worked day shift
 
 She'd become the face of extinction. "Dr. Amara Okafor, the woman who detected the apocalypse." Her face on every news network. Her data in every briefing. Her calculations describing everyone's death. Famous. Isolated. Numb.
 
-She pulled up Zara's messages. Hadn't opened them in months. The counter read: 127 unread. Her sister had kept trying. Kept sending updates. Photos of Maya. Videos of Kofi—born six months ago, healthy, doomed. Voice messages asking for connection.
+She pulled up Zara's messages. Hadn't opened them in months. The counter read: 127 unread. Her sister had kept trying. Kept sending updates. Photos of Maya. Videos of Kofi—born two months ago, healthy, doomed. Voice messages asking for connection.
 
 Amara read the most recent: *"It's been a year, Amara. A whole year of silence. I don't know if you're getting these. I don't know if you care. But... I'm your sister. Maya is your niece. Kofi is your nephew. We're family. And we have fourteen years left. Please. Just respond."*
 

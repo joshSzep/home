@@ -62,7 +62,7 @@ He's seen teachers before. Studied with masters. Attended ashrams and monasterie
 
 He meets Wei at lunch.
 
-Zara brings him to the balcony garden where the old woman sits in her wheelchair, bowl of soup balanced on a tray. Up close, Wei is ancient—118 years old, Zara said. Her face carries every one of those years. But her eyes are sharp, clear, seeing.
+Zara brings him to the balcony garden where the old woman sits in her wheelchair, bowl of soup balanced on a tray. Up close, Wei is ancient—122 years old, Zara said. Her face carries every one of those years. But her eyes are sharp, clear, seeing.
 
 "Professor Wei, this is Kenji. My cousin from Antarctica. The one I mentioned."
 
@@ -341,7 +341,7 @@ Wei smiles—soft expression, genuine warmth. "Good. Welcome to the garden. Tomo
 
 "Wrong question." Wei's eyes twinkle slightly. "But asking wrong questions is also practice. Come. Tomorrow. Dawn. We'll start again."
 
-Kenji helps Wei back inside—pushing the wheelchair carefully, noticing how frail her body is, how strong her presence. 118 years old. Seven years left maximum, probably less. Teaching until the end. Not because teaching achieves anything. Because teaching is being present to students. That's all. That's enough.
+Kenji helps Wei back inside—pushing the wheelchair carefully, noticing how frail her body is, how strong her presence. 122 years old. Three years left maximum, probably less. Teaching until the end. Not because teaching achieves anything. Because teaching is being present to students. That's all. That's enough.
 
 He returns to Zara's apartment. The guest room. His few belongings. Outside the window: the garden. The lemon tree. The space where he'll return tomorrow at dawn. Where he'll water plants. Where he'll notice his mind seeking and practice returning. Where he'll stay.
 

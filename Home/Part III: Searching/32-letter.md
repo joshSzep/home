@@ -16,7 +16,7 @@ He was right. But she continues anyway. 7:00 AM sharp. Same room. Same ritual. T
 
 Why?
 
-Elena stares at her notes. Population data. Infrastructure reports. Security statistics. Health services updates. All the information she's tracked for a decade, filed carefully in archives no one will read. The documents will vaporize with everything else in five years. Year 15, Month 6, Day 14. Impact. Everything ending.
+Elena stares at her notes. Population data. Infrastructure reports. Security statistics. Health services updates. All the information she's tracked for a decade, filed carefully in archives no one will read. The documents will vaporize with everything else in five years. Year 15, Month 4, Day 14. Impact. Everything ending.
 
 So why document collapse when documentation itself collapses?
 
@@ -168,14 +168,14 @@ Year 10 of long-term sentence (violent assault during crisis event)
 Mental health: stable, remarkable composure  
 Incident reports: 0 (entire sentence)  
 Pardon requests: 0  
-Scheduled release: Year 15, Month 6, Day 15  
+Scheduled release: Year 15, Month 4, Day 15  
 Assessment: Model prisoner. Unusual acceptance of consequence. Staff notes consistent: "calm," "respectful," "uses time for reflection." Never requested early release despite sentence extending one day past impact. When asked, stated: "I committed harm. I accept consequence. The asteroid doesn't change what I did."
 
 Elena stares at the screen. Barak Naveh. Israeli. Forty-three years old. Imprisoned for violent crime committed during "crisis event"—probably Year 0 or 1, fear and chaos driving good people to terrible choices. He's served ten years. Five more to go.
 
-His release date: Year 15, Month 6, Day 15.
+His release date: Year 15, Month 4, Day 15.
 
-Impact date: Year 15, Month 6, Day 14.
+Impact date: Year 15, Month 4, Day 14.
 
 He'll walk free one day after everyone dies.
 
