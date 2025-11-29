@@ -159,9 +159,26 @@
         .quote-author { display: block; margin-top: 30px; font-family: var(--font-display); font-size: 1rem; color: var(--accent-gold); letter-spacing: 2px; }
 
         /* --- THEMES --- */
-        .themes { display: flex; flex-wrap: wrap; justify-content: space-around; text-align: center; }
-        .theme-item { max-width: 300px; margin-bottom: 40px; }
+        .themes { 
+            display: grid; 
+            grid-template-columns: repeat(4, 1fr); 
+            gap: 40px; 
+            text-align: center; 
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        .theme-item { margin-bottom: 20px; }
         .theme-icon { font-size: 2rem; color: var(--accent-gold); margin-bottom: 15px; display: block; }
+
+        @media (max-width: 1024px) {
+            .themes { grid-template-columns: repeat(3, 1fr); }
+        }
+        @media (max-width: 768px) {
+            .themes { grid-template-columns: repeat(2, 1fr); }
+        }
+        @media (max-width: 480px) {
+            .themes { grid-template-columns: 1fr; }
+        }
 
         /* --- READER MODE (CHAPTER 1) --- */
         .reader-section {
@@ -237,12 +254,13 @@
 </head>
 <body>
 
-    <nav>
-        <div class="logo" style="font-family: var(--font-display); font-size: 1.5rem; letter-spacing: 2px;">HOME</div>
+    <nav id="home">
+        <div class="logo" style="font-family: var(--font-display); font-size: 1.5rem; letter-spacing: 2px;"><a href="#home">HOME</a></div>
         <div class="nav-links">
-            <a href="#about">The Story</a>
+            <a href="#about">Story</a>
+            <a href="#characters">People</a>
+            <a href="#themes">Themes</a>
             <a href="#chapter-one">Read Chapter 1</a>
-            <a href="#characters">The People</a>
         </div>
     </nav>
 
@@ -261,7 +279,6 @@
                     An asteroid is detected. Impact is certain. Humanity has 15 years, 2 months, and 14 days remaining. This is not a story about saving the world. It is a story about how we choose to live in the time we have left.
                 </p>
                 <a href="#chapter-one" class="btn">Read the First Chapter</a>
-                <a href="#about" class="btn" style="margin-left: 10px; border-color: #444; color: #aaa;">Learn More</a>
             </div>
         </div>
     </section>
@@ -313,20 +330,99 @@
                 <div class="char-name">Mayor Elena Torres</div>
                 <p class="char-desc">Governing a dying megacity not to save it, but to maintain dignity. Showing up matters, even when the outcome is certain.</p>
             </div>
+            <div class="char-card">
+                <span class="char-role">The Maintainer</span>
+                <div class="char-name">David Chen</div>
+                <p class="char-desc">Amara's ex-husband. A solar array worker who finds meaning in maintaining infrastructure that will function until the very end.</p>
+            </div>
+            <div class="char-card">
+                <span class="char-role">The Seeker</span>
+                <div class="char-name">Kenji Torres</div>
+                <p class="char-desc">Elena's son. He wanders the world searching for philosophical answers, only to discover that presence cannot be found—only practiced.</p>
+            </div>
+            <div class="char-card">
+                <span class="char-role">The Wounded</span>
+                <div class="char-name">Ibrahim al-Rashid</div>
+                <p class="char-desc">A former fighter whose faith shattered with the announcement. Through maintenance work and community, he finds small peace without answers.</p>
+            </div>
+            <div class="char-card">
+                <span class="char-role">The Teacher</span>
+                <div class="char-name">Professor Mei-Lin Wei</div>
+                <p class="char-desc">A Buddhist elder, 114 years old at detection. She teaches impermanence and presence until her natural death at 125—before impact.</p>
+            </div>
+            <div class="char-card">
+                <span class="char-role">The Inheritor</span>
+                <div class="char-name">Maya Okafor-Mensah</div>
+                <p class="char-desc">Zara's daughter, born two years before detection. She will die at seventeen—but chooses to live those years awake and present.</p>
+            </div>
         </div>
     </section>
 
-    <section class="section">
+    <section id="themes" class="section">
+        <div style="text-align: center; margin-bottom: 60px;">
+            <span class="subtitle">What the Story Explores</span>
+            <h2>Themes</h2>
+        </div>
         <div class="themes">
             <div class="theme-item">
-                <span class="theme-icon">✦</span>
+                <span class="theme-icon">◯</span>
                 <h3>Presence vs. Panic</h3>
                 <p style="color: #999;">What happens when the future is removed? The answer lies in the radical act of paying attention to the now.</p>
             </div>
             <div class="theme-item">
-                <span class="theme-icon">✦</span>
+                <span class="theme-icon">⚙</span>
                 <h3>Maintenance as Meaning</h3>
-                <p style="color: #999;">The novel explores the dignity of doing the work, regardless of the outcome.</p>
+                <p style="color: #999;">The dignity of doing the work, regardless of the outcome. Showing up matters, even when nothing lasts.</p>
+            </div>
+            <div class="theme-item">
+                <span class="theme-icon">◐</span>
+                <h3>Impermanence Made Visible</h3>
+                <p style="color: #999;">The asteroid doesn't create mortality—it reveals what was always true. Everything was always temporary.</p>
+            </div>
+            <div class="theme-item">
+                <span class="theme-icon">☯</span>
+                <h3>Acceptance Without Resignation</h3>
+                <p style="color: #999;">Not passive surrender, but active engagement with reality as it is. Facing the end without looking away.</p>
+            </div>
+            <div class="theme-item">
+                <span class="theme-icon">∞</span>
+                <h3>Both/And Instead of Either/Or</h3>
+                <p style="color: #999;">Holding contradictions rather than resolving them. Faith and doubt. Grief and gratitude. Rage and peace.</p>
+            </div>
+            <div class="theme-item">
+                <span class="theme-icon">◇</span>
+                <h3>Reconnection Before Ending</h3>
+                <p style="color: #999;">Estranged sisters reunite. Divorced couples find their way back. It's never too late—until it is.</p>
+            </div>
+            <div class="theme-item">
+                <span class="theme-icon">⬡</span>
+                <h3>Chosen Family</h3>
+                <p style="color: #999;">The communities that form in crisis matter as much as blood. Strangers become witnesses to each other's lives.</p>
+            </div>
+            <div class="theme-item">
+                <span class="theme-icon">◉</span>
+                <h3>The Weight of Witness</h3>
+                <p style="color: #999;">Sometimes the job is simply to see, to be present for others. Governance becomes witnessing.</p>
+            </div>
+            <div class="theme-item">
+                <span class="theme-icon">●</span>
+                <h3>Brief. Complete. Enough.</h3>
+                <p style="color: #999;">A seventeen-year life isn't incomplete—it's whole. Length doesn't determine meaning.</p>
+            </div>
+            <div class="theme-item">
+                <span class="theme-icon">⚖</span>
+                <h3>Justice vs. Mercy</h3>
+                <p style="color: #999;">What matters more when time is short? Consequences or compassion? The weight of withheld forgiveness.</p>
+            </div>
+            <div class="theme-item">
+                <span class="theme-icon">⌘</span>
+                <h3>Embodied Presence</h3>
+                <p style="color: #999;">Not intellectual understanding but lived experience. Presence emerges from task, not from seeking.</p>
+            </div>
+            <div class="theme-item">
+                <span class="theme-icon">❋</span>
+                <h3>Community as Practice</h3>
+                <p style="color: #999;">Showing up for each other as spiritual discipline. The sacred found in the ordinary gathering.</p>
             </div>
         </div>
     </section>
@@ -609,7 +705,7 @@
     </section>
 
     <footer>
-        <span class="footer-logo">HOME</span>
+        <span class="footer-logo"><a href="#home">HOME</a></span>
         <p>&copy; 2025 Joshua Szepietowski. All Rights Reserved.</p>
         <div style="margin-top: 20px; font-size: 0.8rem; color: #555;">
             "Everything temporary. Everything beautiful. Everything here now."
