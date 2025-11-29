@@ -2,9 +2,14 @@
 
 **A Novel**
 
+- Author: Joshua Szepietowski
+
+
 ---
 
 # PART I: DETECTION
+
+---
 
 # Chapter 1: Calculation
 
@@ -68,6 +73,8 @@ Amara's breath caught. She forced herself to breathe—in through nose, out thro
 Manual calculation. She had to do the math herself, verify the AI's work with her own expertise. Her fingers flew across the interface, pulling up the orbital mechanics software she'd written her dissertation on thirty years ago. Input the position vectors. Input the velocity components. Account for gravitational perturbations from Jupiter, Saturn, Earth-Luna. Calculate the trajectory.
 
 The math was elegant. Beautiful, even. Orbital mechanics always was—pure physics, no ambiguity, no interpretation. Just Newton and Kepler and Einstein, working in perfect harmony to describe how objects moved through space.
+
+The object's orbit was a long ellipse, currently 2.4 AU out—between Mars and Jupiter—but phase-locked with Earth in a slow gravitational dance. Not a bullet racing toward them. Worse: an appointment. The orbital resonance meant fifteen years of patient circling before the two paths finally intersected at the same place, the same moment.
 
 The object would intercept Earth's orbit in exactly 15 years, 2 months, and 14 days.
 
@@ -2025,7 +2032,7 @@ Capacity: thirty dogs. Current occupancy: forty-seven.
 
 Soso Kim stood in the kennel room, mentally calculating space that didn't exist. Seventeen dogs beyond capacity. Three more dropped off this morning—notes left on doorstep: *Sorry. Can't take them. Please find homes.*
 
-She was thirty-six years old. Fourteen years left. Eleven years running this center. All that expertise, all those standards—what did they mean now?
+She was thirty-five years old. Fourteen years left. Eleven years running this center. All that expertise, all those standards—what did they mean now?
 
 The adoption applications had spiked. Waiting list for the first time ever. Everyone suddenly wanting companionship before the end. She should be grateful. Homes for forgotten animals. But—
 
@@ -2170,6 +2177,8 @@ The fracture begins.
 ---
 
 # PART II: FRACTURE
+
+---
 
 # Chapter 10: Before
 
@@ -3310,7 +3319,7 @@ For now.
 
 # Chapter 14: Election
 
-**Elena Torres | Year 1, Month 9 | Antarctic Megacity**
+**Elena Torres | Year 2 | Antarctic Megacity**
 
 ---
 
@@ -3384,13 +3393,13 @@ Elena wasn't sure anymore.
 
 ---
 
-**Year 1, Month 7 — First Debate**
+**Year 2, Month 7 — First Debate**
 
 The forum was held in the old city council chamber—space for three thousand people. Elena had expected maybe a few hundred to attend. The chamber was at capacity. Another two thousand watching on screens outside.
 
 People still cared. That surprised her.
 
-Marcus Rivera stood at the other podium, looking nervous but determined. Thirty-two years old. She'd been thirty-two once—young mayor, first campaign, so certain she could fix things. Now sixty-four, fourth campaign, certain she could fix nothing.
+Marcus Rivera stood at the other podium, looking nervous but determined. Thirty-two years old. She'd been thirty-two once—young mayor, first campaign, so certain she could fix things. Now sixty, fourth campaign, certain she could fix nothing.
 
 The moderator was Dr. Sarah Kim, former journalist, now volunteer coordinator. She'd drawn up the rules: thirty minutes each, alternating responses, one minute rebuttals, closing statements.
 
@@ -3436,7 +3445,7 @@ Elena said yes. Marcus said no. Both were honest. Both made sense.
 
 ---
 
-**Year 1, Month 8 — Crisis**
+**Year 2, Month 8 — Crisis**
 
 The call came at 3 AM. Elena had been awake—sleep was rare now. She answered immediately.
 
@@ -3494,7 +3503,7 @@ Marcus—assistant Marcus—grabbed her arm. "Elena, this is insane. They're rio
 
 "This is governance."
 
-She walked through the barricade before anyone could stop her. Alone. Unarmed. Sixty-four years old. Mayor of a dying city. Walking into a riot.
+She walked through the barricade before anyone could stop her. Alone. Unarmed. Sixty years old. Mayor of a dying city. Walking into a riot.
 
 The crowd saw her. Noise faltered. Someone shouted: "That's Torres!"
 
@@ -3592,7 +3601,7 @@ Marcus nodded. "Then I'll keep helping you offer it."
 
 ---
 
-**Year 1, Month 9 — Election Day**
+**Year 2, Month 9 — Election Day**
 
 Voting occurred over three days—staggered to allow maximum participation. Polling stations across Antarctica. Digital voting for those who'd left. Accessible. Democratic. Maintained.
 
@@ -3620,7 +3629,7 @@ The applause had been genuine. Elena wasn't sure if it meant votes.
 
 ---
 
-**Year 1, Month 9, Day 3 — Results**
+**Year 2, Month 9, Day 3 — Results**
 
 The count finished at 11 PM. Elena watched from her office. Marcus—assistant Marcus—beside her. Chen, Kowalski, Dr. Ade present. The five people who'd governed together for two years.
 
@@ -3677,7 +3686,7 @@ That had to mean something.
 
 ---
 
-**Year 1, Month 9, Day 4 — Concession**
+**Year 2, Month 9, Day 4 — Concession**
 
 Marcus Rivera called the next morning. Elena almost didn't answer—exhausted, overwhelmed, doubting everything. But: respect demanded it.
 
@@ -3717,7 +3726,7 @@ Rivera laughed. "I'll bring coffee."
 
 ---
 
-**Year 1, Month 9, Day 5 — Morning Briefing**
+**Year 2, Month 9, Day 5 — Morning Briefing**
 
 The conference room for fifty. Present: six people. Elena, Marcus—assistant Marcus—Chen, Kowalski, Dr. Ade. And now: Marcus Rivera, deputy mayor.
 
@@ -3893,7 +3902,7 @@ That was something. Maybe: everything.
 
 ---
 
-**Year 1, Month 9, Day 6 — Letters**
+**Year 2, Month 9, Day 6 — Letters**
 
 That evening, Elena sat at her desk. Exhausted. Victorious. Confused about whether victory mattered.
 
@@ -4564,7 +4573,7 @@ But he'd seen her car outside. Knew she was here. Would wait.
 
 She opened the door.
 
-"Hi," David said. Fifty-four years old now. Grey in his beard. Tired eyes. Her husband of thirteen years, looking like a stranger.
+"Hi," David said. Fifty-two years old now. Grey in his beard. Tired eyes. Her husband of thirteen years, looking like a stranger.
 
 "Hi."
 
@@ -6312,7 +6321,7 @@ Marcus pulled up the full registration database. Scrolled through the filing per
 
 "There's no one," Marcus confirmed. "You're the only candidate."
 
-Elena sat down heavily. Sixty-eight years old. Six years as mayor of the apocalypse. Her second term would end in three months—Year 6, Month 9, same as when she'd been elected. Campaign season. Election in ninety days. Constitutional requirement: democratic elections every four years. Even now. Especially now.
+Elena sat down heavily. Sixty-four years old. Six years as mayor of the apocalypse. Her second term would end in three months—Year 6, Month 9, same as when she'd been elected. Campaign season. Election in ninety days. Constitutional requirement: democratic elections every four years. Even now. Especially now.
 
 But democracy required choice. This wasn't choice. This was...
 
@@ -6527,7 +6536,7 @@ She started a reply:
 
 *— Mom*
 
-She sent it. Sat in the quiet apartment. Sixty-eight years old. Mayor of two billion people. Authority earned through six years of showing up. Democracy without votes. Leadership without opposition.
+She sent it. Sat in the quiet apartment. Sixty-four years old. Mayor of two billion people. Authority earned through six years of showing up. Democracy without votes. Leadership without opposition.
 
 What was she now?
 
@@ -7848,6 +7857,8 @@ The searching begins.
 
 # PART III: SEARCHING
 
+---
+
 # Chapter 26: Threshold
 
 **Dr. Amara Okafor & David Chen | Year 8, Month 2 | Antarctica**
@@ -9026,7 +9037,7 @@ But he's here. Nowhere else to go. Seven years until everyone dies. Might as wel
 
 Zara's building is mid-tier residential—fifty units arranged around a central courtyard. Green everywhere—balcony gardens, rooftop cultivation, plants erupting from every available surface. The compound has that lived-in feeling: children's toys scattered in common areas, maintenance equipment left casually, the hum of community that comes from people actually living together instead of just proximally.
 
-Zara meets him at her door. Forty-two years old now. Kenji last saw her at a family gathering twelve years ago—he was eighteen, she was thirty, they'd exchanged polite conversation about his studies. She looks different now. Older, obviously. But also: settled. Present. Like she's found something he's still seeking.
+Zara meets him at her door. Forty-one years old now. Kenji last saw her at a family gathering twelve years ago—he was eighteen, she was thirty, they'd exchanged polite conversation about his studies. She looks different now. Older, obviously. But also: settled. Present. Like she's found something he's still seeking.
 
 "Kenji." She hugs him. Real hug. "Welcome."
 
@@ -9475,7 +9486,7 @@ Passengers emerge from customs. First wave: business travelers, engineers, maint
 
 There.
 
-Amara. Fifty-nine years old, gray-threaded hair, thin in the way of people who forget to eat. But present. Actually here. Not hiding in a monitoring station. Not vanishing into data. Here. With David beside her—fifty-eight, quiet, steady, both of them carrying small bags for two weeks' stay.
+Amara. Fifty-seven years old, gray-threaded hair, thin in the way of people who forget to eat. But present. Actually here. Not hiding in a monitoring station. Not vanishing into data. Here. With David beside her—fifty-seven, quiet, steady, both of them carrying small bags for two weeks' stay.
 
 Sisters see each other across the arrival hall.
 
@@ -11383,7 +11394,7 @@ Zara's trained as an engineer, not a doctor. But she's seen enough dying to reco
 
 "Good." Wei closes her eyes. "Ready."
 
-Ready. The word Wei has used for months. Not afraid. Not resisting. Just: ready. After 124 years of living, ready to stop. After seventy years of teaching impermanence, ready to demonstrate it. After decades of practice, ready for the final practice.
+Ready. The word Wei has used for months. Not afraid. Not resisting. Just: ready. After 125 years of living, ready to stop. After seventy years of teaching impermanence, ready to demonstrate it. After decades of practice, ready for the final practice.
 
 "Are you in pain?" Zara asks.
 
@@ -11427,11 +11438,11 @@ Kofi bursts in next—nearly eleven, all energy despite the circumstances. He st
 
 "Yes. Soon. Days. But right now: here. With you. That's what matters."
 
-Kenji enters quietly. Thirty-four years old now. Three years since he found Wei's garden in Lagos, exhausted from seeking, ready to stop. Three years of learning presence through watering plants. Three years of transformation. He's become a teacher himself—Wei's teaching spreading through him to others.
+Kenji enters quietly. Thirty-three years old now. Three years since he found Wei's garden in Lagos, exhausted from seeking, ready to stop. Three years of learning presence through watering plants. Three years of transformation. He's become a teacher himself—Wei's teaching spreading through him to others.
 
 Behind him: Amara and David. Visiting from Antarctica, here for two weeks. They come every few months now—family reconnected, relationship healing. Amara sees Wei and her face crumples. Another ending. Another loss. Another reminder that nothing lasts.
 
-Last through the door: Dr. Yuki Tanaka. Maya and Kofi's pediatrician since birth. Forty-four years old, trained in Tokyo, specialized in child development when that specialty meant something. Now she attends Wei's teachings, practices presence medicine, transforms her clinical work into witness-work. She carries her medical bag but comes today as student, not doctor.
+Last through the door: Dr. Yuki Tanaka. Maya and Kofi's pediatrician since birth. Forty-nine years old, trained in Tokyo, specialized in child development when that specialty meant something. Now she attends Wei's teachings, practices presence medicine, transforms her clinical work into witness-work. She carries her medical bag but comes today as student, not doctor.
 
 "Everyone's here," Wei says. "Good. I have strength today. Want to teach."
 
@@ -11687,7 +11698,7 @@ The garden is dark. Silent. The lemon tree a shadow against the night sky. Wei's
 
 Zara thinks about Maya's question: "Will we be ready?"
 
-She doesn't know. Wei had 124 years. Zara will have forty-nine. Maya will have seventeen. Kofi will have fourteen. Ready feels impossible.
+She doesn't know. Wei had 124 years. Zara will have forty-eight. Maya will have seventeen. Kofi will have fourteen. Ready feels impossible.
 
 But Wei said something else: "Present—that we can be."
 
@@ -11701,7 +11712,7 @@ Not enough time for everything. But enough time for what matters.
 
 Wei's voice in memory: *The flower bloomed.*
 
-Past tense. Completion. Not tragedy—acknowledgment. The gardenia bloomed for three days, then fell. Wei lived for 125 years, then died. Zara will live for forty-nine years total, then die. Maya for seventeen. Kofi for fourteen. All blooming. All fading. All temporary. All beautiful.
+Past tense. Completion. Not tragedy—acknowledgment. The gardenia bloomed for three days, then fell. Wei lived for 125 years, then died. Zara will live for forty-eight years total, then die. Maya for seventeen. Kofi for fourteen. All blooming. All fading. All temporary. All beautiful.
 
 The grief sits heavy in Zara's chest. First death her children witnessed. First real loss. First visceral experience of impermanence. Maya's question revealed it: "Will we be ready?"
 
@@ -12627,7 +12638,7 @@ Their eyes meet.
 
 Eleven years. Mother and son. Two people who've become different people. Recognition and strangeness and overwhelming relief crashing together.
 
-Elena moves toward him. Not running—her seventy-two-year-old body doesn't run anymore. But fast. Closing the distance. He drops his pack. Meets her halfway.
+Elena moves toward him. Not running—her sixty-nine-year-old body doesn't run anymore. But fast. Closing the distance. He drops his pack. Meets her halfway.
 
 They embrace.
 
@@ -12803,7 +12814,7 @@ The room is empty except for Kenji. He's sitting on a cushion in the center, eye
 
 "It's okay. I'm glad you're here." He gestures to a cushion. "Sit?"
 
-Elena sits. Her seventy-two-year-old body protests the floor. She shifts to a chair. Better.
+Elena sits. Her sixty-nine-year-old body protests the floor. She shifts to a chair. Better.
 
 "Nervous?" she asks.
 
@@ -13130,7 +13141,7 @@ She files the report. Sends it to the archive. Ritual without audience. But some
 
 Her tablet chimes. Message from Zara—sent twelve hours ago, Lagos evening. Amara opens it.
 
-A photo. Maya and Kofi in Wei's garden, the lemon tree behind them. Maya is fifteen years, six months old now—tall, serious, holding a physics textbook like it's light reading. Kofi is twelve years, nine months—grinning, covered in soil from the tomato plants, radiating that unstoppable energy he's had since birth. The caption reads: *The kids wanted you to see the new garden expansion. Maya designed the water system. Kofi planted everything. They miss their aunt.*
+A photo. Maya and Kofi in Wei's garden, the lemon tree behind them. Maya is fifteen years, five months old now—tall, serious, holding a physics textbook like it's light reading. Kofi is twelve years, five months—grinning, covered in soil from the tomato plants, radiating that unstoppable energy he's had since birth. The caption reads: *The kids wanted you to see the new garden expansion. Maya designed the water system. Kofi planted everything. They miss their aunt.*
 
 Amara stares at the photo. These children. Her niece and nephew. She'd ignored their existence for seven years—Years 0 through 7—choosing isolation over family, numbness over feeling. Then reconnection. Slow, painful, necessary reconnection. Weekly calls Year 8. Three visits per year Years 8 through 13. Learning to be Aunt Amara instead of Dr. Okafor, astrophysicist, bearer of extinction.
 
@@ -13142,7 +13153,7 @@ She's visited them thirteen times since Year 8. Two weeks here, one week there. 
 
 Two years, nine months, twenty-two days remaining.
 
-Maya will die at seventeen years, seven months. Kofi at fourteen years, three months. Zara at forty-nine years. All of them too young. All of them temporary. All of them real.
+Maya will die at seventeen years, seven months. Kofi at fourteen years, six months. Zara at forty-eight years. All of them too young. All of them temporary. All of them real.
 
 Amara types a response: *Beautiful garden. Tell Maya I want to see her calculations. Tell Kofi the mint looks perfect. Love you all.*
 
@@ -13186,7 +13197,7 @@ Something warm moves through her chest. Not quite the emotion she remembers from
 
 *Of course.*
 
-His face appears on her screen moments later. Fifty-eight years old—no, sixty-one. She always forgets he's three years older than her. Grey throughout his hair now. Lines around his eyes. But present. Actually here. Looking at her with concern and love and patience.
+His face appears on her screen moments later. Sixty-one years old now. Five years older than her, though they'd seemed the same age when they were young. Grey throughout his hair now. Lines around his eyes. But present. Actually here. Looking at her with concern and love and patience.
 
 "Hi," she says.
 
@@ -14800,7 +14811,7 @@ Tonight, adults thanked her. Said Kofi's existence gave them permission to live.
 
 They were right. She was right. Wei was right. Everyone who chose life over despair was right.
 
-Kofi will die at fourteen years, nine months. Maya at seventeen years, seven months. Kwame at fifty-three. Amara at sixty-three. David at sixty-four. Zara at forty-nine. Everyone in this building, this district, this planet. All temporary. All real. All mattering precisely because they're here now, fully here, present to their own brief blooming.
+Kofi will die at fourteen years, six months. Maya at seventeen years, seven months. Kwame at fifty-three. Amara at sixty-three. David at sixty-three. Zara at forty-eight. Everyone in this building, this district, this planet. All temporary. All real. All mattering precisely because they're here now, fully here, present to their own brief blooming.
 
 Teaching continues tomorrow. David showing Kofi how seals work. Amara showing Maya how orbits work. Tom showing anyone who asks how water works. Mr. Okonkwo showing everyone how gardens work. The compound showing the world how community works.
 
@@ -14878,7 +14889,7 @@ She understood something Wei had tried to teach: The point isn't to feel differe
 
 That was the practice.
 
-Movement at the doorway. Maya turned, saw Amara emerging onto the rooftop. Her aunt—sixty-one years old, nine months in Lagos now, transformed from the isolated astrophysicist who'd calculated everyone's death into someone who showed up daily with mathematics and love.
+Movement at the doorway. Maya turned, saw Amara emerging onto the rooftop. Her aunt—sixty-two years old, nine months in Lagos now, transformed from the isolated astrophysicist who'd calculated everyone's death into someone who showed up daily with mathematics and love.
 
 "You're here early," Amara said quietly.
 
@@ -15640,23 +15651,23 @@ That's home.
 
 **Maya Okafor-Mensah | Year 15, Month 1 | Lagos**
 
-The garden is quiet at dawn. Maya sits on the stone bench where Wei died—four months, three weeks, two days ago—and makes lists in her mind.
+The garden is quiet at dawn. Maya sits on the stone bench where Wei used to sit—three years, five months since she died—and makes lists in her mind.
 
 What she had:
-- Sixteen years, ten months
+- Seventeen years, three months
 - Two parents who chose to bring her into a dying world
-- One brother (Kofi, thirteen years, four months)
+- One brother (Kofi, fourteen years, three months)
 - Extended family who loved her despite everything
-- Wei's teaching for two years, five months before Wei's death
-- Presence practice for two years, five months total
+- Wei's teaching for two years, eight months before Wei's death
+- Presence practice for three years, five months total
 - The ability to teach others—she taught those two girls basic meditation yesterday
 - Complete knowledge of her death date
 - This garden
 - These mornings
-- Five more months
+- Four more months
 
 What she will never have:
-- Seventeenth birthday (six months away—will never reach it)
+- Eighteenth birthday (nine months away—will never reach it)
 - University
 - First kiss
 - Sex
@@ -15665,9 +15676,9 @@ What she will never have:
 - Independence from parents
 - Time to become whoever she might have been
 
-Maya closes her eyes. Breathes. Opens them again. The garden unchanged. The light golden on wet leaves, the air already thick with Lagos heat. Her body sixteen years, ten months old. Five months until impact. Until she dies at sixteen years, eleven months.
+Maya closes her eyes. Breathes. Opens them again. The garden unchanged. The light golden on wet leaves, the air already thick with Lagos heat. Her body seventeen years, three months old. Four months until impact. Until she dies at seventeen years, seven months.
 
-She won't even reach seventeen.
+She won't even reach eighteen.
 
 For two years she's practiced presence. Sat with impermanence. Learned to be here despite knowing here ends soon. She thought she'd made peace with dying young.
 
@@ -15675,11 +15686,11 @@ But this morning, alone in Wei's garden one week before migration, Maya feels ra
 
 Not at her parents—they gave her life, brief as it is. Not at the universe—the asteroid is just physics. The rage is simpler: she's angry at the unfairness. She did everything right. Practiced presence. Loved openly. Faced death with courage. Became someone real.
 
-And still: she dies at sixteen.
+And still: she dies at seventeen.
 
 No reward for goodness. No exception for the young. No cosmic bargain.
 
-Just: physics. Just: five more months.
+Just: physics. Just: four more months.
 
 Maya stands. Walks the garden's perimeter, sweat already beading at her temples. Every flower she passes—hibiscus, jasmine, mint, tomatoes. Every crack in the wall. This place shaped her. Wei shaped her here.
 
@@ -15691,7 +15702,7 @@ Instead she sits back down on Wei's bench. Feels the rage. Lets it be there.
 
 Presence doesn't mean peace. It means being with what is. And what is, right now, is rage.
 
-She sits with it for seventeen breaths. (Seventeen—the age she'll never be.)
+She sits with it for eighteen breaths. (Eighteen—the age she'll never be.)
 
 The rage doesn't diminish. It just is.
 
@@ -15713,11 +15724,11 @@ The practice didn't take away the rage. It taught her how to be conscious while 
 
 Wei's words from four years ago. Maya was twelve then, terrified, newly awakened to mortality.
 
-Maya wants to argue with the memory. She's sixteen. She hasn't even started. How can a life this short be whole?
+Maya wants to argue with the memory. She's seventeen. She hasn't even started. How can a life this short be whole?
 
 But she sits with the question instead of answering it.
 
-Is she incomplete? Or is she exactly as complete as sixteen years, ten months makes her? A flower that blooms for sixteen years, eleven months total. Brief, yes. But while blooming—fully flowering?
+Is she incomplete? Or is she exactly as complete as seventeen years, three months makes her? A flower that blooms for seventeen years, seven months total. Brief, yes. But while blooming—fully flowering?
 
 The rage says no—incomplete, abbreviated, stolen. Something underneath whispers: maybe complete just means fully present to whatever length you have.
 
@@ -15729,13 +15740,13 @@ Footsteps behind her. She knows them without turning.
 
 "No." She doesn't lie to her brother. "Not okay. Angry."
 
-He sits beside her on Wei's bench. Thirteen years, four months old. "At what?"
+He sits beside her on Wei's bench. Fourteen years, three months old. "At what?"
 
 "At dying before I get to live."
 
 Kofi quiet. She glances at him. His jaw tight. Eyes on the garden but seeing something else.
 
-"Me too," he finally says. "I'll be thirteen. You'll be almost seventeen. Neither of us enough."
+"Me too," he finally says. "I'll be fourteen. You'll be almost eighteen. Neither of us enough."
 
 They sit together. Sister and brother. Both dying too young. Both angry. Both here.
 
@@ -15743,7 +15754,7 @@ Maya reaches for his hand. Holds it. They don't speak. Don't need to. The rage s
 
 After a while, Kofi says: "Do you think Mama and Papa feel guilty? For having us?"
 
-Maya considers. "I think they feel grief. But not guilt. They chose life. We got sixteen years. Thirteen years. That's something."
+Maya considers. "I think they feel grief. But not guilt. They chose life. We got seventeen years. Fourteen years. That's something."
 
 "Is it enough?"
 
@@ -15753,11 +15764,11 @@ Kofi nods. Then: "Are you scared? Of Antarctica?"
 
 "No. I'm scared of dying. Antarctica's just where it happens."
 
-"Five months."
+"Four months."
 
-"Five months."
+"Four months."
 
-They sit longer. The sun climbs. The garden warms. Maya thinks: This is what I'm losing. Not some abstract future. This. Kofi's hand in hers. Morning light. The smell of jasmine. Being sixteen with rage and grief and love all tangled together. This exact moment. Then the next one. Then five months of moments. Then: nothing.
+They sit longer. The sun climbs. The garden warms. Maya thinks: This is what I'm losing. Not some abstract future. This. Kofi's hand in hers. Morning light. The smell of jasmine. Being seventeen with rage and grief and love all tangled together. This exact moment. Then the next one. Then four months of moments. Then: nothing.
 
 The rage wells up again. She lets it. Breathes with it. Squeezes Kofi's hand.
 
@@ -15765,7 +15776,7 @@ The rage wells up again. She lets it. Breathes with it. Squeezes Kofi's hand.
 
 "I'm glad you're my sister."
 
-Such simple words. Such enormous weight. They both know: five months, then never again. This is all they get. Nearly seventeen years of siblinghood. Then ended.
+Such simple words. Such enormous weight. They both know: four months, then never again. This is all they get. Nearly eighteen years of siblinghood. Then ended.
 
 "I love you," Maya says.
 
@@ -15775,7 +15786,7 @@ They sit until Kofi has to go—promised Papa he'd help with packing. He squeeze
 
 Maya stays. The rage still present but sharing space now with something else. Not peace—she's done pretending practice leads to peace. But: clarity. She sees what she has. Sees what she's losing. Sees the unfairness and the preciousness both. Holds them together.
 
-This is what two years, five months of practice gave her. Not serenity. Not acceptance in any comfortable sense. Just: the capacity to be with all of it at once. The rage, the grief, the love, the terror, the gratitude. All of it. Conscious. Aware. Present.
+This is what three years, five months of practice gave her. Not serenity. Not acceptance in any comfortable sense. Just: the capacity to be with all of it at once. The rage, the grief, the love, the terror, the gratitude. All of it. Conscious. Aware. Present.
 
 She thinks: Is that enough?
 
@@ -15783,11 +15794,11 @@ She thinks: It has to be. It's all there is.
 
 ---
 
-At ten o'clock, two girls arrive at the compound gate. Maya sees them from the kitchen window—the same two from yesterday. Sisters. Eleven and nine years old. They'll die at eleven years, five months and nine years, five months. Even younger than Kofi.
+At ten o'clock, two girls arrive at the compound gate. Maya sees them from the kitchen window—the same two from yesterday. Sisters. Eleven and nine years old. They'll die at eleven years, four months and nine years, four months. Even younger than Kofi.
 
 Yesterday their mother brought them. Asked if Maya would teach them meditation. "They're terrified," the mother said. "Every night, nightmares. I don't know how to help them."
 
-Maya almost said no. Almost said: I'm sixteen, I'm not a teacher, I barely understand presence myself. But then she remembered: Wei taught her at twelve. Kenji taught people at twenty-four. Transmission doesn't wait for expertise. It happens when it happens.
+Maya almost said no. Almost said: I'm seventeen, I'm not a teacher, I barely understand presence myself. But then she remembered: Wei taught her at twelve. Kenji taught people at twenty-four. Transmission doesn't wait for expertise. It happens when it happens.
 
 So she said yes.
 
@@ -15799,7 +15810,7 @@ Maya meets them at the gate. The older girl—Chidinma—speaks first. "We pract
 
 The younger girl—Amara, named after Maya's aunt—says: "I only got to four. Is that okay?"
 
-Maya crouches down to their level. Looks at them both. Sees their fear poorly hidden behind brave faces. Sees how hard they're trying. Sees their whole lives—eleven years, nine years—measured against five remaining months.
+Maya crouches down to their level. Looks at them both. Sees their fear poorly hidden behind brave faces. Sees how hard they're trying. Sees their whole lives—eleven years, nine years—measured against four remaining months.
 
 "That's perfect," Maya says. "Four is enough. Eight is enough. Whatever you managed is enough."
 
@@ -15811,7 +15822,7 @@ Maya takes her hand. "You can't do it wrong. Being present just means being here
 
 Maya sits down on the ground. Gestures for them to sit. They do—cross-legged, hands in laps, enormous eyes.
 
-"I'm scared too," Maya says. "Every day. I've been practicing for two years, five months. I had a great teacher. And I'm still terrified. Presence doesn't take away the fear."
+"I'm scared too," Maya says. "Every day. I've been practicing for three years, five months. I had a great teacher. And I'm still terrified. Presence doesn't take away the fear."
 
 "Then why do it?" Chidinma asks. Not defiant—genuinely asking.
 
@@ -15833,7 +15844,7 @@ The girls are quiet. Maya waits. This is teaching—saying true things and letti
 
 "Then what?" Amara asks.
 
-"Then I go to Antarctica. Then you keep practicing without me. Like I keep practicing without my teacher. She died four months ago. But the practice doesn't die. You carry it. You teach others if they ask."
+"Then I go to Antarctica. Then you keep practicing without me. Like I keep practicing without my teacher. She died three and a half years ago. But the practice doesn't die. You carry it. You teach others if they ask."
 
 "Until impact," Chidinma says. Flat.
 
@@ -15841,7 +15852,7 @@ The girls are quiet. Maya waits. This is teaching—saying true things and letti
 
 "Does that mean something?" Chidinma asks. Different question now. Bigger.
 
-"I don't know," Maya says. Honest. "But being present feels different than being numb. Loving people even though I'm losing them feels realer than protecting myself by not loving. Five months conscious is different than five months unconscious. I can't tell you it means something. But I can tell you it's more. More alive."
+"I don't know," Maya says. Honest. "But being present feels different than being numb. Loving people even though I'm losing them feels realer than protecting myself by not loving. Four months conscious is different than four months unconscious. I can't tell you it means something. But I can tell you it's more. More alive."
 
 She doesn't know if that's the right answer. But it's the truest thing she has.
 
@@ -15861,11 +15872,11 @@ Chidinma says: "See you tomorrow?"
 
 "See you tomorrow."
 
-Maya watches them walk away—eleven and nine years old, holding hands, practicing presence because the alternative is unbearable, dying in five months. She feels the rage again. Feels it sharp and clean and honest.
+Maya watches them walk away—eleven and nine years old, holding hands, practicing presence because the alternative is unbearable, dying in four months. She feels the rage again. Feels it sharp and clean and honest.
 
 They should have had full lives. Long lives. Lives where death is distant and practice is optional and childhood lasts longer than this.
 
-But they don't. They have this. Five months. Breath counting. A sixteen-year-old teacher who doesn't have answers but has practice.
+But they don't. They have this. Four months. Breath counting. A seventeen-year-old teacher who doesn't have answers but has practice.
 
 Maya stands in the garden again. Realizes: Wei gave her this. The capacity to sit with children and tell them the truth and teach them how to be present to it. The capacity to transmit practice even while enraged, grieving, terrified herself. The capacity to teach not from expertise but from being one step ahead on the same path toward the same end.
 
@@ -15909,7 +15920,7 @@ Maya thinks of Wei. Wei who said yes to teaching a terrified twelve-year-old. Wh
 
 Adanna hugs her. Says nothing. Just holds on for three breaths longer than necessary.
 
-After she leaves, Maya sits on the compound steps. Looks at the stars. Five months until impact. Five months until she dies at sixteen years, eleven months. Never seventeen. Never adult. Never most things.
+After she leaves, Maya sits on the compound steps. Looks at the stars. Four months until impact. Four months until she dies at seventeen years, seven months. Never eighteen. Never adult. Never most things.
 
 But: she taught today. Will teach tomorrow. Will teach for six more days. Then will carry practice to Antarctica. Then will die practicing. Present. Aware. Witnessing her own brief blooming.
 
@@ -15931,9 +15942,9 @@ Both things. All things. The rage and the practice. The grief and the gratitude.
 
 This is what Wei meant by holding paradox. Not resolving it. Just being spacious enough for both.
 
-Maya closes her eyes. Counts seventeen breaths. Opens them again.
+Maya closes her eyes. Counts eighteen breaths. Opens them again.
 
-The stars unchanged. The compound quiet. Her body sixteen years, ten months old. Five months until it isn't.
+The stars unchanged. The compound quiet. Her body seventeen years, three months old. Four months until it isn't.
 
 She thinks: Tomorrow I teach again. Tomorrow I pack. Tomorrow I take one more step toward Antarctica, toward the end, toward whatever comes after consciousness ends.
 
@@ -15951,15 +15962,15 @@ Late night. Maya alone in Wei's garden one last time before sleep. The air coole
 
 Then to the jasmine. The hibiscus. The stones. The bench. The whole garden. "Thank you."
 
-Then, finally, to herself. Hand on her own chest. Feeling her heartbeat. "Thank you. For sixteen years, ten months. For practice. For rage. For presence. Not enough. Will never be enough. But: something. Thank you."
+Then, finally, to herself. Hand on her own chest. Feeling her heartbeat. "Thank you. For seventeen years, three months. For practice. For rage. For presence. Not enough. Will never be enough. But: something. Thank you."
 
 She means it. Despite everything.
 
 She means it.
 
-Brief doesn't mean incomplete. A flower that blooms for sixteen years, eleven months is still a flower while blooming. And she's blooming now. Present. Aware. Here.
+Brief doesn't mean incomplete. A flower that blooms for seventeen years, seven months is still a flower while blooming. And she's blooming now. Present. Aware. Here.
 
-Five more months of blooming. Then: nothing.
+Four more months of blooming. Then: nothing.
 
 But tonight: here.
 
@@ -15971,13 +15982,13 @@ Next week: migration.
 
 Being present to each step. Not ready. Never ready. But: here.
 
-Maya stands. Looks at the garden one more time. Whispers: "I will die at sixteen years, eleven months. Five months from now. I won't reach seventeen. I will die terrified, grieving, angry at unfairness. AND I will die awake. Present. Loving what I'm losing. Not because it makes death okay. Because it makes life real. For Wei. For those girls. For Kofi. For Mama and Papa. For myself. I will die well. That's all I can promise."
+Maya stands. Looks at the garden one more time. Whispers: "I will die at seventeen years, seven months. Four months from now. I won't reach eighteen. I will die terrified, grieving, angry at unfairness. AND I will die awake. Present. Loving what I'm losing. Not because it makes death okay. Because it makes life real. For Wei. For those girls. For Kofi. For Mama and Papa. For myself. I will die well. That's all I can promise."
 
 The garden listens. The stars listen. The night listens.
 
 Maya walks inside. Climbs to her room. Lies down. Closes her eyes.
 
-Counts seventeen breaths.
+Counts eighteen breaths.
 
 Sleeps.
 
@@ -16313,7 +16324,7 @@ The door opens. Cold rushes in—bitter, shocking after Lagos heat. The temperat
 
 But inside the gate: warmth.
 
-Elena stands at the front. Seventy-eight years old now, still present, still here. Her face when she sees Kenji beside her—her son, home from teaching, here for arrival. Marcus Reyes beside them—returned from Mumbai three weeks ago, final three months with chosen family.
+Elena stands at the front. Seventy-three years old now, still present, still here. Her face when she sees Kenji beside her—her son, home from teaching, here for arrival. Marcus Reyes beside them—returned from Mumbai three weeks ago, final three months with chosen family.
 
 And others. Chen and Kowalski—Elena's Thursday people, twelve years of practice together. Ibrahim—standing with quiet competence, seven years on the arrays now. Soso Kim from the dog adoption center, teaching animal care as presence practice. Others Zara doesn't know yet but will learn. Community. Different community. Real community.
 
@@ -16407,11 +16418,11 @@ They lie in honest darkness. Not okay. Not pretending to be okay. Just: here. To
 
 "Five months."
 
-"Maya will be seventeen years, eight months. Still seventeen. Never eighteen."
+"Maya will be seventeen years, seven months. Still seventeen. Never eighteen."
 
 "I know."
 
-"Kofi will be fourteen years, eight months. Never fifteen."
+"Kofi will be fourteen years, six months. Never fifteen."
 
 "I know."
 
@@ -16469,6 +16480,8 @@ Here.
 
 # PART IV: CONVERGENCE
 
+---
+
 # Chapter 48: Arrival
 
 **Dr. Amara Okafor | Year 15, Month 1 | Antarctica**
@@ -16491,7 +16504,7 @@ They arrived at 18:00. Amara had been checking the time every seven minutes. 17:
 
 Then: door chime. 18:02.
 
-Amara had opened it and there they were. Zara first—fifty-three years old, grey threading through her hair, exhausted from travel but smiling. Real. Here. Her sister who she'd ignored for seven years and slowly rebuilt connection with over the last eight. Behind her: Kwame, solid and steady. Then Maya—
+Amara had opened it and there they were. Zara first—forty-eight years old, grey threading through her hair, exhausted from travel but smiling. Real. Here. Her sister who she'd ignored for seven years and slowly rebuilt connection with over the last eight. Behind her: Kwame, solid and steady. Then Maya—
 
 Maya had stopped in the doorway. Seventeen years, three months old. Tall. So tall. The last time Amara saw her, she'd been fourteen. Three years of growth. Three years of transformation into someone who looked almost adult but would never reach eighteen.
 
@@ -16868,9 +16881,9 @@ He looks up, returns the smile. "Former deputy. We're all former something now."
 
 "Yes. 1,847,293. Everyone's here."
 
-Elena sits beside him. They're both sixty-eight years old—no, she's seventy-three, he's sixty-eight. Time confuses at the end. She corrects herself silently, noting the slip. Precision matters, especially now.
+Elena sits beside him. She's seventy-three, he's forty-five. She'd thought of him as young when he challenged her at thirty-two—now he's middle-aged and she's ancient. Time confuses at the end.
 
-"Fourteen years," she says. "You stayed fourteen years."
+"Thirteen years," she says. "You stayed thirteen years."
 
 "Where else would I go? You needed a deputy. I needed to be useful. We did the work."
 
@@ -16984,7 +16997,7 @@ Elena is confused. Kenji is teaching at the community center. She has no other f
 
 Marcus Reyes stands in her doorway.
 
-Sixty-eight years old. Thirteen years since he left Antarctica. Thirteen years in Mumbai teaching refugee children, building gardens, becoming someone other than the assistant who served her faithfully for eight years. He looks different—older, yes, but also settled. Peaceful. Complete.
+Forty-five years old. Same age as Rivera—they'd often joked about that, the two Marcuses born the same year. Thirteen years since he left Antarctica. Thirteen years in Mumbai teaching refugee children, building gardens, becoming someone other than the assistant who served her faithfully for eight years. He looks different—older, yes, but also settled. Peaceful. Complete.
 
 "Marcus," she says.
 
@@ -17218,7 +17231,7 @@ She's not here to teach. Not even to participate. Just to witness. Seventy-three
 
 The faces in the room span everything. Young and old. Refugees and residents. Scientists and laborers. Languages she can't identify, faces she'll never know the stories behind. All here. All waiting.
 
-Her son enters from the side door, and the room shifts subtly. Not reverence exactly. Just: attention. Kenji moves to the front, forty-two years old now, grey threading through his hair, the restlessness she remembers from his twenties gone. Replaced by something quieter. Something earned.
+Her son enters from the side door, and the room shifts subtly. Not reverence exactly. Just: attention. Kenji moves to the front, thirty-seven years old now, grey threading through his hair, the restlessness she remembers from his twenties gone. Replaced by something quieter. Something earned.
 
 "Hello," he says simply.
 
@@ -17396,7 +17409,7 @@ The gathering disperses slowly. No formal ending—just people rising when they'
 
 Elena watches it all. The woman who was crying (Priya, someone called her) is talking now with the quiet man, both of them standing near the door, exchanging words Elena can't hear. The dog woman (Soso—Elena remembers her from a housing committee years ago) is loading her transport with a teenage girl's help. Derek and Ibrahim are heading toward the exit together, two old soldiers moving slowly toward whatever comes next.
 
-Kenji finds her at the back of the room. Her son. Forty-two years old. Teacher now, whatever that means. The seeking that drove him across the world has settled into something she doesn't fully understand but trusts.
+Kenji finds her at the back of the room. Her son. Thirty-seven years old. Teacher now, whatever that means. The seeking that drove him across the world has settled into something she doesn't fully understand but trusts.
 
 "You came," he says.
 
@@ -20044,7 +20057,7 @@ Notice. Return.
 
 Seven.
 
-Ibrahim beside him. Thirty-six years old. Fifteen years faithless. Four months ago—heard God's voice. Not the old faith. New faith. Deeper faith. God present in the exile. God accompanying them into death. Both/and realized. Faith and presence both.
+Ibrahim beside him. Thirty-four years old. Fifteen years faithless. Four months ago—heard God's voice. Not the old faith. New faith. Deeper faith. God present in the exile. God accompanying them into death. Both/and realized. Faith and presence both.
 
 Notice. Return.
 
@@ -20148,7 +20161,7 @@ Hassan begins with Muslim prayer. *Allahu Akbar.* God is greatest. The words lan
 
 They prostrate together. Foreheads to ground. Complete surrender. The posture teaching what words can't—being human means bowing to something beyond yourself. Death. God. Mystery. Whatever name you use.
 
-Marcus Reyes leads Christian contemplation next. Sixty-eight years old. Returned from Mumbai after thirteen years. Brings different wisdom. Different prayers. Same truth.
+Marcus Reyes leads Christian contemplation next. Forty-five years old. Returned from Mumbai after thirteen years. Brings different wisdom. Different prayers. Same truth.
 
 "In my tradition," he says quietly, "we talk about the valley of the shadow of death. For fifteen years I thought that was metaphor. Now I know—we're walking through it. All of us. Together. And the psalm says: 'I will fear no evil, for you are with me.' Not 'you will save me.' Not 'you will prevent death.' Just: 'you are with me.' Presence. Accompaniment. That's what God offers. Not rescue. Company."
 
@@ -20339,7 +20352,7 @@ Elena reads it on her tablet—habit from fifteen years of governance. The handw
 
 Elena sets the tablet down. Through her office window: Antarctica's morning light, soft grey, the megacity stretching in all directions. Twelve days until impact. 1.1 million people still here. Some with family. Some with chosen communities. Some—like Yolanda Chen—with no one.
 
-Marcus Rivera knocks. Enters. Deputy mayor for thirteen years, since the Year 2 election that nearly unseated her. He's aged well—sixty now, silver at his temples, the fierce ambition of his youth softened into something more patient.
+Marcus Rivera knocks. Enters. Deputy mayor for thirteen years, since the Year 2 election that nearly unseated her. He's aged well—forty-five now, silver at his temples, the fierce ambition of his youth softened into something more patient.
 
 "Morning briefing when you're ready," he says. "Though there's not much to brief."
 
@@ -20850,7 +20863,7 @@ The space is circular. Mirrors line the walls—floor to ceiling. Above: countdo
 
 Mannequins stand throughout—all ages, all positions. No faces. Just forms. Witnesses watching witnesses.
 
-Zara sees herself reflected infinitely. Forty-nine years old. Tired. Grieving. Present. Real.
+Zara sees herself reflected infinitely. Forty-eight years old. Tired. Grieving. Present. Real.
 
 Her family reflected too. Kwame. Maya. Kofi. All of them multiplied. All of them dying. All of them here.
 
@@ -21868,6 +21881,3 @@ There is no afterimage in the rock. No echo in the sky. No observer to declare m
 Still, for fifteen years, they were here.
 
 The flower bloomed.
-
----
-
