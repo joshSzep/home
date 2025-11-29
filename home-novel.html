@@ -1,0 +1,620 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HOME | A Novel by Joshua Szepietowski</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Lato:wght@300;400;700&family=Playfair+Display:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-color: #0a0a0a;
+            --text-color: #e0e0e0;
+            --accent-gold: #d4af37;
+            --accent-orange: #ff7e39;
+            --faded-text: #888;
+            --font-display: 'Cinzel', serif;
+            --font-body: 'Lato', sans-serif;
+            --font-quote: 'Playfair Display', serif;
+        }
+
+        html { scroll-behavior: smooth; }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            font-family: var(--font-body);
+            line-height: 1.6;
+            overflow-x: hidden;
+        }
+
+        a { text-decoration: none; color: inherit; transition: 0.3s; }
+        ul { list-style: none; }
+
+        /* --- TYPOGRAPHY --- */
+        h1, h2, h3 { font-family: var(--font-display); font-weight: 400; letter-spacing: 2px; }
+        h1 { font-size: 3.5rem; color: #fff; text-transform: uppercase; }
+        h2 { font-size: 2.5rem; margin-bottom: 1.5rem; color: var(--accent-gold); }
+        .subtitle { font-size: 1.2rem; text-transform: uppercase; letter-spacing: 4px; color: var(--faded-text); margin-top: 10px; }
+        .highlight { color: var(--accent-orange); }
+
+        /* --- BUTTONS --- */
+        .btn {
+            display: inline-block;
+            padding: 15px 40px;
+            border: 1px solid var(--accent-gold);
+            color: var(--accent-gold);
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            font-size: 0.9rem;
+            margin-top: 20px;
+            transition: all 0.4s ease;
+            cursor: pointer;
+        }
+        .btn:hover {
+            background-color: var(--accent-gold);
+            color: var(--bg-color);
+            box-shadow: 0 0 20px rgba(212, 175, 55, 0.4);
+        }
+        .btn-filled {
+            background-color: var(--text-color);
+            color: var(--bg-color);
+            border: 1px solid var(--text-color);
+        }
+        .btn-filled:hover {
+            background-color: transparent;
+            color: var(--text-color);
+        }
+
+        /* --- NAVIGATION --- */
+        nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 30px 5%;
+            position: absolute;
+            width: 100%;
+            z-index: 10;
+        }
+        .nav-links { display: flex; gap: 40px; }
+        .nav-links a { font-size: 0.8rem; text-transform: uppercase; letter-spacing: 1px; }
+        .nav-links a:hover { color: var(--accent-gold); }
+
+        /* --- HERO SECTION --- */
+        .hero {
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+            padding: 0 5%;
+            background: radial-gradient(circle at center, #1a1a1a 0%, #000 100%);
+        }
+        .hero-content {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            align-items: center;
+            gap: 60px;
+            max-width: 1200px;
+            width: 100%;
+        }
+        .book-cover {
+            box-shadow: 0 0 50px rgba(255, 126, 57, 0.2);
+            max-width: 100%;
+            height: auto;
+            transform: rotate(-2deg);
+            transition: transform 0.5s ease;
+        }
+        .book-cover:hover { transform: rotate(0deg) scale(1.02); }
+        .hero-text { max-width: 600px; }
+        .logline { font-family: var(--font-quote); font-size: 1.5rem; font-style: italic; margin: 30px 0; color: #ccc; border-left: 3px solid var(--accent-orange); padding-left: 20px; }
+
+        /* --- THE PREMISE --- */
+        .section { padding: 100px 10%; }
+        .premise { text-align: center; max-width: 800px; margin: 0 auto; }
+        .premise p { font-size: 1.2rem; margin-bottom: 20px; color: #bbb; }
+        .big-number { font-family: var(--font-display); font-size: 4rem; color: var(--accent-orange); display: block; line-height: 1; margin-bottom: 10px; }
+
+        /* --- CHARACTERS / TIMELINE --- */
+        .characters { background-color: #0f0f0f; }
+        .char-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 40px;
+            margin-top: 50px;
+        }
+        .char-card {
+            padding: 30px;
+            border: 1px solid #222;
+            transition: 0.3s;
+        }
+        .char-card:hover { border-color: var(--accent-gold); transform: translateY(-5px); }
+        .char-role { font-size: 0.8rem; text-transform: uppercase; color: var(--accent-orange); margin-bottom: 10px; display: block; letter-spacing: 1px; }
+        .char-name { font-family: var(--font-display); font-size: 1.5rem; margin-bottom: 15px; color: #fff; }
+        .char-desc { font-size: 0.95rem; color: #999; }
+
+        /* --- QUOTE SECTION --- */
+        .quote-section {
+            background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url('https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&q=80');
+            background-size: cover;
+            background-attachment: fixed;
+            text-align: center;
+            padding: 150px 10%;
+        }
+        .mega-quote {
+            font-family: var(--font-quote);
+            font-size: 2.2rem;
+            font-style: italic;
+            color: #fff;
+            max-width: 900px;
+            margin: 0 auto;
+        }
+        .quote-author { display: block; margin-top: 30px; font-family: var(--font-display); font-size: 1rem; color: var(--accent-gold); letter-spacing: 2px; }
+
+        /* --- THEMES --- */
+        .themes { display: flex; flex-wrap: wrap; justify-content: space-around; text-align: center; }
+        .theme-item { max-width: 300px; margin-bottom: 40px; }
+        .theme-icon { font-size: 2rem; color: var(--accent-gold); margin-bottom: 15px; display: block; }
+
+        /* --- READER MODE (CHAPTER 1) --- */
+        .reader-section {
+            background-color: #111;
+            padding: 100px 5%;
+            color: #ccc;
+            font-family: var(--font-quote); /* Serif for reading */
+            border-top: 1px solid #333;
+        }
+        .reader-container {
+            max-width: 750px;
+            margin: 0 auto;
+            font-size: 1.15rem;
+            line-height: 1.8;
+        }
+        .reader-header {
+            text-align: center;
+            margin-bottom: 60px;
+        }
+        .reader-header h2 { color: #fff; font-size: 3rem; margin-bottom: 10px; }
+        .reader-meta { font-family: var(--font-body); text-transform: uppercase; letter-spacing: 2px; color: var(--accent-orange); font-size: 0.9rem; }
+        
+        .chapter-text p { margin-bottom: 25px; }
+        .chapter-text hr { border: 0; height: 1px; background: #333; margin: 40px auto; width: 50%; }
+        
+        /* Special Formatting for Data/Logs within text */
+        .data-block {
+            background: #000;
+            border-left: 3px solid var(--accent-gold);
+            padding: 20px;
+            margin: 30px 0;
+            font-family: 'Courier New', monospace;
+            font-size: 0.9rem;
+            color: #fff;
+        }
+        .data-line { display: block; margin-bottom: 5px; }
+        .deflection-option { margin-bottom: 20px; border-bottom: 1px dashed #333; padding-bottom: 20px; }
+        .deflection-option:last-child { border-bottom: none; }
+        .status-insufficient { color: #ff4444; font-weight: bold; }
+
+        .time-remaining {
+            text-align: center;
+            font-family: var(--font-display);
+            font-size: 2rem;
+            margin: 40px 0;
+            color: #fff;
+            border-top: 1px solid #333;
+            border-bottom: 1px solid #333;
+            padding: 20px 0;
+        }
+
+        /* --- FOOTER --- */
+        footer {
+            border-top: 1px solid #222;
+            padding: 50px 10%;
+            text-align: center;
+            color: var(--faded-text);
+            font-size: 0.9rem;
+            background-color: #0a0a0a;
+        }
+        .footer-logo { font-family: var(--font-display); font-size: 1.5rem; color: #fff; margin-bottom: 20px; display: block; }
+
+        /* --- RESPONSIVE --- */
+        @media (max-width: 768px) {
+            h1 { font-size: 2.5rem; }
+            .hero-content { grid-template-columns: 1fr; text-align: center; gap: 30px; }
+            .logline { margin: 30px auto; border-left: none; border-top: 3px solid var(--accent-orange); padding-top: 20px; padding-left: 0; }
+            .nav-links { display: none; } /* Simplified for demo */
+            .mega-quote { font-size: 1.5rem; }
+            .big-number { font-size: 3rem; }
+        }
+    </style>
+</head>
+<body>
+
+    <nav>
+        <div class="logo" style="font-family: var(--font-display); font-size: 1.5rem; letter-spacing: 2px;">HOME</div>
+        <div class="nav-links">
+            <a href="#about">The Story</a>
+            <a href="#chapter-one">Read Chapter 1</a>
+            <a href="#characters">The People</a>
+        </div>
+    </nav>
+
+    <section class="hero">
+        <div class="hero-content">
+            <div class="hero-image">
+                <img src="front-cover.png" alt="HOME Book Cover" class="book-cover">
+            </div>
+            <div class="hero-text">
+                <div class="subtitle">A Novel by Joshua Szepietowski</div>
+                <h1>Brief. Complete.<br>Enough.</h1>
+                <div class="logline">
+                    "The universe ended at 3:47 AM. Nobody else knew yet. But they would soon."
+                </div>
+                <p style="margin-bottom: 30px; color: #aaa;">
+                    An asteroid is detected. Impact is certain. Humanity has 15 years, 2 months, and 14 days remaining. This is not a story about saving the world. It is a story about how we choose to live in the time we have left.
+                </p>
+                <a href="#chapter-one" class="btn">Read the First Chapter</a>
+                <a href="#about" class="btn" style="margin-left: 10px; border-color: #444; color: #aaa;">Learn More</a>
+            </div>
+        </div>
+    </section>
+
+    <section id="about" class="section premise">
+        <span class="subtitle">The Premise</span>
+        <h2>The Countdown Begins</h2>
+        <p>
+            When Dr. Amara Okafor calculates the trajectory of Object 3025-AZ1, the math is absolute: Earth has <span class="highlight">fifteen years</span> left. There is no deflection strategy. There is no escape plan.
+        </p>
+        <p>
+            From the bustling compounds of Lagos to the frozen megacities of Antarctica, <strong>HOME</strong> follows a fractured family and the strangers who become their community as they navigate the unthinkable.
+        </p>
+        <div style="margin-top: 50px; display: flex; justify-content: center; gap: 50px; text-align: center;">
+            <div>
+                <span class="big-number">15</span>
+                <span class="subtitle">Years</span>
+            </div>
+            <div>
+                <span class="big-number">4</span>
+                <span class="subtitle">Billion Lives</span>
+            </div>
+            <div>
+                <span class="big-number">1</span>
+                <span class="subtitle">Choice</span>
+            </div>
+        </div>
+    </section>
+
+    <section id="characters" class="section characters">
+        <div style="text-align: center; margin-bottom: 60px;">
+            <span class="subtitle">The Witnesses</span>
+            <h2>Faces at the End of the World</h2>
+        </div>
+        
+        <div class="char-grid">
+            <div class="char-card">
+                <span class="char-role">The Scientist</span>
+                <div class="char-name">Dr. Amara Okafor</div>
+                <p class="char-desc">The woman who detected the end. Paralyzed by the knowledge of what's coming, she retreats into data and isolation.</p>
+            </div>
+            <div class="char-card">
+                <span class="char-role">The Builder</span>
+                <div class="char-name">Zara Okafor-Mensah</div>
+                <p class="char-desc">Amara's sister. While the world despairs, Zara chooses defiance, proving that brief lives are still complete lives.</p>
+            </div>
+            <div class="char-card">
+                <span class="char-role">The Witness</span>
+                <div class="char-name">Mayor Elena Torres</div>
+                <p class="char-desc">Governing a dying megacity not to save it, but to maintain dignity. Showing up matters, even when the outcome is certain.</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="section">
+        <div class="themes">
+            <div class="theme-item">
+                <span class="theme-icon">✦</span>
+                <h3>Presence vs. Panic</h3>
+                <p style="color: #999;">What happens when the future is removed? The answer lies in the radical act of paying attention to the now.</p>
+            </div>
+            <div class="theme-item">
+                <span class="theme-icon">✦</span>
+                <h3>Maintenance as Meaning</h3>
+                <p style="color: #999;">The novel explores the dignity of doing the work, regardless of the outcome.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="chapter-one" class="reader-section">
+        <div class="reader-container">
+            <div class="reader-header">
+                <div class="subtitle">Excerpt from HOME</div>
+                <h2>Chapter 1: Calculation</h2>
+                <div class="reader-meta">Dr. Amara Okafor | Year 0, Day 1 | Antarctic Monitoring Station</div>
+            </div>
+
+            <div class="chapter-text">
+                <p>3:47 AM.</p>
+
+                <p>The Antarctic Monitoring Station hummed its familiar lullaby—cooling systems, data processors, the distant creak of ice beneath titanium foundations. Amara Okafor sat alone at her workstation, the only occupied seat among sixty, the only human presence in a facility designed for constant surveillance. Graveyard shift. Her preference after twenty years of this work. No interruptions. No small talk. Just her, the screens, and the infinite silence of space.</p>
+
+                <p>Her tea had gone cold again. She took a sip anyway, grimacing at the bitter metallic taste. The cheap tea never got better, but after two decades, she'd stopped caring. Her fingers moved across the haptic interface with practiced efficiency, reviewing the overnight data stream from the Near-Earth Object Survey Network. Routine work. Comfortable work. The kind that let her mind drift while her hands maintained their expertise.</p>
+
+                <p>Asteroid 2024-KJ9 drifted across her primary screen—a small rock, maybe thirty meters across, passing safely at 0.15 AU. Nothing threatening. Nothing interesting. She logged the observation, added it to the archive, moved to the next object. The system had flagged it green: no impact probability, no follow-up required. Standard. Predictable. Safe.</p>
+
+                <p>Through the reinforced windows, the Antarctic night pressed dark and absolute. No stars visible through the glare of McMurdo District—one of dozens of urban zones spanning the continent, its lights merging with the glow of neighboring districts to create an unbroken luminous sprawl. Four billion souls living at the bottom of the world, their lights bright enough to drown out the cosmos. Somewhere out there, her husband David was working the solar arrays, maintaining the massive panels that fed power to humanity's greatest concentration of civilization. They'd barely spoken in three months. When had that started? She couldn't remember. Couldn't quite bring herself to care.</p>
+
+                <p>The station was so quiet she could hear her own breathing. Quiet enough to think. Too quiet, sometimes. Especially at 3:47 AM, when the night stretched longest and thoughts turned unwelcome directions.</p>
+
+                <p>She pulled up the next data set.</p>
+
+                <p>And the universe ended.</p>
+
+                <p>Not with drama. Not with warning. Just: a priority alert, cutting through the gentle monotony. A red border materializing around a new observation. High-priority detection. Amara's hands paused mid-gesture, hovering above the haptic field. High-priority was rare. She'd seen it three times in twenty years—once for a close approach that turned out to be a sensor error, twice for objects that required immediate trajectory analysis but passed safely.</p>
+
+                <p>This would be nothing. Always was.</p>
+
+                <p>She pulled up the data.</p>
+
+                <div class="data-block">
+                    <span class="data-line"><strong>Object:</strong> 3025-AZ1</span>
+                    <span class="data-line"><strong>Mass:</strong> ~1.5 × 10^15 kg</span>
+                    <span class="data-line"><strong>Estimated diameter:</strong> 10-15 km</span>
+                    <span class="data-line"><strong>Velocity:</strong> 28.3 km/s</span>
+                    <span class="data-line"><strong>Distance:</strong> 2.4 AU</span>
+                    <span class="data-line"><strong>Impact probability:</strong> 94.3%... 96.1%... 98.7%...</span>
+                </div>
+
+                <p>The number climbed as she watched, the system integrating new data from the global telescope network, refining its calculations with each passing second. Amara stared at the screen, her mind still processing, not yet comprehending. Big. Fast. Close. Probability climbing.</p>
+
+                <p>This was nothing. Always nothing.</p>
+
+                <p>The number continued rising: 98.9%... 99.3%... 99.5%...</p>
+
+                <p>Her tea fell from her hand. The cup hit the desk with a dull thud, lukewarm liquid spreading across the polymer surface. She didn't notice. Her eyes locked on the screen, watching the impact probability converge toward certainty with the mathematical inevitability of gravity itself.</p>
+
+                <p>99.7%... 99.9%... 99.97%.</p>
+
+                <p>The number stabilized.</p>
+
+                <p>Amara's hands were shaking. She pulled them into her lap, pressed them together, willed them still. Not yet. Not yet. Protocol first. Verification first. This was nothing. System error. Bad data. Calculation mistake. Twenty years of experience, twenty years of false alarms and near-misses and errors that looked catastrophic until they weren't.</p>
+
+                <p>This was nothing.</p>
+
+                <p>Her fingers returned to the interface, trembling but functional. System diagnostics first. She ran a full check: sensor calibration, data integrity, processing accuracy. Every subsystem reported nominal. No errors. No anomalies. Clean data from three independent telescope stations—Atacama, Mauna Kea, and the lunar observatory. All confirming.</p>
+
+                <p>She pulled up the parallax measurements. Perfect triangulation. The object was exactly where the system said it was, moving exactly as calculated. She ran spectral analysis: carbonaceous chondrite, consistent with the mass estimate. Brightness curve confirmed the diameter. Rotation period: seven hours, typical for objects this size.</p>
+
+                <p>Everything checked out.</p>
+
+                <p>Amara's breath caught. She forced herself to breathe—in through nose, out through mouth, like she'd learned in the meditation class David had convinced her to take eight years ago, back when they still talked about things other than logistics. The breathing exercise didn't help. Her chest felt tight, her vision narrowing to the single point of data on her screen.</p>
+
+                <p>Manual calculation. She had to do the math herself, verify the AI's work with her own expertise. Her fingers flew across the interface, pulling up the orbital mechanics software she'd written her dissertation on thirty years ago. Input the position vectors. Input the velocity components. Account for gravitational perturbations from Jupiter, Saturn, Earth-Luna. Calculate the trajectory.</p>
+
+                <p>The math was elegant. Beautiful, even. Orbital mechanics always was—pure physics, no ambiguity, no interpretation. Just Newton and Kepler and Einstein, working in perfect harmony to describe how objects moved through space.</p>
+
+                <p>The object's orbit was a long ellipse, currently 2.4 AU out—between Mars and Jupiter—but phase-locked with Earth in a slow gravitational dance. Not a bullet racing toward them. Worse: an appointment. The orbital resonance meant fifteen years of patient circling before the two paths finally intersected at the same place, the same moment.</p>
+
+                <p>The object would intercept Earth's orbit in exactly 15 years, 2 months, and 14 days.</p>
+
+                <p>Cross-section analysis: direct impact. Not a near-miss. Not a close approach. Direct.</p>
+
+                <p>Impact probability: 99.97%.</p>
+
+                <p>The tea was soaking into her papers. Amara watched the brown stain spread, slow and inevitable, consuming the notes she'd been making about asteroid 2024-KJ9. That object didn't matter now. Nothing she'd been working on mattered. The calculation she'd just completed rendered twenty years of work irrelevant.</p>
+
+                <p>She pulled up the deflection calculator.</p>
+
+                <p>This was why they maintained the monitoring network. This was why humanity had spent a trillion dollars over a century building the detection and response infrastructure. For this exact scenario. Detect early. Calculate trajectory. Deflect. Survive.</p>
+
+                <p>She input the parameters: mass 1.5 × 10^15 kg, velocity 28.3 km/s, time to impact 15.2 years.</p>
+
+                <div class="data-block">
+                    <div class="deflection-option">
+                        <span class="data-line"><strong>Deflection Option:</strong> Kinetic Impactor</span>
+                        <span class="data-line status-insufficient">Status: INSUFFICIENT</span>
+                        <span class="data-line">Analysis: Object mass exceeds kinetic impactor capacity by factor of 240. Multiple missions required. Insufficient time for development and deployment.</span>
+                    </div>
+
+                    <div class="deflection-option">
+                        <span class="data-line"><strong>Deflection Option:</strong> Nuclear Deflection</span>
+                        <span class="data-line status-insufficient">Status: INSUFFICIENT</span>
+                        <span class="data-line">Analysis: Required yield: ~800 megatons for significant trajectory alteration. Largest available warhead: 50 megatons. Multiple warheads required. Delivery system inadequate. Probability of fragmentation: 87%. Result: multiple impacts. Outcome: worse.</span>
+                    </div>
+
+                    <div class="deflection-option">
+                        <span class="data-line"><strong>Deflection Option:</strong> Gravity Tractor</span>
+                        <span class="data-line status-insufficient">Status: INSUFFICIENT</span>
+                        <span class="data-line">Analysis: Continuous thrust requirement over 50+ years for measurable effect. Available timeline: 15.2 years. Insufficient for meaningful deflection.</span>
+                    </div>
+
+                    <div class="deflection-option">
+                        <span class="data-line"><strong>Deflection Option:</strong> Mass Driver</span>
+                        <span class="data-line status-insufficient">Status: INSUFFICIENT</span>
+                        <span class="data-line">Analysis: Landing and installation timeline: 8-12 years. Operational duration required: 40+ years. Insufficient time.</span>
+                    </div>
+                </div>
+
+                <p>Every option failed. Every scenario returned the same result: INSUFFICIENT.</p>
+
+                <p>The physics was absolute. The object was too massive, moving too fast, arriving too soon. Humanity had built impressive technology over a thousand years of spaceflight—solar-electric propulsion, orbital construction, deep space mining. But physics didn't care about impressiveness. It cared about mass and velocity and time, and the math was unambiguous.</p>
+
+                <p>This object could not be stopped.</p>
+
+                <p>Amara sat in the silent station, staring at the screen full of failures, and understood: everyone was going to die.</p>
+
+                <p>Her colleagues. Her husband. Her sister.</p>
+
+                <p>Not eventually. Not in the abstract, distant future. In fifteen years. Everyone she knew. Everyone she'd ever met. The four billion people across Antarctica's continent-spanning megacity. The eight billion scattered across Earth's remaining habitable zones. Her colleagues. Her husband. Her sister.</p>
+
+                <p>Her parents, dead twenty years now. At least they wouldn't die again. Zara—her sister in Lagos. Zara's daughter Maya, two years old. David. Her few friends, scattered across research stations. All of them. Gone. Vaporized or frozen or starved in the aftermath.</p>
+
+                <p>Maya.</p>
+
+                <p>The thought of her niece hit like a physical blow. Maya was two years old. She'd be seventeen when the asteroid hit. Never turn eighteen. Never fall in love. Never have children of her own. Seventeen years of life, then: nothing.</p>
+
+                <p>Amara had only met Maya twice. Once at birth, once at her first birthday. Work kept getting in the way. Antarctica kept getting in the way. The distance between her and Zara—six months since they'd last talked, the conversation ending in silence and unspoken resentment—kept getting in the way. She'd promised herself she'd visit more. Next year, maybe. When the monitoring season calmed down.</p>
+
+                <p>There was no next year anymore.</p>
+
+                <p>Her sister's contact information glowed on her wrist display. Zara Okafor-Mensah, Lagos District. Last contact: 187 days ago. Last message from Zara: 43 days ago. <em>"Maya took her first steps! Wish you could have seen it."</em></p>
+
+                <p>Amara hadn't responded. Too busy. Too distracted. Too comfortable in her isolation.</p>
+
+                <p>Now she stared at her sister's name, finger hovering over the call button. What would she say? <em>Hello, Zara. I just calculated your daughter's death. She has fifteen years. Make them count.</em></p>
+
+                <p>Her finger didn't press the button.</p>
+
+                <p>The priority alert was still active on her screen, waiting for acknowledgment. Waiting for her to follow protocol. Waiting for her to inform the world that the world was ending.</p>
+
+                <p>She pulled up the emergency notification system. This was the procedure she'd trained for, drilled for, prepared for over twenty years. Detect the threat. Verify the data. Initiate the alert cascade. UN Security Council first, then space agencies, then national governments, then the civil defense network. The system would handle the distribution automatically once she authenticated the alert.</p>
+
+                <p>Her hands moved through the verification sequence with muscle memory. Biometric scan. Voice authentication. Authorization code. Final confirmation.</p>
+
+                <p>The system asked: <em>Are you certain you wish to proceed? This alert will initiate global emergency protocols.</em></p>
+
+                <p>Was she certain? She looked at the data again. Checked the calculations again. Ran the verification sequence again. Every analysis returned the same result. The math was clean. The physics was clear. The object was real, massive, fast, and unavoidable.</p>
+
+                <p>She selected: <strong>CONFIRMED. PROCEED WITH ALERT.</strong></p>
+
+                <p>The system activated. Alert cascade initiating. Emergency protocols engaging. Somewhere in Geneva, alarms were sounding. Somewhere in Washington, Beijing, Mumbai, Lagos, someone's terminal was lighting up with the worst news in human history.</p>
+
+                <p>Her screen populated with acknowledgments: UN Security Council alerted. International Space Agency alerted. All member nations alerted. Emergency response protocols initiated.</p>
+
+                <p>Her comm system lit up. Incoming calls. Fifteen. Twenty. Thirty. Everyone with clearance wanting to know if this was real, if the data was good, if she was absolutely certain.</p>
+
+                <p>She answered the first call. UN Emergency Coordinator, face grainy on the small screen. "Dr. Okafor, we've received your alert. Please confirm the data."</p>
+
+                <p>Behind him, she could see others moving urgently—one face she recognized: Secretary General Chen Liwei himself, watching from the edge of the screen. The man who would have to tell the world.</p>
+
+                <p>"Confirmed," Amara said. Her voice sounded strange to her own ears. Flat. Clinical. Professional. "Object designated 3025-AZ1. Mass one point five times ten to the fifteenth kilograms. Diameter ten to fifteen kilometers. Impact probability ninety-nine point nine seven percent. Time to impact fifteen years, two months, fourteen days."</p>
+
+                <p>Someone was crying. She couldn't tell who. Chen had moved closer, listening intently.</p>
+
+                <p>"Are you certain?" The coordinator's face was pale.</p>
+
+                <p>"Yes."</p>
+
+                <p>"Could the calculations be wrong?"</p>
+
+                <p>"No. Seven independent verifications. Manual confirmation completed. The data is accurate."</p>
+
+                <p>"Is deflection possible?"</p>
+
+                <p>Amara looked at the list of failed scenarios on her screen. "No. The object is too massive, too fast, and we have insufficient time. Every deflection scenario fails."</p>
+
+                <p>The coordinator's face seemed to age a decade in real-time. Chen's expression behind him was unreadable—the diplomatic mask of a man absorbing catastrophe. "I see. Thank you, Dr. Okafor. Stand by for further instructions."</p>
+
+                <p>The call ended.</p>
+
+                <p>The next call was identical. And the next. And the next. Director of the International Space Agency: "Are you certain?" Yes. Chinese Space Administration: "Could it be wrong?" No. Russian Space Agency: "Any possibility of deflection?" No. African Union Space Council: "Time to impact?" Fifteen years.</p>
+
+                <p>Every call was a variation of the same desperate hope that she was wrong, that the data was flawed, that there was some solution she'd missed. Every call ended with her delivering the same truth: the asteroid was real, the calculations were correct, and there was nothing anyone could do to stop it.</p>
+
+                <p>After the fortieth call, she stopped answering. The calls kept coming—sixty, seventy, eighty—but she let them queue. She'd said everything there was to say. The data spoke for itself. No amount of repetition would change the physics.</p>
+
+                <p>She sat in the silent station, surrounded by the blinking lights of unanswered calls, and stared at the asteroid's projected trajectory. The elegant arc that would intersect Earth's orbit. The beautiful mathematics that described the end of everything.</p>
+
+                <p>4:37 AM. An hour since detection. An hour since the universe ended.</p>
+
+                <p>Outside, McMurdo District was waking up. Early shift workers heading to their jobs. Transit systems cycling through morning routes. Hundreds of millions of people across the Antarctic megacity beginning another ordinary day, not yet knowing this was the day everything changed. Soon, the alerts would cascade through civil defense networks. Soon, the screens would light up with emergency broadcasts. Soon, everyone would know.</p>
+
+                <p>But for now, for this brief moment, Amara was the only person on Earth who fully understood that humanity had fifteen years left.</p>
+
+                <p>She pulled up Zara's contact again. Stared at her sister's name. Six months of silence. Six months of emails and messages and photos ignored because work always came first, because Antarctica was home now, because family was a distant abstraction that could wait for next year.</p>
+
+                <p>There was no next year.</p>
+
+                <p>Her finger hovered over the call button.</p>
+
+                <p>She couldn't do it. Couldn't find the words. Couldn't transform the clinical calculations into the human reality of telling her sister that Maya would die at seventeen. Couldn't bridge the gap of six months—six months that suddenly felt like an unbridgeable chasm of wasted time.</p>
+
+                <p>She closed the contact window.</p>
+
+                <p>Returned to the data.</p>
+
+                <p>The asteroid was still there, still approaching, still real. The trajectory unchanged by her observation of it. The physics indifferent to her inability to act. The mathematics perfect and terrible and absolute.</p>
+
+                <p>5:14 AM. The sun would rise soon, if you could call the pale Antarctic twilight sunrise. David would finish his shift on the solar arrays. Would come home to their shared apartment. Would they talk? Would she tell him? Would he understand?</p>
+
+                <p>She didn't know. Couldn't think about it. Could only stare at the screen full of data that described the end of everything she knew.</p>
+
+                <p>The tea stain had spread across her entire notebook. Brown and wet and ruined. Like everything else now. Like the future. Like the fifteen years that remained—a brief, inadequate span between now and nothing.</p>
+
+                <p>Her hands had stopped shaking. That was something. Professional competence reasserting itself. She could work. Could maintain her expertise. Could update the calculations daily, track the object's approach, refine the trajectory predictions. Could do the job she'd trained for, even if the job no longer mattered.</p>
+
+                <p>The calls had stopped coming. Ninety-three unread. She deleted them all. They didn't matter anymore.</p>
+
+                <p>Nothing mattered anymore.</p>
+
+                <p>Everything mattered now.</p>
+
+                <p>She didn't know which was true. Maybe both. Maybe neither. The asteroid didn't care about her philosophical confusion. It would arrive in fifteen years, two months, and fourteen days regardless of what she thought or felt or understood.</p>
+
+                <p>6:03 AM. Shift change in thirty minutes. Dr. Park would arrive to take over the station. She'd have to brief him. Have to explain. Have to watch his face as comprehension dawned. Have to see in his eyes the same thing she felt in her chest—the weight of knowing everyone was dying.</p>
+
+                <p>She pulled up the countdown timer. Created a new display element on her screen:</p>
+
+                <div class="time-remaining">
+                    TIME REMAINING: 15 years, 2 months, 14 days
+                </div>
+
+                <p>The numbers would decrement. Each second bringing the object closer. Each day reducing the time humanity had left. She would watch this countdown for fifteen years, updating it daily, tracking their march toward extinction with the same professional competence she'd brought to every other aspect of her work.</p>
+
+                <p>Year 0. That's what they'd call it now. Not 3025 AD anymore—that calendar belonged to a species with a future. This was Year 0 of the new era. The only era that mattered. The countdown had become humanity's clock, and she'd just set it.</p>
+
+                <p>She'd reset time itself.</p>
+
+                <p>Because what else was there to do?</p>
+
+                <p>What else could she do?</p>
+
+                <p>The station hummed its familiar lullaby. The screens glowed their familiar glow. Everything looked the same as it had an hour ago, as it had every morning for twenty years. But everything had changed. The universe had ended, quietly, at 3:47 AM, in the form of a simple data alert that nobody else had noticed yet.</p>
+
+                <p>Dr. Amara Okafor, astrophysicist, expert in Near-Earth Object detection and tracking, sat alone in the Antarctic Monitoring Station and watched the countdown begin.</p>
+
+                <p>First to know.</p>
+
+                <p>First to calculate.</p>
+
+                <p>First to understand that everyone she loved was going to die.</p>
+
+                <p>And she still couldn't call her sister.</p>
+
+                <p>The tea stain had reached the edge of her desk. A few drops fell to the floor, dark spots on white tile. She watched them fall. Watched them spread. Watched physics work the same way it always did—indifferent, inexorable, absolute.</p>
+
+                <p>Fifteen years, two months, fourteen days.</p>
+
+                <p>Then: nothing.</p>
+
+                <p>She returned to her calculations. Because that's what she did. That's all she knew how to do. The numbers didn't judge. The data didn't ask for comfort. The mathematics was clean and pure and true, even when the truth was the end of everything.</p>
+
+                <p>Outside, the Antarctic dawn approached. Inside, Dr. Amara Okafor updated her trajectory calculations and counted down the days until impact.</p>
+
+                <p>The universe had ended at 3:47 AM.</p>
+
+                <p>Nobody else knew yet.</p>
+
+                <p>But they would soon.</p>
+
+                <p>Everyone would.</p>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <span class="footer-logo">HOME</span>
+        <p>&copy; 2025 Joshua Szepietowski. All Rights Reserved.</p>
+        <div style="margin-top: 20px; font-size: 0.8rem; color: #555;">
+            "Everything temporary. Everything beautiful. Everything here now."
+        </div>
+    </footer>
+
+</body>
+</html>
