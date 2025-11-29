@@ -86,7 +86,7 @@ Their eyes meet.
 
 Eleven years. Mother and son. Two people who've become different people. Recognition and strangeness and overwhelming relief crashing together.
 
-Elena moves toward him. Not running—her seventy-two-year-old body doesn't run anymore. But fast. Closing the distance. He drops his pack. Meets her halfway.
+Elena moves toward him. Not running—her sixty-nine-year-old body doesn't run anymore. But fast. Closing the distance. He drops his pack. Meets her halfway.
 
 They embrace.
 
@@ -262,7 +262,7 @@ The room is empty except for Kenji. He's sitting on a cushion in the center, eye
 
 "It's okay. I'm glad you're here." He gestures to a cushion. "Sit?"
 
-Elena sits. Her seventy-two-year-old body protests the floor. She shifts to a chair. Better.
+Elena sits. Her sixty-nine-year-old body protests the floor. She shifts to a chair. Better.
 
 "Nervous?" she asks.
 

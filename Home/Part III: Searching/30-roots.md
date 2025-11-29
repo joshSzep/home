@@ -110,7 +110,7 @@ Passengers emerge from customs. First wave: business travelers, engineers, maint
 
 There.
 
-Amara. Fifty-nine years old, gray-threaded hair, thin in the way of people who forget to eat. But present. Actually here. Not hiding in a monitoring station. Not vanishing into data. Here. With David beside her—fifty-eight, quiet, steady, both of them carrying small bags for two weeks' stay.
+Amara. Fifty-seven years old, gray-threaded hair, thin in the way of people who forget to eat. But present. Actually here. Not hiding in a monitoring station. Not vanishing into data. Here. With David beside her—fifty-seven, quiet, steady, both of them carrying small bags for two weeks' stay.
 
 Sisters see each other across the arrival hall.
 

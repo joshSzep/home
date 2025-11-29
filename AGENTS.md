@@ -14,8 +14,8 @@
 - **`AGENTS.md`** - Complete project guide with chapter outline (this file)
 
 ## Core Characters (8 POVs)
-1. **Dr. Amara Okafor** (43→63) - Astrophysicist who detected the asteroid; struggles with isolation/reconnection
-2. **Zara Okafor-Mensah** (33→53) - Amara's sister; chooses to have second child (Kofi) after detection
+1. **Dr. Amara Okafor** (48→63) - Astrophysicist who detected the asteroid; struggles with isolation/reconnection
+2. **Zara Okafor-Mensah** (33→48) - Amara's sister; chooses to have second child (Kofi) after detection
 3. **Mayor Elena Torres** (58→73) - Earth's most powerful leader; journey from governance to witness
 4. **David Chen** (48→63) - Solar array maintenance worker; Amara's ex-husband; finds meaning in persistence
 5. **Kenji Torres** (22→37) - Elena's son; philosophical seeker turned presence teacher

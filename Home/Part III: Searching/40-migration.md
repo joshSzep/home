@@ -39,7 +39,7 @@ She's visited them thirteen times since Year 8. Two weeks here, one week there. 
 
 Two years, nine months, twenty-two days remaining.
 
-Maya will die at seventeen years, seven months. Kofi at fourteen years, three months. Zara at forty-nine years. All of them too young. All of them temporary. All of them real.
+Maya will die at seventeen years, seven months. Kofi at fourteen years, three months. Zara at forty-eight years. All of them too young. All of them temporary. All of them real.
 
 Amara types a response: *Beautiful garden. Tell Maya I want to see her calculations. Tell Kofi the mint looks perfect. Love you all.*
 
@@ -83,7 +83,7 @@ Something warm moves through her chest. Not quite the emotion she remembers from
 
 *Of course.*
 
-His face appears on her screen moments later. Fifty-eight years old—no, sixty-one. She always forgets he's three years older than her. Grey throughout his hair now. Lines around his eyes. But present. Actually here. Looking at her with concern and love and patience.
+His face appears on her screen moments later. Sixty-one years old now. Five years older than her, though they'd seemed the same age when they were young. Grey throughout his hair now. Lines around his eyes. But present. Actually here. Looking at her with concern and love and patience.
 
 "Hi," she says.
 

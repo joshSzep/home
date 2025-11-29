@@ -42,7 +42,7 @@ She understood something Wei had tried to teach: The point isn't to feel differe
 
 That was the practice.
 
-Movement at the doorway. Maya turned, saw Amara emerging onto the rooftop. Her aunt—sixty-one years old, nine months in Lagos now, transformed from the isolated astrophysicist who'd calculated everyone's death into someone who showed up daily with mathematics and love.
+Movement at the doorway. Maya turned, saw Amara emerging onto the rooftop. Her aunt—sixty-two years old, nine months in Lagos now, transformed from the isolated astrophysicist who'd calculated everyone's death into someone who showed up daily with mathematics and love.
 
 "You're here early," Amara said quietly.
 

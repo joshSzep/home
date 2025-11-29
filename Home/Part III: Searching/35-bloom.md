@@ -72,11 +72,11 @@ Kofi bursts in next—nearly eleven, all energy despite the circumstances. He st
 
 "Yes. Soon. Days. But right now: here. With you. That's what matters."
 
-Kenji enters quietly. Thirty-four years old now. Three years since he found Wei's garden in Lagos, exhausted from seeking, ready to stop. Three years of learning presence through watering plants. Three years of transformation. He's become a teacher himself—Wei's teaching spreading through him to others.
+Kenji enters quietly. Thirty-three years old now. Three years since he found Wei's garden in Lagos, exhausted from seeking, ready to stop. Three years of learning presence through watering plants. Three years of transformation. He's become a teacher himself—Wei's teaching spreading through him to others.
 
 Behind him: Amara and David. Visiting from Antarctica, here for two weeks. They come every few months now—family reconnected, relationship healing. Amara sees Wei and her face crumples. Another ending. Another loss. Another reminder that nothing lasts.
 
-Last through the door: Dr. Yuki Tanaka. Maya and Kofi's pediatrician since birth. Forty-four years old, trained in Tokyo, specialized in child development when that specialty meant something. Now she attends Wei's teachings, practices presence medicine, transforms her clinical work into witness-work. She carries her medical bag but comes today as student, not doctor.
+Last through the door: Dr. Yuki Tanaka. Maya and Kofi's pediatrician since birth. Forty-nine years old, trained in Tokyo, specialized in child development when that specialty meant something. Now she attends Wei's teachings, practices presence medicine, transforms her clinical work into witness-work. She carries her medical bag but comes today as student, not doctor.
 
 "Everyone's here," Wei says. "Good. I have strength today. Want to teach."
 
@@ -346,7 +346,7 @@ Not enough time for everything. But enough time for what matters.
 
 Wei's voice in memory: *The flower bloomed.*
 
-Past tense. Completion. Not tragedy—acknowledgment. The gardenia bloomed for three days, then fell. Wei lived for 125 years, then died. Zara will live for forty-nine years total, then die. Maya for seventeen. Kofi for fourteen. All blooming. All fading. All temporary. All beautiful.
+Past tense. Completion. Not tragedy—acknowledgment. The gardenia bloomed for three days, then fell. Wei lived for 125 years, then died. Zara will live for forty-eight years total, then die. Maya for seventeen. Kofi for fourteen. All blooming. All fading. All temporary. All beautiful.
 
 The grief sits heavy in Zara's chest. First death her children witnessed. First real loss. First visceral experience of impermanence. Maya's question revealed it: "Will we be ready?"
 

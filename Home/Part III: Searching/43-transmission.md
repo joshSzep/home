@@ -268,7 +268,7 @@ Tonight, adults thanked her. Said Kofi's existence gave them permission to live.
 
 They were right. She was right. Wei was right. Everyone who chose life over despair was right.
 
-Kofi will die at fourteen years, nine months. Maya at seventeen years, seven months. Kwame at fifty-three. Amara at sixty-three. David at sixty-four. Zara at forty-nine. Everyone in this building, this district, this planet. All temporary. All real. All mattering precisely because they're here now, fully here, present to their own brief blooming.
+Kofi will die at fourteen years, nine months. Maya at seventeen years, seven months. Kwame at fifty-three. Amara at sixty-three. David at sixty-three. Zara at forty-eight. Everyone in this building, this district, this planet. All temporary. All real. All mattering precisely because they're here now, fully here, present to their own brief blooming.
 
 Teaching continues tomorrow. David showing Kofi how seals work. Amara showing Maya how orbits work. Tom showing anyone who asks how water works. Mr. Okonkwo showing everyone how gardens work. The compound showing the world how community works.
 

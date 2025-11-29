@@ -32,7 +32,7 @@ But he's here. Nowhere else to go. Seven years until everyone dies. Might as wel
 
 Zara's building is mid-tier residential—fifty units arranged around a central courtyard. Green everywhere—balcony gardens, rooftop cultivation, plants erupting from every available surface. The compound has that lived-in feeling: children's toys scattered in common areas, maintenance equipment left casually, the hum of community that comes from people actually living together instead of just proximally.
 
-Zara meets him at her door. Forty-two years old now. Kenji last saw her at a family gathering twelve years ago—he was eighteen, she was thirty, they'd exchanged polite conversation about his studies. She looks different now. Older, obviously. But also: settled. Present. Like she's found something he's still seeking.
+Zara meets him at her door. Forty-one years old now. Kenji last saw her at a family gathering twelve years ago—he was eighteen, she was thirty, they'd exchanged polite conversation about his studies. She looks different now. Older, obviously. But also: settled. Present. Like she's found something he's still seeking.
 
 "Kenji." She hugs him. Real hug. "Welcome."
 

@@ -90,7 +90,7 @@ But he'd seen her car outside. Knew she was here. Would wait.
 
 She opened the door.
 
-"Hi," David said. Fifty-four years old now. Grey in his beard. Tired eyes. Her husband of thirteen years, looking like a stranger.
+"Hi," David said. Fifty-two years old now. Grey in his beard. Tired eyes. Her husband of thirteen years, looking like a stranger.
 
 "Hi."
 

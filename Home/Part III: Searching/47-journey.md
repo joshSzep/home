@@ -320,7 +320,7 @@ The door opens. Cold rushes in—bitter, shocking after Lagos heat. The temperat
 
 But inside the gate: warmth.
 
-Elena stands at the front. Seventy-eight years old now, still present, still here. Her face when she sees Kenji beside her—her son, home from teaching, here for arrival. Marcus Reyes beside them—returned from Mumbai three weeks ago, final three months with chosen family.
+Elena stands at the front. Seventy-three years old now, still present, still here. Her face when she sees Kenji beside her—her son, home from teaching, here for arrival. Marcus Reyes beside them—returned from Mumbai three weeks ago, final three months with chosen family.
 
 And others. Chen and Kowalski—Elena's Thursday people, twelve years of practice together. Ibrahim—standing with quiet competence, seven years on the arrays now. Soso Kim from the dog adoption center, teaching animal care as presence practice. Others Zara doesn't know yet but will learn. Community. Different community. Real community.
 

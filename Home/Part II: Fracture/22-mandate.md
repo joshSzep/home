@@ -40,7 +40,7 @@ Marcus pulled up the full registration database. Scrolled through the filing per
 
 "There's no one," Marcus confirmed. "You're the only candidate."
 
-Elena sat down heavily. Sixty-eight years old. Six years as mayor of the apocalypse. Her second term would end in three months—Year 6, Month 9, same as when she'd been elected. Campaign season. Election in ninety days. Constitutional requirement: democratic elections every four years. Even now. Especially now.
+Elena sat down heavily. Sixty-four years old. Six years as mayor of the apocalypse. Her second term would end in three months—Year 6, Month 9, same as when she'd been elected. Campaign season. Election in ninety days. Constitutional requirement: democratic elections every four years. Even now. Especially now.
 
 But democracy required choice. This wasn't choice. This was...
 

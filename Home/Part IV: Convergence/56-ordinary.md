@@ -302,7 +302,7 @@ Notice. Return.
 
 Seven.
 
-Ibrahim beside him. Thirty-six years old. Fifteen years faithless. Four months ago—heard God's voice. Not the old faith. New faith. Deeper faith. God present in the exile. God accompanying them into death. Both/and realized. Faith and presence both.
+Ibrahim beside him. Thirty-four years old. Fifteen years faithless. Four months ago—heard God's voice. Not the old faith. New faith. Deeper faith. God present in the exile. God accompanying them into death. Both/and realized. Faith and presence both.
 
 Notice. Return.
 

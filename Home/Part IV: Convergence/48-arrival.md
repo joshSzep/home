@@ -20,7 +20,7 @@ They arrived at 18:00. Amara had been checking the time every seven minutes. 17:
 
 Then: door chime. 18:02.
 
-Amara had opened it and there they were. Zara first—fifty-three years old, grey threading through her hair, exhausted from travel but smiling. Real. Here. Her sister who she'd ignored for seven years and slowly rebuilt connection with over the last eight. Behind her: Kwame, solid and steady. Then Maya—
+Amara had opened it and there they were. Zara first—forty-eight years old, grey threading through her hair, exhausted from travel but smiling. Real. Here. Her sister who she'd ignored for seven years and slowly rebuilt connection with over the last eight. Behind her: Kwame, solid and steady. Then Maya—
 
 Maya had stopped in the doorway. Seventeen years, three months old. Tall. So tall. The last time Amara saw her, she'd been fourteen. Three years of growth. Three years of transformation into someone who looked almost adult but would never reach eighteen.
 

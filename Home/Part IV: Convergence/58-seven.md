@@ -230,7 +230,7 @@ The space is circular. Mirrors line the walls—floor to ceiling. Above: countdo
 
 Mannequins stand throughout—all ages, all positions. No faces. Just forms. Witnesses watching witnesses.
 
-Zara sees herself reflected infinitely. Forty-nine years old. Tired. Grieving. Present. Real.
+Zara sees herself reflected infinitely. Forty-eight years old. Tired. Grieving. Present. Real.
 
 Her family reflected too. Kwame. Maya. Kofi. All of them multiplied. All of them dying. All of them here.
 
