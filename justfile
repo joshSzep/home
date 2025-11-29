@@ -14,5 +14,11 @@ epub: manuscript
         -o Home.epub
 
 kfx: epub
-    open -a "Kindle Previewer" \
+    open -a "Kindle Previewer 3" \
         Home.epub
+
+build: pdf epub kfx
+    echo "All formats built: Home.pdf, Home.epub, Home.kfx"
+
+clean:
+    rm -f MANUSCRIPT.md Home.pdf Home.epub Home.kfx
