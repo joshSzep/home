@@ -13,12 +13,8 @@ epub: manuscript
         --metadata author="Joshua Szepietowski" \
         -o Home.epub
 
-kfx: epub
-    open -a "Kindle Previewer 3" \
-        Home.epub
-
-build: pdf epub kfx
-    echo "All formats built: Home.pdf, Home.epub, Home.kfx"
+build: pdf epub
+    echo "All formats built: Home.pdf and Home.epub"
 
 clean:
-    rm -f MANUSCRIPT.md Home.pdf Home.epub Home.kfx
+    rm -f MANUSCRIPT.md Home.pdf Home.epub
