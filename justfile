@@ -8,6 +8,7 @@ epub: manuscript
     pandoc MANUSCRIPT.md \
         --epub-cover-image=front-cover.png \
         --metadata title="Home" \
+        --metadata author="Joshua Szepietowski" \
         -o Home.epub
 
 kfx: epub
