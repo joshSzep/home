@@ -28,7 +28,7 @@ Zara's trained as an engineer, not a doctor. But she's seen enough dying to reco
 
 "Good." Wei closes her eyes. "Ready."
 
-Ready. The word Wei has used for months. Not afraid. Not resisting. Just: ready. After 124 years of living, ready to stop. After seventy years of teaching impermanence, ready to demonstrate it. After decades of practice, ready for the final practice.
+Ready. The word Wei has used for months. Not afraid. Not resisting. Just: ready. After 125 years of living, ready to stop. After seventy years of teaching impermanence, ready to demonstrate it. After decades of practice, ready for the final practice.
 
 "Are you in pain?" Zara asks.
 

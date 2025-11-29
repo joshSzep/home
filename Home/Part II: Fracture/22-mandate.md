@@ -255,7 +255,7 @@ She started a reply:
 
 *— Mom*
 
-She sent it. Sat in the quiet apartment. Sixty-eight years old. Mayor of two billion people. Authority earned through six years of showing up. Democracy without votes. Leadership without opposition.
+She sent it. Sat in the quiet apartment. Sixty-four years old. Mayor of two billion people. Authority earned through six years of showing up. Democracy without votes. Leadership without opposition.
 
 What was she now?
 

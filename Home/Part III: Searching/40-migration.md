@@ -27,7 +27,7 @@ She files the report. Sends it to the archive. Ritual without audience. But some
 
 Her tablet chimes. Message from Zara—sent twelve hours ago, Lagos evening. Amara opens it.
 
-A photo. Maya and Kofi in Wei's garden, the lemon tree behind them. Maya is fifteen years, six months old now—tall, serious, holding a physics textbook like it's light reading. Kofi is twelve years, nine months—grinning, covered in soil from the tomato plants, radiating that unstoppable energy he's had since birth. The caption reads: *The kids wanted you to see the new garden expansion. Maya designed the water system. Kofi planted everything. They miss their aunt.*
+A photo. Maya and Kofi in Wei's garden, the lemon tree behind them. Maya is fifteen years, five months old now—tall, serious, holding a physics textbook like it's light reading. Kofi is twelve years, five months—grinning, covered in soil from the tomato plants, radiating that unstoppable energy he's had since birth. The caption reads: *The kids wanted you to see the new garden expansion. Maya designed the water system. Kofi planted everything. They miss their aunt.*
 
 Amara stares at the photo. These children. Her niece and nephew. She'd ignored their existence for seven years—Years 0 through 7—choosing isolation over family, numbness over feeling. Then reconnection. Slow, painful, necessary reconnection. Weekly calls Year 8. Three visits per year Years 8 through 13. Learning to be Aunt Amara instead of Dr. Okafor, astrophysicist, bearer of extinction.
 

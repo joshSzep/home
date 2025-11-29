@@ -80,7 +80,7 @@ The forum was held in the old city council chamber—space for three thousand pe
 
 People still cared. That surprised her.
 
-Marcus Rivera stood at the other podium, looking nervous but determined. Thirty-two years old. She'd been thirty-two once—young mayor, first campaign, so certain she could fix things. Now sixty-four, fourth campaign, certain she could fix nothing.
+Marcus Rivera stood at the other podium, looking nervous but determined. Thirty-two years old. She'd been thirty-two once—young mayor, first campaign, so certain she could fix things. Now sixty, fourth campaign, certain she could fix nothing.
 
 The moderator was Dr. Sarah Kim, former journalist, now volunteer coordinator. She'd drawn up the rules: thirty minutes each, alternating responses, one minute rebuttals, closing statements.
 
@@ -184,7 +184,7 @@ Marcus—assistant Marcus—grabbed her arm. "Elena, this is insane. They're rio
 
 "This is governance."
 
-She walked through the barricade before anyone could stop her. Alone. Unarmed. Sixty-four years old. Mayor of a dying city. Walking into a riot.
+She walked through the barricade before anyone could stop her. Alone. Unarmed. Sixty years old. Mayor of a dying city. Walking into a riot.
 
 The crowd saw her. Noise faltered. Someone shouted: "That's Torres!"
 

@@ -406,7 +406,7 @@ Hassan begins with Muslim prayer. *Allahu Akbar.* God is greatest. The words lan
 
 They prostrate together. Foreheads to ground. Complete surrender. The posture teaching what words can't—being human means bowing to something beyond yourself. Death. God. Mystery. Whatever name you use.
 
-Marcus Reyes leads Christian contemplation next. Sixty-eight years old. Returned from Mumbai after thirteen years. Brings different wisdom. Different prayers. Same truth.
+Marcus Reyes leads Christian contemplation next. Forty-five years old. Returned from Mumbai after thirteen years. Brings different wisdom. Different prayers. Same truth.
 
 "In my tradition," he says quietly, "we talk about the valley of the shadow of death. For fifteen years I thought that was metaphor. Now I know—we're walking through it. All of us. Together. And the psalm says: 'I will fear no evil, for you are with me.' Not 'you will save me.' Not 'you will prevent death.' Just: 'you are with me.' Presence. Accompaniment. That's what God offers. Not rescue. Company."
 

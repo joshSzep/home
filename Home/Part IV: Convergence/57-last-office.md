@@ -16,7 +16,7 @@ Elena reads it on her tablet—habit from fifteen years of governance. The handw
 
 Elena sets the tablet down. Through her office window: Antarctica's morning light, soft grey, the megacity stretching in all directions. Twelve days until impact. 1.1 million people still here. Some with family. Some with chosen communities. Some—like Yolanda Chen—with no one.
 
-Marcus Rivera knocks. Enters. Deputy mayor for thirteen years, since the Year 2 election that nearly unseated her. He's aged well—sixty now, silver at his temples, the fierce ambition of his youth softened into something more patient.
+Marcus Rivera knocks. Enters. Deputy mayor for thirteen years, since the Year 2 election that nearly unseated her. He's aged well—forty-five now, silver at his temples, the fierce ambition of his youth softened into something more patient.
 
 "Morning briefing when you're ready," he says. "Though there's not much to brief."
 

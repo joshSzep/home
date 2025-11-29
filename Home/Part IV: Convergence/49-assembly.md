@@ -52,9 +52,9 @@ He looks up, returns the smile. "Former deputy. We're all former something now."
 
 "Yes. 1,847,293. Everyone's here."
 
-Elena sits beside him. They're both sixty-eight years old—no, she's seventy-three, he's sixty-eight. Time confuses at the end. She corrects herself silently, noting the slip. Precision matters, especially now.
+Elena sits beside him. She's seventy-three, he's forty-five. She'd thought of him as young when he challenged her at thirty-two—now he's middle-aged and she's ancient. Time confuses at the end.
 
-"Fourteen years," she says. "You stayed fourteen years."
+"Thirteen years," she says. "You stayed thirteen years."
 
 "Where else would I go? You needed a deputy. I needed to be useful. We did the work."
 
@@ -168,7 +168,7 @@ Elena is confused. Kenji is teaching at the community center. She has no other f
 
 Marcus Reyes stands in her doorway.
 
-Sixty-eight years old. Thirteen years since he left Antarctica. Thirteen years in Mumbai teaching refugee children, building gardens, becoming someone other than the assistant who served her faithfully for eight years. He looks different—older, yes, but also settled. Peaceful. Complete.
+Forty-five years old. Same age as Rivera—they'd often joked about that, the two Marcuses born the same year. Thirteen years since he left Antarctica. Thirteen years in Mumbai teaching refugee children, building gardens, becoming someone other than the assistant who served her faithfully for eight years. He looks different—older, yes, but also settled. Peaceful. Complete.
 
 "Marcus," she says.
 
