@@ -238,73 +238,9 @@ Simple. True. Complete.
 
 ---
 
-## Soso — District 12 Dog Adoption Center, Late Afternoon
-
-Capacity: thirty dogs. Current occupancy: forty-seven.
-
-Soso Kim stood in the kennel room, mentally calculating space that didn't exist. Seventeen dogs beyond capacity. Three more dropped off this morning—notes left on doorstep: *Sorry. Can't take them. Please find homes.*
-
-She was thirty-five years old. Fourteen years left. Eleven years running this center. All that expertise, all those standards—what did they mean now?
-
-The adoption applications had spiked. Waiting list for the first time ever. Everyone suddenly wanting companionship before the end. She should be grateful. Homes for forgotten animals. But—
-
-Her assistant—volunteer, seventeen years old—held up an application. "This guy wants the elderly shepherd. Should I approve?"
-
-Soso scanned it. No prior experience. Minimal income. Unstable housing.
-
-"Does it matter anymore?" the assistant asked. "The standards, I mean?"
-
-It mattered. Standards mattered precisely because time was short. These animals deserved dignity for whatever time remained. Thirteen, fourteen years was still real. Still full lifespans for dogs.
-
-"Rejected," Soso said. "Inadequate preparation."
-
-The assistant sighed but didn't argue. Everyone thought she was rigid. Holding to metrics that made no sense when everyone was dying. Maybe they were right.
-
-She walked through the kennels. Forty-seven dogs. She knew each by name. Mochi—sixteen years old, blind, arthritic. Scout—three legs after transport accident. Luna—deaf. Seven others with issues that made them unadoptable even before the asteroid.
-
-What happened to them? Who wanted elderly, disabled dogs when time was already short?
-
-In the outdoor runs, volunteers were working. Not adopters. Just people showing up. Elderly woman sitting with Mochi. Refugee children playing with puppies. Ex-engineer repairing the gate.
-
-Same volunteers as last month. Coming three times a week. Not asking to adopt. Just... being present with life.
-
-Soso sat on the bench. Watched them. They weren't here for outcomes. Weren't seeking to save anything. Just: present. With dogs who couldn't be saved. With life that was ending.
-
-The elderly woman noticed her. "He's peaceful today."
-
-"Mochi? He is."
-
-"I come three times a week now. Used to volunteer at hospitals. But they don't need volunteers anymore. So I come here. Sit with the old dogs who can't be adopted. Just be present with them."
-
-"Why?"
-
-The woman smiled. "Because they're alive. Because I'm alive. Because this moment is all we have."
-
-Soso felt something crack in her chest. Born too late—that was her grief. Born in 2990, centuries after the species she longed to see went extinct. Polar bears, 2847. Elephants, 2891. Coral reefs dead by 2750. She'd spent her adult life grieving wilderness she'd never witness. Born too late to see the world that was.
-
-The asteroid just made everyone else feel what she'd felt forever: grief for loss, for time running out, for being born wrong.
-
-But these dogs were here. These volunteers were here. This moment was here.
-
-One year gone. Fourteen left. She'd maintained her standards. Would continue maintaining them. But maybe—maybe presence mattered more than metrics. Maybe witnessing these forty-seven dogs was enough. Maybe being present with life that remained was the answer to grieving life that was lost.
-
-She didn't know yet. Just knew: the volunteers kept coming. The dogs kept needing care. The center had become something unexpected—not adoption agency anymore. Refuge. For animals and humans both. Place to practice being present with life.
-
-Seventeen dogs beyond capacity. No solutions. Just: today's care. Today's presence. Today's tending.
-
-Tomorrow would come with its own problems. She'd figure it out. Or not. Either way: she'd show up. Because what else? Because presence was all there was. Because these dogs deserved witness for however long they had.
-
-One year. Forty-seven dogs. Standards maintained despite absurdity. Volunteers teaching her something she didn't have words for yet.
-
-Born too late to see the species she grieved. Born in time to witness these dogs, these people, these moments.
-
-Maybe that was enough. Had to be enough. Was all there was.
-
----
-
 ## Closing — Omniscient
 
-Eight glimpses. Eight paths. All diverging.
+Seven glimpses. Seven paths. All diverging.
 
 **Amara**: isolated in calculation, numb by choice, alone by design. One year counting down extinction. Fourteen years ahead the same.
 
@@ -319,8 +255,6 @@ Eight glimpses. Eight paths. All diverging.
 **Ibrahim**: hollow faith, empty prayers, going through motions. One year faithless. Fourteen years ahead unbearable.
 
 **Wei**: present teacher, garden tender, preparing for natural death. One year practicing. However many remained the same.
-
-**Soso**: maintaining standards, tending forgotten animals, grieving species lost before her birth. One year holding to metrics despite absurdity. Fourteen years ahead uncertain whether presence or rigor matters more.
 
 One year gone. Fourteen remain. The fracture complete. Everyone scattered. Everyone coping differently. Everyone facing the end their own way.
 
@@ -372,9 +306,9 @@ But not yet.
 
 **END PART I: DETECTION**
 
-One year completed. Eight characters. Eight paths. All diverging. Isolation beginning—will deepen for seven more years before the first crack appears.
+One year completed. Seven characters. Seven paths. All diverging. Isolation beginning—will deepen for seven more years before the first crack appears.
 
-Amara chose calculation. Zara chose defiance. Elena chose witness. David chose maintenance. Kenji chose seeking. Ibrahim chose hollowness. Wei chose teaching. Soso chose standards despite absurdity.
+Amara chose calculation. Zara chose defiance. Elena chose witness. David chose maintenance. Kenji chose seeking. Ibrahim chose hollowness. Wei chose teaching.
 
 None complete yet. All beginning. The fracture just starting.
 
