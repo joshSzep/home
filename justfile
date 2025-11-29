@@ -3,7 +3,7 @@ manuscript:
 
 pdf: manuscript
     pandoc MANUSCRIPT.md \
-		-f markdown-implicit_figures \
+        -f markdown-implicit_figures \
         -o Home.pdf
 
 epub: manuscript
