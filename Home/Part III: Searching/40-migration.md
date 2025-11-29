@@ -39,7 +39,7 @@ She's visited them thirteen times since Year 8. Two weeks here, one week there. 
 
 Two years, nine months, twenty-two days remaining.
 
-Maya will die at seventeen years, seven months. Kofi at fourteen years, three months. Zara at forty-eight years. All of them too young. All of them temporary. All of them real.
+Maya will die at seventeen years, seven months. Kofi at fourteen years, six months. Zara at forty-eight years. All of them too young. All of them temporary. All of them real.
 
 Amara types a response: *Beautiful garden. Tell Maya I want to see her calculations. Tell Kofi the mint looks perfect. Love you all.*
 

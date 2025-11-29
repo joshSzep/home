@@ -1,6 +1,6 @@
 # Chapter 14: Election
 
-**Elena Torres | Year 1, Month 9 | Antarctic Megacity**
+**Elena Torres | Year 2 | Antarctic Megacity**
 
 ---
 
@@ -74,7 +74,7 @@ Elena wasn't sure anymore.
 
 ---
 
-**Year 1, Month 7 — First Debate**
+**Year 2, Month 7 — First Debate**
 
 The forum was held in the old city council chamber—space for three thousand people. Elena had expected maybe a few hundred to attend. The chamber was at capacity. Another two thousand watching on screens outside.
 
@@ -126,7 +126,7 @@ Elena said yes. Marcus said no. Both were honest. Both made sense.
 
 ---
 
-**Year 1, Month 8 — Crisis**
+**Year 2, Month 8 — Crisis**
 
 The call came at 3 AM. Elena had been awake—sleep was rare now. She answered immediately.
 
@@ -282,7 +282,7 @@ Marcus nodded. "Then I'll keep helping you offer it."
 
 ---
 
-**Year 1, Month 9 — Election Day**
+**Year 2, Month 9 — Election Day**
 
 Voting occurred over three days—staggered to allow maximum participation. Polling stations across Antarctica. Digital voting for those who'd left. Accessible. Democratic. Maintained.
 
@@ -310,7 +310,7 @@ The applause had been genuine. Elena wasn't sure if it meant votes.
 
 ---
 
-**Year 1, Month 9, Day 3 — Results**
+**Year 2, Month 9, Day 3 — Results**
 
 The count finished at 11 PM. Elena watched from her office. Marcus—assistant Marcus—beside her. Chen, Kowalski, Dr. Ade present. The five people who'd governed together for two years.
 
@@ -367,7 +367,7 @@ That had to mean something.
 
 ---
 
-**Year 1, Month 9, Day 4 — Concession**
+**Year 2, Month 9, Day 4 — Concession**
 
 Marcus Rivera called the next morning. Elena almost didn't answer—exhausted, overwhelmed, doubting everything. But: respect demanded it.
 
@@ -407,7 +407,7 @@ Rivera laughed. "I'll bring coffee."
 
 ---
 
-**Year 1, Month 9, Day 5 — Morning Briefing**
+**Year 2, Month 9, Day 5 — Morning Briefing**
 
 The conference room for fifty. Present: six people. Elena, Marcus—assistant Marcus—Chen, Kowalski, Dr. Ade. And now: Marcus Rivera, deputy mayor.
 
@@ -583,7 +583,7 @@ That was something. Maybe: everything.
 
 ---
 
-**Year 1, Month 9, Day 6 — Letters**
+**Year 2, Month 9, Day 6 — Letters**
 
 That evening, Elena sat at her desk. Exhausted. Victorious. Confused about whether victory mattered.
 

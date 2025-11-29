@@ -414,11 +414,11 @@ They lie in honest darkness. Not okay. Not pretending to be okay. Just: here. To
 
 "Five months."
 
-"Maya will be seventeen years, eight months. Still seventeen. Never eighteen."
+"Maya will be seventeen years, seven months. Still seventeen. Never eighteen."
 
 "I know."
 
-"Kofi will be fourteen years, eight months. Never fifteen."
+"Kofi will be fourteen years, six months. Never fifteen."
 
 "I know."
 

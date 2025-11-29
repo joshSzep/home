@@ -332,7 +332,7 @@ The garden is dark. Silent. The lemon tree a shadow against the night sky. Wei's
 
 Zara thinks about Maya's question: "Will we be ready?"
 
-She doesn't know. Wei had 124 years. Zara will have forty-nine. Maya will have seventeen. Kofi will have fourteen. Ready feels impossible.
+She doesn't know. Wei had 124 years. Zara will have forty-eight. Maya will have seventeen. Kofi will have fourteen. Ready feels impossible.
 
 But Wei said something else: "Present—that we can be."
 
