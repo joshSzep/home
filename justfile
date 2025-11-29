@@ -2,7 +2,9 @@ manuscript:
     ./rebuild-manuscript.sh
 
 pdf: manuscript
-    pandoc MANUSCRIPT.md -o Home.pdf
+    pandoc MANUSCRIPT.md \
+		-f markdown-implicit_figures \
+        -o Home.pdf
 
 epub: manuscript
     pandoc MANUSCRIPT.md \
@@ -12,4 +14,5 @@ epub: manuscript
         -o Home.epub
 
 kfx: epub
-    open -a "Kindle Previewer" Home.epub
+    open -a "Kindle Previewer" \
+        Home.epub

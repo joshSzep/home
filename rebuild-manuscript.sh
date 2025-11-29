@@ -8,11 +8,18 @@ HOME_DIR="Home"
 
 # Start with the header
 cat > "$OUTPUT_FILE" << 'EOF'
-# HOME
+\thispagestyle{empty}
 
+![](front-cover.png){ width=\textwidth }
+
+\clearpage
+
+# HOME
 **A Novel by Joshua Szepietowski**
+---
 
 EOF
+
 
 # Part I: Detection
 echo "\n---\n\n# PART I: DETECTION" >> "$OUTPUT_FILE"

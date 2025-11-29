@@ -1,6 +1,12 @@
-# HOME
+\thispagestyle{empty}
 
+![](front-cover.png){ width=\textwidth }
+
+\clearpage
+
+# HOME
 **A Novel by Joshua Szepietowski**
+---
 
 
 ---
