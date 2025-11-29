@@ -14,7 +14,7 @@ She's not here to teach. Not even to participate. Just to witness. Seventy-three
 
 The faces in the room span everything. Young and old. Refugees and residents. Scientists and laborers. Languages she can't identify, faces she'll never know the stories behind. All here. All waiting.
 
-Her son enters from the side door, and the room shifts subtly. Not reverence exactly. Just: attention. Kenji moves to the front, forty-two years old now, grey threading through his hair, the restlessness she remembers from his twenties gone. Replaced by something quieter. Something earned.
+Her son enters from the side door, and the room shifts subtly. Not reverence exactly. Just: attention. Kenji moves to the front, thirty-seven years old now, grey threading through his hair, the restlessness she remembers from his twenties gone. Replaced by something quieter. Something earned.
 
 "Hello," he says simply.
 
@@ -192,7 +192,7 @@ The gathering disperses slowly. No formal ending—just people rising when they'
 
 Elena watches it all. The woman who was crying (Priya, someone called her) is talking now with the quiet man, both of them standing near the door, exchanging words Elena can't hear. The dog woman (Soso—Elena remembers her from a housing committee years ago) is loading her transport with a teenage girl's help. Derek and Ibrahim are heading toward the exit together, two old soldiers moving slowly toward whatever comes next.
 
-Kenji finds her at the back of the room. Her son. Forty-two years old. Teacher now, whatever that means. The seeking that drove him across the world has settled into something she doesn't fully understand but trusts.
+Kenji finds her at the back of the room. Her son. Thirty-seven years old. Teacher now, whatever that means. The seeking that drove him across the world has settled into something she doesn't fully understand but trusts.
 
 "You came," he says.
 

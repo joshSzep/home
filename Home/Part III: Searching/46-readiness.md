@@ -2,23 +2,23 @@
 
 **Maya Okafor-Mensah | Year 15, Month 1 | Lagos**
 
-The garden is quiet at dawn. Maya sits on the stone bench where Wei died—four months, three weeks, two days ago—and makes lists in her mind.
+The garden is quiet at dawn. Maya sits on the stone bench where Wei used to sit—three years, five months since she died—and makes lists in her mind.
 
 What she had:
-- Sixteen years, ten months
+- Seventeen years, three months
 - Two parents who chose to bring her into a dying world
-- One brother (Kofi, thirteen years, four months)
+- One brother (Kofi, fourteen years, three months)
 - Extended family who loved her despite everything
-- Wei's teaching for two years, five months before Wei's death
-- Presence practice for two years, five months total
+- Wei's teaching for two years, eight months before Wei's death
+- Presence practice for three years, five months total
 - The ability to teach others—she taught those two girls basic meditation yesterday
 - Complete knowledge of her death date
 - This garden
 - These mornings
-- Five more months
+- Four more months
 
 What she will never have:
-- Seventeenth birthday (six months away—will never reach it)
+- Eighteenth birthday (nine months away—will never reach it)
 - University
 - First kiss
 - Sex
@@ -27,9 +27,9 @@ What she will never have:
 - Independence from parents
 - Time to become whoever she might have been
 
-Maya closes her eyes. Breathes. Opens them again. The garden unchanged. The light golden on wet leaves, the air already thick with Lagos heat. Her body sixteen years, ten months old. Five months until impact. Until she dies at sixteen years, eleven months.
+Maya closes her eyes. Breathes. Opens them again. The garden unchanged. The light golden on wet leaves, the air already thick with Lagos heat. Her body seventeen years, three months old. Four months until impact. Until she dies at seventeen years, seven months.
 
-She won't even reach seventeen.
+She won't even reach eighteen.
 
 For two years she's practiced presence. Sat with impermanence. Learned to be here despite knowing here ends soon. She thought she'd made peace with dying young.
 
@@ -37,11 +37,11 @@ But this morning, alone in Wei's garden one week before migration, Maya feels ra
 
 Not at her parents—they gave her life, brief as it is. Not at the universe—the asteroid is just physics. The rage is simpler: she's angry at the unfairness. She did everything right. Practiced presence. Loved openly. Faced death with courage. Became someone real.
 
-And still: she dies at sixteen.
+And still: she dies at seventeen.
 
 No reward for goodness. No exception for the young. No cosmic bargain.
 
-Just: physics. Just: five more months.
+Just: physics. Just: four more months.
 
 Maya stands. Walks the garden's perimeter, sweat already beading at her temples. Every flower she passes—hibiscus, jasmine, mint, tomatoes. Every crack in the wall. This place shaped her. Wei shaped her here.
 
@@ -53,7 +53,7 @@ Instead she sits back down on Wei's bench. Feels the rage. Lets it be there.
 
 Presence doesn't mean peace. It means being with what is. And what is, right now, is rage.
 
-She sits with it for seventeen breaths. (Seventeen—the age she'll never be.)
+She sits with it for eighteen breaths. (Eighteen—the age she'll never be.)
 
 The rage doesn't diminish. It just is.
 
@@ -75,11 +75,11 @@ The practice didn't take away the rage. It taught her how to be conscious while 
 
 Wei's words from four years ago. Maya was twelve then, terrified, newly awakened to mortality.
 
-Maya wants to argue with the memory. She's sixteen. She hasn't even started. How can a life this short be whole?
+Maya wants to argue with the memory. She's seventeen. She hasn't even started. How can a life this short be whole?
 
 But she sits with the question instead of answering it.
 
-Is she incomplete? Or is she exactly as complete as sixteen years, ten months makes her? A flower that blooms for sixteen years, eleven months total. Brief, yes. But while blooming—fully flowering?
+Is she incomplete? Or is she exactly as complete as seventeen years, three months makes her? A flower that blooms for seventeen years, seven months total. Brief, yes. But while blooming—fully flowering?
 
 The rage says no—incomplete, abbreviated, stolen. Something underneath whispers: maybe complete just means fully present to whatever length you have.
 
@@ -91,13 +91,13 @@ Footsteps behind her. She knows them without turning.
 
 "No." She doesn't lie to her brother. "Not okay. Angry."
 
-He sits beside her on Wei's bench. Thirteen years, four months old. "At what?"
+He sits beside her on Wei's bench. Fourteen years, three months old. "At what?"
 
 "At dying before I get to live."
 
 Kofi quiet. She glances at him. His jaw tight. Eyes on the garden but seeing something else.
 
-"Me too," he finally says. "I'll be thirteen. You'll be almost seventeen. Neither of us enough."
+"Me too," he finally says. "I'll be fourteen. You'll be almost eighteen. Neither of us enough."
 
 They sit together. Sister and brother. Both dying too young. Both angry. Both here.
 
@@ -105,7 +105,7 @@ Maya reaches for his hand. Holds it. They don't speak. Don't need to. The rage s
 
 After a while, Kofi says: "Do you think Mama and Papa feel guilty? For having us?"
 
-Maya considers. "I think they feel grief. But not guilt. They chose life. We got sixteen years. Thirteen years. That's something."
+Maya considers. "I think they feel grief. But not guilt. They chose life. We got seventeen years. Fourteen years. That's something."
 
 "Is it enough?"
 
@@ -115,11 +115,11 @@ Kofi nods. Then: "Are you scared? Of Antarctica?"
 
 "No. I'm scared of dying. Antarctica's just where it happens."
 
-"Five months."
+"Four months."
 
-"Five months."
+"Four months."
 
-They sit longer. The sun climbs. The garden warms. Maya thinks: This is what I'm losing. Not some abstract future. This. Kofi's hand in hers. Morning light. The smell of jasmine. Being sixteen with rage and grief and love all tangled together. This exact moment. Then the next one. Then five months of moments. Then: nothing.
+They sit longer. The sun climbs. The garden warms. Maya thinks: This is what I'm losing. Not some abstract future. This. Kofi's hand in hers. Morning light. The smell of jasmine. Being seventeen with rage and grief and love all tangled together. This exact moment. Then the next one. Then four months of moments. Then: nothing.
 
 The rage wells up again. She lets it. Breathes with it. Squeezes Kofi's hand.
 
@@ -127,7 +127,7 @@ The rage wells up again. She lets it. Breathes with it. Squeezes Kofi's hand.
 
 "I'm glad you're my sister."
 
-Such simple words. Such enormous weight. They both know: five months, then never again. This is all they get. Nearly seventeen years of siblinghood. Then ended.
+Such simple words. Such enormous weight. They both know: four months, then never again. This is all they get. Nearly eighteen years of siblinghood. Then ended.
 
 "I love you," Maya says.
 
@@ -137,7 +137,7 @@ They sit until Kofi has to go—promised Papa he'd help with packing. He squeeze
 
 Maya stays. The rage still present but sharing space now with something else. Not peace—she's done pretending practice leads to peace. But: clarity. She sees what she has. Sees what she's losing. Sees the unfairness and the preciousness both. Holds them together.
 
-This is what two years, five months of practice gave her. Not serenity. Not acceptance in any comfortable sense. Just: the capacity to be with all of it at once. The rage, the grief, the love, the terror, the gratitude. All of it. Conscious. Aware. Present.
+This is what three years, five months of practice gave her. Not serenity. Not acceptance in any comfortable sense. Just: the capacity to be with all of it at once. The rage, the grief, the love, the terror, the gratitude. All of it. Conscious. Aware. Present.
 
 She thinks: Is that enough?
 
@@ -145,11 +145,11 @@ She thinks: It has to be. It's all there is.
 
 ---
 
-At ten o'clock, two girls arrive at the compound gate. Maya sees them from the kitchen window—the same two from yesterday. Sisters. Eleven and nine years old. They'll die at eleven years, five months and nine years, five months. Even younger than Kofi.
+At ten o'clock, two girls arrive at the compound gate. Maya sees them from the kitchen window—the same two from yesterday. Sisters. Eleven and nine years old. They'll die at eleven years, four months and nine years, four months. Even younger than Kofi.
 
 Yesterday their mother brought them. Asked if Maya would teach them meditation. "They're terrified," the mother said. "Every night, nightmares. I don't know how to help them."
 
-Maya almost said no. Almost said: I'm sixteen, I'm not a teacher, I barely understand presence myself. But then she remembered: Wei taught her at twelve. Kenji taught people at twenty-four. Transmission doesn't wait for expertise. It happens when it happens.
+Maya almost said no. Almost said: I'm seventeen, I'm not a teacher, I barely understand presence myself. But then she remembered: Wei taught her at twelve. Kenji taught people at twenty-four. Transmission doesn't wait for expertise. It happens when it happens.
 
 So she said yes.
 
@@ -161,7 +161,7 @@ Maya meets them at the gate. The older girl—Chidinma—speaks first. "We pract
 
 The younger girl—Amara, named after Maya's aunt—says: "I only got to four. Is that okay?"
 
-Maya crouches down to their level. Looks at them both. Sees their fear poorly hidden behind brave faces. Sees how hard they're trying. Sees their whole lives—eleven years, nine years—measured against five remaining months.
+Maya crouches down to their level. Looks at them both. Sees their fear poorly hidden behind brave faces. Sees how hard they're trying. Sees their whole lives—eleven years, nine years—measured against four remaining months.
 
 "That's perfect," Maya says. "Four is enough. Eight is enough. Whatever you managed is enough."
 
@@ -173,7 +173,7 @@ Maya takes her hand. "You can't do it wrong. Being present just means being here
 
 Maya sits down on the ground. Gestures for them to sit. They do—cross-legged, hands in laps, enormous eyes.
 
-"I'm scared too," Maya says. "Every day. I've been practicing for two years, five months. I had a great teacher. And I'm still terrified. Presence doesn't take away the fear."
+"I'm scared too," Maya says. "Every day. I've been practicing for three years, five months. I had a great teacher. And I'm still terrified. Presence doesn't take away the fear."
 
 "Then why do it?" Chidinma asks. Not defiant—genuinely asking.
 
@@ -195,7 +195,7 @@ The girls are quiet. Maya waits. This is teaching—saying true things and letti
 
 "Then what?" Amara asks.
 
-"Then I go to Antarctica. Then you keep practicing without me. Like I keep practicing without my teacher. She died four months ago. But the practice doesn't die. You carry it. You teach others if they ask."
+"Then I go to Antarctica. Then you keep practicing without me. Like I keep practicing without my teacher. She died three and a half years ago. But the practice doesn't die. You carry it. You teach others if they ask."
 
 "Until impact," Chidinma says. Flat.
 
@@ -203,7 +203,7 @@ The girls are quiet. Maya waits. This is teaching—saying true things and letti
 
 "Does that mean something?" Chidinma asks. Different question now. Bigger.
 
-"I don't know," Maya says. Honest. "But being present feels different than being numb. Loving people even though I'm losing them feels realer than protecting myself by not loving. Five months conscious is different than five months unconscious. I can't tell you it means something. But I can tell you it's more. More alive."
+"I don't know," Maya says. Honest. "But being present feels different than being numb. Loving people even though I'm losing them feels realer than protecting myself by not loving. Four months conscious is different than four months unconscious. I can't tell you it means something. But I can tell you it's more. More alive."
 
 She doesn't know if that's the right answer. But it's the truest thing she has.
 
@@ -223,11 +223,11 @@ Chidinma says: "See you tomorrow?"
 
 "See you tomorrow."
 
-Maya watches them walk away—eleven and nine years old, holding hands, practicing presence because the alternative is unbearable, dying in five months. She feels the rage again. Feels it sharp and clean and honest.
+Maya watches them walk away—eleven and nine years old, holding hands, practicing presence because the alternative is unbearable, dying in four months. She feels the rage again. Feels it sharp and clean and honest.
 
 They should have had full lives. Long lives. Lives where death is distant and practice is optional and childhood lasts longer than this.
 
-But they don't. They have this. Five months. Breath counting. A sixteen-year-old teacher who doesn't have answers but has practice.
+But they don't. They have this. Four months. Breath counting. A seventeen-year-old teacher who doesn't have answers but has practice.
 
 Maya stands in the garden again. Realizes: Wei gave her this. The capacity to sit with children and tell them the truth and teach them how to be present to it. The capacity to transmit practice even while enraged, grieving, terrified herself. The capacity to teach not from expertise but from being one step ahead on the same path toward the same end.
 
@@ -271,7 +271,7 @@ Maya thinks of Wei. Wei who said yes to teaching a terrified twelve-year-old. Wh
 
 Adanna hugs her. Says nothing. Just holds on for three breaths longer than necessary.
 
-After she leaves, Maya sits on the compound steps. Looks at the stars. Five months until impact. Five months until she dies at sixteen years, eleven months. Never seventeen. Never adult. Never most things.
+After she leaves, Maya sits on the compound steps. Looks at the stars. Four months until impact. Four months until she dies at seventeen years, seven months. Never eighteen. Never adult. Never most things.
 
 But: she taught today. Will teach tomorrow. Will teach for six more days. Then will carry practice to Antarctica. Then will die practicing. Present. Aware. Witnessing her own brief blooming.
 
@@ -293,9 +293,9 @@ Both things. All things. The rage and the practice. The grief and the gratitude.
 
 This is what Wei meant by holding paradox. Not resolving it. Just being spacious enough for both.
 
-Maya closes her eyes. Counts seventeen breaths. Opens them again.
+Maya closes her eyes. Counts eighteen breaths. Opens them again.
 
-The stars unchanged. The compound quiet. Her body sixteen years, ten months old. Five months until it isn't.
+The stars unchanged. The compound quiet. Her body seventeen years, three months old. Four months until it isn't.
 
 She thinks: Tomorrow I teach again. Tomorrow I pack. Tomorrow I take one more step toward Antarctica, toward the end, toward whatever comes after consciousness ends.
 
@@ -313,15 +313,15 @@ Late night. Maya alone in Wei's garden one last time before sleep. The air coole
 
 Then to the jasmine. The hibiscus. The stones. The bench. The whole garden. "Thank you."
 
-Then, finally, to herself. Hand on her own chest. Feeling her heartbeat. "Thank you. For sixteen years, ten months. For practice. For rage. For presence. Not enough. Will never be enough. But: something. Thank you."
+Then, finally, to herself. Hand on her own chest. Feeling her heartbeat. "Thank you. For seventeen years, three months. For practice. For rage. For presence. Not enough. Will never be enough. But: something. Thank you."
 
 She means it. Despite everything.
 
 She means it.
 
-Brief doesn't mean incomplete. A flower that blooms for sixteen years, eleven months is still a flower while blooming. And she's blooming now. Present. Aware. Here.
+Brief doesn't mean incomplete. A flower that blooms for seventeen years, seven months is still a flower while blooming. And she's blooming now. Present. Aware. Here.
 
-Five more months of blooming. Then: nothing.
+Four more months of blooming. Then: nothing.
 
 But tonight: here.
 
@@ -333,13 +333,13 @@ Next week: migration.
 
 Being present to each step. Not ready. Never ready. But: here.
 
-Maya stands. Looks at the garden one more time. Whispers: "I will die at sixteen years, eleven months. Five months from now. I won't reach seventeen. I will die terrified, grieving, angry at unfairness. AND I will die awake. Present. Loving what I'm losing. Not because it makes death okay. Because it makes life real. For Wei. For those girls. For Kofi. For Mama and Papa. For myself. I will die well. That's all I can promise."
+Maya stands. Looks at the garden one more time. Whispers: "I will die at seventeen years, seven months. Four months from now. I won't reach eighteen. I will die terrified, grieving, angry at unfairness. AND I will die awake. Present. Loving what I'm losing. Not because it makes death okay. Because it makes life real. For Wei. For those girls. For Kofi. For Mama and Papa. For myself. I will die well. That's all I can promise."
 
 The garden listens. The stars listen. The night listens.
 
 Maya walks inside. Climbs to her room. Lies down. Closes her eyes.
 
-Counts seventeen breaths.
+Counts eighteen breaths.
 
 Sleeps.
 

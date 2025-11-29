@@ -244,7 +244,7 @@ Capacity: thirty dogs. Current occupancy: forty-seven.
 
 Soso Kim stood in the kennel room, mentally calculating space that didn't exist. Seventeen dogs beyond capacity. Three more dropped off this morning—notes left on doorstep: *Sorry. Can't take them. Please find homes.*
 
-She was thirty-six years old. Fourteen years left. Eleven years running this center. All that expertise, all those standards—what did they mean now?
+She was thirty-five years old. Fourteen years left. Eleven years running this center. All that expertise, all those standards—what did they mean now?
 
 The adoption applications had spiked. Waiting list for the first time ever. Everyone suddenly wanting companionship before the end. She should be grateful. Homes for forgotten animals. But—
 

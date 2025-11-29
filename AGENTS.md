@@ -196,7 +196,7 @@ Buddhist philosophy meets hard SF: impermanence, presence, meaning without perma
 
 **Chapter 45: Offering** - Ibrahim begins offering wisdom to young people in Kenji's circle; teaching through presence. LINNEA RETURNS: Ibrahim brings Linnea to the teaching session; Kenji recognizes her after 13-14 years—she's barely surviving years of addiction; reunion haunted by guilt and parallel paths; her recovery journey begins through presence practice.
 
-**Chapter 46: Readiness** - MAYA POV (17 years, 2 months, Year 15 Month 3). Final reflection before migration; accounting what she had and never had; rage at dying young; understanding practice didn't fix anything, just enables presence; final teaching session; updated vow to die awake; gratitude despite everything.
+**Chapter 46: Readiness** - MAYA POV (17 years, 3 months, Year 15 Month 1). Final reflection before migration; accounting what she had and never had; rage at dying young; understanding practice didn't fix anything, just enables presence; final teaching session; updated vow to die awake; gratitude despite everything.
 
 **Chapter 47: Journey** - Zara's family travels from Lagos to Antarctica for the final months; family converges.
 
