@@ -1,8 +1,6 @@
 # HOME
 
-**A Novel**
-
-- Author: Joshua Szepietowski
+**A Novel by Joshua Szepietowski**
 
 
 ---

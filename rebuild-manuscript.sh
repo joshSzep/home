@@ -10,9 +10,7 @@ HOME_DIR="Home"
 cat > "$OUTPUT_FILE" << 'EOF'
 # HOME
 
-**A Novel**
-
-- Author: Joshua Szepietowski
+**A Novel by Joshua Szepietowski**
 
 EOF
 
