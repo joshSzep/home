@@ -27,8 +27,8 @@ One. Elena felt the word settle like weight. She stood slowly, moved to look at 
 **ANTARCTIC MEGACITY MAYORAL ELECTION**  
 **YEAR 6, MONTH 9**
 
-**Elena Torres** ☐  
-**Write-in Candidate** ☐
+**Elena Torres**
+**Write-in Candidate**
 
 That was it. No opposition. No challenger. No democratic choice.
 

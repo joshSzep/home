@@ -30,7 +30,7 @@ The polar night is absolute. No sun for months at this latitude, this season. Ju
 
 The stars are brilliant.
 
-More stars than she's ever seen. Lagos District had engineered sky, light pollution, the filtered atmosphere of manufactured tropics. Here: raw. Unfiltered. Every star visible, the Milky Way a river of light overhead. The asteroid is up there somewhere. 2031 KZ₄. Forty-seven kilometers wide, approaching at twenty-three kilometers per second. In three months it impacts the Pacific Ocean. In three months these stars continue, indifferent to the consciousness that briefly witnessed them.
+More stars than she's ever seen. Lagos District had engineered sky, light pollution, the filtered atmosphere of manufactured tropics. Here: raw. Unfiltered. Every star visible, the Milky Way a river of light overhead. The asteroid is up there somewhere. 2031 KZ. Forty-seven kilometers wide, approaching at twenty-three kilometers per second. In three months it impacts the Pacific Ocean. In three months these stars continue, indifferent to the consciousness that briefly witnessed them.
 
 Maya breathes the cold air. Feels her lungs contract, her body protest the temperature. Alive. Responding. Here.
 
