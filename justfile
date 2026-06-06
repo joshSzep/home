@@ -7,11 +7,7 @@ pdf: manuscript
         -o Home.pdf
 
 epub: manuscript
-    pandoc MANUSCRIPT.md \
-        --epub-cover-image=front-cover.png \
-        --metadata title="Home" \
-        --metadata author="Joshua Szepietowski" \
-        -o Home.epub
+    ./rebuild-epub.sh
 
 build: pdf epub
     echo "All formats built: Home.pdf and Home.epub"
