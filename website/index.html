@@ -6,7 +6,7 @@
     <title>HOME | A Novel by Joshua Szepietowski</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Lato:wght@300;400;700&family=Playfair+Display:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&amp;family=Lato:wght@300;400;700&amp;family=Playfair+Display:ital,wght@0,400;0,700;1,400&amp;display=swap" rel="stylesheet">
     <style>
         :root {
             --bg-color: #0a0a0a;
@@ -80,6 +80,21 @@
         .btn-filled:hover {
             background-color: transparent;
             color: var(--text-color);
+        }
+        .cta-group {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 14px;
+            align-items: center;
+            margin-top: 20px;
+        }
+        .cta-group .btn {
+            margin-top: 0;
+        }
+        .download-note {
+            margin-top: 16px;
+            color: #999;
+            font-size: 0.95rem;
         }
 
         /* --- NAVIGATION --- */
@@ -249,12 +264,27 @@
             background-color: #0a0a0a;
         }
         .footer-logo { font-family: var(--font-display); font-size: 1.5rem; color: #fff; margin-bottom: 20px; display: block; }
+        .footer-links {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 20px;
+            margin: 20px 0;
+        }
+        .footer-links a {
+            color: var(--accent-gold);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            font-size: 0.8rem;
+        }
+        .footer-links a:hover { color: var(--accent-orange); }
 
         /* --- RESPONSIVE --- */
         @media (max-width: 768px) {
             h1 { font-size: 2.5rem; }
             .hero-content { grid-template-columns: 1fr; text-align: center; gap: 30px; }
             .logline { margin: 30px auto; border-left: none; border-top: 3px solid var(--accent-orange); padding-top: 20px; padding-left: 0; }
+            .cta-group { justify-content: center; }
             .nav-links { display: none; } /* Simplified for demo */
             .mega-quote { font-size: 1.5rem; }
             .big-number { font-size: 3rem; }
@@ -269,6 +299,8 @@
             <a href="#about">Story</a>
             <a href="#characters">People</a>
             <a href="#themes">Themes</a>
+            <a href="Home.pdf" download>PDF</a>
+            <a href="Home.epub" download>EPUB</a>
             <a href="#chapter-one">Read Chapter 1</a>
         </div>
     </nav>
@@ -287,8 +319,13 @@
                 <p style="margin-bottom: 30px; color: #aaa;">
                     An asteroid is detected. Impact is certain. Humanity has 15 years, 2 months, and 14 days remaining. This is not a story about saving the world. It is a story about how we choose to live in the time we have left.
                 </p>
-                <a href="https://joshwave242.gumroad.com/l/home" target="_blank" class="btn btn-primary">Get the Book</a>
-                <a href="#chapter-one" class="btn">Read Chapter 1</a>
+                <div class="cta-group">
+                    <a href="Home.pdf" download class="btn btn-primary">Download PDF</a>
+                    <a href="Home.epub" download class="btn">Download EPUB</a>
+                    <a href="#chapter-one" class="btn">Read Chapter 1</a>
+                    <a href="https://joshwave242.gumroad.com/l/home" target="_blank" rel="noopener" class="btn btn-filled">Support the Author</a>
+                </div>
+                <p class="download-note">The complete novel is free to download. Gumroad is available for readers who want to support the author.</p>
             </div>
         </div>
     </section>
@@ -713,7 +750,12 @@
 
                 <div style="text-align: center; margin-top: 60px; padding-top: 40px; border-top: 1px solid #333;">
                     <p style="font-family: var(--font-body); font-size: 1.1rem; margin-bottom: 20px; color: #999;">Want to continue reading?</p>
-                    <a href="https://joshwave242.gumroad.com/l/home" target="_blank" class="btn btn-primary">Get the Full Novel</a>
+                    <div class="cta-group" style="justify-content: center;">
+                        <a href="Home.pdf" download class="btn btn-primary">Download PDF</a>
+                        <a href="Home.epub" download class="btn">Download EPUB</a>
+                        <a href="https://joshwave242.gumroad.com/l/home" target="_blank" rel="noopener" class="btn btn-filled">Support the Author</a>
+                    </div>
+                    <p class="download-note" style="font-family: var(--font-body);">The full book is free. Support is optional and deeply appreciated.</p>
                 </div>
             </div>
         </div>
@@ -721,6 +763,13 @@
 
     <footer>
         <span class="footer-logo"><a href="#home">HOME</a></span>
+        <div class="footer-links">
+            <a href="Home.pdf" download>Download PDF</a>
+            <a href="Home.epub" download>Download EPUB</a>
+            <a href="https://joshwave242.gumroad.com/l/home" target="_blank" rel="noopener">Support the Author</a>
+            <a href="https://joshszep.com" rel="noopener">More Writings</a>
+            <a href="https://github.com/joshszep/home" rel="noopener">Book Source</a>
+        </div>
         <p>&copy; 2025 Joshua Szepietowski. All Rights Reserved.</p>
         <div style="margin-top: 20px; font-size: 0.8rem; color: #555;">
             "Everything temporary. Everything beautiful. Everything here now."
